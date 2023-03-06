@@ -1,6 +1,7 @@
 from nyt_api import NYTApi
 from write_output import write_to_json
 from scrape import scrape_article
+import pandas as pd
 
 APIKEY = "t72vEZBu8ZkC5bQEcJLmcSxypbavSSX7"
 URL = "https://www.cnn.com/2020/11/01/politics/election-2020-donald-trump-joe-biden-history/index.html"
@@ -12,4 +13,6 @@ if __name__ == "__main__":
     # write_to_json(PATH, info)
 
     article = scrape_article(URL, "CNN")
+    data = pd.DataFrame.from_dict(article.__dict__)
+    print(data)
     write_to_json(PATH, article.__dict__)
