@@ -1,108 +1,10 @@
 [
     {
-        "abstract": "The Swiss event replaced James Levine with the Finnish maestro Esa-Pekka Salonen, and the orchestra responded with a crisp performance.",
-        "web_url": "https://www.nytimes.com/2015/07/21/arts/international/review-verbier-festival-recovers-in-style-with-finnish-maestro.html",
+        "abstract": "Coca-Cola and Apple might not be excited for Cleveland, but some people are. Or at least they\u2019ll be relieved when it\u2019s over.",
+        "web_url": "https://www.nytimes.com/2016/07/12/opinion/campaign-stops/make-conventions-great-again.html",
         "headline": {
-            "main": "Review: Verbier Festival Recovers in Style with Finnish Maestro",
-            "kicker": "Critics Notebook",
-            "content_kicker": null,
-            "print_headline": "Verbier Festival Recovers in Style",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "glocations",
-                "value": "Switzerland",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Metropolitan Opera",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Boston Symphony Orchestra",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Verbier Festival",
-                "rank": 4,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2015-07-20T10:53:05+0000"
-    },
-    {
-        "abstract": "congress backing project",
-        "web_url": "https://www.nytimes.com/2000/10/29/us/congress-backing-projects-at-home-at-a-record-pace.html",
-        "headline": {
-            "main": "CONGRESS BACKING PROJECTS AT HOME AT A RECORD PACE",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "CONGRESS BACKING PROJECTS AT HOME AT A RECORD PACE",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "glocations",
-                "value": "United States",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Senate",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "House of Representatives",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Finances",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "ELECTION ISSUES",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Budgets and Budgeting",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Elections",
-                "rank": 7,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2000-10-29T05:00:00+0000"
-    },
-    {
-        "abstract": "Bangladesh, buffeted by climate change and flooding, is a prime example of a country whose fate could be determined by what happens at a conference in Rio next month.",
-        "web_url": "https://green.blogs.nytimes.com/2012/05/17/q-and-a-how-to-save-bangladesh/",
-        "headline": {
-            "main": "Q. and A.: How to Save Bangladesh?",
-            "kicker": "Green",
+            "main": "Make Conventions Great Again",
+            "kicker": "Contributing Op-Ed Writer",
             "content_kicker": null,
             "print_headline": null,
             "name": null,
@@ -112,337 +14,135 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "Agriculture and Farming",
+                "value": "Republican National Convention",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Carbon Dioxide",
+                "value": "Presidential Election of 2016",
                 "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Economic Conditions and Trends",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Floods",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Global Warming",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Greenhouse Gas Emissions",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Monsoons",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Rain",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Refugees and Displaced Persons",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Rice",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Third World and Developing Countries",
-                "rank": 11,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Weather",
-                "rank": 12,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "United Nations",
-                "rank": 13,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Bangladesh",
-                "rank": 14,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "Bay of Bengal",
-                "rank": 15,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2012-05-17T16:53:34+0000"
-    },
-    {
-        "abstract": "What the journey of a Union Pacific locomotive reveals about Trump\u2019s plans for the North American economy.",
-        "web_url": "https://www.nytimes.com/2018/03/30/business/economy/trade-nafta-union-pacific.html",
-        "headline": {
-            "main": "\u2018It\u2019s Factory North America,\u2019 but Trump Could Hobble It",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "It Nourishes the Continent. Now Its Lifeblood Is at Risk.",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "organizations",
-                "value": "Union Pacific Corporation",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Railroads",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "International Trade and World Market",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "North American Free Trade Agreement",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Economy",
-                "rank": 5,
                 "major": "N"
             },
             {
                 "name": "persons",
                 "value": "Trump, Donald J",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Customs (Tariff)",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Protectionism (Trade)",
-                "rank": 9,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2018-03-30T21:31:00+0000"
-    },
-    {
-        "abstract": "TEHRAN \u2014 The Persian Majlis (Parliament) unanimously approved a proposal to nationalize the nation's oil resources, including the British-owned Anglo-Iranian Oil Company. By a standing vote the Majlis confirmed the decision of a special Parliamentar",
-        "web_url": "https://www.nytimes.com/2001/03/16/opinion/IHT-1951oil-nationalized-in-our-pages100-75-and-50-years-ago.html",
-        "headline": {
-            "main": "1951:Oil Nationalized : IN OUR PAGES:100, 75 AND 50 YEARS AGO",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "1951:Oil Nationalized : IN OUR PAGES:100, 75 AND 50 YEARS AGO",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [],
-        "pub_date": "2001-03-16T05:00:00+0000"
-    },
-    {
-        "abstract": "Edward Rothstein Critic's Notebook discusses some recent New York theatrical productions that examine questions of Japanese wartime responsibility and guilt: Kazuki: This Is My Earth, written and directed by Yoshimasa Shinagawa, Senpo Sugihara: The Japanese Schindler by Koichi Hiraishi and Comfort Women by Chungmi Kim; photo (M)",
-        "web_url": "https://www.nytimes.com/2004/11/08/theater/reviews/onstage-the-war-never-ends-as-playwrights-pose-questions-of.html",
-        "headline": {
-            "main": "Onstage, the War Never Ends as Playwrights Pose Questions of Responsibility and Guilt",
-            "kicker": "CRITIC'S NOTEBOOK",
-            "content_kicker": null,
-            "print_headline": "CRITIC'S NOTEBOOK; Onstage, the War Never Ends as Playwrights Pose Questions of Responsibility and Guilt",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "glocations",
-                "value": "Japan",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "SHINAGAWA, YOSHIMASA",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "HIRAISHI, KOICHI",
                 "rank": 3,
                 "major": "N"
             },
-            {
-                "name": "persons",
-                "value": "KIM, CHUNGMI",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Prostitution",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Reviews",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "WORLD WAR II",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Theater",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "creative_works",
-                "value": "KAZUKI: THIS IS MY EARTH (PLAY)",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "creative_works",
-                "value": "COMFORT WOMEN (PLAY)",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "creative_works",
-                "value": "SENPO SUGIHARA: THE JAPANESE SCHINDLER (PLAY)",
-                "rank": 11,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2004-11-08T05:00:00+0000"
-    },
-    {
-        "abstract": "The first and last face Demetrius Andrade sees every day is that of Rau\u2019shee Warren, his roommate, the United States boxing team\u2019s other reigning world champion \u2014 and a man who was eliminated after one bout.",
-        "web_url": "https://beijing2008.blogs.nytimes.com/2008/08/14/a-us-boxer-haunted-by-his-roommates-defeat/",
-        "headline": {
-            "main": "A U.S. Boxer, Haunted by His Roommate\u2019s Defeat",
-            "kicker": "Rings",
-            "content_kicker": null,
-            "print_headline": null,
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [],
-        "pub_date": "2008-08-14T16:36:31+0000"
-    },
-    {
-        "abstract": "Bernard Holland reviews Metropolitan Opera revival of Verdi's Aida, with Michele Crider in title role; photos (M)",
-        "web_url": "https://www.nytimes.com/2005/10/17/arts/music/in-the-land-of-verdi-where-egyptians-are-italian.html",
-        "headline": {
-            "main": "In the Land of Verdi, Where Egyptians Are Italian",
-            "kicker": "MET OPERA REVIEW",
-            "content_kicker": null,
-            "print_headline": "MET OPERA REVIEW; In the Land of Verdi, Where Egyptians Are Italian",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
             {
                 "name": "organizations",
-                "value": "Metropolitan Opera",
+                "value": "Republican Party",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Cleveland (Ohio)",
+                "rank": 5,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-07-12T07:21:05+0000"
+    },
+    {
+        "abstract": "Hillary Clinton\u2019s aides, helped by data models and experience in the elections of 2008 and 2012, have long shifted their focus away from the \u201cBubba\u201d voters.",
+        "web_url": "https://www.nytimes.com/2016/11/07/us/politics/bill-clinton-campaign.html",
+        "headline": {
+            "main": "Bill Clinton Evokes Past, but From the Periphery of His Wife\u2019s Campaign",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Bill Clinton Evokes Past, but From the Periphery of His Wife\u2019s Campaign",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
                 "rank": 1,
                 "major": "N"
             },
             {
-                "name": "persons",
-                "value": "Verdi, Giuseppe",
+                "name": "organizations",
+                "value": "WikiLeaks",
                 "rank": 2,
                 "major": "N"
             },
             {
                 "name": "persons",
-                "value": "Crider, Michele",
+                "value": "Clinton, Bill",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "United States",
+                "rank": 5,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-11-06T23:51:45+0000"
+    },
+    {
+        "abstract": "How two of his least celebrated accomplishments shaped the battle between Clinton and Trump.",
+        "web_url": "https://www.nytimes.com/2016/08/28/opinion/campaign-stops/living-in-lbjs-america.html",
+        "headline": {
+            "main": "Living in L.B.J.\u2019s America",
+            "kicker": "Opinion",
+            "content_kicker": null,
+            "print_headline": "Living in L.B.J.\u2019s America",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "persons",
+                "value": "Johnson, Lyndon Baines",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
                 "rank": 3,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Reviews",
+                "value": "Nineteen Hundred Sixties",
                 "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Opera",
+                "value": "Civil Rights Movement (1954-68)",
                 "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "creative_works",
-                "value": "Aida (Opera)",
-                "rank": 6,
                 "major": "N"
             }
         ],
-        "pub_date": "2005-10-17T05:00:00+0000"
+        "pub_date": "2016-08-27T18:30:06+0000"
     },
     {
-        "abstract": "State Department officials said the move was aimed at informing American schools of potential propaganda from the government group\u2019s programs, largely known as Confucius Institutes.",
-        "web_url": "https://www.nytimes.com/2020/08/13/us/politics/state-department-confucius-institutes.html",
+        "abstract": "Among white voters, the 2016 election will represent a complete reversal of the New Deal order between the rich and the poor.",
+        "web_url": "https://www.nytimes.com/2016/10/27/opinion/campaign-stops/the-great-democratic-inversion.html",
         "headline": {
-            "main": "U.S. Labels Chinese Language Education Group a Diplomatic Mission",
-            "kicker": null,
+            "main": "The Great Democratic Inversion",
+            "kicker": "Contributing Op-Ed Writer",
             "content_kicker": null,
             "print_headline": null,
             "name": null,
@@ -452,324 +152,43 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "Chinese Language",
+                "value": "Presidential Election of 2016",
                 "rank": 1,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Foreign Students (in US)",
+                "name": "organizations",
+                "value": "Democratic Party",
                 "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Race and Ethnicity",
+                "rank": 4,
                 "major": "N"
             },
             {
                 "name": "subject",
                 "value": "Colleges and Universities",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Propaganda",
                 "rank": 5,
                 "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Diplomatic Service, Embassies and Consulates",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Communist Party of China",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Confucius Institutes",
-                "rank": 8,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Homeland Security Department",
-                "rank": 9,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "State Department",
-                "rank": 10,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Pompeo, Mike",
-                "rank": 11,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Trump, Donald J",
-                "rank": 12,
-                "major": "N"
-            },
-            {
-                "name": "glocations",
-                "value": "China",
-                "rank": 13,
-                "major": "N"
             }
         ],
-        "pub_date": "2020-08-13T22:14:24+0000"
+        "pub_date": "2016-10-27T07:21:08+0000"
     },
     {
-        "abstract": "As American investors and foreign central banks flock to safe investments like Treasury bills, poorer countries are having a harder time raising money.",
-        "web_url": "https://www.nytimes.com/2009/03/09/business/09dollar.html",
+        "abstract": "Perceived failures of the country\u2019s political establishment help explain the unlikely success of a documentary centered on citizen activism.",
+        "web_url": "https://www.nytimes.com/2016/05/03/world/europe/france-activism-elections.html",
         "headline": {
-            "main": "A Rising Dollar Lifts the U.S. but Adds to the Crisis Abroad",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "A Rising Dollar Lifts U.S. But Adds to Crisis Abroad",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Third World and Developing Countries",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "International Trade and World Market",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Economic Conditions and Trends",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Government Bonds",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Economy",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "US Dollar (Currency)",
-                "rank": 6,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2009-03-09T00:21:11+0000"
-    },
-    {
-        "abstract": "At a closed session with Attorney General Alberto R. Gonzales, federal prosecutors expressed broad grievances about his leadership and low morale.",
-        "web_url": "https://www.nytimes.com/2007/03/29/washington/29gonzales.html",
-        "headline": {
-            "main": "Prosecutors Assail Gonzales During Meeting",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "U.S. Prosecutors Assail Gonzales In Closed Session",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "organizations",
-                "value": "Justice Department",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Gonzales, Alberto R",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Attorneys",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "United States Politics and Government",
-                "rank": 4,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2007-03-29T04:00:00+0000"
-    },
-    {
-        "abstract": "BERLIN \u2014 Tabloid editors and gossip columnists in Europe and America have a long list of celebrities like Pete Doherty, Sienna Miller and David Beckham to help them fill space. The AvaStar, a tabloid publication in the virtual community of Second Life, does not.",
-        "web_url": "https://www.nytimes.com/2007/09/16/business/worldbusiness/16iht-papers17.4.7523212.html",
-        "headline": {
-            "main": "Real publishing lessons from the virtual world",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Real publishing lessons from the virtual world",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [],
-        "pub_date": "2007-09-16T05:00:00+0000"
-    },
-    {
-        "abstract": "A federal conference urging cooperation between school systems and teachers\u2019 unions comes as Republicans in some states are moving to shut unions out of school system policy decisions.",
-        "web_url": "https://www.nytimes.com/2011/02/16/education/16education.html",
-        "headline": {
-            "main": "Role for Teachers Is Seen in Solving Schools\u2019 Crises",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Role for Teachers Is Seen In Solving Schools\u2019 Crises",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "subject",
-                "value": "Teachers and School Employees",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Duncan, Arne",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Education Department (US)",
-                "rank": 3,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "United Federation of Teachers",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Layoffs and Job Reductions",
-                "rank": 5,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Organized Labor",
-                "rank": 6,
-                "major": "N"
-            },
-            {
-                "name": "organizations",
-                "value": "Race to the Top Fund",
-                "rank": 7,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Education (K-12)",
-                "rank": 8,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2011-02-16T00:48:58+0000"
-    },
-    {
-        "abstract": "Jenny Anderson Insider column cautions about small, inconsistently profitable investment banking firms that are going public, hoping to capitalize on sizzling capital markets boom; focuses on Cowen Group, unit of French bank Societe Generale, whose profits plummeted 77 percent and revenue rose 1 percent last year; holds such firms may enjoy short-term pop, but some lack adequate earnings diversity and have failed to prove themselves as great investments; photo (M)",
-        "web_url": "https://www.nytimes.com/2006/04/28/business/hoping-to-turn-tepid-performance-into-a-hot-offering.html",
-        "headline": {
-            "main": "Hoping to Turn Tepid Performance Into a Hot Offering",
-            "kicker": "Insider",
-            "content_kicker": null,
-            "print_headline": "Street Scene: INSIDER; Hoping to Turn Tepid Performance Into a Hot Offering",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "organizations",
-                "value": "COWEN, S G, CO",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Stocks and Bonds",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Economic Conditions and Trends",
-                "rank": 3,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2006-04-28T05:00:00+0000"
-    },
-    {
-        "abstract": "Hewlett-Packard says revenues declined to $11.6 billion its if fiscal second quarter; earnings declined 58 percent, to $319 million (M)",
-        "web_url": "https://www.nytimes.com/2001/05/17/business/technology-hewlett-packard-revenues-fall-but-top-revised-forecasts.html",
-        "headline": {
-            "main": "Hewlett-Packard Revenues Fall but Top Revised Forecasts",
-            "kicker": "TECHNOLOGY",
-            "content_kicker": null,
-            "print_headline": "TECHNOLOGY; Hewlett-Packard Revenues Fall but Top Revised Forecasts",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
-            {
-                "name": "organizations",
-                "value": "Hewlett-Packard Co",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Company Reports",
-                "rank": 2,
-                "major": "N"
-            }
-        ],
-        "pub_date": "2001-05-17T05:00:00+0000"
-    },
-    {
-        "abstract": "Raking in cash for Biden, the former president eases off the gloves: This is your morning tip sheet.",
-        "web_url": "https://www.nytimes.com/2020/07/30/us/politics/obama-fundraising-biden.html",
-        "headline": {
-            "main": "Obama (Privately) Slams Trump",
-            "kicker": "On Politics",
+            "main": "In France, a Film Taps Into a Desire for Change",
+            "kicker": "Letter from Europe",
             "content_kicker": null,
             "print_headline": null,
             "name": null,
@@ -778,14 +197,406 @@
         },
         "keywords": [
             {
-                "name": "persons",
-                "value": "Obama, Barack",
+                "name": "glocations",
+                "value": "France",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Documentary Films and Programs",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Demonstrations, Protests and Riots",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Elections",
+                "rank": 4,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-05-02T15:51:43+0000"
+    },
+    {
+        "abstract": "Given the importance of Donald J. Trump\u2019s visit to a black church, the Trump campaign went so far as to script Mr. Trump\u2019s answers to the church\u2019s pastor\u2019s questions, which were submitted in advance.",
+        "web_url": "https://www.nytimes.com/2016/09/02/us/politics/trump-jackson-excerpts.html",
+        "headline": {
+            "main": "Excerpts From a Draft Script for Donald Trump\u2019s Q&A With a Black Church\u2019s Pastor",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "persons",
-                "value": "Biden, Joseph R Jr",
+                "value": "Trump, Donald J",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Blacks",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Black People",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Detroit (Mich)",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Race and Ethnicity",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Elections",
+                "rank": 8,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-09-01T22:32:52+0000"
+    },
+    {
+        "abstract": "The Orlando massacre turned a sanctuary of fantasy and escape into a sobering scene all too familiar in America.",
+        "web_url": "https://www.nytimes.com/2016/06/21/us/orlando-shooting-america.html",
+        "headline": {
+            "main": "Realizing It\u2019s a Small, Terrifying World After All",
+            "kicker": "This Land",
+            "content_kicker": null,
+            "print_headline": "Realizing It\u2019s a Small, Terrifying World After All",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "glocations",
+                "value": "Orlando (Fla)",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Orlando, Fla, Shooting (2016)",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Disney, Walt, World (Lake Buena Vista, Fla)",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Gun Control",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Grimmie, Christina (1994-2016)",
+                "rank": 6,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-06-21T01:12:33+0000"
+    },
+    {
+        "abstract": "Mr. Trump appeared to broaden his proposed ban on Muslim immigrants, while Hillary Clinton accused him of damaging efforts to defeat terrorism.",
+        "web_url": "https://www.nytimes.com/2016/06/14/us/politics/donald-trump-hillary-clinton-speeches.html",
+        "headline": {
+            "main": "Blaming Muslims After Attack, Donald Trump Tosses Pluralism Aside",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Branding Muslims as Threats, Trump Tosses Pluralism Aside",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Orlando, Fla, Shooting (2016)",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Immigration and Emigration",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Muslim Americans",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Terrorism",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Obama, Barack",
+                "rank": 10,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Democratic Party",
+                "rank": 11,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 12,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-06-13T15:32:34+0000"
+    },
+    {
+        "abstract": "The comments from Mr. Trump follow months of vows to build a wall on the U.S.-Mexico border and deport immigrants who have entered the country illegally.",
+        "web_url": "https://www.nytimes.com/2016/08/23/us/politics/donald-trump-immigration.html",
+        "headline": {
+            "main": "Donald Trump, Shifting Immigration Tone, Stresses a \u2018Fair\u2019 Approach",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Trump, Shifting Tone on Immigration, Stresses a \u2018Fair, but Firm\u2019 Approach",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Illegal Immigration",
+                "rank": 5,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-08-22T14:52:31+0000"
+    },
+    {
+        "abstract": "The American in me recognizes that we need to take care of Americans first.",
+        "web_url": "https://www.nytimes.com/2016/10/20/opinion/how-to-vote-as-an-immigrant-and-a-citizen.html",
+        "headline": {
+            "main": "How to Vote as an Immigrant and a Citizen",
+            "kicker": "Op-Ed Contributor",
+            "content_kicker": null,
+            "print_headline": "Voting as an Immigrant and a Citizen",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Immigration and Emigration",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Citizenship and Naturalization",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Voter Registration and Requirements",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Voting and Voters",
+                "rank": 4,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-10-20T07:21:12+0000"
+    },
+    {
+        "abstract": "In \u201cThe Populist Explosion,\u201d John B. Judis explores the anti-elite worldview in the United States and Europe.",
+        "web_url": "https://www.nytimes.com/2016/10/09/books/review/populist-explosion-john-b-judis.html",
+        "headline": {
+            "main": "\u2018The Populist Explosion\u2019 Dissects the History of the Anti-Elite Worldview",
+            "kicker": "Nonfiction",
+            "content_kicker": null,
+            "print_headline": "Trans-Atlantic Populism",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Books and Literature",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Judis, John B",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "creative_works",
+                "value": "The Populist Explosion: How the Great Recession Transformed American and European Politics (Book)",
+                "rank": 4,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-10-07T14:36:50+0000"
+    },
+    {
+        "abstract": "Domestic politics are again undercutting the bloc\u2019s sense of common purpose, with a trade deal imperiled by Belgium\u2019s small French-speaking Wallonia region.",
+        "web_url": "https://www.nytimes.com/2016/10/21/world/europe/brexit-migration-walloons-eus-list-of-crises-keeps-growing.html",
+        "headline": {
+            "main": "\u2018Brexit,\u2019 Migration, Trade: E.U.\u2019s List of Crises Keeps Growing",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "\u2018Brexit,\u2019 Migration, Trade: The E.U.\u2019s List of Crises Keeps Growing",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "organizations",
+                "value": "European Union",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Great Britain Withdrawal from EU (Brexit)",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "International Trade and World Market",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Wallonia (Belgium)",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "International Relations",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Europe",
+                "rank": 8,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-10-20T20:47:27+0000"
+    },
+    {
+        "abstract": "Donald Trump\u2019s first general election ad focused on immigration, and his new one, titled \u201cTwo Americas: Economy,\u201d is about jobs.",
+        "web_url": "https://www.nytimes.com/2016/09/04/us/politics/depicting-a-country-sitting-on-the-brink.html",
+        "headline": {
+            "main": "Depicting a Country Sitting on the Brink",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Depicting a Country Sitting on the Brink",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "persons",
+                "value": "Corasaniti, Nick",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
                 "rank": 2,
                 "major": "N"
             },
@@ -797,27 +608,33 @@
             },
             {
                 "name": "subject",
-                "value": "Presidential Election of 2020",
+                "value": "Political Advertising",
                 "rank": 4,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Campaign Finance",
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
                 "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Johnson, Gary E",
+                "rank": 6,
                 "major": "N"
             }
         ],
-        "pub_date": "2020-07-30T11:26:42+0000"
+        "pub_date": "2016-09-03T17:16:16+0000"
     },
     {
-        "abstract": "Banks have tightened standards, becoming more choosy about their borrowers and asking a lot of questions.",
-        "web_url": "https://www.nytimes.com/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html",
+        "abstract": "Mr. Trump\u2019s political approach would have Republicans court working-class and rural whites at the grievous cost of alienating minorities and women.",
+        "web_url": "https://www.nytimes.com/2016/07/17/us/politics/donald-trump-republican-convention.html",
         "headline": {
-            "main": "Interest Rates Are Low, but Loans Are Harder to Get. Here\u2019s Why.",
+            "main": "Donald Trump Forces G.O.P. to Choose Between Insularity and Outreach",
             "kicker": null,
             "content_kicker": null,
-            "print_headline": "Borrowing Is Cheap. The Catch? Qualifying.",
+            "print_headline": "Trump\u2019s Appeal Highlights a Schism in G.O.P.",
             "name": null,
             "seo": null,
             "sub": null
@@ -825,133 +642,111 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "Mortgages",
+                "value": "Presidential Election of 2016",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Credit and Debt",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Banking and Financial Institutions",
+                "value": "Republican National Convention",
                 "rank": 3,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Personal Finances",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Automobile Financing",
+                "value": "Immigration and Emigration",
                 "rank": 5,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Coronavirus (2019-nCoV)",
+                "value": "Race and Ethnicity",
                 "rank": 6,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Wells Fargo & Company",
+                "name": "subject",
+                "value": "Minorities",
                 "rank": 7,
                 "major": "N"
             },
             {
                 "name": "organizations",
-                "value": "Ford Motor Co",
+                "value": "Republican Party",
                 "rank": 8,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "JPMorgan Chase & Company",
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
                 "rank": 9,
                 "major": "N"
             },
             {
-                "name": "organizations",
-                "value": "Bank of America Corporation",
+                "name": "persons",
+                "value": "Cotton, Tom",
                 "rank": 10,
                 "major": "N"
             },
             {
-                "name": "subject",
-                "value": "Interest Rates",
+                "name": "persons",
+                "value": "Flake, Jeffrey L",
                 "rank": 11,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Obama, Barack",
+                "rank": 12,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Pence, Mike",
+                "rank": 13,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 14,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Ryan, Paul D Jr",
+                "rank": 15,
                 "major": "N"
             },
             {
                 "name": "glocations",
                 "value": "United States",
-                "rank": 12,
+                "rank": 16,
                 "major": "N"
-            }
-        ],
-        "pub_date": "2020-08-04T15:29:25+0000"
-    },
-    {
-        "abstract": "Article on J J Henry, rookie golfer from Fairfield, Conn, who, at age 26, finished second in Kemper Open and is Connecticut's most promising pro golfer; his father, Ronald J Henry Sr, is one of state's leading amateur golfers; photos (M)",
-        "web_url": "https://www.nytimes.com/2001/06/24/nyregion/fairfield-golfer-is-making-a-name-nationally.html",
-        "headline": {
-            "main": "Fairfield Golfer Is Making A Name Nationally",
-            "kicker": null,
-            "content_kicker": null,
-            "print_headline": "Fairfield Golfer Is Making A Name Nationally",
-            "name": null,
-            "seo": null,
-            "sub": null
-        },
-        "keywords": [
+            },
             {
                 "name": "glocations",
-                "value": "Connecticut",
-                "rank": 1,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "Henry, J J",
-                "rank": 2,
-                "major": "N"
-            },
-            {
-                "name": "persons",
-                "value": "HENRY, RONALD J SR",
-                "rank": 3,
+                "value": "Southern States (US)",
+                "rank": 17,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "KEMPER OPEN (GOLF)",
-                "rank": 4,
-                "major": "N"
-            },
-            {
-                "name": "subject",
-                "value": "Golf",
-                "rank": 5,
+                "value": "United States Politics and Government",
+                "rank": 18,
                 "major": "N"
             }
         ],
-        "pub_date": "2001-06-24T05:00:00+0000"
+        "pub_date": "2016-07-16T23:28:43+0000"
     },
     {
-        "abstract": "The 18th season of the singing competition debuts on NBC. And Netflix releases a vibrant comedy-drama about a Mexican-American restaurant owner.",
-        "web_url": "https://www.nytimes.com/2020/02/24/arts/television/whats-on-tv-monday-the-voice-and-gentefied.html",
+        "abstract": "A conversation about the rulings in United States v. Texas and Fisher v. University of Texas at Austin.",
+        "web_url": "https://www.nytimes.com/2016/06/24/magazine/what-do-this-weeks-supreme-court-decisions-mean-for-immigration-and-affirmative-action.html",
         "headline": {
-            "main": "What\u2019s on TV Monday: \u2018The Voice\u2019 and \u2018Gentefied\u2019",
-            "kicker": null,
+            "main": "What Do This Week\u2019s Supreme Court Decisions Mean for Immigration and Affirmative Action?",
+            "kicker": "Notebook",
             "content_kicker": null,
-            "print_headline": "What\u2019s On Monday",
+            "print_headline": null,
             "name": null,
             "seo": null,
             "sub": null
@@ -959,50 +754,850 @@
         "keywords": [
             {
                 "name": "subject",
-                "value": "Television",
+                "value": "Affirmative Action",
                 "rank": 1,
                 "major": "N"
             },
             {
                 "name": "subject",
-                "value": "Movies",
+                "value": "Admissions Standards",
                 "rank": 2,
                 "major": "N"
             },
             {
-                "name": "creative_works",
-                "value": "Gente-fied (TV Program)",
+                "name": "subject",
+                "value": "Illegal Immigration",
                 "rank": 3,
                 "major": "N"
             },
             {
-                "name": "creative_works",
-                "value": "The Voice (TV Program)",
+                "name": "subject",
+                "value": "Discrimination",
                 "rank": 4,
                 "major": "N"
             },
             {
-                "name": "creative_works",
-                "value": "Hunters (TV Program)",
+                "name": "subject",
+                "value": "Immigration and Emigration",
                 "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Colleges and Universities",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Race and Ethnicity",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Alito, Samuel A Jr",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Kagan, Elena",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Fisher, Abigail Noel",
+                "rank": 10,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Kennedy, Anthony M",
+                "rank": 11,
                 "major": "N"
             }
         ],
-        "pub_date": "2020-02-24T06:00:06+0000"
+        "pub_date": "2016-06-24T18:00:04+0000"
     },
     {
-        "abstract": " Q.  Less than a year ago I purchased a Dell computer with Norton 2001 installed. I have recently been getting messages telling me that my virus definitions update has expired and I should subscribe, which involves a fee. Isn't the free program already installed adequate? What is the virus definition update?",
-        "web_url": "https://www.nytimes.com/2001/09/27/technology/q-a-keeping-up-to-speed-on-antivirus-protection.html",
+        "abstract": "Confidence that Mr. Trump would fade has given way to a shocked recognition that he could upend decades of assumptions about American foreign policy.",
+        "web_url": "https://www.nytimes.com/2016/05/06/world/europe/donald-trump-foreign-policy.html",
         "headline": {
-            "main": "Keeping Up to Speed On Antivirus Protection",
-            "kicker": "Q & A",
+            "main": "In Donald Trump\u2019s Rise, Allies See New American Approach",
+            "kicker": null,
             "content_kicker": null,
-            "print_headline": "Q & A; Keeping Up to Speed On Antivirus Protection",
+            "print_headline": "In the Rise of Trump, Allies See a New Approach by the U.S.",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States International Relations",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "International Trade and World Market",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "North Atlantic Treaty Organization",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Defense and Military Forces",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Obama, Barack",
+                "rank": 9,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-05-05T18:03:06+0000"
+    },
+    {
+        "abstract": "A new digital ad campaign from a \u201csuper PAC\u201d supporting Hillary Clinton equates fighting hatred with stopping the presidential candidacy of Donald J. Trump.",
+        "web_url": "https://www.nytimes.com/2016/06/26/us/politics/a-young-cancer-survivor-scolds-donald-trump.html",
+        "headline": {
+            "main": "A Young Cancer Survivor Scolds Donald Trump",
+            "kicker": "Ad of the Week",
+            "content_kicker": null,
+            "print_headline": "Young Cancer Survivor Scolds Donald Trump",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "persons",
+                "value": "Corasaniti, Nick",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Political Advertising",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Priorities USA",
+                "rank": 6,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-06-25T18:00:06+0000"
+    },
+    {
+        "abstract": "Here\u2019s what you need to know to start your day.",
+        "web_url": "https://www.nytimes.com/2016/05/23/nytnow/your-monday-briefing-vietnam-taliban-kevin-durant.html",
+        "headline": {
+            "main": "Your Monday Briefing",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": null,
             "name": null,
             "seo": null,
             "sub": null
         },
         "keywords": [],
-        "pub_date": "2001-09-27T05:00:00+0000"
+        "pub_date": "2016-05-23T09:50:50+0000"
+    },
+    {
+        "abstract": "Was the Trump phenomenon impossible to foresee, or did we miss important clues along the way? A look back at a strange primary season.",
+        "web_url": "https://www.nytimes.com/2016/05/05/upshot/what-i-got-wrong-about-donald-trump.html",
+        "headline": {
+            "main": "What I Got Wrong About Donald Trump",
+            "kicker": "The 2016 Race",
+            "content_kicker": null,
+            "print_headline": "What I Got Wrong  About Donald Trump",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Cohn, Nate",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Politics and Government",
+                "rank": 5,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-05-04T15:25:27+0000"
+    },
+    {
+        "abstract": "Mr. Trump\u2019s running mate, Gov. Mike Pence, and his campaign manager on Sunday seemed to back away from hard-line statements that the candidate has made.",
+        "web_url": "https://www.nytimes.com/2016/08/29/us/politics/donald-trump-immigration.html",
+        "headline": {
+            "main": "Donald Trump\u2019s Surrogates Back Off \u2018Deportation Force\u2019 for Illegal Immigrants",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Trump Team Plays Down Deportation of Migrants",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Gabriel, Trip",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Illegal Immigration",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Deportation",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Conway, Kellyanne",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Pence, Mike",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Plouffe, David",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Priebus, Reince R",
+                "rank": 9,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-08-28T21:35:39+0000"
+    },
+    {
+        "abstract": "After June\u2019s vote to quit the European Union, hundreds of Britons working in the bloc\u2019s institutions face a new reality as British influence and their prospects recede.",
+        "web_url": "https://www.nytimes.com/2016/11/02/world/europe/britain-brexit-eu-workers-brussels.html",
+        "headline": {
+            "main": "First the Trauma, Now the Grief and the Angst, for Britons in Brussels",
+            "kicker": "Brussels Journal",
+            "content_kicker": null,
+            "print_headline": "British \u2018Eurocrats\u2019 Grieve as Prospects Fade",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Great Britain Withdrawal from EU (Brexit)",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "European Union",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Great Britain",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Brussels (Belgium)",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Referendums",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "United Kingdom Independence Party",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Labour Party (Great Britain)",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Conservative Party (Great Britain)",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Juncker, Jean-Claude",
+                "rank": 10,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-11-01T09:00:06+0000"
+    },
+    {
+        "abstract": "The killing in Nice came at a time of political flux and gives populist movements and the far right new opportunities to press their case.",
+        "web_url": "https://www.nytimes.com/2016/07/17/world/europe/attack-in-france-fuels-anti-immigrant-parties-on-europes-right.html",
+        "headline": {
+            "main": "Attack in France Fuels Anti-Immigrant Parties on Europe\u2019s Right",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Attack Builds Political Power of Anti-Immigrant Movements in Europe",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Terrorism",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Nice, France, Attack (July 2016)",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Refugees and Displaced Persons",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Immigration and Emigration",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Nice (France)",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "France",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "glocations",
+                "value": "Europe",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Middle East and Africa Migrant Crisis",
+                "rank": 10,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-07-16T18:37:42+0000"
+    },
+    {
+        "abstract": "Differences over trade policies have led to an acrimonious relationship between the business association and the presumptive Republican nominee.",
+        "web_url": "https://www.nytimes.com/2016/07/12/business/us-chamber-of-commerce-donald-trump.html",
+        "headline": {
+            "main": "Trump and U.S. Chamber of Commerce Pull No Punches on Trade Policy",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Trump and U.S. Chamber of Commerce Pull No Punches",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "International Trade and World Market",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Economy",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "United States Chamber of Commerce",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Donohue, Thomas J",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 8,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-07-11T17:51:08+0000"
+    },
+    {
+        "abstract": "The two presumptive nominees sought to rev up their core supporters by previewing the arguments they will make over the next five months.",
+        "web_url": "https://www.nytimes.com/2016/06/11/us/politics/trump-clinton-campaign.html",
+        "headline": {
+            "main": "Hillary Clinton and Donald Trump Call Each Other Unfit for Presidency",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "Clinton and Trump Accuse Each Other of Being Unfit for Presidency",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Faith and Freedom Coalition",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Planned Parenthood Action Fund",
+                "rank": 7,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-06-11T00:47:06+0000"
+    },
+    {
+        "abstract": "The continuing breakdown in Washington\u2019s ability to govern seemed to spread like a contagion on Thursday through all three branches of government.",
+        "web_url": "https://www.nytimes.com/2016/06/24/us/politics/three-separate-equal-and-dysfunctional-branches-of-government.html",
+        "headline": {
+            "main": "Three Separate, Equal and Dysfunctional Branches of Government",
+            "kicker": "On Washington",
+            "content_kicker": null,
+            "print_headline": "3 Separate, Equal and Dysfunctional Branches",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "United States Politics and Government",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Supreme Court (US)",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Obama, Barack",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Immigration and Emigration",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "House of Representatives",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Gun Control",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Democratic Party",
+                "rank": 8,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Illegal Immigration",
+                "rank": 9,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Executive Orders and Memorandums",
+                "rank": 10,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-06-23T16:54:33+0000"
+    },
+    {
+        "abstract": "Cautious presidential candidates and a weary public are part of a bipartisan silence over the war, which is still costing American lives and hundreds of billions of dollars.",
+        "web_url": "https://www.nytimes.com/2016/09/21/world/asia/afghanistan-war-15-years-americans.html",
+        "headline": {
+            "main": "15 Years Into Afghan War, Americans Would Rather Not Talk About It",
+            "kicker": "The Interpreter",
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Afghanistan War (2001-14)",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States International Relations",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "United States Defense and Military Forces",
+                "rank": 3,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-09-20T09:00:20+0000"
+    },
+    {
+        "abstract": "Donald Trump polls better online than he does by phone. Does that tell us something about November?",
+        "web_url": "https://www.nytimes.com/2016/05/11/opinion/campaign-stops/how-many-people-support-trump-but-dont-want-to-admit-it.html",
+        "headline": {
+            "main": "How Many People Support Trump but Don\u2019t Want to Admit It?",
+            "kicker": "Contributing Op-Ed Writer",
+            "content_kicker": null,
+            "print_headline": "Finding the Hidden Trump Voters",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Polls and Public Opinion",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Primaries and Caucuses",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Voting and Voters",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Race and Ethnicity",
+                "rank": 7,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Illegal Immigration",
+                "rank": 8,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-05-11T07:21:21+0000"
+    },
+    {
+        "abstract": "Averting the worst effects of this year\u2019s political storm means electing Hillary Clinton.",
+        "web_url": "https://www.nytimes.com/2016/11/06/opinion/sunday/imagining-america-on-nov-9.html",
+        "headline": {
+            "main": "Imagining America on Nov. 9",
+            "kicker": "Editorial",
+            "content_kicker": null,
+            "print_headline": "Imagining the Country on Nov. 9",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 4,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Editorials",
+                "rank": 5,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-11-05T18:30:25+0000"
+    },
+    {
+        "abstract": "The outlook for Supreme Court appointments could have an important effect on voting behavior in this year\u2019s presidential election.",
+        "web_url": "https://www.nytimes.com/2016/07/04/us/politics/trump-clinton-election-supreme-court.html",
+        "headline": {
+            "main": "From a New President, New Justices",
+            "kicker": "Letter from Washington",
+            "content_kicker": null,
+            "print_headline": null,
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "organizations",
+                "value": "Supreme Court (US)",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 2,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Clinton, Hillary Rodham",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 4,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-07-03T14:18:29+0000"
+    },
+    {
+        "abstract": "Speaker Paul D. Ryan may be forced to acquiesce to Donald Trump in the name of Republican unity or establish himself as the party\u2019s leading voice of opposition.",
+        "web_url": "https://www.nytimes.com/2016/05/12/us/politics/paul-ryan-caught-between-desire-for-gop-unity-and-future-agenda.html",
+        "headline": {
+            "main": "Ryan Caught Between Desire for Republican Unity and Future Agenda",
+            "kicker": null,
+            "content_kicker": null,
+            "print_headline": "2020 Election Complicating 2016 for Ryan",
+            "name": null,
+            "seo": null,
+            "sub": null
+        },
+        "keywords": [
+            {
+                "name": "persons",
+                "value": "Ryan, Paul D Jr",
+                "rank": 1,
+                "major": "N"
+            },
+            {
+                "name": "persons",
+                "value": "Trump, Donald J",
+                "rank": 3,
+                "major": "N"
+            },
+            {
+                "name": "subject",
+                "value": "Presidential Election of 2016",
+                "rank": 5,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "Republican Party",
+                "rank": 6,
+                "major": "N"
+            },
+            {
+                "name": "organizations",
+                "value": "House of Representatives",
+                "rank": 7,
+                "major": "N"
+            }
+        ],
+        "pub_date": "2016-05-12T01:49:11+0000"
     }
 ]
