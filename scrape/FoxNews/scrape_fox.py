@@ -1,10 +1,15 @@
-from scrape import request_website
 from bs4 import BeautifulSoup
+import sys
+
+sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+from scrape import request_website
 from article import Article
 from write_output import write_to_json, add_to_json
 
-PATH = "../data/links/fox_links.txt"
-PATH_WRITE = "../data/articles/fox_articles.json"
+
+
+PATH = "../../data/links/fox_links.txt"
+PATH_WRITE = "../../data/articles/fox_articles.json"
 
 def read_url():
 
@@ -29,6 +34,7 @@ def scrape_fox(url):
     body = soup.find("div", class_='article-body')
     article.set_content([p.text.strip() for p in body.find_all("p")])
     return article
+
 
 
 if __name__ == "__main__":
