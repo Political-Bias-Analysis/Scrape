@@ -45,7 +45,7 @@ def read_links(bias, year):
 
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = 'immigration', 2020
+    MAIN_BIAS, YEAR = 'Racial', 2020
 
     information = read_links(MAIN_BIAS, YEAR)
     scrape_info = {"Biases": information["Biases"], "Articles": []}

@@ -107,9 +107,10 @@ def compose_dict(links, bias, year):
 if __name__ == "__main__":
 
     ## run this: if new bias, change MAIN_BIAS and EXISTS = false, else only change bias and keep EXISTS = True
-    MAIN_BIAS = "immigration"
+    MAIN_BIAS = "Racial"
     EXISTS = True
-    b = ["immigration","undocumented","refugees","asylum seekers","nationalism","border","Dreamers","xenophobia"]
+    b = ["Racial","disparities","white privilege","black lives matter","segregation",
+         "critical race theory","criminal","racial discrimination"]
     year, bias = 2020, b[7]
     links = access_search_bar(f"{year} election {bias}", ["05", "01", year, "11", "09", year])
     if not EXISTS:
