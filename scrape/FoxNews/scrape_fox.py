@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import sys
+import json
 
 sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
 from scrape import request_website
@@ -7,19 +8,17 @@ from article import Article
 from write_output import write_to_json, add_to_json
 
 
-
 PATH = "../../data/links/fox_links.txt"
-PATH_WRITE = "../../data/articles/fox_articles.json"
+PATH_READ = "../../data/links/FOX/"
+PATH_WRITE = "../../data/articles/FOX/"
 
-def read_url():
-
-    with open(PATH) as f:
-        return [file.strip('\n') for file in f]
 
 def scrape_fox(url):
     article = Article()
+    article.set_url(url)
     soup = request_website(url)
     
+    article.source = "FOX"
     headline = soup.find("h1", class_="headline").text
     article.set_headline(headline)
     
@@ -36,12 +35,24 @@ def scrape_fox(url):
     return article
 
 
+def read_links(bias, year):
+    path = PATH_READ + bias + '_' + str(year) + '.json'
+    with open(path, 'r') as f:
+        cur = json.loads(f.read())
+        return cur
+
+
 
 if __name__ == "__main__":
-    urls = read_url()
-    items = []
-    for url in urls:
-        article = scrape_fox(url)
-        items.append(article.__dict__)
 
-    write_to_json(PATH_WRITE, items)
+    MAIN_BIAS, YEAR = 'immigration', 2020
+
+    information = read_links(MAIN_BIAS, YEAR)
+    scrape_info = {"Biases": information["Biases"], "Articles": []}
+    for url in information["Links"]:
+        print(url)
+        article = scrape_fox(url)
+        scrape_info["Articles"].append(article.__dict__)
+    
+    full_write_path = PATH_WRITE + MAIN_BIAS + '_' + str(YEAR) + '.json'
+    write_to_json(full_write_path, scrape_info)

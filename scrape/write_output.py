@@ -14,3 +14,4 @@ def add_to_json(path, info):
         cur.update(info)
         json_val = dumps(info, indent=4)
         file.write(json_val)
+

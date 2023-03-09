@@ -6,6 +6,7 @@ class Article:
         self.source = source
         self.published_date = {"month": "", "day": 0, "year": 0}
         self.article_content = ""
+        self.url = ""
 
     def set_headline(self, headline):
         self.headline = headline.strip()
@@ -24,4 +25,6 @@ class Article:
     def set_content(self, raw_text_list):
         self.article_content = " ".join(raw_text_list)
 
-    
+
+    def set_url(self, url):
+        self.url = url
