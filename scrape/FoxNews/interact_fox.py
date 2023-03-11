@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 import time
 import json
 
-def access_search_bar(query, dates):
+def access_websites(query, dates):
     driver = webdriver.Chrome()
     driver.get('https://www.foxnews.com/search-results/search?q=election')
 
@@ -112,7 +112,7 @@ if __name__ == "__main__":
     b = ["Racial","disparities","white privilege","black lives matter","segregation",
          "critical race theory","criminal","racial discrimination"]
     year, bias = 2020, b[7]
-    links = access_search_bar(f"{year} election {bias}", ["05", "01", year, "11", "09", year])
+    links = access_websites(f"{year} election {bias}", ["05", "01", year, "11", "09", year])
     if not EXISTS:
         dict_info = compose_dict(links, bias, year)
         write_links_new_bias(dict_info, bias, year)
