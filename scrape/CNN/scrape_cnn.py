@@ -1,22 +1,29 @@
 from bs4 import BeautifulSoup
 import sys
+import json
 
 sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
 from scrape import request_website
 from article import Article
+from write_output import write_to_json
 
-def scrape_cnn(url, source):
+PATH_WRITE = "../../data/articles/CNN/"
+
+def scrape_cnn(url):
 
     soup = request_website(url)
 
-    article = Article(source)
+    article = Article("CNN")
 
     ## get title headline
     article.set_headline(soup.find("h1", class_="headline__text inline-placeholder").text)
 
     ## get author
-    article.set_author(soup.find("span", class_="byline__name").text)
-
+    try:
+        article.set_author(soup.find("span", class_="byline__name").text)
+    except:
+        print("No Author")
+    
     ## get date
     date = soup.find("div", class_="timestamp").text
     all_info = date.strip().split(" ")
@@ -30,3 +37,26 @@ def scrape_cnn(url, source):
     article.set_content([p.text.strip() for p in content])
 
     return article
+
+
+def get_links(year, main_bias):
+    PATH = f"../../data/links/CNN/{main_bias}_{str(year)}.json"
+
+    with open(PATH, 'r') as f:
+        cur = json.loads(f.read())
+        return cur
+    
+
+if __name__ == "__main__":
+
+    MAIN_BIAS, YEAR = "immigration", 2011
+
+    information = get_links(YEAR, MAIN_BIAS)
+    scrape_info = {"Biases": information["Biases"], "Articles": []}
+    for url in information["Links"]:
+        print(url)
+        article = scrape_cnn(url)
+        scrape_info["Articles"].append(article.__dict__)
+
+    full_write_path = PATH_WRITE + MAIN_BIAS + '_' + str(YEAR) + '.json'
+    write_to_json(full_write_path, scrape_info)

@@ -13,6 +13,7 @@ def get_websites(query, all_articles):
     time.sleep(2)
     search_bar.send_keys(query)
     time.sleep(1)
+    driver.find_elements(By.CLASS_NAME, "facet__item__label")[1].click()
 
     articles = defaultdict(list)
 

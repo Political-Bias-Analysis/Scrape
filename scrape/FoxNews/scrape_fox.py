@@ -5,7 +5,7 @@ import json
 sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
 from scrape import request_website
 from article import Article
-from write_output import write_to_json, add_to_json
+from write_output import write_to_json
 
 
 PATH = "../../data/links/fox_links.txt"
@@ -14,11 +14,10 @@ PATH_WRITE = "../../data/articles/FOX/"
 
 
 def scrape_fox(url):
-    article = Article()
+    article = Article("FOX")
     article.set_url(url)
     soup = request_website(url)
     
-    article.source = "FOX"
     headline = soup.find("h1", class_="headline").text
     article.set_headline(headline)
     
