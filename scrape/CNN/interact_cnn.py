@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
     MAIN_BIAS, EXISTS = "immigration", True
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
-    cur_bias = biases[1]
+    cur_bias = biases[7]
 
     all_links = get_all_links()
 

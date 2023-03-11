@@ -1,6 +1,9 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "border"
     ],
     "Links": [
         "https://www.cnn.com/2013/08/27/us/gallery/race-journey-signposts/index.html",
@@ -96,7 +99,18 @@
         "https://www.cnn.com/2013/01/21/politics/obama-inauguration-speech/index.html",
         "https://www.cnn.com/2013/01/04/politics/obama-congress/index.html",
         "https://www.cnn.com/2013/01/03/politics/new-congress/index.html",
-        "https://www.cnn.com/2012/12/31/politics/btn-2013-politics/index.html"
+        "https://www.cnn.com/2012/12/31/politics/btn-2013-politics/index.html",
+        "https://www.cnn.com/2013/05/18/politics/los-angeles-mayoral-race/index.html",
+        "https://www.cnn.com/2013/01/17/us/gallery/obamas-face/index.html",
+        "https://www.cnn.com/2013/03/22/world/meast/mideast-obama-trip/index.html",
+        "https://www.cnn.com/2013/08/13/us/san-diego-mayor-scandal/index.html",
+        "https://www.cnn.com/2013/08/14/us/indian-reservation-alcohol-vote/index.html",
+        "https://www.cnn.com/2013/03/29/politics/gallery/political-flaps/index.html",
+        "https://www.cnn.com/2013/05/01/politics/btn-us-mexico/index.html",
+        "https://www.cnn.com/2013/03/05/politics/forced-spending-cuts/index.html",
+        "https://www.cnn.com/2013/03/04/politics/forced-spending-cuts/index.html",
+        "https://www.cnn.com/2013/02/22/politics/forced-spending-cuts/index.html",
+        "https://www.cnn.com/2013/02/21/politics/forced-spending-cuts-blame/index.html"
     ],
     "Year": 2013
 }
