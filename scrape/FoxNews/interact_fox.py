@@ -107,11 +107,10 @@ def compose_dict(links, bias, year):
 if __name__ == "__main__":
 
     ## run this: if new bias, change MAIN_BIAS and EXISTS = false, else only change bias and keep EXISTS = True
-    MAIN_BIAS = "Racial"
-    EXISTS = True
-    b = ["Racial","disparities","white privilege","black lives matter","segregation",
+    MAIN_BIAS, EXISTS = "Racial", True
+    biases = ["Racial","disparities","white privilege","black lives matter","segregation",
          "critical race theory","criminal","racial discrimination"]
-    year, bias = 2020, b[7]
+    year, bias = 2020, biases[7]
     links = access_websites(f"{year} election {bias}", ["05", "01", year, "11", "09", year])
     if not EXISTS:
         dict_info = compose_dict(links, bias, year)
