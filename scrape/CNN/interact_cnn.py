@@ -3,7 +3,10 @@ from selenium.webdriver.common.by import By
 import time
 import json
 from collections import defaultdict
+import sys
 
+sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/ReadWriteFiles")
+import read_write_links
 
 def get_websites(query, all_articles):
     driver = webdriver.Chrome()
@@ -43,65 +46,30 @@ def get_websites(query, all_articles):
                 print(articles)
                 break
 
-    return articles, all_articles
+    return articles
 
 
 def get_year(date):
     return int(date.split(' ')[-1])
 
 
-def write_all_links(links):
-
-    with open("../../data/links/CNN/all_links.json", "w") as f:
-        in_json = json.dumps(list(links), indent=4)
-        f.write(in_json)
-
-
-def get_all_links():
-    with open("../../data/links/CNN/all_links.json") as f:
-        return set(json.loads(f.read()))
-
-
-def write_links_by_year(dict_links, main_bias):
-
-    for year, links in dict_links.items():
-        PATH = f"../../data/links/CNN/{main_bias}_{str(year)}.json"
-        with open(PATH, "w") as f:
-            in_json = json.dumps(prepare_format(links, main_bias, year), indent=4)
-            f.write(in_json)
-
-
 def prepare_format(links, main_bias, year):
     return {"Biases": [main_bias], "Links": links, "Year": year}
 
 
-def write_more_links_by_year(dict_links, main_bias, new_bias):
-
-    for year, links in dict_links.items():
-        cur = None
-        PATH = f"../../data/links/CNN/{main_bias}_{str(year)}.json"
-        with open(PATH, 'r') as f:
-            cur = json.loads(f.read())
-
-        cur["Biases"].append(new_bias)
-        cur["Links"] += links
-
-        with open(PATH, "w") as f:
-            f.write(json.dumps(cur, indent=4))
-
-
 if __name__ == "__main__":
 
+    MEDIA_NAME = "CNN"
     MAIN_BIAS, EXISTS = "immigration", True
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
     cur_bias = biases[7]
 
-    all_links = get_all_links()
+    all_links = read_write_links.get_all_links(MEDIA_NAME)
 
-    dict_links, new_links = get_websites(f"election {cur_bias}", all_links)
-    write_all_links(new_links)
+    dict_links = get_websites(f"election {cur_bias}", all_links)
+    read_write_links.write_all_links(MEDIA_NAME, all_links)
 
     if not EXISTS:
-        write_links_by_year(dict_links, MAIN_BIAS)
+        read_write_links.write_links_by_year(dict_links, MAIN_BIAS, MEDIA_NAME)
     else:
-        write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias)
+        read_write_links.write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias, MEDIA_NAME)
