@@ -33,10 +33,7 @@ def scrape_cnn(url):
     
     ## get date
     date = soup.find("div", class_="timestamp").text
-    all_info = date.strip().split(" ")
-    article.set_published_date(day=int(all_info[-2].strip(',')),
-                               month=all_info[-3],
-                               year=int(all_info[-1]))
+    article.set_published_date(date)
 
     ## get text
 
