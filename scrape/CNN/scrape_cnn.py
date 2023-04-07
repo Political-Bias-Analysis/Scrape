@@ -1,11 +1,12 @@
 from bs4 import BeautifulSoup
 import sys
-import json
 
-sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
 from scrape import request_website
 from article import Article
-from write_output import write_to_json
+
+from ReadWriteFiles.write_output import write_to_json
+from ReadWriteFiles.read_write_links import get_links_by_year
 
 PATH_WRITE = "../../data/articles/CNN/"
 
@@ -50,21 +51,14 @@ def scrape_cnn(url):
         print("faulty article")
         return article
     return article
-
-
-def get_links(year, main_bias):
-    PATH = f"../../data/links/CNN/{main_bias}_{str(year)}.json"
-
-    with open(PATH, 'r') as f:
-        cur = json.loads(f.read())
-        return cur
     
 
 if __name__ == "__main__":
 
     MAIN_BIAS, YEAR = "immigration", 2021
-
-    information = get_links(YEAR, MAIN_BIAS)
+    MEDIA_SOURCE = "CNN"
+    information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_SOURCE)
+    
     scrape_info = {"Biases": information["Biases"], "Articles": []}
     for url in information["Links"]:
         print(url)

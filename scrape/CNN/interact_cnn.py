@@ -1,12 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-import json
 from collections import defaultdict
 import sys
 
-sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/ReadWriteFiles")
-import read_write_links
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+from ReadWriteFiles.read_write_links import *
 
 def get_websites(query, all_articles):
     driver = webdriver.Chrome()
@@ -64,12 +63,12 @@ if __name__ == "__main__":
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
     cur_bias = biases[7]
 
-    all_links = read_write_links.get_all_links(MEDIA_NAME)
+    all_links = get_all_links(MEDIA_NAME)
 
     dict_links = get_websites(f"election {cur_bias}", all_links)
-    read_write_links.write_all_links(MEDIA_NAME, all_links)
+    write_all_links(MEDIA_NAME, all_links)
 
     if not EXISTS:
-        read_write_links.write_links_by_year(dict_links, MAIN_BIAS, MEDIA_NAME)
+        write_links_by_year(dict_links, MAIN_BIAS, MEDIA_NAME)
     else:
-        read_write_links.write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias, MEDIA_NAME)
+        write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias, MEDIA_NAME)

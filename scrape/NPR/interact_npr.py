@@ -1,12 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
-import json
 from collections import defaultdict
 import sys
 
 sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/ReadWriteFiles")
-import read_write_links
+import scrape.ReadWriteFiles.read_write_links as read_write_links
 
 
 def get_websites(query, all_links):

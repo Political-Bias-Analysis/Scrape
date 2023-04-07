@@ -12,6 +12,13 @@ def get_all_links(media_name):
         return set(json.loads(f.read()))
 
 
+def get_links_by_year(year, main_bias, media_name):
+    PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json"
+
+    with open(PATH, 'r') as f:
+        cur = json.loads(f.read())
+        return cur
+
 def prepare_format(links, main_bias, year):
     return {"Biases": [main_bias], "Links": links, "Year": year}
 
