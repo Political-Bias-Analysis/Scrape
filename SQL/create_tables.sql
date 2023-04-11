@@ -5,8 +5,9 @@ DROP TABLE IF EXISTS elections;
 
 
 CREATE TABLE biases(
-    bias TEXT[],
-    PRIMARY KEY(bias)
+    main_bias TEXT,
+    sub_bias TEXT[],
+    PRIMARY KEY(main_bias)
 );
 
 
@@ -18,7 +19,8 @@ CREATE TABLE articles(
     article_content TEXT,
     bias TEXT[],
     url TEXT,
-    PRIMARY KEY(headline, published_date)
+    PRIMARY KEY(headline, published_date),
+    FOREIGN KEY(source) REFERENCES media_source(source_name)
 );
 
 CREATE TABLE media_source(
