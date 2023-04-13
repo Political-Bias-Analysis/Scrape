@@ -1,4 +1,5 @@
 import json
+import pathlib
 
 def write_all_links(media_name, links):
 
@@ -36,12 +37,19 @@ def write_more_links_by_year(dict_links, main_bias, new_bias, media_name):
 
     for year, links in dict_links.items():
         cur = None
-        PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json"
-        with open(PATH, 'r') as f:
-            cur = json.loads(f.read())
+        PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json" 
+        if pathlib.Path(PATH).exists():
+            with open(PATH, 'r') as f:
+                cur = json.loads(f.read())
 
-        cur["Biases"].append(new_bias)
-        cur["Links"] += links
+            cur["Biases"].append(new_bias)
+            cur["Links"] += links
 
-        with open(PATH, "w") as f:
-            f.write(json.dumps(cur, indent=4))
+            with open(PATH, "w") as f:
+                f.write(json.dumps(cur, indent=4))
+        else:
+            with open(PATH, "w") as f:
+                item = prepare_format(links, main_bias, year)
+                item["Biases"].append(new_bias)
+                in_json = json.dumps(item, indent=4)
+                f.write(in_json)

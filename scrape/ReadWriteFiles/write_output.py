@@ -1,6 +1,5 @@
 from json import dumps, load
 
-
 def write_to_json(path, info):
     with open(path, 'w') as f:
         json_val = dumps(info, indent=4)

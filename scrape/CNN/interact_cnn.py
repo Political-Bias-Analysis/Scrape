@@ -42,7 +42,6 @@ def get_websites(query, all_articles):
                 next_pg[0].click()
                 time.sleep(1)
             else: 
-                print(articles)
                 break
 
     return articles
@@ -50,10 +49,6 @@ def get_websites(query, all_articles):
 
 def get_year(date):
     return int(date.split(' ')[-1])
-
-
-def prepare_format(links, main_bias, year):
-    return {"Biases": [main_bias], "Links": links, "Year": year}
 
 
 if __name__ == "__main__":
