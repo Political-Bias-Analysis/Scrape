@@ -10,11 +10,11 @@ from ReadWriteFiles.read_write_links import get_links_by_year
 
 PATH_WRITE = "../../data/articles/CBS/"
 
-def scrape_cbs(url):
+def scrape_cbs(url, bias):
     soup = request_website(url)
     
     
-    article = Article("CBS")
+    article = Article("CBS", bias)
     article.set_url(url)
     
     
@@ -40,14 +40,14 @@ def get_author_name(byline):
     
 if __name__ == "__main__":
     
-    MAIN_BIAS, YEAR = "immigration", 2019
+    MAIN_BIAS, YEAR = "immigration", 2020
     MEDIA_SOURCE = "CBS"
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_SOURCE)
     
     scrape_info = {"Biases": information["Biases"], "Articles": []}
-    for url in information["Links"]:
-        print(url)
-        article = scrape_cbs(url)
+    for item in information["Links"]:
+        print(item["link"])
+        article = scrape_cbs(item["link"], item["bias"])
         if article:
             scrape_info["Articles"].append(article.__dict__)
 

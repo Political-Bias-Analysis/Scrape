@@ -1,39 +1,72 @@
 {
     "Biases": [
-        "immigration",
-        "border",
-        "Dreamers"
+        "immigration"
     ],
     "Links": [
-        "https://www.cnn.com/2011/11/23/us/engage-newt-gingrichs-immigration-stance-discrimination-at-new-mexico-university/index.html",
-        "https://www.cnn.com/2011/11/09/us/opinion-arizona-latinos-political-force-cemented-as-immigration-law-leader-ousted/index.html",
-        "https://www.cnn.com/2011/11/08/us/arizona-immigration-law-author-faces-recall/index.html",
-        "https://www.cnn.com/2011/10/03/us/supreme-court-new-term/index.html",
-        "https://www.cnn.com/2011/10/03/justice/scotus-preview-case-summaries/index.html",
-        "https://www.cnn.com/2011/09/30/justice/scotus-preview-case-summaries/index.html",
-        "https://www.cnn.com/2011/09/30/us/scotus-preview-health-care/index.html",
-        "https://www.cnn.com/2011/12/28/politics/obama-latino-poll/index.html",
-        "https://www.cnn.com/2011/12/03/politics/cain-political-obit/index.html",
-        "https://www.cnn.com/2011/11/28/politics/gingrich-endorsement-big-deal/index.html",
-        "https://www.cnn.com/2011/11/23/politics/gingrich-immigration/index.html",
-        "https://www.cnn.com/2011/11/09/politics/election-results/index.html",
-        "https://www.cnn.com/2011/11/09/politics/arizona-recall-vote/index.html",
-        "https://www.cnn.com/2011/11/08/politics/arizona-recall-vote/index.html",
-        "https://www.cnn.com/2011/11/08/politics/2011-election-day/index.html",
-        "https://www.cnn.com/2011/11/07/politics/arizona-recall-vote/index.html",
-        "https://www.cnn.com/2011/10/19/politics/five-things-learned-gop-debate/index.html",
-        "https://www.cnn.com/2011/10/19/politics/cain-superpac/index.html",
-        "https://www.cnn.com/2011/10/17/politics/latino-obama-protests/index.html",
-        "https://www.cnn.com/2011/10/17/politics/nevada-preview/index.html",
-        "https://www.cnn.com/2011/09/28/politics/obama-latino-roundtable/index.html",
-        "https://www.cnn.com/2011/09/25/politics/perry-illegal-immigrants/index.html",
-        "https://www.cnn.com/2011/09/23/politics/gop-debate-lessons/index.html",
-        "https://www.cnn.com/2011/12/13/politics/congress-pipeline-politics/index.html",
-        "https://www.cnn.com/2011/12/07/politics/obama-canada/index.html",
-        "https://www.cnn.com/2011/12/03/politics/rise-and-fall-of-cain/index.html",
-        "https://www.cnn.com/2011/10/03/politics/panetta-trip/index.html",
-        "https://www.cnn.com/2011/09/20/politics/obama-jewish-vote/index.html",
-        "https://www.cnn.com/2011/12/29/politics/americans-elect/index.html"
+        {
+            "link": "https://www.cnn.com/2011/12/28/politics/obama-latino-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/12/03/politics/cain-political-obit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/28/politics/gingrich-endorsement-big-deal/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/23/politics/gingrich-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/09/politics/election-results/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/09/politics/arizona-recall-vote/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/08/politics/arizona-recall-vote/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/08/politics/2011-election-day/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/11/07/politics/arizona-recall-vote/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/10/19/politics/five-things-learned-gop-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/10/19/politics/cain-superpac/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/10/17/politics/latino-obama-protests/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/10/17/politics/nevada-preview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/09/28/politics/obama-latino-roundtable/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/09/25/politics/perry-illegal-immigrants/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2011/09/23/politics/gop-debate-lessons/index.html",
+            "bias": "immigration"
+        }
     ],
     "Year": 2011
 }
