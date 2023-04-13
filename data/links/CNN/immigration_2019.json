@@ -1,916 +1,1592 @@
 {
     "Biases": [
-        "immigration",
-        "undocumented",
-        "refugees",
-        "asylum seekers",
-        "nationalism",
-        "border",
-        "Dreamers",
-        "xenophobia"
+        "immigration"
     ],
     "Links": [
-        "https://www.cnn.com/2019/12/21/us/immigration-childrens-books/index.html",
-        "https://www.cnn.com/2019/12/12/us/five-things-december-12-trnd/index.html",
-        "https://www.cnn.com/2019/11/25/us/five-things-november-25-trnd/index.html",
-        "https://www.cnn.com/2019/11/22/us/five-things-november-22-trnd/index.html",
-        "https://www.cnn.com/2019/10/30/us/five-things-october-30-trnd/index.html",
-        "https://www.cnn.com/2019/10/24/us/five-things-october-24-trnd/index.html",
-        "https://www.cnn.com/2019/10/07/us/five-things-october-7-trnd/index.html",
-        "https://www.cnn.com/2019/09/19/us/five-things-september-19-trnd/index.html",
-        "https://www.cnn.com/us/live-news/hurricane-dorian-bahamas-aftermath/index.html",
-        "https://www.cnn.com/2019/08/23/us/trump-obama-change-blake/index.html",
-        "https://www.cnn.com/us/live-news/dayton-el-paso-shootings-trump-visit/index.html",
-        "https://www.cnn.com/us/live-news/el-paso-tx-shooting-live-updates/index.html",
-        "https://www.cnn.com/2019/07/25/us/immigrant-family-fears/index.html",
-        "https://www.cnn.com/2019/07/08/us/answering-the-call-running-for-office-trnd/index.html",
-        "https://www.cnn.com/2019/06/26/us/five-things-june-26-trnd/index.html",
-        "https://www.cnn.com/2019/06/20/us/five-things-june-20-trnd/index.html",
-        "https://www.cnn.com/2019/06/19/us/five-things-june-19-trnd/index.html",
-        "https://www.cnn.com/2019/05/30/us/franklin-graham-trump-day-of-prayer/index.html",
-        "https://www.cnn.com/2019/05/26/us/utah-judge-suspended-trump-comments/index.html",
-        "https://www.cnn.com/2018/06/01/us/how-immigrants-changed-california-politics/index.html",
-        "https://www.cnn.com/2017/08/18/us/unmasking-antifa-anti-fascists-hard-left/index.html",
-        "https://www.cnn.com/2019/04/17/us/five-things-april-17-trnd/index.html",
-        "https://www.cnn.com/2019/04/09/us/five-things-april-9-trnd/index.html",
-        "https://www.cnn.com/2019/04/02/us/five-things-april-2-trnd/index.html",
-        "https://www.cnn.com/2019/04/01/us/chicago-mayoral-election/index.html",
-        "https://www.cnn.com/2019/02/01/us/sanders-trump-god/index.html",
-        "https://www.cnn.com/2019/01/31/us/five-things-january-31-trnd/index.html",
-        "https://www.cnn.com/2019/01/19/us/womens-march-nationwide/index.html",
-        "https://www.cnn.com/2019/01/17/us/womens-march-2019/index.html",
-        "https://www.cnn.com/2019/12/31/politics/fact-check-donald-trump-top-lies-of-2019-daniel-dale/index.html",
-        "https://www.cnn.com/2019/12/29/politics/politics-headlines-2019/index.html",
-        "https://www.cnn.com/2019/12/27/politics/mike-pompeo-social-media-possible-run-senate-kansas/index.html",
-        "https://www.cnn.com/2019/12/16/politics/trump-top-lines-2019/index.html",
-        "https://www.cnn.com/2019/12/20/politics/jewish-members-of-congress-stephen-miller/index.html",
-        "https://www.cnn.com/politics/live-news/trump-impeachment-12-20-2019/index.html",
-        "https://www.cnn.com/2019/12/19/politics/christianity-today-op-ed-trump-removal-office/index.html",
-        "https://www.cnn.com/2019/12/20/politics/nancy-pelosi-mitch-mcconnell-impeachment-fight/index.html",
-        "https://www.cnn.com/2019/12/19/politics/trump-hotel-impeachment-postcard/index.html",
-        "https://www.cnn.com/2019/12/19/politics/senate-spending-deal-shutdown/index.html",
-        "https://www.cnn.com/2019/12/19/politics/supreme-court-affordable-care-act-analysis/index.html",
-        "https://www.cnn.com/2019/12/17/politics/never-trumpers-pac-donald-trump-george-conway/index.html",
-        "https://www.cnn.com/2019/12/17/politics/fact-check-trump-impeachment-letter-to-pelosi/index.html",
-        "https://www.cnn.com/2019/12/17/politics/house-vote-fund-government-avert-shutdown/index.html",
-        "https://www.cnn.com/2019/12/13/politics/supreme-court-trump-impeachment-taxes-separation-of-powers/index.html",
-        "https://www.cnn.com/2019/12/13/politics/supreme-court-trump-financial-documents/index.html",
-        "https://www.cnn.com/2019/12/13/politics/boris-johnson-corbyn-2020/index.html",
-        "https://www.cnn.com/2019/12/10/politics/federal-court-halts-changes-fee-waiver-for-naturalization/index.html",
-        "https://www.cnn.com/2019/12/12/politics/deal-in-principle-on-2020-spending-bills-reached/index.html",
-        "https://www.cnn.com/2019/12/11/politics/cnn-polls-california-texas/index.html",
-        "https://www.cnn.com/2019/12/11/politics/arrests-brazilian-migrants-spiked-2019-border-surge/index.html",
-        "https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-10-2019/index.html",
-        "https://www.cnn.com/2019/12/10/politics/fault-lines-economic-inequality-political-polarization-brookings/index.html",
-        "https://www.cnn.com/2019/12/08/politics/bernie-sanders-young-latino-voters/index.html",
-        "https://www.cnn.com/2019/12/07/politics/chicago-mayor-lori-lightfoot-pete-buttigieg/index.html",
-        "https://www.cnn.com/2019/12/05/politics/trump-appeal-supreme-court-house-subpoena-mazars/index.html",
-        "https://www.cnn.com/2019/12/03/politics/jerry-nadler-house-judiciary-committee-preview/index.html",
-        "https://www.cnn.com/2019/11/26/politics/cnn-poll-impeachment-views/index.html",
-        "https://www.cnn.com/2019/11/25/politics/michael-bloomberg-2020/index.html",
-        "https://www.cnn.com/2019/11/22/politics/mike-pompeo-kansas-senate-seat-donald-trump/index.html",
-        "https://www.cnn.com/2019/11/21/politics/obama-legacy-2020/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-11-20-2019/index.html",
-        "https://www.cnn.com/2019/11/20/politics/democratic-debate-tonight/index.html",
-        "https://www.cnn.com/2019/11/20/politics/wayne-messam-suspends-2020-campaign/index.html",
-        "https://www.cnn.com/2019/11/18/politics/cnn-iowa-poll-impeachment/index.html",
-        "https://www.cnn.com/2019/11/16/politics/louisiana-election-results/index.html",
-        "https://www.cnn.com/2019/11/15/politics/obama-warns-2020-candidates-reality/index.html",
-        "https://www.cnn.com/2019/11/16/politics/louisiana-governor-runoff-election/index.html",
-        "https://www.cnn.com/2019/11/11/politics/lawyer-dreamer-supreme-court-daca-arguments/index.html",
-        "https://www.cnn.com/2019/11/10/politics/supreme-court-daca-john-roberts/index.html",
-        "https://www.cnn.com/2019/11/07/politics/donald-trump-jeff-sessions-alabama-senate-run/index.html",
-        "https://www.cnn.com/2019/11/06/politics/jeff-sessions-senate-run-alabama/index.html",
-        "https://www.cnn.com/2019/11/06/politics/republican-reaction-election-day-results/index.html",
-        "https://www.cnn.com/2019/11/06/politics/daniel-cameron-mitch-mcconnell-kentucky-attorney-general/index.html",
-        "https://www.cnn.com/2019/11/05/politics/white-non-college-evangelicals-election-2020/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-04-2019/index.html",
-        "https://www.cnn.com/2019/11/01/politics/beto-orourke-drops-out-2020-statement/index.html",
-        "https://www.cnn.com/2019/10/31/politics/donald-trump-ad-world-series-2020/index.html",
-        "https://www.cnn.com/2019/10/31/politics/trump-campaign-ad-world-series-illegal-immigration-half/index.html",
-        "https://www.cnn.com/2019/10/30/politics/american-bar-association-nominees-vandyke/index.html",
-        "https://www.cnn.com/2019/10/24/politics/democratic-party-left-liberal-q-poll/index.html",
-        "https://www.cnn.com/2019/10/23/politics/cnn-poll-biden-lead-increases/index.html",
-        "https://www.cnn.com/2019/10/22/politics/anita-hill-2020-democratic-candidates-brett-kavanaugh/index.html",
-        "https://www.cnn.com/2019/10/22/politics/religion-gap-republican-democratic-voters-polling/index.html",
-        "https://www.cnn.com/2019/10/21/politics/trump-homeland-security-secretary/index.html",
-        "https://www.cnn.com/2019/10/20/politics/republican-turning-point-trump-ip-forecast/index.html",
-        "https://www.cnn.com/2019/10/20/politics/donald-trump-dc-circuit-impeachment-inquiry/index.html",
-        "https://www.cnn.com/2019/10/16/politics/democrats-impeachment-strategy-white-house-stonewalling/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-october-2019/index.html",
-        "https://www.cnn.com/2019/10/15/politics/impeachment-watch-october-14/index.html",
-        "https://www.cnn.com/2019/10/13/politics/homeland-security-mcaleenan-trump-ip-forecast/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-12-2019/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-11-19/index.html",
-        "https://www.cnn.com/2019/10/11/politics/mcaleenan-resigns-homeland-security-secretary/index.html",
-        "https://www.cnn.com/2019/10/11/politics/fact-check-trump-false-claims-longest-rally-minneapolis/index.html",
-        "https://www.cnn.com/2019/10/10/politics/donald-trump-campaign-rally-minnesota/index.html",
-        "https://www.cnn.com/2019/10/11/politics/impeachment-watch-october-10/index.html",
-        "https://www.cnn.com/2019/10/08/politics/supreme-court-john-roberts-lgbtq-arguments/index.html",
-        "https://www.cnn.com/2019/10/06/politics/inside-politics-forecast-kamala-harris-iowa-cnntv/index.html",
-        "https://www.cnn.com/2019/10/04/politics/abortion-supreme-court-louisiana/index.html",
-        "https://www.cnn.com/2019/10/04/politics/john-roberts-new-supreme-court-term-abortion/index.html",
-        "https://www.cnn.com/2019/10/03/politics/donald-trump-the-villages-florida/index.html",
-        "https://www.cnn.com/2019/10/02/politics/donald-trump-boris-johnson-scott-morrison-russia-investigation/index.html",
-        "https://www.cnn.com/2019/10/02/politics/trump-finland-president-oval-office-fact-check-whistleblower-immigration/index.html",
-        "https://www.cnn.com/politics/live-news/trump-impeachment-inquiry-10-02-2019/index.html",
-        "https://www.cnn.com/2019/10/02/politics/donald-trump-kirstjen-nielsen/index.html",
-        "https://www.cnn.com/2019/10/01/politics/texas-retirements-gop-2020/index.html",
-        "https://www.cnn.com/2019/09/27/politics/daca-rescinding-illegal-supreme-court-briefs/index.html",
-        "https://www.cnn.com/2019/09/24/politics/impeachment-nancy-pelosi-house-democrats/index.html",
-        "https://www.cnn.com/politics/live-news/trump-un-speech-09-24-2019/index.html",
-        "https://www.cnn.com/2019/09/23/politics/america-in-one-room-political-discussions/index.html",
-        "https://www.cnn.com/2019/09/22/politics/narendra-modi-donald-trump-texas-rally-intl/index.html",
-        "https://www.cnn.com/2019/09/21/politics/judge-orders-trump-testify-protester-trump-tower/index.html",
-        "https://www.cnn.com/2019/09/18/politics/donald-trump-corey-lewandowski-democrats-impeachment/index.html",
-        "https://www.cnn.com/2019/09/18/politics/john-mitnick-homeland-security-general-counsel-fired/index.html",
-        "https://www.cnn.com/2019/09/16/politics/womens-march-board-members-leaving/index.html",
-        "https://www.cnn.com/2019/09/15/politics/pompeo-senate-kansas-republican-fear-kobach/index.html",
-        "https://www.cnn.com/2019/09/14/politics/orange-county-republican-congress-race/index.html",
-        "https://www.cnn.com/2019/09/12/politics/2020-democrats-health-care/index.html",
-        "https://www.cnn.com/2019/09/12/politics/donald-trump-baltimore-house-republican-conference-retreat-dinner/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-september-2019/index.html",
-        "https://www.cnn.com/politics/live-news/cnn-poll-09-10-2019/index.html",
-        "https://www.cnn.com/2019/06/23/politics/trump-cabinet-vacancies-apprentice/index.html",
-        "https://www.cnn.com/2019/09/10/politics/fact-check-trump-north-carolina-rally-22-false-claims/index.html",
-        "https://www.cnn.com/2019/09/10/politics/turnberry-air-force-trump-constitution/index.html",
-        "https://www.cnn.com/2019/09/09/politics/att-paul-singer-trump-gop-donor/index.html",
-        "https://www.cnn.com/2019/09/06/politics/democrats-impeachment-roadblocks-strategy/index.html",
-        "https://www.cnn.com/2019/09/05/politics/2020-democratic-presidential-candidates-ranked/index.html",
-        "https://www.cnn.com/2019/09/04/politics/house-judiciary-committee-subpoenas-dhs/index.html",
-        "https://www.cnn.com/2019/09/04/politics/climate-change-voters-demographics/index.html",
-        "https://www.cnn.com/2019/09/04/politics/andrew-yang-2020/index.html",
-        "https://www.cnn.com/2019/08/28/politics/fact-check-trump-weekly-tally-48-false-claims/index.html",
-        "https://www.cnn.com/2019/08/28/politics/trump-border-wall-election-day/index.html",
-        "https://www.cnn.com/2019/08/26/politics/rob-porter-subpoena-house-judiciary-committee/index.html",
-        "https://www.cnn.com/politics/live-news/steve-bullock-bill-de-blasio-town-halls-august-2019/index.html",
-        "https://www.cnn.com/2019/08/23/politics/david-koch-dead/index.html",
-        "https://www.cnn.com/2019/08/21/politics/donald-trump-economy-isis-2020-election/index.html",
-        "https://www.cnn.com/2019/08/20/politics/justice-department-deferred-action-for-childhood-arrivals-supreme-court/index.html",
-        "https://www.cnn.com/2019/08/20/politics/gun-control-congress-democrats-change/index.html",
-        "https://www.cnn.com/2019/08/18/politics/michael-mccaul-texas-reelection/index.html",
-        "https://www.cnn.com/2019/08/12/politics/trump-conspiracy-theories-jeffrey-epstein/index.html",
-        "https://www.cnn.com/2019/08/09/politics/equinox-joaquin-castro-trump-donors/index.html",
-        "https://www.cnn.com/2019/08/10/politics/trump-spies-shakeup/index.html",
-        "https://www.cnn.com/2019/08/09/politics/kushner-rubashkin-trump-clemency/index.html",
-        "https://www.cnn.com/2019/08/08/politics/mcaleenan-immigration-hardliners-white-house/index.html",
-        "https://www.cnn.com/2019/08/08/politics/fso-resigns-washington-post-op-ed/index.html",
-        "https://www.cnn.com/2019/08/08/politics/andrew-yang-democratic-debate/index.html",
-        "https://www.cnn.com/2019/08/08/politics/2020-democrats-trump-el-paso-dayton-shootings/index.html",
-        "https://www.cnn.com/2019/08/08/politics/2020-democratic-presidential-candidates-ranked/index.html",
-        "https://www.cnn.com/2019/08/06/politics/trump-invasion-facebook-ads/index.html",
-        "https://www.cnn.com/2019/08/06/politics/weekly-fact-check-trump-early-august/index.html",
-        "https://www.cnn.com/2019/08/06/politics/republicans-recess-pro-gun-stance-wont-waver/index.html",
-        "https://www.cnn.com/2019/08/05/politics/jd-scholten-challenges-steve-king/index.html",
-        "https://www.cnn.com/2019/08/02/politics/donald-trump-cincinnati-rally-fact-check/index.html",
-        "https://www.cnn.com/2019/08/01/politics/texas-republican-will-hurd-not-seeking-re-election/index.html",
-        "https://www.cnn.com/2019/08/01/politics/obama-legacy-democratic-primary/index.html",
-        "https://www.cnn.com/2019/08/01/politics/democratic-debate-highlights-night-2/index.html",
-        "https://www.cnn.com/2019/08/01/politics/joe-biden-democratic-debate/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-july-31-2019/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-july-30-2019/index.html",
-        "https://www.cnn.com/2019/07/30/politics/who-won-democratic-debate/index.html",
-        "https://www.cnn.com/2019/07/30/politics/11-year-old-reporter-jaden-jefferson-interviews-elizabeth-warren/index.html",
-        "https://www.cnn.com/2019/07/24/politics/2020-poll-analysis/index.html",
-        "https://www.cnn.com/2019/07/20/politics/2020-trump-reelection-strategy-analysis/index.html",
-        "https://www.cnn.com/2019/07/19/politics/trump-campaign-2020-ilhan-omar-tweets/index.html",
-        "https://www.cnn.com/politics/live-news/cnn-democratic-debate-draw/index.html",
-        "https://www.cnn.com/2019/07/18/politics/trump-world-leaders-silence-analysis-intl/index.html",
-        "https://www.cnn.com/2019/07/17/politics/donald-trump-race-america-democrats/index.html",
-        "https://www.cnn.com/2019/07/17/politics/donald-trump-racism-democrats-2020-election/index.html",
-        "https://www.cnn.com/2019/07/16/politics/donald-trump-fact-check-cabinet-meeting/index.html",
-        "https://www.cnn.com/2018/11/12/politics/white-supremacists-cheer-midterms-trump/index.html",
-        "https://www.cnn.com/2019/07/16/politics/white-supremacists-cheer-trump-racist-tweets-soh/index.html",
-        "https://www.cnn.com/2019/07/16/politics/kamala-harris-drug-prices/index.html",
-        "https://www.cnn.com/2019/07/16/politics/tim-alberta-american-carnage-donald-trump-republicans/index.html",
-        "https://www.cnn.com/2019/07/16/politics/donald-trump-squad-ilhan-omar-racist/index.html",
-        "https://www.cnn.com/2019/07/15/politics/who-are-the-squad/index.html",
-        "https://www.cnn.com/2019/07/16/politics/republicans-immigrants-2020-election/index.html",
-        "https://www.cnn.com/politics/live-news/trump-immigration-july-2019/index.html",
-        "https://www.cnn.com/politics/live-news/2020-election-campaign-fundraising/index.html",
-        "https://www.cnn.com/2019/07/14/politics/inside-politics-forecast-beto-orourke-campaign/index.html",
-        "https://www.cnn.com/2019/07/14/politics/trump-racist-tweets-progressive-democratic-congresswomen-aoc/index.html",
-        "https://www.cnn.com/2019/07/14/politics/donald-trump-tweets-democratic-congresswomen-race-nationalities/index.html",
-        "https://www.cnn.com/2019/07/11/politics/us-getting-closer-safe-third-agreement-guatemala/index.html",
-        "https://www.cnn.com/2019/07/11/politics/donald-trump-courts-immigration-business-judiciary/index.html",
-        "https://www.cnn.com/2019/07/08/politics/census-citizenship-trump-plan/index.html",
-        "https://www.cnn.com/2019/07/08/politics/pelosi-trump-census-citizenship-question/index.html",
-        "https://www.cnn.com/2019/07/08/politics/congress-budget-talks/index.html",
-        "https://www.cnn.com/2019/07/08/politics/kris-kobach-running-for-senate/index.html",
-        "https://www.cnn.com/2019/07/07/politics/inside-politics-forecast-july-7-cnntv/index.html",
-        "https://www.cnn.com/2019/06/29/politics/democratic-debates-2020-kamala-harris-joe-biden/index.html",
-        "https://www.cnn.com/2019/07/01/politics/donald-trump-japan-press-conference-busing/index.html",
-        "https://www.cnn.com/2019/06/30/politics/2020-campaign-lookahead-june-30/index.html",
-        "https://www.cnn.com/politics/live-news/g20-june-2019-intl-hnk/index.html",
-        "https://www.cnn.com/2019/06/28/politics/border-funding-bill-house-democrats-divided-progressives-moderates/index.html",
-        "https://www.cnn.com/2019/06/28/politics/daca-supreme-court/index.html",
-        "https://www.cnn.com/2019/06/27/politics/democratic-debate-fact-check-night-2/index.html",
-        "https://www.cnn.com/2019/06/28/politics/democratic-debate-highlights-night-two/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-june-27-2019/index.html",
-        "https://www.cnn.com/politics/live-news/supreme-court-opinions-june-27-2019/index.html",
-        "https://www.cnn.com/2019/06/27/politics/democratic-debate-night-2-preview/index.html",
-        "https://www.cnn.com/2019/06/27/politics/julian-castro-nbc-debate/index.html",
-        "https://www.cnn.com/2019/06/27/politics/debate-julin-castro/index.html",
-        "https://www.cnn.com/2019/06/26/politics/trump-australia-immigration-intl-hnk/index.html",
-        "https://www.cnn.com/2019/06/27/politics/election-2020-democrats-debates-donald-trump/index.html",
-        "https://www.cnn.com/politics/live-news/democratic-debate-june-26-2019/index.html",
-        "https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html",
-        "https://www.cnn.com/2019/06/26/politics/2020-election-democrats-debates-donald-trump/index.html",
-        "https://www.cnn.com/2019/06/25/politics/census-citizenship-question-john-roberts/index.html",
-        "https://www.cnn.com/2019/06/24/politics/biden-immigration-op-ed-miami-herald/index.html",
-        "https://www.cnn.com/2019/06/24/politics/iran-immigration-donald-trump-2020-reelection/index.html",
-        "https://www.cnn.com/2019/06/21/politics/ice-immigration-raids/index.html",
-        "https://www.cnn.com/2019/06/21/politics/donald-trump-joe-biden-cory-booker-hope-hicks-week-in-review/index.html",
-        "https://www.cnn.com/2019/06/20/politics/trump-swing-voter-outreach-2020/index.html",
-        "https://www.cnn.com/2019/06/19/politics/syrian-refugee-arrested-isis-attack/index.html",
-        "https://www.cnn.com/2019/06/19/politics/fact-check-trump-orlando-rally/index.html",
-        "https://www.cnn.com/2019/06/19/politics/trump-mass-deportations/index.html",
-        "https://www.cnn.com/2019/06/18/politics/trump-orlando-rally-reelection/index.html",
-        "https://www.cnn.com/politics/live-news/trump-2020-orlando-rally/index.html",
-        "https://www.cnn.com/2019/06/18/politics/donald-trump-election-2020-orlando-florida/index.html",
-        "https://www.cnn.com/2019/06/15/politics/democrats-south-carolina-black-economic-alliance/index.html",
-        "https://www.cnn.com/2019/06/15/politics/donald-trump-campaigning-white-house-hatch-act/index.html",
-        "https://www.cnn.com/2019/06/14/politics/trump-mexico-central-america-intl/index.html",
-        "https://www.cnn.com/2019/06/11/politics/steve-king-air-force-one/index.html",
-        "https://www.cnn.com/politics/live-news/trump-biden-iowa-june-2019/index.html",
-        "https://www.cnn.com/2019/06/11/politics/enemy-of-the-people-jim-acosta-donald-trump/index.html",
-        "https://www.cnn.com/2019/06/10/politics/supreme-court-to-meet-daca/index.html",
-        "https://www.cnn.com/2019/06/09/politics/inside-politics-forecast-june-9-cnntv/index.html",
-        "https://www.cnn.com/2019/06/07/politics/koch-network-reboot/index.html",
-        "https://www.cnn.com/2019/06/05/politics/mexico-tariffs-republican-senators-trump/index.html",
-        "https://www.cnn.com/2019/06/05/politics/cnn-poll-trump-prediction-economy-issues/index.html",
-        "https://www.cnn.com/politics/live-news/cnn-poll-06-05-2019/index.html",
-        "https://www.cnn.com/politics/live-news/trump-uk-visit-2019-gbr-intl/index.html",
-        "https://www.cnn.com/2019/06/04/politics/house-passes-dream-and-promise-act/index.html",
-        "https://www.cnn.com/2019/06/02/politics/trump-protocol-uk-visit/index.html",
-        "https://www.cnn.com/2019/06/01/politics/democratic-billionaire-donors/index.html",
-        "https://www.cnn.com/2019/05/31/politics/week-in-review-robert-mueller-william-barr-donald-trump/index.html",
-        "https://www.cnn.com/2019/05/31/politics/trump-shred-democratic-institutions/index.html",
-        "https://www.cnn.com/politics/live-news/trump-mexico-tariffs-immigration-2019/index.html",
-        "https://www.cnn.com/2019/05/29/politics/impeachment-donald-trump-democrats-nancy-pelosi/index.html",
-        "https://www.cnn.com/2019/05/29/politics/hillary-clinton-trump-civil-rights/index.html",
-        "https://www.cnn.com/2019/05/29/politics/daca-supreme-court/index.html",
-        "https://www.cnn.com/2019/05/28/politics/economy-role-2020-presidential-election/index.html",
-        "https://www.cnn.com/2019/05/23/politics/donald-trump-democrats-fight-investigations/index.html",
-        "https://www.cnn.com/2019/05/22/politics/nancy-pelosi-impeachment-donald-trump/index.html",
-        "https://www.cnn.com/politics/live-news/beto-orourke-town-hall-may-2019/index.html",
-        "https://www.cnn.com/2019/05/22/politics/beto-orourke-town-hall-takeaways/index.html",
-        "https://www.cnn.com/2019/05/21/politics/impeachment-jerry-nadler-house-democrats/index.html",
-        "https://www.cnn.com/2019/05/21/politics/kris-kobach-donald-trump-immigration-czar/index.html",
-        "https://www.cnn.com/2019/05/20/politics/kris-kobach-immigration-white-house/index.html",
-        "https://www.cnn.com/2019/05/21/politics/house-democrats-united-vote-urban-suburban-districts/index.html",
-        "https://www.cnn.com/2019/05/20/politics/donald-trump-pennsylvania-rally/index.html",
-        "https://www.cnn.com/2019/05/17/politics/joe-biden-frontrunner-2020-campaign-week-in-review/index.html",
-        "https://www.cnn.com/2019/05/17/politics/donald-trump-immigration-middle-east-iran/index.html",
-        "https://www.cnn.com/2019/05/16/politics/kamala-harris-south-asian-heritage/index.html",
-        "https://www.cnn.com/2019/05/16/politics/brett-kavanaugh-susan-collins-alabama-abortion/index.html",
-        "https://www.cnn.com/2019/05/16/politics/donald-trump-immigration-plan-announcement/index.html",
-        "https://www.cnn.com/2019/05/14/politics/house-democrats-affordable-care-act/index.html",
-        "https://www.cnn.com/2019/05/10/politics/kfile-biden-drugs-fence-2006/index.html",
-        "https://www.cnn.com/politics/live-news/james-comey-town-hall-2019/index.html",
-        "https://www.cnn.com/2019/05/09/politics/fact-check-trump-florida-rally-immigration-puerto-rico/index.html",
-        "https://www.cnn.com/2019/05/07/politics/mitch-mcconnell-mueller-report-impeachment/index.html",
-        "https://www.cnn.com/2019/05/05/politics/inside-politics-forecast-may-5-cnntv/index.html",
-        "https://www.cnn.com/2019/05/04/politics/donald-trump-paradox-russia-economy/index.html",
-        "https://www.cnn.com/2019/05/03/politics/trump-economy-approval-rating-2020/index.html",
-        "https://www.cnn.com/2019/05/02/politics/cnn-poll-trump-economy-2020/index.html",
-        "https://www.cnn.com/2019/04/30/politics/william-barr-2001-interview-special-prosecutor/index.html",
-        "https://www.cnn.com/2019/04/29/politics/mick-mulvaneys-chief-of-staff-playbook-dismantling-trumps-guardrails/index.html",
-        "https://www.cnn.com/politics/live-news/trump-rally-whca-dinner-2019/index.html",
-        "https://www.cnn.com/2019/04/24/politics/2020-rankings-bernie-sanders-joe-biden-donald-trump-kamala-harris/index.html",
-        "https://www.cnn.com/2019/04/14/politics/coons-democrat-republicans-senate/index.html",
-        "https://www.cnn.com/2019/04/25/politics/trump-transition-staffer-impeachment-cnntv/index.html",
-        "https://www.cnn.com/2019/04/24/politics/kirstjen-nielsen-trump-election-security/index.html",
-        "https://www.cnn.com/2019/04/23/politics/bernie-sanders-impeachment-cnn-town-hall/index.html",
-        "https://www.cnn.com/2019/04/23/politics/donald-trump-mueller-2020-campaign-advantage/index.html",
-        "https://www.cnn.com/politics/live-news/cnn-town-halls-sanders-buttigieg-harris-warren-klobuchar/index.html",
-        "https://www.cnn.com/2019/04/22/politics/donald-trump-disobey-mueller-report/index.html",
-        "https://www.cnn.com/2019/04/22/politics/census-controversy-explained/index.html",
-        "https://www.cnn.com/2019/04/19/politics/democrats-investigations-trump-mueller/index.html",
-        "https://www.cnn.com/2019/04/21/politics/inside-politics-forecast-april-21/index.html",
-        "https://www.cnn.com/2019/04/19/politics/trump-presidency-after-robert-mueller-investigation-week-in-review/index.html",
-        "https://www.cnn.com/politics/live-news/ohio-special-election-primaries-08-07-2018/index.html",
-        "https://www.cnn.com/2019/04/17/politics/donald-trump-house-democrats-investigation/index.html",
-        "https://www.cnn.com/2019/04/17/politics/donald-trump-william-barr-mueller-report/index.html",
-        "https://www.cnn.com/2019/04/17/politics/bill-weld-trump-2020-primary-challenge-cnntv/index.html",
-        "https://www.cnn.com/2019/04/16/politics/trump-sanctuary-cities-urban-rural-strategy/index.html",
-        "https://www.cnn.com/2019/04/12/politics/donald-trump-sanctuary-cities/index.html",
-        "https://www.cnn.com/2019/04/12/politics/ivanka-trump-the-atlantic-washington-reputation/index.html",
-        "https://www.cnn.com/politics/live-news/julian-castro-town-hall/index.html",
-        "https://www.cnn.com/politics/live-news/jay-inslee-town-hall/index.html",
-        "https://www.cnn.com/2019/04/10/politics/stephen-miller-tightens-grip-on-immigration-border-policy/index.html",
-        "https://www.cnn.com/2019/04/10/politics/kirsten-gillibrand-town-hall-takeaways/index.html",
-        "https://www.cnn.com/2019/04/10/politics/donald-trump-washington-congress-barr-mueller-mnuchin-taxes/index.html",
-        "https://www.cnn.com/politics/live-news/kirsten-gillibrand-town-hall/index.html",
-        "https://www.cnn.com/politics/live-news/barr-congress-04-09-2019/index.html",
-        "https://www.cnn.com/2019/04/08/politics/trump-women-cabinet-gone/index.html",
-        "https://www.cnn.com/2019/04/08/politics/kirstjen-nielsen-replacements-department-of-homeland-security-secretary/index.html",
-        "https://www.cnn.com/2019/04/08/politics/donald-trump-kirstjen-nielsen-immigration/index.html",
-        "https://www.cnn.com/2019/04/07/politics/kevin-mcaleenan-acting-secretary-homeland-security/index.html",
-        "https://www.cnn.com/2019/04/06/politics/trumps-flips-policy-changes/index.html",
-        "https://www.cnn.com/politics/live-news/weekend-politics-04-06-19/index.html",
-        "https://www.cnn.com/2019/04/03/politics/chicago-mayor-elect-lori-lightfoot-interview/index.html",
-        "https://www.cnn.com/2019/04/03/politics/donald-trump-immigration-health-care-leadership/index.html",
-        "https://www.cnn.com/2019/04/02/politics/white-house-interagency-coordination/index.html",
-        "https://www.cnn.com/2019/04/02/politics/julian-castro-immigration-plan/index.html",
-        "https://www.cnn.com/2019/04/02/politics/donald-trump-border-immigration-health-care-mueller-report-avenatti/index.html",
-        "https://www.cnn.com/2019/04/01/politics/republicans-trump-congress-capitol-hill/index.html",
-        "https://www.cnn.com/2019/03/31/politics/elites-trump-buttigieg-ocasio-cortez/index.html",
-        "https://www.cnn.com/2019/03/31/politics/kamala-harris-immigrant-communities-presidential-campaign/index.html",
-        "https://www.cnn.com/2019/03/29/politics/jeff-flake-debate-trump-better-a-democrat-win/index.html",
-        "https://www.cnn.com/politics/live-news/2020-campaign-03-30-19/index.html",
-        "https://www.cnn.com/2019/03/29/politics/trump-family-driver-ice/index.html",
-        "https://www.cnn.com/2019/03/28/politics/donald-trump-grand-rapids-rally/index.html",
-        "https://www.cnn.com/2019/03/29/politics/donald-trump-nancy-pelosi-russia/index.html",
-        "https://www.cnn.com/2019/03/28/politics/wayne-messam-announces-2020-bid/index.html",
-        "https://www.cnn.com/politics/live-news/cory-booker-town-hall-south-carolina/index.html",
-        "https://www.cnn.com/2019/03/26/politics/mueller-report-affect-on-2020-campaign-voters/index.html",
-        "https://www.cnn.com/2019/03/25/politics/robert-mueller-donald-trump-russia-investigation-democrats-response/index.html",
-        "https://www.cnn.com/2019/03/25/politics/2020-candidates-mueller-report/index.html",
-        "https://www.cnn.com/politics/live-news/robert-mueller-report-summary/index.html",
-        "https://www.cnn.com/politics/live-news/2020-campaign-03-23-19/index.html",
-        "https://www.cnn.com/2019/03/22/politics/kamala-harris-latino-voters-2020/index.html",
-        "https://www.cnn.com/2019/03/22/politics/donald-trump-economy-2020-analysis/index.html",
-        "https://www.cnn.com/2019/03/20/politics/pompeo-antisemitism-remarks-israel/index.html",
-        "https://www.cnn.com/2019/03/19/politics/cnn-poll-2020-harris-surge-deep-enthusiasm/index.html",
-        "https://www.cnn.com/2019/03/19/politics/trump-approval-rating-national-emergency-analysis/index.html",
-        "https://www.cnn.com/politics/live-news/elizabeth-warren-town-hall-mississippi/index.html",
-        "https://www.cnn.com/2019/03/18/politics/supreme-court-racial-gerrymandering-claim-virginia/index.html",
-        "https://www.cnn.com/2019/03/18/politics/lindsey-graham-donald-trump-south-carolina/index.html",
-        "https://www.cnn.com/2019/03/14/politics/trump-pence-gop-emergency-rebuke/index.html",
-        "https://www.cnn.com/politics/live-news/senate-vote-trump-national-emergency/index.html",
-        "https://www.cnn.com/2019/03/14/politics/mitt-romney-resolution-trump-national-emergency/index.html",
-        "https://www.cnn.com/2019/03/14/politics/beto-orourke-announces-2020-campaign/index.html",
-        "https://www.cnn.com/2019/03/13/politics/florida-mayor-wayne-messam-2020-committee/index.html",
-        "https://www.cnn.com/2019/03/11/politics/trump-fiscal-2020-budget-what-we-know/index.html",
-        "https://www.cnn.com/politics/live-news/sxsw-town-hall-delaney-gabbard-buttigieg/index.html",
-        "https://www.cnn.com/2019/03/11/politics/donald-trump-2020-immigration-economy-budget-north-korea/index.html",
-        "https://www.cnn.com/2019/03/10/politics/inside-politics-forecast-march-10-cnntv/index.html",
-        "https://www.cnn.com/2019/03/07/politics/2020-democrats-rankings/index.html",
-        "https://www.cnn.com/2019/03/05/politics/republicans-trump-hush-money-payments/index.html",
-        "https://www.cnn.com/2019/03/05/politics/bloomberg-not-running-2020/index.html",
-        "https://www.cnn.com/2019/03/05/politics/jeff-merkley-president-2020/index.html",
-        "https://www.cnn.com/2019/03/03/politics/iowa-democrats-latinos-julian-castro/index.html",
-        "https://www.cnn.com/politics/live-news/trump-cpac-2019/index.html",
-        "https://www.cnn.com/2019/03/01/politics/inslee-2020-presidential-campaign/index.html",
-        "https://www.cnn.com/2019/03/01/politics/donald-trump-north-korea-diplomacy-deal-making/index.html",
-        "https://www.cnn.com/2019/02/26/politics/senate-resolution-border-wall/index.html",
-        "https://www.cnn.com/2019/02/26/politics/michael-cohen-trump-congress-oversight/index.html",
-        "https://www.cnn.com/2019/02/26/politics/democrats-gun-control-bill-party-policy/index.html",
-        "https://www.cnn.com/2019/02/19/politics/donald-trump-presidency-history-immigration-republicans/index.html",
-        "https://www.cnn.com/2019/02/19/politics/andrew-mccabe-the-threat/index.html",
-        "https://www.cnn.com/2019/02/18/politics/amy-kobuchar-cnn-town-hall/index.html",
-        "https://www.cnn.com/2019/02/18/politics/donald-trump-emergency-declaration-wall/index.html",
-        "https://www.cnn.com/2019/02/18/politics/donald-trump-immigration-border-wall-republicans-democrats/index.html",
-        "https://www.cnn.com/2019/02/16/politics/trump-win-base-losing-everyone-else-poll-of-the-week/index.html",
-        "https://www.cnn.com/2019/02/15/politics/donald-trump-national-emergency-immigration-republicans/index.html",
-        "https://www.cnn.com/2019/02/15/politics/all-the-freshman-ladies/index.html",
-        "https://www.cnn.com/2019/02/14/politics/william-barr-senate-confirmation-vote/index.html",
-        "https://www.cnn.com/2019/02/04/politics/trump-state-of-the-union-unity/index.html",
-        "https://www.cnn.com/2019/02/13/politics/donald-trump-immigration-wall-congress-executive-power/index.html",
-        "https://www.cnn.com/politics/live-news/howard-schultz-town-hall-houston/index.html",
-        "https://www.cnn.com/2019/02/12/politics/howard-schultz-cnn-town-hall/index.html",
-        "https://www.cnn.com/politics/live-news/trump-rally-texas-february-2019/index.html",
-        "https://www.cnn.com/2019/02/11/politics/kfile-kamala-harris-undocumented-juveniles/index.html",
-        "https://www.cnn.com/2019/02/10/politics/klobuchar-announcement-2020-president/index.html",
-        "https://www.cnn.com/2019/02/09/politics/julian-castro-2020-van-jones-cnntv/index.html",
-        "https://www.cnn.com/politics/live-news/february-2020-campaigning/index.html",
-        "https://www.cnn.com/2019/02/09/politics/donald-trump-house-democrats-2020-election/index.html",
-        "https://www.cnn.com/2019/02/08/politics/roger-stone-gag-order-filing/index.html",
-        "https://www.cnn.com/2019/02/08/politics/kellyanne-conway-assault-maryland-restaurant/index.html",
-        "https://www.cnn.com/2019/02/07/politics/delaney-axe-files/index.html",
-        "https://www.cnn.com/2019/02/07/politics/howard-schultz-perdue-2020/index.html",
-        "https://www.cnn.com/2019/02/05/politics/state-of-the-union-takeaways/index.html",
-        "https://www.cnn.com/2019/02/05/politics/stacey-abrams-state-of-the-union-democratic-response/index.html",
-        "https://www.cnn.com/2019/02/05/politics/fact-check-trump-state-of-the-union/index.html",
-        "https://www.cnn.com/2019/02/05/politics/donald-trump-state-of-the-union-2019-transcript/index.html",
-        "https://www.cnn.com/2019/02/06/politics/donald-trump-state-of-the-union-address/index.html",
-        "https://www.cnn.com/2019/02/05/politics/state-of-the-union-address/index.html",
-        "https://www.cnn.com/politics/live-news/state-of-the-union-2019/index.html",
-        "https://www.cnn.com/2019/02/05/politics/undocumented-workers-state-of-the-union/index.html",
-        "https://www.cnn.com/2019/02/05/politics/stacey-abrams-democratic-response/index.html",
-        "https://www.cnn.com/2019/02/04/politics/what-to-watch-state-of-the-union-2019/index.html",
-        "https://www.cnn.com/2019/02/05/politics/donald-trump-state-of-the-union-persuade-incite-people/index.html",
-        "https://www.cnn.com/2019/02/04/politics/debbie-mucarsel-powell-barrier-breakers/index.html",
-        "https://www.cnn.com/2019/02/01/politics/roger-stone-gag-order/index.html",
-        "https://www.cnn.com/2019/02/01/politics/state-of-the-union-border-wall-donald-trump/index.html",
-        "https://www.cnn.com/2019/02/01/politics/donald-trump-nancy-pelosi-immigration-border-wall/index.html",
-        "https://www.cnn.com/2019/01/17/politics/gillibrand-kfile-immigration/index.html",
-        "https://www.cnn.com/2019/01/30/politics/undocumented-worker-trump-state-of-the-union/index.html",
-        "https://www.cnn.com/2019/01/29/politics/trump-golf-clubs-undocumented-workers-congress/index.html",
-        "https://www.cnn.com/2019/01/28/politics/donald-trump-government-shutdown-nancy-pelosi-immigration/index.html",
-        "https://www.cnn.com/2019/01/28/politics/kamala-harris-identity-2020-trump/index.html",
-        "https://www.cnn.com/2019/01/26/politics/koch-network-priorities/index.html",
-        "https://www.cnn.com/2019/01/25/politics/donald-trump-wall-shutdown-congress/index.html",
-        "https://www.cnn.com/2019/01/21/politics/bloomberg-stop-and-frisk-campaign/index.html",
-        "https://www.cnn.com/2019/01/20/politics/donald-trump-nancy-pelosi-government-shutdown/index.html",
-        "https://www.cnn.com/2019/01/21/politics/trump-mlk-day/index.html",
-        "https://www.cnn.com/2019/01/20/politics/gillibrand-conservative-past-iowa-democrats/index.html",
-        "https://www.cnn.com/politics/live-news/longest-government-shutdown/index.html",
-        "https://www.cnn.com/2019/01/16/politics/us-donald-trump-shutdown-britain-theresa-may-brexit-russia-putin/index.html",
-        "https://www.cnn.com/2019/01/15/politics/william-barr-hearing/index.html",
-        "https://www.cnn.com/politics/live-news/william-barr-confirmation-hearing/index.html",
-        "https://www.cnn.com/2019/01/15/politics/democrats-face-the-age-old-question-in-2020/index.html",
-        "https://www.cnn.com/2019/01/15/politics/donald-trump-william-barr-attorney-general/index.html",
-        "https://www.cnn.com/2019/01/15/politics/what-to-watch-william-barr-hearing/index.html",
-        "https://www.cnn.com/2019/01/14/politics/migrant-caravan-honduras-trump/index.html",
-        "https://www.cnn.com/2019/01/14/politics/william-barr-mueller/index.html",
-        "https://www.cnn.com/2019/01/12/politics/julian-castro-presidential-announcement/index.html",
-        "https://www.cnn.com/2019/01/11/politics/donald-trump-mueller-russia-wall-democrats/index.html",
-        "https://www.cnn.com/2019/01/09/politics/kamala-harris-the-lead-interview-shutdown-book/index.html",
-        "https://www.cnn.com/politics/live-news/government-shutdown-january-2019/index.html",
-        "https://www.cnn.com/2019/01/09/politics/donald-trump-border-wall-crisis-speech/index.html",
-        "https://www.cnn.com/2019/01/09/politics/beto-orourke-2020-presidential-run-speculation/index.html",
-        "https://www.cnn.com/2018/09/20/politics/colorado-sixth-district-mike-coffman/index.html",
-        "https://www.cnn.com/2018/06/26/politics/mitt-romney-utah-senate-donald-trump/index.html",
-        "https://www.cnn.com/2019/01/08/politics/donald-trump-prime-time-address-immigration-wall/index.html",
-        "https://www.cnn.com/2019/01/08/politics/republicans-democrats-divide-party-demographics-districts/index.html",
-        "https://www.cnn.com/2019/01/05/politics/warren-first-iowa-visit/index.html",
-        "https://www.cnn.com/2019/01/04/politics/donald-trump-nancy-pelosi-shutdown/index.html",
-        "https://www.cnn.com/2019/01/03/politics/new-congress-history-women-diversity/index.html",
-        "https://www.cnn.com/2019/01/03/politics/donald-trump-nancy-pelosi-government-shutdown/index.html",
-        "https://www.cnn.com/2019/01/03/politics/government-shutdown-blame-game-donald-trump/index.html",
-        "https://www.cnn.com/2019/01/03/politics/new-congress-social-media/index.html",
-        "https://www.cnn.com/politics/live-news/mitt-romney-tapper-interview-january-2019/index.html",
-        "https://www.cnn.com/2019/01/02/politics/trump-family-romney/index.html",
-        "https://www.cnn.com/2019/01/02/politics/donald-trump-mitt-romney-oped/index.html",
-        "https://www.cnn.com/2019/12/24/opinions/rudy-giuliani-george-soros-anti-semitism-golinkin/index.html",
-        "https://www.cnn.com/2019/12/19/opinions/democratic-debate-opinion-round-up-12-19/index.html",
-        "https://www.cnn.com/2019/12/18/opinions/trump-impeachment-fault-dantonio/index.html",
-        "https://www.cnn.com/2019/12/08/opinions/opinion-weekly-column-pelosis-message-to-trump-galant/index.html",
-        "https://www.cnn.com/2019/12/05/opinions/bridging-political-divides-curiosity-art-crisp-hughes/index.html",
-        "https://www.cnn.com/2019/11/22/opinions/partisan-media-confronting-political-division-avlon/index.html",
-        "https://www.cnn.com/2019/10/30/opinions/fractured-states-of-america-polarization-is-killing-us-avlon/index.html",
-        "https://www.cnn.com/2019/10/17/opinions/trump-abandoning-kurds-gop-could-break-ranks-cupp/index.html",
-        "https://www.cnn.com/2019/10/16/opinions/democrats-best-way-to-beat-trump-steyer/index.html",
-        "https://www.cnn.com/2019/10/07/opinions/donald-trump-should-resign-ghitis/index.html",
-        "https://www.cnn.com/2019/10/03/opinions/impeachment-in-a-divided-america-patterson/index.html",
-        "https://www.cnn.com/2019/09/28/opinions/good-reason-why-trump-smearing-biden-harrop/index.html",
-        "https://www.cnn.com/opinions/live-news/2020-primary-debate-commentary/index.html",
-        "https://www.cnn.com/2019/09/11/opinions/trump-impeachment-resolution-judiciary-committee-emoluments-honig/index.html",
-        "https://www.cnn.com/2019/09/06/opinions/el-paso-concert-against-white-supremacy-garcia/index.html",
-        "https://www.cnn.com/opinions/live-news/live-commentary-climate-crisis-town-hall/index.html",
-        "https://www.cnn.com/2019/08/15/opinions/steve-king-racism-gop-response-ben-ghiat/index.html",
-        "https://www.cnn.com/2019/08/11/opinions/charlottesville-two-years-later-row/index.html",
-        "https://www.cnn.com/2019/08/03/opinions/bill-maher-dems-biden-2020-zelizer/index.html",
-        "https://www.cnn.com/2019/07/30/opinions/2020-democrat-presidential-race-defined-by-racism-love/index.html",
-        "https://www.cnn.com/2019/08/01/opinions/when-did-barack-obama-become-a-republican-avlon/index.html",
-        "https://www.cnn.com/2019/08/01/opinions/2020-democratic-debate-election-security-vulnerability-vinograd/index.html",
-        "https://www.cnn.com/opinions/live-news/opinion-democratic-debate-night-july-31/index.html",
-        "https://www.cnn.com/2019/07/30/opinions/2020-democratic-presidential-candidates-in-their-own-words-opinion/index.html",
-        "https://www.cnn.com/opinions/live-news/opinion-democratic-debate-night-july-30/index.html",
-        "https://www.cnn.com/2019/07/28/opinions/john-delaney-2020-mandatory-national-service/index.html",
-        "https://www.cnn.com/2019/07/28/opinions/donald-trump-elijah-cummings-twitter-low-dantonio/index.html",
-        "https://www.cnn.com/2019/07/28/opinions/democrats-scramble-for-momentum-in-motown-opinion-column-galant/index.html",
-        "https://www.cnn.com/2019/07/19/opinions/squad-is-a-gift-to-trump-jennings/index.html",
-        "https://www.cnn.com/2019/07/13/opinions/democrats-keep-picking-the-losing-side-jennings/index.html",
-        "https://www.cnn.com/2019/07/04/opinions/department-of-homeland-security-needs-dismantling-perry/index.html",
-        "https://www.cnn.com/2019/07/07/opinions/pelosi-helping-trump-slamming-aoc-obeidallah/index.html",
-        "https://www.cnn.com/2019/07/05/opinions/joe-biden-lockhart/index.html",
-        "https://www.cnn.com/2019/06/29/opinions/biden-right-democrat-electability-zelizer/index.html",
-        "https://www.cnn.com/2019/06/28/opinions/migrant-children-detained-unspeakable-disgrace-kasich/index.html",
-        "https://www.cnn.com/opinions/live-news/commentary-night-2-of-democratic-debate-june-27/index.html",
-        "https://www.cnn.com/opinions/live-news/opinion-democratic-debate-night-june-26/index.html",
-        "https://www.cnn.com/2019/06/26/opinions/trump-g20-summit-iran-russia-china-vinograd/index.html",
-        "https://www.cnn.com/2019/06/23/opinions/trump-flip-flop-iran-deportation-obeidallah/index.html",
-        "https://www.cnn.com/2019/06/23/opinions/trump-calls-off-iran-strikes-opinion-weekly-column-galant/index.html",
-        "https://www.cnn.com/2019/06/18/opinions/trump-tweet-deport-millions-of-immigrants-reyes/index.html",
-        "https://www.cnn.com/2019/06/19/opinions/trump-reelection-campaign-kick-off-message-opinion-jennings/index.html",
-        "https://www.cnn.com/2019/06/18/opinions/trump-reelection-campaign-strategy-opinion-zelizer/index.html",
-        "https://www.cnn.com/2019/05/27/opinions/european-parliament-elections-analysis-andelman/index.html",
-        "https://www.cnn.com/2019/05/19/opinions/joe-biden-false-bipartisan-promise-zelizer/index.html",
-        "https://www.cnn.com/2019/05/19/opinions/austria-freedom-party-scandal-eu-election-andelman/index.html",
-        "https://www.cnn.com/2019/05/06/opinions/trump-putin-make-russia-great-again-dantonio/index.html",
-        "https://www.cnn.com/2019/04/29/opinions/2020-campaign-democrats-think-beat-trump-zelizer/index.html",
-        "https://www.cnn.com/2019/04/24/opinions/joe-biden-competition-opinion-gergen-piltch-riggan/index.html",
-        "https://www.cnn.com/2019/04/22/opinions/citizenship-question-2024-elections-douglas/index.html",
-        "https://www.cnn.com/2019/04/20/opinions/mueller-report-trump-congress-initiate-impeachment-sachs/index.html",
-        "https://www.cnn.com/2019/04/12/opinions/donald-trump-is-sabotaging-americas-democracy-lockhart/index.html",
-        "https://www.cnn.com/2019/04/08/opinions/obamas-circular-firing-squad-remarks-may-not-persuade-2020-democrats-haq/index.html",
-        "https://www.cnn.com/2019/04/07/opinions/trumps-odd-riffs-weekly-opinion-roundup-wiedenkeller/index.html",
-        "https://www.cnn.com/2019/03/28/opinions/cory-booker-presidential-town-hall-joseph/index.html",
-        "https://www.cnn.com/2019/03/24/opinions/democrats-2020-focus-policy-not-trump-obeidallah/index.html",
-        "https://www.cnn.com/2019/03/17/opinions/world-stunned-by-explosion-of-hate-wiedenkeller/index.html",
-        "https://www.cnn.com/2019/03/17/opinions/presidential-weekly-briefing-nationalism-donald-trump-vinograd/index.html",
-        "https://www.cnn.com/2019/03/16/opinions/st-patricks-day-immigration-story-hennessy/index.html",
-        "https://www.cnn.com/2019/03/12/opinions/2020-democrats-learn-2016-trump-strategy-alexander/index.html",
-        "https://www.cnn.com/2019/02/17/opinions/joe-biden-president-2020-zelizer/index.html",
-        "https://www.cnn.com/2019/01/30/opinions/howard-schultz-has-a-case-for-president-suri/index.html",
-        "https://www.cnn.com/2019/02/11/opinions/ilhan-omar-tweets-anti-semitism-apology-perry/index.html",
-        "https://www.cnn.com/2019/02/10/opinions/presidential-weekly-briefing-campaign-security-vinograd/index.html",
-        "https://www.cnn.com/2019/02/06/opinions/opinion-state-of-the-union-roundup/index.html",
-        "https://www.cnn.com/2019/02/03/opinions/super-bowl-trump-opinion-roundup-wiedenkeller/index.html",
-        "https://www.cnn.com/2019/02/03/opinions/presidential-weekly-briefing-sotu-threats-vinograd/index.html",
-        "https://www.cnn.com/2019/01/24/opinions/will-2020-be-the-year-of-the-mayor-avlon/index.html",
-        "https://www.cnn.com/2019/01/23/opinions/why-starbucks-schultz-might-have-a-shot-wierson-hillsman/index.html",
-        "https://www.cnn.com/2019/01/21/opinions/shutdown-politicians-should-cut-a-deal-mia-love/index.html",
-        "https://www.cnn.com/2019/01/17/opinions/cohen-is-perfect-trump-apprentice-dantonio/index.html",
-        "https://www.cnn.com/2019/01/09/opinions/barr-confirmation-hearing-senate-grilling-honig/index.html",
-        "https://www.cnn.com/2019/01/12/opinions/how-michael-cohen-testimony-could-complicate-life-for-trump-rodgers/index.html",
-        "https://www.cnn.com/2019/01/07/opinions/this-is-presidential-malpractice-zelizer/index.html",
-        "https://www.cnn.com/2019/01/06/opinions/government-shutdown-immigration-opportunity-noorani/index.html",
-        "https://www.cnn.com/2019/01/06/opinions/rashida-tlaib-comment-gop-hypocrisy-obeidallah/index.html",
-        "https://www.cnn.com/us/live-news/howdy-modi-houston-live-updates/index.html",
-        "https://www.cnn.com/2019/07/12/us/undocumented-in-america-special-report/index.html",
-        "https://www.cnn.com/2019/07/10/us/five-things-july-10-trnd/index.html",
-        "https://www.cnn.com/2019/06/28/us/five-things-june-28-trnd/index.html",
-        "https://www.cnn.com/2019/12/21/politics/fact-check-trump-two-weeks-december/index.html",
-        "https://www.cnn.com/2019/12/19/politics/trump-bad-day-good-week/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-17-2019/index.html",
-        "https://www.cnn.com/2019/12/05/politics/ohio-illegal-voting-2018-election/index.html",
-        "https://www.cnn.com/2019/11/21/politics/november-democratic-debate-highlights/index.html",
-        "https://www.cnn.com/2019/11/10/politics/daca-scotus-government-shutdown-ip-forecast-cnntv/index.html",
-        "https://www.cnn.com/2019/11/08/politics/donald-trump-african-american-support-atlanta/index.html",
-        "https://www.cnn.com/2019/10/22/politics/donald-trump-impeachment-lynching/index.html",
-        "https://www.cnn.com/2019/10/15/politics/who-can-vote-in-us-elections/index.html",
-        "https://www.cnn.com/2019/10/15/politics/2020-election-voters/index.html",
-        "https://www.cnn.com/2019/09/18/politics/donald-trump-california-fundraising/index.html",
-        "https://www.cnn.com/2019/09/03/politics/mitch-mcconnell-gun-legislation-trump/index.html",
-        "https://www.cnn.com/2019/08/06/politics/mitch-mcconnell-gun-control/index.html",
-        "https://www.cnn.com/2019/07/31/politics/democratic-debate-highlights/index.html",
-        "https://www.cnn.com/2019/07/29/politics/2020-election-michigan-voters/index.html",
-        "https://www.cnn.com/2019/07/12/politics/trump-paul-ryan-american-carnage/index.html",
-        "https://www.cnn.com/2019/07/09/politics/federal-judge-doj-census-legal-team/index.html",
-        "https://www.cnn.com/2019/06/30/politics/inside-politics-forecast-june-30-cnntv/index.html",
-        "https://www.cnn.com/2019/06/19/politics/donald-trump-orlando-2020-kickoff/index.html",
-        "https://www.cnn.com/2019/06/11/politics/2020-democrats-policy-plans/index.html",
-        "https://www.cnn.com/2019/06/07/politics/donald-trump-mexico-politics-dday-britain-immigration/index.html",
-        "https://www.cnn.com/2019/05/22/politics/william-barr-nationwide-injunctions-daca/index.html",
-        "https://www.cnn.com/2019/05/09/politics/trump-2020-panama-city-florida/index.html",
-        "https://www.cnn.com/2019/04/02/politics/trump-border-aid-obamacare-analysis/index.html",
-        "https://www.cnn.com/2019/03/30/politics/beto-orourke-campaign-launch-rallies-saturday-texas/index.html",
-        "https://www.cnn.com/2019/03/15/politics/trump-veto-resolution/index.html",
-        "https://www.cnn.com/2019/02/04/politics/donald-trump-super-bowl-interview/index.html",
-        "https://www.cnn.com/2019/02/01/politics/donald-trump-2020-election/index.html",
-        "https://www.cnn.com/2019/01/30/politics/abortion-supreme-court-judicial-nominations/index.html",
-        "https://www.cnn.com/2019/01/28/politics/koch-breather-from-politics/index.html",
-        "https://www.cnn.com/2019/01/28/politics/kamala-harris-announcement/index.html",
-        "https://www.cnn.com/2019/01/24/politics/house-committee-chairs-cabinet-secretaries/index.html",
-        "https://www.cnn.com/2019/01/23/politics/donald-trump-nancy-pelosi-government-shutdown-congress/index.html",
-        "https://www.cnn.com/2019/01/23/politics/supreme-court-2020-politics/index.html",
-        "https://www.cnn.com/2019/01/16/politics/kamala-harris-2020-bid-personal/index.html",
-        "https://www.cnn.com/2019/01/10/politics/trump-mexico-pay-wall/index.html",
-        "https://www.cnn.com/2019/01/04/politics/shutdown-donald-trump-nancy-pelosi/index.html",
-        "https://www.cnn.com/politics/live-news/new-congress-january-2019/index.html",
-        "https://www.cnn.com/opinions/live-news/debate-commentary-october-2019/index.html",
-        "https://www.cnn.com/2019/09/11/opinions/presidential-debate-talk-about-sexual-harassment-carlson-klein/index.html",
-        "https://www.cnn.com/2019/01/20/opinions/mike-pence-shocking-use-of-mlk-words-zelizer/index.html",
-        "https://www.cnn.com/2019/01/14/opinions/importance-of-challenging-democratic-incumbents-rojas-mcelwee/index.html",
-        "https://www.cnn.com/2019/12/26/us/five-things-december-26-trnd/index.html",
-        "https://www.cnn.com/2019/10/16/us/five-things-october-16/index.html",
-        "https://www.cnn.com/2019/08/23/us/five-things-august-23-trnd/index.html",
-        "https://www.cnn.com/2019/01/26/us/kansas-somali-bomb-plot/index.html",
-        "https://www.cnn.com/2019/11/22/politics/impeachment-ad-spending/index.html",
-        "https://www.cnn.com/2019/11/19/politics/alexander-vindman-opening-remarks-impeachment-hearing/index.html",
-        "https://www.cnn.com/politics/live-news/trump-erdogan-meeting-11-13-19/index.html",
-        "https://www.cnn.com/2019/09/19/politics/trump-world-leaders/index.html",
-        "https://www.cnn.com/politics/live-news/john-bolton-trump-resign/index.html",
-        "https://www.cnn.com/politics/live-news/climate-crisis-town-hall-august-2019/index.html",
-        "https://www.cnn.com/2019/09/01/politics/2020-candidates-go-back-to-congress-inside-politics-forecast/index.html",
-        "https://www.cnn.com/2019/08/07/politics/beto-orourke-skips-iowa-state-fair/index.html",
-        "https://www.cnn.com/2019/07/25/politics/ilhan-omar-america-column-nytimes/index.html",
-        "https://www.cnn.com/2019/07/03/politics/jared-kushner-mahmoud-abbas-peace-plan/index.html",
-        "https://www.cnn.com/politics/live-news/trump-dmz-kim-live-intl-hnk/index.html",
-        "https://www.cnn.com/2019/06/26/politics/wolf-blitzer-kushner-interview/index.html",
-        "https://www.cnn.com/2019/06/05/politics/inslee-climate-change-foreign-policy/index.html",
-        "https://www.cnn.com/2019/06/04/politics/donald-trump-british-politics-jeremy-corbyn-theresa-may/index.html",
-        "https://www.cnn.com/2019/06/03/politics/kushner-palestinians-intl/index.html",
-        "https://www.cnn.com/2019/05/30/politics/netanyahu-trump-map/index.html",
-        "https://www.cnn.com/2019/05/28/politics/jared-kushner-middle-east-peace-plan/index.html",
-        "https://www.cnn.com/2019/04/15/politics/pentagon-venezuela-military-options/index.html",
-        "https://www.cnn.com/2019/04/02/politics/state-vacancies-menendez-pompeo/index.html",
-        "https://www.cnn.com/2019/03/17/politics/ilhan-omar-minnesota-constituents-anti-semitism/index.html",
-        "https://www.cnn.com/2019/02/16/politics/biden-showcases-foreign-policy-munich/index.html",
-        "https://www.cnn.com/2019/02/16/politics/kushner-mideast-peace-plan/index.html",
-        "https://www.cnn.com/2019/10/27/opinions/donald-trump-lashes-out-opinion-weekly-column/index.html",
-        "https://www.cnn.com/2019/08/10/opinions/trumps-influence-is-spreading-like-a-virus-dantonio/index.html",
-        "https://www.cnn.com/2019/08/04/opinions/historians-dont-live-in-an-ivory-tower-steinhauer/index.html",
-        "https://www.cnn.com/2019/07/22/opinions/trump-retweets-katie-hopkins-racism-obeidallah/index.html",
-        "https://www.cnn.com/2019/06/16/opinions/trump-white-house-shakeup-opinion-weekly-column-galant/index.html",
-        "https://www.cnn.com/2019/06/29/opinions/bernie-sanders-radical-sachs-fajans-turner/index.html",
-        "https://www.cnn.com/2019/04/30/opinions/nicolas-maduro-juan-guaido-root-venezuela-ghitis/index.html",
-        "https://www.cnn.com/2019/03/23/opinions/why-trump-and-netanyahu-desperately-need-each-other-miller/index.html",
-        "https://www.cnn.com/2019/03/18/opinions/why-terrorists-kill-striking-similarities-bergen/index.html",
-        "https://www.cnn.com/2019/04/29/us/houses-of-worship-attacks/index.html",
-        "https://www.cnn.com/2019/11/10/politics/tom-steyer-cnn-town-hall/index.html",
-        "https://www.cnn.com/politics/live-news/house-vote-impeachment-resolution-trump-rally/index.html",
-        "https://www.cnn.com/2019/03/29/politics/donald-trump-michigan-grand-rapids-campaign-speech/index.html",
-        "https://www.cnn.com/2019/09/07/opinions/trump-border-wall-military-construction-funds-ghitis/index.html",
-        "https://www.cnn.com/2019/07/17/opinions/trump-stokes-fear-hides-his-insecurity-dantonio/index.html",
-        "https://www.cnn.com/2018/10/29/opinions/pittsburgh-synagogue-shooting-opinion-orbach/index.html",
-        "https://www.cnn.com/2019/01/02/opinions/its-bad-news-if-trump-really-starts-to-sweat-dantonio/index.html",
-        "https://www.cnn.com/2019/05/20/us/five-things-may-20-trnd/index.html",
-        "https://www.cnn.com/2019/05/14/us/white-supremacy-terrorism-soh/index.html",
-        "https://www.cnn.com/2019/04/10/us/five-things-april-10-trnd/index.html",
-        "https://www.cnn.com/2018/04/03/us/mlk-memphis-what-if/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-hearing-11-13-19/index.html",
-        "https://www.cnn.com/2019/10/02/politics/foreign-dirt-campaigns-trump/index.html",
-        "https://www.cnn.com/2019/09/26/politics/donald-trump-impeachment-strategy/index.html",
-        "https://www.cnn.com/politics/live-news/iowa-state-fair-2019/index.html",
-        "https://www.cnn.com/2019/08/11/politics/2020-democrats-in-iowa/index.html",
-        "https://www.cnn.com/2019/08/08/politics/bill-clinton-assault-weapons-ban/index.html",
-        "https://www.cnn.com/2019/07/19/politics/ilhan-omar-donald-trump-health-care/index.html",
-        "https://www.cnn.com/politics/live-news/moulton-ryan-swalwell-town-hall-june-2019/index.html",
-        "https://www.cnn.com/2019/04/29/politics/donald-trump-joe-biden-attacks/index.html",
-        "https://www.cnn.com/2019/03/28/politics/cory-booker-cnn-town-hall-takeaways/index.html",
-        "https://www.cnn.com/2019/03/19/politics/cindy-mccain-hateful-message-stranger/index.html",
-        "https://www.cnn.com/2019/03/12/politics/house-democrats-hr-1-voting-changes-republicans/index.html",
-        "https://www.cnn.com/2019/02/21/politics/steve-king-congressman-nothing-to-apologize-for/index.html",
-        "https://www.cnn.com/2019/10/10/opinions/biden-generational-divide-black-voters-love/index.html",
-        "https://www.cnn.com/2019/09/22/opinions/trumps-sparkly-supporting-cast-opinion-column-galant/index.html",
-        "https://www.cnn.com/2019/09/17/opinions/sean-spicer-dancing-with-the-stars-spectacle-hossain/index.html",
-        "https://www.cnn.com/2019/09/17/opinions/sean-spicer-dancing-with-the-stars-debacle-hossain/index.html",
-        "https://www.cnn.com/2019/08/19/opinions/portland-protest-antifa-proud-boys-opinion-obeidallah/index.html",
-        "https://www.cnn.com/2019/08/11/opinions/sue-gordon-bad-news-trump-america-vinograd/index.html",
-        "https://www.cnn.com/2019/08/11/opinions/a-chilling-sign-of-todays-america-opinion-column-galant/index.html",
-        "https://www.cnn.com/2019/07/25/opinions/black-trump-supporter-fraud-scherie-murray-cane/index.html",
-        "https://www.cnn.com/2019/07/21/opinions/trump-racist-tweet-mastery-media-coverage-zelizer/index.html",
-        "https://www.cnn.com/2019/04/27/opinions/brexit-and-trump-making-room-for-china-robertson-intl/index.html",
-        "https://www.cnn.com/2019/04/05/opinions/slovakia-president-caputova-nationalism-maltby/index.html",
-        "https://www.cnn.com/2019/03/18/opinions/something-terribly-wrong-with-donald-trump-dantonio/index.html",
-        "https://www.cnn.com/2019/02/18/opinions/virginia-blackface-scandal-misses-point-love/index.html",
-        "https://www.cnn.com/2019/01/14/opinions/trump-actually-had-to-deny-he-is-a-foreign-agent-dantonio/index.html",
-        "https://www.cnn.com/2019/01/11/opinions/dick-cheney-vice-film-failure-schnurer/index.html",
-        "https://www.cnn.com/2019/12/22/us/top-100-digital-stories-2019-trnd/index.html",
-        "https://www.cnn.com/2019/12/20/us/five-things-december-20-trnd/index.html",
-        "https://www.cnn.com/2019/11/22/us/trump-administration-seizing-border-wall-land/index.html",
-        "https://www.cnn.com/2019/11/07/us/five-things-november-7-trnd/index.html",
-        "https://www.cnn.com/2019/11/06/us/five-things-november-6-trnd/index.html",
-        "https://www.cnn.com/2019/10/23/us/five-things-october-23-trnd/index.html",
-        "https://www.cnn.com/2019/10/10/us/el-paso-shooter-arraignment/index.html",
-        "https://www.cnn.com/2019/10/09/us/five-things-october-9-trnd/index.html",
-        "https://www.cnn.com/2019/09/10/us/five-things-september-10-trnd/index.html",
-        "https://www.cnn.com/2019/08/26/us/marysville-michigan-city-council-racist-comments-drops-out-soh/index.html",
-        "https://www.cnn.com/2019/07/31/us/five-things-july-31-trnd/index.html",
-        "https://www.cnn.com/2019/06/18/us/five-things-june-18-trnd/index.html",
-        "https://www.cnn.com/2019/04/29/us/five-things-april-29-trnd/index.html",
-        "https://www.cnn.com/2019/04/22/us/five-things-april-22-trnd/index.html",
-        "https://www.cnn.com/2019/04/15/us/five-things-april-15-trnd/index.html",
-        "https://www.cnn.com/2019/04/01/us/five-things-april-1-trnd/index.html",
-        "https://www.cnn.com/2019/03/01/us/five-things-march-1-trnd/index.html",
-        "https://www.cnn.com/2019/02/27/us/venezuela-guaido-presidential-duties/index.html",
-        "https://www.cnn.com/2019/02/26/us/five-things-february-26-trnd/index.html",
-        "https://www.cnn.com/2019/02/22/us/five-things-february-22-trnd/index.html",
-        "https://www.cnn.com/2019/01/28/us/five-things-january-28-trnd/index.html",
-        "https://www.cnn.com/2019/01/22/us/five-things-january-22-trnd/index.html",
-        "https://www.cnn.com/us/live-news/womens-march-2019/index.html",
-        "https://www.cnn.com/2019/01/10/us/five-things-january-10-trnd/index.html",
-        "https://www.cnn.com/2019/01/07/us/five-things-january-7-trnd/index.html",
-        "https://www.cnn.com/2019/01/02/us/five-things-january-2-trnd/index.html",
-        "https://www.cnn.com/2019/12/21/politics/impeachment-watch-december-20/index.html",
-        "https://www.cnn.com/2019/12/20/politics/trump-spending-bills/index.html",
-        "https://www.cnn.com/2019/12/19/politics/donald-trump-appropriations-never-again/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-18-2019/index.html",
-        "https://www.cnn.com/2019/12/17/politics/impeachment-congress-republicans-president/index.html",
-        "https://www.cnn.com/2019/12/17/politics/house-impeachment-vote-government-funding-usmca/index.html",
-        "https://www.cnn.com/2019/12/16/politics/meanwhile-in-america-december-17-intl/index.html",
-        "https://www.cnn.com/2019/12/14/politics/alexandria-ocasio-cortez-raising-money-first-year-in-office/index.html",
-        "https://www.cnn.com/2019/12/06/politics/donald-trump-economic-numbers/index.html",
-        "https://www.cnn.com/2019/12/05/politics/pelosi-town-hall-government-shutdown-cnn-tv/index.html",
-        "https://www.cnn.com/politics/live-news/nato-summit-2019-day-two-gbr-intl/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-03-2019/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-26-2019/index.html",
-        "https://www.cnn.com/2019/11/24/politics/camp-david-republicans-trump-ip-forecast-cnntv/index.html",
-        "https://www.cnn.com/2019/11/22/politics/joe-biden-don-lemon-cnntv/index.html",
-        "https://www.cnn.com/2019/11/22/politics/impeachment-watch-november-21/index.html",
-        "https://www.cnn.com/2019/11/19/politics/elise-stefanik-conservative-hero/index.html",
-        "https://www.cnn.com/2019/11/18/politics/donald-trump-eddie-rispone-john-bel-edwards/index.html",
-        "https://www.cnn.com/2019/11/17/politics/john-bel-edwards-louisiana-governor-republicans-election/index.html",
-        "https://www.cnn.com/2019/11/15/politics/trump-gun-legislation-inaction/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-10-2019/index.html",
-        "https://www.cnn.com/2019/11/06/politics/virginia-state-house-state-senate-2020/index.html",
-        "https://www.cnn.com/2019/11/05/politics/state-of-play-spending-talks/index.html",
-        "https://www.cnn.com/2019/11/04/politics/luz-escamilla-salt-lake-city-mayor-race/index.html",
-        "https://www.cnn.com/politics/live-news/elijah-cummings-funeral/index.html",
-        "https://www.cnn.com/2019/10/15/politics/ohio-voters-on-impeachment/index.html",
-        "https://www.cnn.com/politics/live-news/elijah-cummings-house-oversight-committee-dies-dle/index.html",
-        "https://www.cnn.com/2019/10/16/politics/fact-check-trump-12-false-claims-italian-president/index.html",
-        "https://www.cnn.com/2019/10/16/politics/impeachment-watch-october-15/index.html",
-        "https://www.cnn.com/2019/10/15/politics/impeachment-voters-2020-race-trump/index.html",
-        "https://www.cnn.com/2019/10/11/politics/donald-trump-rally-bernie-sanders-week-in-review/index.html",
-        "https://www.cnn.com/2019/10/10/politics/trump-constitutional-crisis/index.html",
-        "https://www.cnn.com/2019/10/08/politics/voters-support-opposition-trump-impeachment/index.html",
-        "https://www.cnn.com/2019/10/05/politics/pompeo-state-department-ukraine-controversy/index.html",
-        "https://www.cnn.com/2019/10/04/politics/mike-pence-documents-impeachment/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-04-2019/index.html",
-        "https://www.cnn.com/2019/10/02/politics/putin-2020-us-presidential-election-joke-intl/index.html",
-        "https://www.cnn.com/2019/10/01/politics/maxine-waters-tweet-trump-solitary-confinement/index.html",
-        "https://www.cnn.com/2019/09/30/politics/donald-trump-civil-war-impeachment/index.html",
-        "https://www.cnn.com/2019/09/26/politics/donald-trump-united-nations-press-conference-ukraine/index.html",
-        "https://www.cnn.com/2019/09/25/politics/trump-september-false-claims-fact-check-79-false/index.html",
-        "https://www.cnn.com/2019/09/20/politics/donald-trump-corey-lewandowski-gun-control-ukraine-week-in-review/index.html",
-        "https://www.cnn.com/2019/09/19/politics/administration-pentagon-more-wall-funding/index.html",
-        "https://www.cnn.com/2019/09/17/politics/fact-check-trump-makes-at-least-26-false-claims-at-new-mexico-rally/index.html",
-        "https://www.cnn.com/2019/09/17/politics/us-belarus-ambassadors/index.html",
-        "https://www.cnn.com/2019/08/26/politics/sean-duffy-republican-retirements/index.html",
-        "https://www.cnn.com/2019/09/10/politics/trump-north-carolina-rally/index.html",
-        "https://www.cnn.com/2019/09/09/politics/house-senate-to-do-list-september/index.html",
-        "https://www.cnn.com/2019/09/09/politics/donald-trump-politics-alabama-hurricane-afghanistan-business/index.html",
-        "https://www.cnn.com/2019/09/04/politics/bill-flores-not-running-reelection-texas-republican/index.html",
-        "https://www.cnn.com/2019/08/30/politics/donald-trump-hurricane-2020-border-wall-week-in-review/index.html",
-        "https://www.cnn.com/2019/08/28/politics/donald-trump-2020-election-pardons-walls-victories/index.html",
-        "https://www.cnn.com/2019/08/28/politics/trump-johnson-brexit/index.html",
-        "https://www.cnn.com/2019/08/23/politics/donald-trump-diplomacy-g7-summit-economy/index.html",
-        "https://www.cnn.com/2019/08/21/politics/donald-trump-denmark-diplomacy/index.html",
-        "https://www.cnn.com/2019/08/16/politics/donald-trump-michigan-man-of-the-year-fact-check/index.html",
-        "https://www.cnn.com/2019/08/12/politics/scaramucci-trump-2020/index.html",
-        "https://www.cnn.com/2019/08/02/politics/donald-trump-cincinnati-speech-campaign-rally/index.html",
-        "https://www.cnn.com/2019/07/29/politics/mark-meadows-elijah-cummings-donald-trump/index.html",
-        "https://www.cnn.com/2019/07/29/politics/trump-al-sharpton-elijah-cummings/index.html",
-        "https://www.cnn.com/2019/07/27/politics/elijah-cummings-trump-baltimore/index.html",
-        "https://www.cnn.com/2019/07/16/politics/donald-trump-alexandria-ocasio-cortez-squad-ilhan-omar/index.html",
-        "https://www.cnn.com/2019/07/24/politics/doug-collins-opening-statement-mueller-hearing/index.html",
-        "https://www.cnn.com/2019/07/22/politics/budget-deal/index.html",
-        "https://www.cnn.com/2019/07/22/politics/donald-trump-squad-tweets-not-very-smart/index.html",
-        "https://www.cnn.com/2019/07/18/politics/donald-trump-north-carolina-speech/index.html",
-        "https://www.cnn.com/2019/07/15/politics/lindsey-graham-communists-democratic-congresswomen/index.html",
-        "https://www.cnn.com/2019/07/14/politics/2020-campaign-what-to-watch/index.html",
-        "https://www.cnn.com/2019/07/12/politics/pelosi-alexandria-ocasio-cortez-house-democrats/index.html",
-        "https://www.cnn.com/2019/07/11/politics/donald-trump-social-media-summit-census-fact-check/index.html",
-        "https://www.cnn.com/2019/07/09/politics/who-is-amy-mcgrath-kentucky-senate-candidate/index.html",
-        "https://www.cnn.com/2019/07/09/politics/moderates-liberals-2020-analysis/index.html",
-        "https://www.cnn.com/2019/07/08/politics/nancy-pelosi-alexandria-ocasio-cortez/index.html",
-        "https://www.cnn.com/2019/07/07/politics/2020-campaign-what-to-watch/index.html",
-        "https://www.cnn.com/2019/07/05/politics/aoc-liberals-joe-biden-cnn-interview/index.html",
-        "https://www.cnn.com/2019/07/04/politics/justin-amash-leaving-gop/index.html",
-        "https://www.cnn.com/2019/03/10/politics/amash-trump-house-republicans-lonely/index.html",
-        "https://www.cnn.com/2019/07/01/politics/donald-trump-kim-jong-un-north-korea-diplomacy-2020-election/index.html",
-        "https://www.cnn.com/2019/06/30/politics/2020-democrats-donald-trump-kim-jong-un-north-korea-cnntv/index.html",
-        "https://www.cnn.com/2019/06/28/politics/democratic-debate-2020-viewership-ratings/index.html",
-        "https://www.cnn.com/2019/06/27/politics/china-us-trade-war-trump-xi-intl-hnk/index.html",
-        "https://www.cnn.com/2019/06/25/politics/donald-trump-the-hill-interview/index.html",
-        "https://www.cnn.com/2019/06/18/politics/roy-moore-senate-run-2020-alabama/index.html",
-        "https://www.cnn.com/2019/06/18/politics/donald-trump-orlando-rally-2020-kickoff/index.html",
-        "https://www.cnn.com/2019/06/17/politics/trump-2020-kickoff-pollster-firing/index.html",
-        "https://www.cnn.com/2019/06/16/politics/business-backlash-trump-tariffs-uncertainty/index.html",
-        "https://www.cnn.com/2019/06/13/politics/kellyanne-conway-hatch-act/index.html",
-        "https://www.cnn.com/2019/06/12/politics/lucy-mcbath-impeachment-pressure/index.html",
-        "https://www.cnn.com/2019/06/12/politics/donald-trump-iowa-biden/index.html",
-        "https://www.cnn.com/2019/06/08/politics/georgia-house-race-heartbeat-bill-abortion-rights/index.html",
-        "https://www.cnn.com/2019/06/08/politics/donald-trump-queen-uk-trip-dday-ireland/index.html",
-        "https://www.cnn.com/2019/06/07/politics/donald-trump-normandy/index.html",
-        "https://www.cnn.com/2019/06/03/politics/president-trump-britain-uk-trip/index.html",
-        "https://www.cnn.com/2019/05/31/politics/fisher-sand-and-gravel-legal-history-border-wall/index.html",
-        "https://www.cnn.com/2019/05/26/politics/inside-politics-forecast-may-26-cnntv/index.html",
-        "https://www.cnn.com/2019/05/24/politics/donald-trump-nancy-pelosi-democrats-republicans/index.html",
-        "https://www.cnn.com/2019/05/24/politics/senate-republicans-agenda-congress/index.html",
-        "https://www.cnn.com/2019/05/23/politics/biden-migrant-children-deaths-not-who-we-are/index.html",
-        "https://www.cnn.com/2019/05/22/politics/congress-recess-disaster-aid-budget-talk-senate-republicans/index.html",
-        "https://www.cnn.com/2019/05/08/politics/trump-constitutional-crisis/index.html",
-        "https://www.cnn.com/2019/05/07/politics/donald-trump-congress-barr-mnuchin-contempt/index.html",
-        "https://www.cnn.com/2019/05/01/politics/mike-pompeo-venezuela-military-action/index.html",
-        "https://www.cnn.com/2019/04/26/politics/donald-trump-sean-hannity-week-in-review/index.html",
-        "https://www.cnn.com/2019/04/26/politics/richard-molina-arrested-voting-scheme/index.html",
-        "https://www.cnn.com/2019/04/24/politics/democrats-courts-white-house-subpoenas/index.html",
-        "https://www.cnn.com/2019/04/24/politics/donald-trump-stonewall-accountability-congress/index.html",
-        "https://www.cnn.com/2019/04/23/politics/donald-trump-england-japan-royal-visits/index.html",
-        "https://www.cnn.com/2019/04/22/politics/donald-trump-organization-financial-records/index.html",
-        "https://www.cnn.com/2019/04/19/politics/duncan-hunter-border-video-violate-bail-agreement/index.html",
-        "https://www.cnn.com/2019/04/10/politics/letitia-tish-james-new-york-attorney-general-trump/index.html",
-        "https://www.cnn.com/2019/04/09/politics/donald-trump-mcgahn-tillerson-nielsen/index.html",
-        "https://www.cnn.com/2019/04/05/politics/donald-trump-reversals-week-in-review/index.html",
-        "https://www.cnn.com/2019/03/29/politics/fact-checking-trump-michigan-speech/index.html",
-        "https://www.cnn.com/politics/live-news/trump-rally-michigan-march-2019/index.html",
-        "https://www.cnn.com/2019/03/25/politics/nancy-pelosi-next-big-fight/index.html",
-        "https://www.cnn.com/2019/03/21/politics/seth-moulton-election-reform-2020/index.html",
-        "https://www.cnn.com/2019/03/22/politics/white-house-isis-territory-syria/index.html",
-        "https://www.cnn.com/2019/03/20/politics/trump-syria-strategy/index.html",
-        "https://www.cnn.com/politics/live-news/trump-brazil-president-jair-bolsonaro-march-2019/index.html",
-        "https://www.cnn.com/2019/03/19/politics/america-first-policies-mark-meadows-jim-jordan/index.html",
-        "https://www.cnn.com/2019/03/17/politics/beto-orourke-2020-campaign-first-days/index.html",
-        "https://www.cnn.com/2019/03/16/politics/republican-national-emergency-border-wall-trump-veto/index.html",
-        "https://www.cnn.com/2019/03/13/politics/paul-ryan-trump-re-election/index.html",
-        "https://www.cnn.com/2019/03/14/politics/beto-orourke-wildcard-candidate-democrats-2020/index.html",
-        "https://www.cnn.com/2019/03/13/politics/senate-vote-republicans-trump/index.html",
-        "https://www.cnn.com/2019/03/12/politics/mike-pence-national-emergency-republican-senators/index.html",
-        "https://www.cnn.com/2019/03/11/politics/lindsey-graham-netanyahu-golan-heights/index.html",
-        "https://www.cnn.com/2019/03/11/politics/cnn-poll-iowa-republicans-trump/index.html",
-        "https://www.cnn.com/2019/03/08/politics/john-delaney-middle-lane-crowded-field/index.html",
-        "https://www.cnn.com/2019/03/07/politics/senate-republicans-emergency-declaration-emergency/index.html",
-        "https://www.cnn.com/2019/03/07/politics/national-emergency-vote-white-house-republicans/index.html",
-        "https://www.cnn.com/2019/03/02/politics/william-barr-george-hw-bush/index.html",
-        "https://www.cnn.com/2019/03/05/politics/whip-list-republican-senators-trump-emergency-declaration/index.html",
-        "https://www.cnn.com/2019/03/05/politics/national-emergency-border-wall-trump-senate/index.html",
-        "https://www.cnn.com/2019/03/03/politics/inside-politics-forecast-march-3-cnntv/index.html",
-        "https://www.cnn.com/2019/03/02/politics/trump-presidents-veto-congress-history-override-national-emergency/index.html",
-        "https://www.cnn.com/2019/03/03/politics/2020-marijuana-sex-work-gambling/index.html",
-        "https://www.cnn.com/2019/02/25/politics/donald-trump-kim-north-korea-michael-cohen/index.html",
-        "https://www.cnn.com/2019/02/28/politics/kfile-investigation-robocalls/index.html",
-        "https://www.cnn.com/2019/02/27/politics/kushner-saudi-prince-visit-khashoggi/index.html",
-        "https://www.cnn.com/2019/02/26/politics/house-vote-trump-national-emergency/index.html",
-        "https://www.cnn.com/2019/02/25/politics/tillis-to-vote-against-national-emergency/index.html",
-        "https://www.cnn.com/2019/02/25/politics/bernie-sanders-venezuela-maduro/index.html",
-        "https://www.cnn.com/politics/live-news/bernie-sanders-town-hall-february-2019/index.html",
-        "https://www.cnn.com/2019/02/25/politics/trump-kim-summit-stakes-washington-hanoi-vietnam/index.html",
-        "https://www.cnn.com/2019/02/21/politics/susan-collins-trump-national-emergency-lawsuit/index.html",
-        "https://www.cnn.com/2019/02/20/politics/nato-social-media-influence-report/index.html",
-        "https://www.cnn.com/2019/02/19/politics/larry-hogan-trump-2020-weak/index.html",
-        "https://www.cnn.com/2019/02/18/politics/donald-trump-venezuela-miami/index.html",
-        "https://www.cnn.com/politics/live-news/trump-venezuela-speech/index.html",
-        "https://www.cnn.com/politics/live-news/february-16-17-president-campaign-travels/index.html",
-        "https://www.cnn.com/2019/02/13/politics/rep-adam-kinzinger-deployed-to-active-duty-on-southern-border/index.html",
-        "https://www.cnn.com/2019/02/12/politics/donald-trump-el-paso-beto-orourke/index.html",
-        "https://www.cnn.com/2019/02/12/politics/fact-checking-some-of-trumps-el-paso-speech/index.html",
-        "https://www.cnn.com/2019/02/11/politics/donald-trump-el-paso-immigration-campaign-rally/index.html",
-        "https://www.cnn.com/2019/02/11/politics/beto-orourke-counters-trump-el-paso/index.html",
-        "https://www.cnn.com/politics/live-news/whitaker-house-judiciary-testimony/index.html",
-        "https://www.cnn.com/2019/02/07/politics/midterm-election-costs-topped-5-7-billion/index.html",
-        "https://www.cnn.com/2019/02/05/politics/klobuchar-2020-announcement/index.html",
-        "https://www.cnn.com/2019/02/04/politics/trump-border-wall/index.html",
-        "https://www.cnn.com/2019/02/04/politics/alexandria-ocasio-cortez-jeremy-corbyn-call/index.html",
-        "https://www.cnn.com/2019/01/31/politics/nyt-trump-talks-waste-time/index.html",
-        "https://www.cnn.com/2019/01/30/politics/trump-paul-ryan-border-wall/index.html",
-        "https://www.cnn.com/2019/01/30/politics/sarah-sanders-god-trump/index.html",
-        "https://www.cnn.com/2019/01/29/politics/donald-trump-nancy-pelosi-2020-power/index.html",
-        "https://www.cnn.com/2019/01/28/politics/trump-tax-returns-democrats-congress/index.html",
-        "https://www.cnn.com/2019/01/26/politics/trump-presidency-tough-day-shutdown-wall-roger-stone-mueller-investigation/index.html",
-        "https://www.cnn.com/2019/01/24/politics/pelosi-schools-trump/index.html",
-        "https://www.cnn.com/2019/01/24/politics/senate-shutdown-votes-mcconnell-schumer-donald-trump-government-shutdown/index.html",
-        "https://www.cnn.com/2019/01/24/politics/donald-trump-nancy-pelosi-government-shutdown/index.html",
-        "https://www.cnn.com/2019/01/23/politics/donald-trump-nancy-pelosi/index.html",
-        "https://www.cnn.com/2019/01/22/politics/donald-trump-state-of-the-union-address-locations/index.html",
-        "https://www.cnn.com/2019/01/22/politics/government-shutdown-32-day-donald-trump-nancy-pelosi/index.html",
-        "https://www.cnn.com/2019/01/21/politics/shutdown-trump-campaign-2020/index.html",
-        "https://www.cnn.com/2019/01/18/politics/donald-trump-government-shutdown-nancy-pelosi-afghanistan/index.html",
-        "https://www.cnn.com/2019/01/17/politics/donald-trump-shutdown-nancy-pelosi-economy/index.html",
-        "https://www.cnn.com/2019/01/17/politics/bill-barr-democratic-support/index.html",
-        "https://www.cnn.com/2019/01/16/politics/government-shutdown-state-of-play/index.html",
-        "https://www.cnn.com/2019/01/14/politics/donald-trump-jeanine-pirro/index.html",
-        "https://www.cnn.com/2019/01/15/politics/trump-boxed-in-on-shutdown/index.html",
-        "https://www.cnn.com/2019/01/14/politics/trump-russia-weekend/index.html",
-        "https://www.cnn.com/2019/01/13/politics/ted-cruz-russia/index.html",
-        "https://www.cnn.com/2019/01/13/politics/inside-politics-forecast-cnntv/index.html",
-        "https://www.cnn.com/2019/01/13/politics/donald-trump-russia-jeanine/index.html",
-        "https://www.cnn.com/2019/01/11/politics/2020-election-harris-biden-beto-gillibrand/index.html",
-        "https://www.cnn.com/2019/01/11/politics/2020-the-tmi-election/index.html",
-        "https://www.cnn.com/2019/01/07/politics/trump-wall-active-national-emergency/index.html",
-        "https://www.cnn.com/2019/01/08/politics/lisa-murkowski-senate-republicans/index.html",
-        "https://www.cnn.com/2019/01/08/politics/trump-not-named/index.html",
-        "https://www.cnn.com/2019/01/04/politics/trump-calling-shutdown-strike/index.html",
-        "https://www.cnn.com/2019/01/04/politics/elizabeth-warren-democratic-2020-iowa-first-visit/index.html",
-        "https://www.cnn.com/2019/01/03/politics/nancy-pelosi-donald-trump-state-of-the-union/index.html",
-        "https://www.cnn.com/2019/01/03/politics/nancy-pelosi-house-speaker-vote-new-congress/index.html",
-        "https://www.cnn.com/2019/01/03/politics/trump-golf-shutdown/index.html",
-        "https://www.cnn.com/2019/01/02/politics/donald-trump-democratic-house/index.html",
-        "https://www.cnn.com/2019/01/02/politics/mitt-romney-cnntv/index.html",
-        "https://www.cnn.com/2019/01/01/politics/donald-trump-new-year-politics-2020-election/index.html",
-        "https://www.cnn.com/2018/12/24/politics/mccaskill-exit-interview/index.html",
-        "https://www.cnn.com/2018/12/31/politics/elizabeth-warren-exploratory-committee-2020/index.html",
-        "https://www.cnn.com/2019/12/11/opinions/boris-johnson-love-actually-debacle-thomas/index.html",
-        "https://www.cnn.com/2019/12/07/opinions/impeachment-legal-analyst-debate-zeldin-ray/index.html",
-        "https://www.cnn.com/2019/12/01/opinions/trump-ordained-and-dethroned-opinion-weekly-column/index.html",
-        "https://www.cnn.com/2019/11/21/opinions/buttigieg-yang-stole-the-show-debate-opinion-graham/index.html",
-        "https://www.cnn.com/2019/10/22/opinions/marie-yovanovitch-launches-insurrection-hunt/index.html",
-        "https://www.cnn.com/2019/11/05/opinions/what-2020-election-is-really-about-williams/index.html",
-        "https://www.cnn.com/2019/10/03/opinions/lithuania-trapped-between-putin-and-trump-opinion-andelman/index.html",
-        "https://www.cnn.com/2019/10/02/opinions/impeaching-trump-could-help-russians-and-republicans-jonathan-brunson/index.html",
-        "https://www.cnn.com/2019/09/25/opinions/trump-ukraine-call-if-this-isnt-impeachable-nothing-is-bowman/index.html",
-        "https://www.cnn.com/2019/09/06/opinions/israel-iran-response-opinion-oren/index.html",
-        "https://www.cnn.com/2019/09/05/opinions/justin-bieber-teaches-boris-johnson-donald-trump-a-lesson-thomas/index.html",
-        "https://www.cnn.com/2019/08/08/opinions/kelly-craft-ambassador-un-shortcoming-bociurkiw/index.html",
-        "https://www.cnn.com/2019/08/05/opinions/el-paso-shooting-was-a-hate-crime-against-latinos-sanchez/index.html",
-        "https://www.cnn.com/2019/08/04/opinions/trump-lack-of-empathy-el-paso-dayton-dantonio/index.html",
-        "https://www.cnn.com/2019/07/21/opinions/trump-is-trying-to-repeat-history-weekly-column-galant/index.html",
-        "https://www.cnn.com/2019/07/14/opinions/who-doesnt-belong-in-america-ghitis/index.html",
-        "https://www.cnn.com/2019/07/14/opinions/trump-acosta-epstein-opinion-weekly-column-galant/index.html",
-        "https://www.cnn.com/2019/07/05/opinions/trump-fourth-of-july-event-military-opinion-ben-ghiat/index.html",
-        "https://www.cnn.com/2019/06/18/opinions/us-north-korea-peace-negotiations-andelman/index.html",
-        "https://www.cnn.com/2019/05/26/opinions/trump-migrant-child-death-cover-up-opinion-obeidallah/index.html",
-        "https://www.cnn.com/2019/05/23/opinions/donald-trump-shows-why-hes-a-stunningly-bad-deal-maker-ghitis/index.html",
-        "https://www.cnn.com/2019/05/17/opinions/four-ways-trump-trying-to-be-king-opinion-zelizer/index.html",
-        "https://www.cnn.com/2019/04/09/opinions/america-deserves-brave-president-kirsten-gillibrand/index.html",
-        "https://www.cnn.com/2019/04/05/opinions/trumps-week-of-utter-chaos-sends-a-message-zelizer/index.html",
-        "https://www.cnn.com/2019/03/31/opinions/weekly-opinion-roundup-column-obamacare-mueller-carr/index.html",
-        "https://www.cnn.com/2019/03/25/opinions/barr-mueller-report-opinion-roundup/index.html",
-        "https://www.cnn.com/2019/03/11/opinions/brexit-votes-analysis-gbr-intl/index.html",
-        "https://www.cnn.com/2019/03/06/opinions/mueller-report-smoking-gun-trump-zelizer/index.html",
-        "https://www.cnn.com/2019/03/08/opinions/nic-robertson-brexit-dup-opinion-intl-gbr/index.html",
-        "https://www.cnn.com/2019/02/23/opinions/trump-kim-second-summit-reynolds-interview-kirby/index.html",
-        "https://www.cnn.com/2019/02/17/opinions/presidential-weekly-briefing-emergency-declaration-vinograd/index.html",
-        "https://www.cnn.com/2019/02/10/opinions/trumps-nightmare-female-presidential-candidates-obeidallah/index.html",
-        "https://www.cnn.com/2019/02/06/opinions/sotu-foreign-policy-opinion-vinograd-kirby/index.html",
-        "https://www.cnn.com/2019/02/04/opinions/donald-trump-ghost-story-state-of-the-union-joseph-ellis/index.html",
-        "https://www.cnn.com/2019/01/31/opinions/the-problem-with-melania-trumps-be-best-campaign-dantonio/index.html",
-        "https://www.cnn.com/2019/01/29/opinions/duke-professor-mla-report-foreign-language-departments-ben-ghiat/index.html",
-        "https://www.cnn.com/2019/01/23/opinions/government-shutdown-workers-lives-more-perilous-black/index.html",
-        "https://www.cnn.com/2019/01/18/opinions/trump-impeachment-inquiry-right-now-zelizer/index.html",
-        "https://www.cnn.com/2019/01/17/opinions/cracks-emerging-in-gop-ranks-over-shutdowns-toll-wilson/index.html",
-        "https://www.cnn.com/2019/01/16/opinions/british-expat-brexit-predictable-mess-crilly/index.html",
-        "https://www.cnn.com/2019/01/07/opinions/brexit-may-merrick-gbr-intl/index.html",
-        "https://www.cnn.com/2019/12/06/politics/impeachment-watch-december-5/index.html",
-        "https://www.cnn.com/politics/live-news/nancy-pelosi-town-hall-2019/index.html",
-        "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-05-2019/index.html",
-        "https://www.cnn.com/2019/12/05/politics/nancy-pelosi-dont-mess-with-me/index.html",
-        "https://www.cnn.com/2019/06/18/politics/mitch-mcconnell-nancy-pelosi-legislation-standoff/index.html",
-        "https://www.cnn.com/2019/03/30/politics/beto-orourke-2020-reversals-apologies/index.html",
-        "https://www.cnn.com/2019/03/04/politics/john-hickenlooper-presidential-campaign/index.html",
-        "https://www.cnn.com/2019/05/22/opinions/beto-orourke-cnn-town-hall-joseph/index.html",
-        "https://www.cnn.com/2019/08/15/politics/joe-walsh-primary-challenge-trump-2020-cnntv/index.html",
-        "https://www.cnn.com/2019/07/30/politics/cnn-democratic-debate-night-1/index.html",
-        "https://www.cnn.com/2019/07/18/politics/donald-trump-kevin-mccarthy-send-her-back/index.html",
-        "https://www.cnn.com/2019/12/12/opinions/fractured-states-reader-response-carr-juncadella/index.html",
-        "https://www.cnn.com/2019/07/19/opinions/trump-send-her-back-racist-demoralizing-unlawful-alexander/index.html"
+        {
+            "link": "https://www.cnn.com/2019/12/31/politics/fact-check-donald-trump-top-lies-of-2019-daniel-dale/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/29/politics/politics-headlines-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/27/politics/mike-pompeo-social-media-possible-run-senate-kansas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/16/politics/trump-top-lines-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/20/politics/jewish-members-of-congress-stephen-miller/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-12-20-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/christianity-today-op-ed-trump-removal-office/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/20/politics/nancy-pelosi-mitch-mcconnell-impeachment-fight/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/trump-hotel-impeachment-postcard/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/senate-spending-deal-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/supreme-court-affordable-care-act-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/17/politics/never-trumpers-pac-donald-trump-george-conway/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/17/politics/fact-check-trump-impeachment-letter-to-pelosi/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/17/politics/house-vote-fund-government-avert-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/13/politics/supreme-court-trump-impeachment-taxes-separation-of-powers/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/13/politics/supreme-court-trump-financial-documents/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/13/politics/boris-johnson-corbyn-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/10/politics/federal-court-halts-changes-fee-waiver-for-naturalization/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/12/politics/deal-in-principle-on-2020-spending-bills-reached/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/11/politics/cnn-polls-california-texas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/11/politics/arrests-brazilian-migrants-spiked-2019-border-surge/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/10/politics/pete-buttigieg-mckinsey-clients/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-10-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/10/politics/fault-lines-economic-inequality-political-polarization-brookings/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/08/politics/bernie-sanders-young-latino-voters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/07/politics/chicago-mayor-lori-lightfoot-pete-buttigieg/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/05/politics/trump-appeal-supreme-court-house-subpoena-mazars/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/03/politics/jerry-nadler-house-judiciary-committee-preview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/26/politics/cnn-poll-impeachment-views/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/25/politics/michael-bloomberg-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/22/politics/mike-pompeo-kansas-senate-seat-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/21/politics/obama-legacy-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-11-20-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/20/politics/democratic-debate-tonight/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/20/politics/wayne-messam-suspends-2020-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/18/politics/cnn-iowa-poll-impeachment/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/16/politics/louisiana-election-results/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/15/politics/obama-warns-2020-candidates-reality/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/16/politics/louisiana-governor-runoff-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/11/politics/lawyer-dreamer-supreme-court-daca-arguments/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/10/politics/supreme-court-daca-john-roberts/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/07/politics/donald-trump-jeff-sessions-alabama-senate-run/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/jeff-sessions-senate-run-alabama/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/republican-reaction-election-day-results/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/daniel-cameron-mitch-mcconnell-kentucky-attorney-general/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/05/politics/white-non-college-evangelicals-election-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-04-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/01/politics/beto-orourke-drops-out-2020-statement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/31/politics/donald-trump-ad-world-series-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/31/politics/trump-campaign-ad-world-series-illegal-immigration-half/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/30/politics/american-bar-association-nominees-vandyke/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/24/politics/democratic-party-left-liberal-q-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/23/politics/cnn-poll-biden-lead-increases/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/22/politics/anita-hill-2020-democratic-candidates-brett-kavanaugh/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/22/politics/religion-gap-republican-democratic-voters-polling/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/21/politics/trump-homeland-security-secretary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/20/politics/republican-turning-point-trump-ip-forecast/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/20/politics/donald-trump-dc-circuit-impeachment-inquiry/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/16/politics/democrats-impeachment-strategy-white-house-stonewalling/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-october-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/15/politics/impeachment-watch-october-14/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/13/politics/homeland-security-mcaleenan-trump-ip-forecast/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-12-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-11-19/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/11/politics/mcaleenan-resigns-homeland-security-secretary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/11/politics/fact-check-trump-false-claims-longest-rally-minneapolis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/10/politics/donald-trump-campaign-rally-minnesota/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/11/politics/impeachment-watch-october-10/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/08/politics/supreme-court-john-roberts-lgbtq-arguments/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/06/politics/inside-politics-forecast-kamala-harris-iowa-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/04/politics/abortion-supreme-court-louisiana/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/04/politics/john-roberts-new-supreme-court-term-abortion/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/03/politics/donald-trump-the-villages-florida/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/02/politics/donald-trump-boris-johnson-scott-morrison-russia-investigation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/02/politics/trump-finland-president-oval-office-fact-check-whistleblower-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-inquiry-10-02-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/02/politics/donald-trump-kirstjen-nielsen/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/01/politics/texas-retirements-gop-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/27/politics/daca-rescinding-illegal-supreme-court-briefs/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/24/politics/impeachment-nancy-pelosi-house-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-un-speech-09-24-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/23/politics/america-in-one-room-political-discussions/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/22/politics/narendra-modi-donald-trump-texas-rally-intl/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/21/politics/judge-orders-trump-testify-protester-trump-tower/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/18/politics/donald-trump-corey-lewandowski-democrats-impeachment/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/18/politics/john-mitnick-homeland-security-general-counsel-fired/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/16/politics/womens-march-board-members-leaving/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/15/politics/pompeo-senate-kansas-republican-fear-kobach/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/14/politics/orange-county-republican-congress-race/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/12/politics/2020-democrats-health-care/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/12/politics/donald-trump-baltimore-house-republican-conference-retreat-dinner/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-september-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cnn-poll-09-10-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/23/politics/trump-cabinet-vacancies-apprentice/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/10/politics/fact-check-trump-north-carolina-rally-22-false-claims/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/10/politics/turnberry-air-force-trump-constitution/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/09/politics/att-paul-singer-trump-gop-donor/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/06/politics/democrats-impeachment-roadblocks-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/05/politics/2020-democratic-presidential-candidates-ranked/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/04/politics/house-judiciary-committee-subpoenas-dhs/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/04/politics/climate-change-voters-demographics/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/04/politics/andrew-yang-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/28/politics/fact-check-trump-weekly-tally-48-false-claims/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/28/politics/trump-border-wall-election-day/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/26/politics/rob-porter-subpoena-house-judiciary-committee/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/steve-bullock-bill-de-blasio-town-halls-august-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/23/politics/david-koch-dead/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/21/politics/donald-trump-economy-isis-2020-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/20/politics/justice-department-deferred-action-for-childhood-arrivals-supreme-court/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/20/politics/gun-control-congress-democrats-change/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/18/politics/michael-mccaul-texas-reelection/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/12/politics/trump-conspiracy-theories-jeffrey-epstein/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/09/politics/equinox-joaquin-castro-trump-donors/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/10/politics/trump-spies-shakeup/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/09/politics/kushner-rubashkin-trump-clemency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/08/politics/mcaleenan-immigration-hardliners-white-house/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/08/politics/fso-resigns-washington-post-op-ed/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/08/politics/andrew-yang-democratic-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/08/politics/2020-democrats-trump-el-paso-dayton-shootings/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/08/politics/2020-democratic-presidential-candidates-ranked/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/06/politics/trump-invasion-facebook-ads/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/06/politics/weekly-fact-check-trump-early-august/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/06/politics/republicans-recess-pro-gun-stance-wont-waver/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/05/politics/jd-scholten-challenges-steve-king/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/02/politics/donald-trump-cincinnati-rally-fact-check/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/01/politics/texas-republican-will-hurd-not-seeking-re-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/01/politics/obama-legacy-democratic-primary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/01/politics/democratic-debate-highlights-night-2/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/01/politics/joe-biden-democratic-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-july-31-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-july-30-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/30/politics/who-won-democratic-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/30/politics/11-year-old-reporter-jaden-jefferson-interviews-elizabeth-warren/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/24/politics/2020-poll-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/20/politics/2020-trump-reelection-strategy-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/19/politics/trump-campaign-2020-ilhan-omar-tweets/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cnn-democratic-debate-draw/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/18/politics/trump-world-leaders-silence-analysis-intl/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/17/politics/donald-trump-race-america-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/17/politics/donald-trump-racism-democrats-2020-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/donald-trump-fact-check-cabinet-meeting/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/12/politics/white-supremacists-cheer-midterms-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/white-supremacists-cheer-trump-racist-tweets-soh/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/kamala-harris-drug-prices/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/tim-alberta-american-carnage-donald-trump-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/donald-trump-squad-ilhan-omar-racist/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/15/politics/who-are-the-squad/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/republicans-immigrants-2020-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-immigration-july-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-election-campaign-fundraising/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/14/politics/inside-politics-forecast-beto-orourke-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/14/politics/trump-racist-tweets-progressive-democratic-congresswomen-aoc/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/14/politics/donald-trump-tweets-democratic-congresswomen-race-nationalities/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/11/politics/us-getting-closer-safe-third-agreement-guatemala/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/11/politics/donald-trump-courts-immigration-business-judiciary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/08/politics/census-citizenship-trump-plan/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/08/politics/pelosi-trump-census-citizenship-question/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/08/politics/congress-budget-talks/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/08/politics/kris-kobach-running-for-senate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/07/politics/inside-politics-forecast-july-7-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/29/politics/democratic-debates-2020-kamala-harris-joe-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/01/politics/donald-trump-japan-press-conference-busing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/30/politics/2020-campaign-lookahead-june-30/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/g20-june-2019-intl-hnk/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/28/politics/border-funding-bill-house-democrats-divided-progressives-moderates/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/28/politics/daca-supreme-court/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/27/politics/democratic-debate-fact-check-night-2/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/28/politics/democratic-debate-highlights-night-two/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-june-27-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/supreme-court-opinions-june-27-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/27/politics/democratic-debate-night-2-preview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/27/politics/julian-castro-nbc-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/27/politics/debate-julin-castro/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/26/politics/trump-australia-immigration-intl-hnk/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/27/politics/election-2020-democrats-debates-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/democratic-debate-june-26-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/26/politics/donald-trump-xi-jinping-vladimir-putin-g20-meetings/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/26/politics/2020-election-democrats-debates-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/25/politics/census-citizenship-question-john-roberts/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/24/politics/biden-immigration-op-ed-miami-herald/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/24/politics/iran-immigration-donald-trump-2020-reelection/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/21/politics/ice-immigration-raids/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/21/politics/donald-trump-joe-biden-cory-booker-hope-hicks-week-in-review/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/20/politics/trump-swing-voter-outreach-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/19/politics/syrian-refugee-arrested-isis-attack/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/19/politics/fact-check-trump-orlando-rally/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/19/politics/trump-mass-deportations/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/18/politics/trump-orlando-rally-reelection/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-2020-orlando-rally/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/18/politics/donald-trump-election-2020-orlando-florida/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/15/politics/democrats-south-carolina-black-economic-alliance/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/15/politics/donald-trump-campaigning-white-house-hatch-act/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/14/politics/trump-mexico-central-america-intl/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/steve-king-air-force-one/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-biden-iowa-june-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/enemy-of-the-people-jim-acosta-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/10/politics/supreme-court-to-meet-daca/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/09/politics/inside-politics-forecast-june-9-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/07/politics/koch-network-reboot/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/05/politics/mexico-tariffs-republican-senators-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/05/politics/cnn-poll-trump-prediction-economy-issues/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cnn-poll-06-05-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-uk-visit-2019-gbr-intl/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/04/politics/house-passes-dream-and-promise-act/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/02/politics/trump-protocol-uk-visit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/01/politics/democratic-billionaire-donors/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/31/politics/week-in-review-robert-mueller-william-barr-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/31/politics/trump-shred-democratic-institutions/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-mexico-tariffs-immigration-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/29/politics/impeachment-donald-trump-democrats-nancy-pelosi/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/29/politics/hillary-clinton-trump-civil-rights/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/29/politics/daca-supreme-court/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/28/politics/economy-role-2020-presidential-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/23/politics/donald-trump-democrats-fight-investigations/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/22/politics/nancy-pelosi-impeachment-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/beto-orourke-town-hall-may-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/22/politics/beto-orourke-town-hall-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/21/politics/impeachment-jerry-nadler-house-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/21/politics/kris-kobach-donald-trump-immigration-czar/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/20/politics/kris-kobach-immigration-white-house/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/21/politics/house-democrats-united-vote-urban-suburban-districts/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/20/politics/donald-trump-pennsylvania-rally/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/17/politics/joe-biden-frontrunner-2020-campaign-week-in-review/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/17/politics/donald-trump-immigration-middle-east-iran/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/16/politics/kamala-harris-south-asian-heritage/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/16/politics/brett-kavanaugh-susan-collins-alabama-abortion/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/16/politics/donald-trump-immigration-plan-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/14/politics/house-democrats-affordable-care-act/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/10/politics/kfile-biden-drugs-fence-2006/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/james-comey-town-hall-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/09/politics/fact-check-trump-florida-rally-immigration-puerto-rico/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/07/politics/mitch-mcconnell-mueller-report-impeachment/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/05/politics/inside-politics-forecast-may-5-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/04/politics/donald-trump-paradox-russia-economy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/03/politics/trump-economy-approval-rating-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/02/politics/cnn-poll-trump-economy-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/30/politics/william-barr-2001-interview-special-prosecutor/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/29/politics/mick-mulvaneys-chief-of-staff-playbook-dismantling-trumps-guardrails/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-rally-whca-dinner-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/24/politics/2020-rankings-bernie-sanders-joe-biden-donald-trump-kamala-harris/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/14/politics/coons-democrat-republicans-senate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/25/politics/trump-transition-staffer-impeachment-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/24/politics/kirstjen-nielsen-trump-election-security/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/23/politics/bernie-sanders-impeachment-cnn-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/23/politics/donald-trump-mueller-2020-campaign-advantage/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cnn-town-halls-sanders-buttigieg-harris-warren-klobuchar/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/22/politics/donald-trump-disobey-mueller-report/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/22/politics/census-controversy-explained/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/19/politics/democrats-investigations-trump-mueller/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/21/politics/inside-politics-forecast-april-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/19/politics/trump-presidency-after-robert-mueller-investigation-week-in-review/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/ohio-special-election-primaries-08-07-2018/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/17/politics/donald-trump-house-democrats-investigation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/17/politics/donald-trump-william-barr-mueller-report/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/17/politics/bill-weld-trump-2020-primary-challenge-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/16/politics/trump-sanctuary-cities-urban-rural-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/12/politics/donald-trump-sanctuary-cities/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/12/politics/ivanka-trump-the-atlantic-washington-reputation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/julian-castro-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/jay-inslee-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/10/politics/stephen-miller-tightens-grip-on-immigration-border-policy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/10/politics/kirsten-gillibrand-town-hall-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/10/politics/donald-trump-washington-congress-barr-mueller-mnuchin-taxes/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/kirsten-gillibrand-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/barr-congress-04-09-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/08/politics/trump-women-cabinet-gone/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/08/politics/kirstjen-nielsen-replacements-department-of-homeland-security-secretary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/08/politics/donald-trump-kirstjen-nielsen-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/07/politics/kevin-mcaleenan-acting-secretary-homeland-security/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/06/politics/trumps-flips-policy-changes/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/weekend-politics-04-06-19/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/03/politics/chicago-mayor-elect-lori-lightfoot-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/03/politics/donald-trump-immigration-health-care-leadership/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/02/politics/white-house-interagency-coordination/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/02/politics/julian-castro-immigration-plan/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/02/politics/donald-trump-border-immigration-health-care-mueller-report-avenatti/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/01/politics/republicans-trump-congress-capitol-hill/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/31/politics/elites-trump-buttigieg-ocasio-cortez/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/31/politics/kamala-harris-immigrant-communities-presidential-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/29/politics/jeff-flake-debate-trump-better-a-democrat-win/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-campaign-03-30-19/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/29/politics/trump-family-driver-ice/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/28/politics/donald-trump-grand-rapids-rally/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/29/politics/donald-trump-nancy-pelosi-russia/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/28/politics/wayne-messam-announces-2020-bid/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cory-booker-town-hall-south-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/26/politics/mueller-report-affect-on-2020-campaign-voters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/25/politics/robert-mueller-donald-trump-russia-investigation-democrats-response/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/25/politics/2020-candidates-mueller-report/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/robert-mueller-report-summary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-campaign-03-23-19/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/22/politics/kamala-harris-latino-voters-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/22/politics/donald-trump-economy-2020-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/20/politics/pompeo-antisemitism-remarks-israel/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/19/politics/cnn-poll-2020-harris-surge-deep-enthusiasm/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/19/politics/trump-approval-rating-national-emergency-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/elizabeth-warren-town-hall-mississippi/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/18/politics/supreme-court-racial-gerrymandering-claim-virginia/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/18/politics/lindsey-graham-donald-trump-south-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/14/politics/trump-pence-gop-emergency-rebuke/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/senate-vote-trump-national-emergency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/14/politics/mitt-romney-resolution-trump-national-emergency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/14/politics/beto-orourke-announces-2020-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/13/politics/florida-mayor-wayne-messam-2020-committee/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/11/politics/trump-fiscal-2020-budget-what-we-know/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/sxsw-town-hall-delaney-gabbard-buttigieg/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/11/politics/donald-trump-2020-immigration-economy-budget-north-korea/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/10/politics/inside-politics-forecast-march-10-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/07/politics/2020-democrats-rankings/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/05/politics/republicans-trump-hush-money-payments/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/05/politics/bloomberg-not-running-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/05/politics/jeff-merkley-president-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/03/politics/iowa-democrats-latinos-julian-castro/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-cpac-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/01/politics/inslee-2020-presidential-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/01/politics/donald-trump-north-korea-diplomacy-deal-making/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/26/politics/senate-resolution-border-wall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/26/politics/michael-cohen-trump-congress-oversight/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/26/politics/democrats-gun-control-bill-party-policy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/19/politics/donald-trump-presidency-history-immigration-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/19/politics/andrew-mccabe-the-threat/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/18/politics/amy-kobuchar-cnn-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/18/politics/donald-trump-emergency-declaration-wall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/18/politics/donald-trump-immigration-border-wall-republicans-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/16/politics/trump-win-base-losing-everyone-else-poll-of-the-week/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/15/politics/donald-trump-national-emergency-immigration-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/15/politics/all-the-freshman-ladies/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/14/politics/william-barr-senate-confirmation-vote/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/04/politics/trump-state-of-the-union-unity/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/13/politics/donald-trump-immigration-wall-congress-executive-power/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/howard-schultz-town-hall-houston/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/12/politics/howard-schultz-cnn-town-hall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-rally-texas-february-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/11/politics/kfile-kamala-harris-undocumented-juveniles/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/10/politics/klobuchar-announcement-2020-president/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/09/politics/julian-castro-2020-van-jones-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/february-2020-campaigning/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/09/politics/donald-trump-house-democrats-2020-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/08/politics/roger-stone-gag-order-filing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/08/politics/kellyanne-conway-assault-maryland-restaurant/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/07/politics/delaney-axe-files/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/07/politics/howard-schultz-perdue-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/state-of-the-union-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/stacey-abrams-state-of-the-union-democratic-response/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/fact-check-trump-state-of-the-union/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/donald-trump-state-of-the-union-2019-transcript/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/06/politics/donald-trump-state-of-the-union-address/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/state-of-the-union-address/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/state-of-the-union-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/undocumented-workers-state-of-the-union/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/stacey-abrams-democratic-response/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/04/politics/what-to-watch-state-of-the-union-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/05/politics/donald-trump-state-of-the-union-persuade-incite-people/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/04/politics/debbie-mucarsel-powell-barrier-breakers/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/01/politics/roger-stone-gag-order/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/01/politics/state-of-the-union-border-wall-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/01/politics/donald-trump-nancy-pelosi-immigration-border-wall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/17/politics/gillibrand-kfile-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/30/politics/undocumented-worker-trump-state-of-the-union/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/29/politics/trump-golf-clubs-undocumented-workers-congress/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/28/politics/donald-trump-government-shutdown-nancy-pelosi-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/28/politics/kamala-harris-identity-2020-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/26/politics/koch-network-priorities/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/25/politics/donald-trump-wall-shutdown-congress/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/21/politics/bloomberg-stop-and-frisk-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/20/politics/donald-trump-nancy-pelosi-government-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/21/politics/trump-mlk-day/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/20/politics/gillibrand-conservative-past-iowa-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/longest-government-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/16/politics/us-donald-trump-shutdown-britain-theresa-may-brexit-russia-putin/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/15/politics/william-barr-hearing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/william-barr-confirmation-hearing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/15/politics/democrats-face-the-age-old-question-in-2020/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/15/politics/donald-trump-william-barr-attorney-general/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/15/politics/what-to-watch-william-barr-hearing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/14/politics/migrant-caravan-honduras-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/14/politics/william-barr-mueller/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/12/politics/julian-castro-presidential-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/11/politics/donald-trump-mueller-russia-wall-democrats/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/09/politics/kamala-harris-the-lead-interview-shutdown-book/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/government-shutdown-january-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/09/politics/donald-trump-border-wall-crisis-speech/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/09/politics/beto-orourke-2020-presidential-run-speculation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2018/09/20/politics/colorado-sixth-district-mike-coffman/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/26/politics/mitt-romney-utah-senate-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/08/politics/donald-trump-prime-time-address-immigration-wall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/08/politics/republicans-democrats-divide-party-demographics-districts/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/05/politics/warren-first-iowa-visit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/04/politics/donald-trump-nancy-pelosi-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/03/politics/new-congress-history-women-diversity/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/03/politics/donald-trump-nancy-pelosi-government-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/03/politics/government-shutdown-blame-game-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/03/politics/new-congress-social-media/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/mitt-romney-tapper-interview-january-2019/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/02/politics/trump-family-romney/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/02/politics/donald-trump-mitt-romney-oped/index.html",
+            "bias": "immigration"
+        }
     ],
     "Year": 2019
 }

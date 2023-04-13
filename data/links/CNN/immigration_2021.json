@@ -1,583 +1,820 @@
 {
     "Biases": [
-        "immigration",
-        "undocumented",
-        "refugees",
-        "asylum seekers",
-        "nationalism",
-        "border",
-        "Dreamers",
-        "xenophobia"
+        "immigration"
     ],
     "Links": [
-        "https://www.cnn.com/2021/12/07/us/five-things-december-7/index.html",
-        "https://www.cnn.com/2021/11/04/us/five-things-november-4-trnd/index.html",
-        "https://www.cnn.com/2021/10/03/us/latino-hispanic-demographics-diversity/index.html",
-        "https://www.cnn.com/2021/09/27/us/five-things-september-27-trnd/index.html",
-        "https://www.cnn.com/2021/09/24/us/five-things-september-24-trnd/index.html",
-        "https://www.cnn.com/2021/09/22/us/five-things-september-22-trnd/index.html",
-        "https://www.cnn.com/2021/09/21/us/five-things-september-21-trnd/index.html",
-        "https://www.cnn.com/2021/09/20/us/five-things-september-20-trnd/index.html",
-        "https://www.cnn.com/2021/09/15/us/five-things-september-15-trnd/index.html",
-        "https://www.cnn.com/2021/09/13/us/five-things-september-13-trnd/index.html",
-        "https://www.cnn.com/2021/09/03/us/texas-laws-abortion-education-voting-access/index.html",
-        "https://www.cnn.com/2021/08/30/us/five-things-august-30-trnd/index.html",
-        "https://www.cnn.com/2021/08/13/us/five-things-august-13-trnd/index.html",
-        "https://www.cnn.com/2021/08/03/us/five-things-august-3-trnd/index.html",
-        "https://www.cnn.com/2021/07/30/us/five-things-july-30-trnd/index.html",
-        "https://www.cnn.com/2021/07/15/us/five-things-july-15-trnd/index.html",
-        "https://www.cnn.com/2021/07/14/us/five-things-july-14-trnd/index.html",
-        "https://www.cnn.com/2021/06/08/us/five-things-june-8-trnd/index.html",
-        "https://www.cnn.com/2021/05/27/us/critical-race-theory-lens-history-crt/index.html",
-        "https://www.cnn.com/2021/05/25/us/five-things-may-25-trnd/index.html",
-        "https://www.cnn.com/2021/05/06/us/demographics-asian-americans-diversity/index.html",
-        "https://www.cnn.com/2021/03/26/us/five-things-march-26-trnd/index.html",
-        "https://www.cnn.com/2021/03/22/us/five-things-march-22-trnd/index.html",
-        "https://www.cnn.com/2021/03/16/us/five-things-march-16-trnd/index.html",
-        "https://www.cnn.com/2021/03/15/us/five-things-march-15-trnd/index.html",
-        "https://www.cnn.com/2021/03/12/us/five-things-march-12-trnd/index.html",
-        "https://www.cnn.com/2021/03/05/us/five-things-march-5-trnd/index.html",
-        "https://www.cnn.com/2021/01/25/us/five-things-january-25-trnd/index.html",
-        "https://www.cnn.com/2021/01/21/us/cesar-chavez-bust-oval-office-trnd/index.html",
-        "https://www.cnn.com/2017/04/20/us/campus-free-speech-trnd/index.html",
-        "https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html",
-        "https://www.cnn.com/2021/12/28/politics/the-year-supreme-court-conservatives-made-their-mark/index.html",
-        "https://www.cnn.com/2021/12/09/politics/fact-check-missouri-schmitt-biden-travel/index.html",
-        "https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html",
-        "https://www.cnn.com/2021/11/18/politics/joe-biden-selling-infrastructure/index.html",
-        "https://www.cnn.com/2021/11/12/politics/biden-private-prisons-immigration-detention-centers-invs/index.html",
-        "https://www.cnn.com/2021/11/12/politics/senate-race-rankings-november/index.html",
-        "https://www.cnn.com/2021/11/11/politics/president-joe-biden-inflation-politics/index.html",
-        "https://www.cnn.com/2021/11/10/politics/donald-trump-2024/index.html",
-        "https://www.cnn.com/2021/11/09/politics/gosar-anime-video-violence-ocasio-cortez-biden/index.html",
-        "https://www.cnn.com/2021/11/09/politics/republican-extremists-paul-gosar-donald-trump/index.html",
-        "https://www.cnn.com/2021/11/09/politics/infrastructure-democrats-blue-collar-voters/index.html",
-        "https://www.cnn.com/2021/11/08/politics/covid-vaccine-debate-what-matters/index.html",
-        "https://www.cnn.com/2021/11/08/politics/cnn-poll-biden-job-approval/index.html",
-        "https://www.cnn.com/2021/11/07/politics/bannon-podcast-war-room-election-lies/index.html",
-        "https://www.cnn.com/2021/11/05/politics/nancy-pelosi-joe-biden-state-of-play-november-5/index.html",
-        "https://www.cnn.com/2021/11/05/politics/gun-control-fears-state-second-amendment-laws-invs/index.html",
-        "https://www.cnn.com/2021/11/05/politics/2022-midterm-lessons-republicans-virginia/index.html",
-        "https://www.cnn.com/2021/11/04/politics/texas-voting-lawsuit/index.html",
-        "https://www.cnn.com/politics/live-news/texas-abortion-law-supreme-court-oral-arguments-11-01-21/index.html",
-        "https://www.cnn.com/2021/11/04/politics/joe-biden-pandemic-2022-midterms-trump-republicans/index.html",
-        "https://www.cnn.com/2021/11/03/politics/election-2021-takeaways/index.html",
-        "https://www.cnn.com/2021/11/03/politics/donald-trump-glenn-youngkin-virginia/index.html",
-        "https://www.cnn.com/2021/11/03/politics/us-election-day-analysis-virginia-new-jersey-democrats-reckoning/index.html",
-        "https://www.cnn.com/politics/live-news/joe-biden-town-hall-10-21-21/index.html",
-        "https://www.cnn.com/politics/live-news/biden-town-hall-cincinnati-07-21-21/index.html",
-        "https://www.cnn.com/2021/10/18/politics/joe-biden-democrats-economy-supply-chain-donald-trump-2022-midterms/index.html",
-        "https://www.cnn.com/2021/10/15/politics/virginia-governors-race-latino-voters/index.html",
-        "https://www.cnn.com/2021/10/13/politics/congressional-republicans-trump-president-2024/index.html",
-        "https://www.cnn.com/2021/10/12/politics/president-joe-biden-problems-democrats-donald-trump/index.html",
-        "https://www.cnn.com/2021/10/06/politics/biden-us-mexico-state-department/index.html",
-        "https://www.cnn.com/2021/10/03/politics/kyrsten-sinema-record-analysis/index.html",
-        "https://www.cnn.com/2021/09/30/politics/nextgen-america-2022-investment/index.html",
-        "https://www.cnn.com/politics/live-news/congress-government-funding-vote-09-27-21/index.html",
-        "https://www.cnn.com/2021/09/24/politics/senate-race-rankings-september/index.html",
-        "https://www.cnn.com/politics/live-news/california-recall-election-results-2021/index.html",
-        "https://www.cnn.com/2021/09/14/politics/newsom-california-recall-covid-mandates/index.html",
-        "https://www.cnn.com/2021/09/14/politics/larry-elder-covid-newsom-recall/index.html",
-        "https://www.cnn.com/2021/09/14/politics/us-politicians-afghanistan-war-legacy/index.html",
-        "https://www.cnn.com/2021/09/11/politics/9-11-anniversary-biden-afghanistan/index.html",
-        "https://www.cnn.com/2021/08/21/politics/california-recall-election-what-to-know/index.html",
-        "https://www.cnn.com/2021/09/08/politics/kamala-harris-gavin-newsom-california-recall/index.html",
-        "https://www.cnn.com/2021/09/07/politics/president-travel-california-recall/index.html",
-        "https://www.cnn.com/2021/09/06/politics/california-recall-newsom-union-workers/index.html",
-        "https://www.cnn.com/2021/08/31/politics/larry-elder-california-recall-covid-vaccines-masks-children/index.html",
-        "https://www.cnn.com/2021/08/28/politics/california-recall-what-matters/index.html",
-        "https://www.cnn.com/2021/08/30/politics/gavin-newsom-ad-bernie-sanders-california-recall/index.html",
-        "https://www.cnn.com/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html",
-        "https://www.cnn.com/2021/08/22/politics/biden-afghan-refugees-resettlement-us-politics/index.html",
-        "https://www.cnn.com/2021/08/06/politics/week-in-review-eviction-moratorium-debt-ceiling-delta/index.html",
-        "https://www.cnn.com/2021/07/30/politics/krysten-sinema-infrastructure-deal-backlash/index.html",
-        "https://www.cnn.com/2021/07/29/politics/texas-paxton-biden-migrants/index.html",
-        "https://www.cnn.com/2021/07/28/politics/garland-justice-department/index.html",
-        "https://www.cnn.com/2021/07/28/politics/jared-kushner-investment-firm/index.html",
-        "https://www.cnn.com/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html",
-        "https://www.cnn.com/2021/07/27/politics/texas-6th-district-runoff/index.html",
-        "https://www.cnn.com/2021/07/13/politics/cnn-town-hall-joe-biden/index.html",
-        "https://www.cnn.com/2021/07/20/politics/white-house-biden-six-months/index.html",
-        "https://www.cnn.com/2021/07/18/politics/daca-ruling-young-undocumented-immigrants-frustration/index.html",
-        "https://www.cnn.com/2021/07/17/politics/2022-arizona-senate-race/index.html",
-        "https://www.cnn.com/2021/07/16/politics/partisanship-confidence-in-presidency-gallup-poll/index.html",
-        "https://www.cnn.com/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
-        "https://www.cnn.com/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
-        "https://www.cnn.com/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html",
-        "https://www.cnn.com/2021/07/12/politics/gavin-newsom-recall-party-affiliation/index.html",
-        "https://www.cnn.com/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
-        "https://www.cnn.com/2021/07/05/politics/america-partisan-divisions-widen/index.html",
-        "https://www.cnn.com/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html",
-        "https://www.cnn.com/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html",
-        "https://www.cnn.com/2021/06/29/politics/california-recall-gavin-newsom-shirley-weber-democrat-ballot/index.html",
-        "https://www.cnn.com/politics/live-news/biden-address-fact-check-updates-04-28-21/index.html",
-        "https://www.cnn.com/2021/06/25/politics/mike-pence-donald-trump-january-6/index.html",
-        "https://www.cnn.com/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
-        "https://www.cnn.com/2021/06/23/politics/gavin-newsom-recall-election-california/index.html",
-        "https://www.cnn.com/2021/06/21/politics/manhattan-district-attorney-election-trump/index.html",
-        "https://www.cnn.com/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html",
-        "https://www.cnn.com/2021/06/17/politics/joe-biden-infrastructure-congress-deal/index.html",
-        "https://www.cnn.com/2021/06/13/politics/washington-bipartisanship-gop-no/index.html",
-        "https://www.cnn.com/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html",
-        "https://www.cnn.com/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html",
-        "https://www.cnn.com/2021/06/09/politics/kamala-harris-foreign-trip/index.html",
-        "https://www.cnn.com/2021/06/09/politics/kamala-harris-biden-border-2024/index.html",
-        "https://www.cnn.com/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html",
-        "https://www.cnn.com/2021/06/02/politics/george-p-bush-texas-attorney-general/index.html",
-        "https://www.cnn.com/2021/05/29/politics/marjorie-taylor-greene-georgia-14th-district-holocaust/index.html",
-        "https://www.cnn.com/2021/05/22/politics/voting-restrictions-aapi-community/index.html",
-        "https://www.cnn.com/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
-        "https://www.cnn.com/2021/05/18/politics/what-matters-kevin-mccarthy/index.html",
-        "https://www.cnn.com/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
-        "https://www.cnn.com/2021/05/13/politics/sally-yates-liz-cheney-axe-files/index.html",
-        "https://www.cnn.com/2021/05/14/politics/republican-infighting-democratic-headwinds-2022/index.html",
-        "https://www.cnn.com/2021/05/13/politics/fact-check-cruz-immigrants-noncitizens-democrats-bill-s1-hr1/index.html",
-        "https://www.cnn.com/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
-        "https://www.cnn.com/2021/05/10/politics/liz-cheney-vote-what-to-watch/index.html",
-        "https://www.cnn.com/2021/05/09/politics/what-matters-may-9/index.html",
-        "https://www.cnn.com/2021/05/09/politics/kevin-mccarthy-elise-stefanik-liz-cheney-replacement/index.html",
-        "https://www.cnn.com/2021/05/09/politics/caitlyn-jenner-immigration-cnntv/index.html",
-        "https://www.cnn.com/2021/05/08/politics/virginia-gop-governor-primary/index.html",
-        "https://www.cnn.com/2021/05/08/politics/what-matters-arizona/index.html",
-        "https://www.cnn.com/2021/05/07/politics/elise-stefanik-gop-leadership/index.html",
-        "https://www.cnn.com/2021/05/06/politics/conservatives-concerns-stefanik-replace-cheney-trump-loyalty/index.html",
-        "https://www.cnn.com/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html",
-        "https://www.cnn.com/2021/05/06/politics/caitlyn-jenner-hannity-interview-california/index.html",
-        "https://www.cnn.com/2021/05/03/politics/bush-gop-white-anglo-saxon-protestantism/index.html",
-        "https://www.cnn.com/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
-        "https://www.cnn.com/politics/live-news/president-joe-biden-first-100-days/index.html",
-        "https://www.cnn.com/2021/04/26/politics/newsom-recall-signatures-california-governor/index.html",
-        "https://www.cnn.com/2021/04/26/politics/trump-north-carolina-senate-race-pat-mccrory/index.html",
-        "https://www.cnn.com/2021/04/26/politics/census-us-government-control/index.html",
-        "https://www.cnn.com/2021/04/24/politics/louisiana-2nd-district-special-election/index.html",
-        "https://www.cnn.com/2021/04/22/politics/what-matters-police-reform-bill/index.html",
-        "https://www.cnn.com/2021/04/20/politics/donald-trump-sean-hannity-2020-election/index.html",
-        "https://www.cnn.com/2021/04/19/politics/business-lobby-republican-lawmaker-breakup/index.html",
-        "https://www.cnn.com/2021/04/17/politics/marjorie-taylor-greene-america-first-caucus/index.html",
-        "https://www.cnn.com/2021/04/16/politics/marjorie-taylor-greene-america-first-caucus/index.html",
-        "https://www.cnn.com/2021/04/15/politics/scott-perry-white-replacement-theory-tucker-carlson-fox-news/index.html",
-        "https://www.cnn.com/2021/04/15/politics/russia-sanctions-executive-order/index.html",
-        "https://www.cnn.com/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html",
-        "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html",
-        "https://www.cnn.com/2021/04/08/politics/what-matters-guns-manchin-kentucky/index.html",
-        "https://www.cnn.com/2021/04/07/politics/donald-trump-republican-politics-joe-biden/index.html",
-        "https://www.cnn.com/2021/04/06/politics/mitch-mcconnell-big-business-mlb-boycott/index.html",
-        "https://www.cnn.com/2021/04/02/politics/baseball-politics-president-joe-biden-georgia-coronavirus/index.html",
-        "https://www.cnn.com/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
-        "https://www.cnn.com/2021/03/27/politics/biden-immigration-border-analysis/index.html",
-        "https://www.cnn.com/2021/03/26/politics/week-in-review-boulder-shooting-georgia-voting-restrictions-biden/index.html",
-        "https://www.cnn.com/2021/03/26/politics/joe-biden-blaming-donald-trump-immigration/index.html",
-        "https://www.cnn.com/politics/live-news/joe-biden-news-conference-03-25-21/index.html",
-        "https://www.cnn.com/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html",
-        "https://www.cnn.com/2021/03/25/politics/speed-read-biden-press-conference/index.html",
-        "https://www.cnn.com/2021/03/25/politics/president-biden-news-conference-today/index.html",
-        "https://www.cnn.com/2021/03/25/politics/joe-biden-press-conference-challenges/index.html",
-        "https://www.cnn.com/2021/03/24/politics/kfile-marjorie-taylor-greene-ally-us-capitol/index.html",
-        "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html",
-        "https://www.cnn.com/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
-        "https://www.cnn.com/2021/03/19/politics/gavin-newsom-california-recall/index.html",
-        "https://www.cnn.com/2021/03/19/politics/week-in-review-biden-covid-filibuster-atlanta-border/index.html",
-        "https://www.cnn.com/2021/03/19/politics/alabama-senate-race-2022-mo-brooks/index.html",
-        "https://www.cnn.com/2021/03/19/politics/george-w-bush-donald-trump-texas-tribune/index.html",
-        "https://www.cnn.com/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html",
-        "https://www.cnn.com/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
-        "https://www.cnn.com/2021/03/15/politics/what-matters-march-15/index.html",
-        "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html",
-        "https://www.cnn.com/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html",
-        "https://www.cnn.com/2021/03/10/politics/biden-stimulus-covid-relief-bill-republicans/index.html",
-        "https://www.cnn.com/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html",
-        "https://www.cnn.com/2021/03/08/politics/filibuster-democratic-reaction/index.html",
-        "https://www.cnn.com/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
-        "https://www.cnn.com/2021/03/03/politics/ruth-bader-ginsburg-capitol-hill-monument/index.html",
-        "https://www.cnn.com/2021/03/01/politics/family-separation/index.html",
-        "https://www.cnn.com/2021/03/01/politics/merrick-garland-confirmation-committee-vote/index.html",
-        "https://www.cnn.com/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html",
-        "https://www.cnn.com/2021/02/28/politics/trump-cpac-speech-2021/index.html",
-        "https://www.cnn.com/2021/02/28/politics/democrats-immigration-reform/index.html",
-        "https://www.cnn.com/2021/02/28/politics/white-evangelicals-gop-trump/index.html",
-        "https://www.cnn.com/2021/02/27/politics/cpac-2021-speeches-saturday-2024-republicans/index.html",
-        "https://www.cnn.com/2021/02/26/politics/cpac-first-day-fact-check-2021/index.html",
-        "https://www.cnn.com/2021/02/26/politics/nancy-pelosi-speakership/index.html",
-        "https://www.cnn.com/2021/02/24/politics/kfile-marjorie-taylor-greene-close-ally-in-capitol-mob/index.html",
-        "https://www.cnn.com/politics/live-news/merrick-garland-ag-confirmation-hearing-02-23-21/index.html",
-        "https://www.cnn.com/2021/02/23/politics/immigration-policy-us-economy/index.html",
-        "https://www.cnn.com/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html",
-        "https://www.cnn.com/politics/live-news/merrick-garland-ag-confirmation-hearing-02-22-21/index.html",
-        "https://www.cnn.com/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html",
-        "https://www.cnn.com/2021/02/17/politics/biden-cnn-town-hall-vaccine/index.html",
-        "https://www.cnn.com/2021/02/15/politics/capitol-riot-oath-keepers-stewart-rhodes-soh/index.html",
-        "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-10-2021/index.html",
-        "https://www.cnn.com/2021/02/09/politics/judges-biden-democrats-trump/index.html",
-        "https://www.cnn.com/politics/live-news/congress-trump-impeachment-2-03-21/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-2-02-21/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-02-01-21/index.html",
-        "https://www.cnn.com/2021/02/01/politics/homeland-security-mayorkas-confirmation-leadership/index.html",
-        "https://www.cnn.com/2021/01/30/politics/supreme-court-biden-commission/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-29-21/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-28-21/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-27-21/index.html",
-        "https://www.cnn.com/2021/01/27/politics/homeland-security-heightened-threat-bulletin/index.html",
-        "https://www.cnn.com/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html",
-        "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-25-21/index.html",
-        "https://www.cnn.com/2021/01/25/politics/rand-paul-stolen-election-2020-abc/index.html",
-        "https://www.cnn.com/2021/01/25/politics/biden-lpez-obrador-call/index.html",
-        "https://www.cnn.com/2021/01/24/politics/supreme-court-controversial-issues/index.html",
-        "https://www.cnn.com/politics/live-news/president-joe-biden-news-01-22-20/index.html",
-        "https://www.cnn.com/politics/live-news/president-joe-biden-news-01-21-20/index.html",
-        "https://www.cnn.com/2021/01/21/politics/solicitor-general-biden/index.html",
-        "https://www.cnn.com/2021/01/21/politics/joe-biden-president-america-change/index.html",
-        "https://www.cnn.com/2021/01/21/politics/race-immigration-trump-era-policies-biden/index.html",
-        "https://www.cnn.com/politics/live-news/biden-harris-inauguration-day-2021/index.html",
-        "https://www.cnn.com/2021/01/20/politics/first-100-days-biden-challenge-trump-legacy/index.html",
-        "https://www.cnn.com/politics/live-news/biden-inauguration-dc-security-01-19-21/index.html",
-        "https://www.cnn.com/2021/01/19/politics/biden-confirmation-hearings-key-takeaways/index.html",
-        "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-18-21/index.html",
-        "https://www.cnn.com/2021/01/19/politics/donald-trump-presidency/index.html",
-        "https://www.cnn.com/2021/01/17/politics/trump-legacy-historians/index.html",
-        "https://www.cnn.com/2021/01/17/politics/donald-trump-joe-biden-transfer-of-power/index.html",
-        "https://www.cnn.com/2021/01/17/politics/cnn-poll-trump-lowest-approval-of-his-presidency/index.html",
-        "https://www.cnn.com/2021/01/17/politics/donald-trump-policy-legacy/index.html",
-        "https://www.cnn.com/politics/live-news/trump-impeachment-news-01-14-21/index.html",
-        "https://www.cnn.com/politics/live-news/house-trump-impeachment-vote-01-13-21/index.html",
-        "https://www.cnn.com/2021/01/13/politics/acting-ice-director-resigns/index.html",
-        "https://www.cnn.com/politics/live-news/trump-impeachment-news-01-12-21/index.html",
-        "https://www.cnn.com/2021/01/04/politics/proud-boys-arrest-black-lives-matter-banner/index.html",
-        "https://www.cnn.com/2021/01/03/politics/georgia-newcomers-political-shift/index.html",
-        "https://www.cnn.com/2021/12/19/opinions/build-back-better-manchin-begala/index.html",
-        "https://www.cnn.com/2021/12/16/opinions/2021-year-in-review-40-opinions/index.html",
-        "https://www.cnn.com/2021/12/13/opinions/georgia-gubernatorial-race-trump-democrat-gift-ghitis/index.html",
-        "https://www.cnn.com/2021/12/10/opinions/new-york-city-noncitizen-voting-smart-policy-reyes/index.html",
-        "https://www.cnn.com/2021/11/28/opinions/english-channel-crossings-brexit-bociurkiw/index.html",
-        "https://www.cnn.com/2021/11/16/opinions/kamala-harris-infrastructure-mitchell/index.html",
-        "https://www.cnn.com/2021/11/14/opinions/biden-centrist-democrats-swing-votes/index.html",
-        "https://www.cnn.com/2021/11/06/opinions/bidens-peacock-moment-infrastructure-bill-axelrod/index.html",
-        "https://www.cnn.com/2021/10/26/opinions/replacement-theory-animates-trump-backers-dantonio-cohen/index.html",
-        "https://www.cnn.com/2021/10/10/opinions/kyrsten-sinema-women-in-politics-alaimo/index.html",
-        "https://www.cnn.com/2021/09/27/opinions/barr-trump-suburban-voters-levy/index.html",
-        "https://www.cnn.com/2021/09/26/opinions/supreme-court-something-to-prove-column-galant/index.html",
-        "https://www.cnn.com/2021/09/11/opinions/osama-bin-laden-changed-history-bergen/index.html",
-        "https://www.cnn.com/2021/08/28/opinions/california-recall-election-backdoor-power-grab-jones/index.html",
-        "https://www.cnn.com/2021/08/26/opinions/trump-rally-boos-vaccine-gop-base-hemmer/index.html",
-        "https://www.cnn.com/2021/08/21/opinions/linas-kojala-belarus-migration-op-ed/index.html",
-        "https://www.cnn.com/2021/08/12/opinions/us-census-republican-party-power-gest/index.html",
-        "https://www.cnn.com/2021/07/22/opinions/joe-biden-cnn-town-hall-jennings/index.html",
-        "https://www.cnn.com/2021/06/30/opinions/trump-followers-take-him-literally-opinion-dantonio/index.html",
-        "https://www.cnn.com/2021/06/23/opinions/texas-republicans-lawsuit-happy-moore/index.html",
-        "https://www.cnn.com/2021/06/19/opinions/catholic-bishops-joe-biden-communion-beck/index.html",
-        "https://www.cnn.com/2021/06/09/opinions/manchin-voting-rights-wrong-side-history-bowman/index.html",
-        "https://www.cnn.com/2021/06/05/opinions/biden-title-42-trump-covid-breen-heisler/index.html",
-        "https://www.cnn.com/2021/06/04/opinions/harris-mexico-guatemala-trip-jorge-castaeda-op-ed/index.html",
-        "https://www.cnn.com/2021/05/27/opinions/bernie-sanders-pivotal-moment-american-democracy/index.html",
-        "https://www.cnn.com/2021/05/20/opinions/biden-administration-borrowed-time-zelizer/index.html",
-        "https://www.cnn.com/2021/05/17/opinions/kevin-mccarthy-donald-trump-problem-bond/index.html",
-        "https://www.cnn.com/2021/05/04/opinions/george-w-bush-flawed-messenger-gop-hemmer/index.html",
-        "https://www.cnn.com/2021/04/21/opinions/george-w-bush-immigration-filipovic/index.html",
-        "https://www.cnn.com/2021/04/15/opinions/supreme-court-expansion-markey-jones/index.html",
-        "https://www.cnn.com/2021/04/15/opinions/tucker-carlson-replacement-theory-peter-brimelow-republican-party-hemmer/index.html",
-        "https://www.cnn.com/2021/04/08/opinions/mike-pence-book-deal-tell-all-trump-dantonio/index.html",
-        "https://www.cnn.com/2021/03/23/opinions/president-biden-botching-border-crisis-jennings/index.html",
-        "https://www.cnn.com/2021/02/28/opinions/trump-cpac-gop-jennings/index.html",
-        "https://www.cnn.com/2021/02/22/opinions/lindsey-graham-political-transformation-bond/index.html",
-        "https://www.cnn.com/2021/02/07/opinions/trump-the-undoing-opinion-column-galant/index.html",
-        "https://www.cnn.com/2021/01/25/opinions/senate-trump-derail-impeachment-honig/index.html",
-        "https://www.cnn.com/2021/01/23/opinions/why-biden-will-have-to-help-mexico-jorge-castaeda/index.html",
-        "https://www.cnn.com/2021/01/08/opinions/25th-amendment-not-enough-for-trump-perry/index.html",
-        "https://www.cnn.com/2021/01/02/opinions/republican-women-117th-congress-hunt/index.html",
-        "https://www.cnn.com/2021/04/04/us/redistricting-alabama-and-north-carolina/index.html",
-        "https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html",
-        "https://www.cnn.com/2021/11/17/politics/controversy-paul-gosar-congress/index.html",
-        "https://www.cnn.com/2021/11/04/politics/kfile-kari-lake-nazi-symapthizer-qanon-figure/index.html",
-        "https://www.cnn.com/2021/10/28/politics/joe-biden-progressives-paid-family-leave/index.html",
-        "https://www.cnn.com/2021/10/05/politics/senate-broken-biden-agenda/index.html",
-        "https://www.cnn.com/2021/09/23/politics/joe-biden-legislative-legacy-on-the-brink/index.html",
-        "https://www.cnn.com/2021/09/03/politics/california-recall-latino-voters-key-to-gavin-newsom/index.html",
-        "https://www.cnn.com/2021/08/31/politics/california-governor-recall-top-candidates/index.html",
-        "https://www.cnn.com/2021/08/23/politics/kathy-hochul-new-york-governor/index.html",
-        "https://www.cnn.com/2021/08/21/politics/alabama-senate-trump-rally/index.html",
-        "https://www.cnn.com/politics/live-news/andrew-cuomo-resign-kathy-hochul-08-11-21/index.html",
-        "https://www.cnn.com/politics/live-news/andrew-cuomo-investigation-08-10-21/index.html",
-        "https://www.cnn.com/politics/live-news/andrew-cuomo-investigation-08-09-21/index.html",
-        "https://www.cnn.com/2021/08/04/politics/who-is-new-york-lt-gov-kathy-hochul/index.html",
-        "https://www.cnn.com/2021/08/04/politics/covid-emergency-moves-evictions/index.html",
-        "https://www.cnn.com/2021/07/21/politics/joe-biden-cnn-town-hall/index.html",
-        "https://www.cnn.com/2021/06/29/politics/solomon-yue-on-white-nationalist/index.html",
-        "https://www.cnn.com/2021/06/22/politics/fact-check-four-false-claims-voting-rights-bill/index.html",
-        "https://www.cnn.com/2021/06/01/politics/president-joe-biden-agenda-summer/index.html",
-        "https://www.cnn.com/2021/05/15/politics/fact-check-republican-dishonesty-mccarthy-gohmert-cruz/index.html",
-        "https://www.cnn.com/2021/05/10/politics/joe-biden-jobs-report-republicans-donald-trump/index.html",
-        "https://www.cnn.com/2021/05/03/politics/big-lie-bush-cheney-romney/index.html",
-        "https://www.cnn.com/2021/04/13/politics/andrew-yang-new-york-city-mayor-democratic-primary/index.html",
-        "https://www.cnn.com/2021/04/04/politics/cuomo-new-york-politics-future/index.html",
-        "https://www.cnn.com/2021/03/25/politics/fact-check-hr1-s1-for-the-people-hearing-voting-elections/index.html",
-        "https://www.cnn.com/2021/03/22/politics/mo-brooks-alabama-senate-campaign/index.html",
-        "https://www.cnn.com/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
-        "https://www.cnn.com/2021/02/24/politics/president-joe-biden-congress-republicans/index.html",
-        "https://www.cnn.com/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html",
-        "https://www.cnn.com/2021/02/22/politics/xavier-becerra-confirmation-hearing/index.html",
-        "https://www.cnn.com/2021/02/22/politics/neera-tanden-biden-omb-twitter/index.html",
-        "https://www.cnn.com/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html",
-        "https://www.cnn.com/2021/01/19/politics/supreme-court-trump-timeline/index.html",
-        "https://www.cnn.com/2021/01/19/politics/trump-supreme-court-legacy/index.html",
-        "https://www.cnn.com/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html",
-        "https://www.cnn.com/2021/01/06/politics/ossoff-perdue-georgia-election-news/index.html",
-        "https://www.cnn.com/2021/01/05/politics/loeffler-ossoff-perdue-warnock-runoff-results/index.html",
-        "https://www.cnn.com/2021/09/21/opinions/allies-texas-women-need-abortion-magee/index.html",
-        "https://www.cnn.com/2021/07/19/opinions/daca-federal-ruiling-democrats-honig/index.html",
-        "https://www.cnn.com/2021/02/07/opinions/covid-mental-health-biden-advisers-grinker/index.html",
-        "https://www.cnn.com/us/live-news/9-11-attacks-20th-anniversary/index.html",
-        "https://www.cnn.com/2021/08/27/us/sirhan-sirhan-parole-rfk-assassination/index.html",
-        "https://www.cnn.com/2021/08/24/us/five-things-august-24-trnd/index.html",
-        "https://www.cnn.com/2021/08/02/us/five-things-august-2-trnd/index.html",
-        "https://www.cnn.com/2013/07/16/us/gerald-ford-fast-facts/index.html",
-        "https://www.cnn.com/2021/02/17/us/gaza-american-family-stuck-coronavirus-trnd/index.html",
-        "https://www.cnn.com/2021/10/31/politics/mayoral-races-general-election/index.html",
-        "https://www.cnn.com/2021/10/25/politics/voting-rights-candidates-georgia-arizona-pennsylvania/index.html",
-        "https://www.cnn.com/2021/09/23/politics/us-iran-nuclear-talks-unga/index.html",
-        "https://www.cnn.com/2021/09/20/politics/joe-biden-united-nations-donald-trump/index.html",
-        "https://www.cnn.com/2021/09/13/politics/george-w-bush-donald-trump-september-11/index.html",
-        "https://www.cnn.com/2021/09/11/politics/george-w-bush-9-11-speech-domestic-violent-extremism/index.html",
-        "https://www.cnn.com/2021/09/08/politics/trump-appointees-biden-boards/index.html",
-        "https://www.cnn.com/2021/09/01/politics/joe-biden-august/index.html",
-        "https://www.cnn.com/2021/08/20/politics/house-republicans-afghanistan-biden-benghazi/index.html",
-        "https://www.cnn.com/2021/07/21/politics/biden-six-month-crisis-presidency/index.html",
-        "https://www.cnn.com/2021/04/16/politics/joe-biden-police-reform/index.html",
-        "https://www.cnn.com/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html",
-        "https://www.cnn.com/2021/02/04/politics/biden-state-department-visit/index.html",
-        "https://www.cnn.com/2021/09/22/opinions/canada-elections-justin-trudeau-bociurkiw/index.html",
-        "https://www.cnn.com/2021/09/17/opinions/memes-far-right-extremism-dantonio-cohen/index.html",
-        "https://www.cnn.com/2021/09/04/opinions/park-51-anti-defamation-league-9-11-greenblatt/index.html",
-        "https://www.cnn.com/2021/08/08/opinions/culture-war-thats-killing-us-opinion-column-galant/index.html",
-        "https://www.cnn.com/2021/03/08/opinions/myanmar-diplomacy-military-junta-bociurkiw/index.html",
-        "https://www.cnn.com/2021/02/02/opinions/myanmar-opening-to-democracy-crushed-opinion-genser/index.html",
-        "https://www.cnn.com/2021/01/19/opinions/trump-presidential-legacy-dantonio/index.html",
-        "https://www.cnn.com/2021/06/13/opinions/perilous-journeys-biden-harris-opinion-column-galant/index.html",
-        "https://www.cnn.com/2021/04/11/opinions/biden-budget-proposal-centrism-ghitis/index.html",
-        "https://www.cnn.com/2021/01/16/us/bpl-booklist-trnd/index.html",
-        "https://www.cnn.com/2021/01/12/us/elle-reeve-charlottesville-white-supremacy-capitol-qanon/index.html",
-        "https://www.cnn.com/2021/01/06/us/dc-church-black-lives-matter-banner-trump-trnd/index.html",
-        "https://www.cnn.com/2021/11/04/politics/elections-2021-roundup-race-deconstructed-newsletter/index.html",
-        "https://www.cnn.com/2021/10/29/politics/macron-biden-meeting-rome/index.html",
-        "https://www.cnn.com/2021/09/07/politics/joe-biden-september-battles-ahead/index.html",
-        "https://www.cnn.com/2021/08/15/politics/obama-poses-a-question-that-we-still-cannot-answer/index.html",
-        "https://www.cnn.com/2021/06/10/politics/joe-biden-foreign-trip-g7-uk-putin-russia-democracy/index.html",
-        "https://www.cnn.com/2021/05/16/politics/biden-israel-progressive-democrats/index.html",
-        "https://www.cnn.com/2021/03/03/politics/jasmine-beach-ferrara-madison-cawthorn-challenge/index.html",
-        "https://www.cnn.com/2021/02/19/politics/arkansas-legislator-leaves-republican-party/index.html",
-        "https://www.cnn.com/2021/01/27/politics/what-matters-january-27/index.html",
-        "https://www.cnn.com/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-        "https://www.cnn.com/2021/01/22/politics/wednesdays-insurrection-impeachment-inauguration/index.html",
-        "https://www.cnn.com/2021/01/20/politics/joe-biden-presidential-inauguration/index.html",
-        "https://www.cnn.com/2021/01/16/politics/qanon-gop-trump-congress-future/index.html",
-        "https://www.cnn.com/2021/01/13/politics/capitol-mob-white-backlash-history/index.html",
-        "https://www.cnn.com/2021/09/17/opinions/extremists-radicalization-in-america-miller/index.html",
-        "https://www.cnn.com/2021/09/09/opinions/donald-trump-2024-bid-dantonio/index.html",
-        "https://www.cnn.com/2021/08/03/opinions/barack-obama-60th-birthday-peniel-joseph/index.html",
-        "https://www.cnn.com/2021/07/15/opinions/emmanuel-macron-bet-covid-health-pass-andelman/index.html",
-        "https://www.cnn.com/2021/06/29/opinions/gwen-berry-gop-criticism-national-anthem-filipovic/index.html",
-        "https://www.cnn.com/2021/02/12/opinions/presidents-day-reflection-chervinsky/index.html",
-        "https://www.cnn.com/2021/01/27/opinions/doomsday-clock-dangerous-situation-brown-rosner/index.html",
-        "https://www.cnn.com/2021/12/22/us/five-things-december-22-trnd/index.html",
-        "https://www.cnn.com/2021/12/13/us/five-things-december-13-trnd/index.html",
-        "https://www.cnn.com/2021/11/05/us/ahmaud-arbery-trial-key-characters/index.html",
-        "https://www.cnn.com/2021/11/09/us/five-things-november-9-trnd/index.html",
-        "https://www.cnn.com/2021/06/29/us/five-things-june-29-trnd/index.html",
-        "https://www.cnn.com/2021/06/16/us/five-things-june-16-trnd/index.html",
-        "https://www.cnn.com/2021/05/12/us/five-things-may-12-trnd/index.html",
-        "https://www.cnn.com/2021/05/10/us/us-vaccination-rates-states/index.html",
-        "https://www.cnn.com/2021/05/03/us/five-things-may-3-trnd/index.html",
-        "https://www.cnn.com/2021/03/30/us/five-things-march-30-trnd/index.html",
-        "https://www.cnn.com/2021/03/23/us/five-things-march-23-trnd/index.html",
-        "https://www.cnn.com/2021/03/22/us/afraid-cnn-special-report-asian-americans/index.html",
-        "https://www.cnn.com/2021/03/17/us/five-things-march-17-trnd/index.html",
-        "https://www.cnn.com/2021/02/15/us/five-things-february-15-trnd/index.html",
-        "https://www.cnn.com/2021/01/31/us/capitol-riot-arrests-active-military-veterans-soh/index.html",
-        "https://www.cnn.com/2021/01/06/us/five-things-january-6-trnd/index.html",
-        "https://www.cnn.com/2021/12/29/politics/redistricting-race-blind-maps-texas-north-carolina/index.html",
-        "https://www.cnn.com/2021/12/23/politics/larry-hogan-maryland-senate-race-2022/index.html",
-        "https://www.cnn.com/2021/12/21/politics/scott-perry-january-6-committee/index.html",
-        "https://www.cnn.com/2021/12/15/politics/biden-james-comer-kentucky/index.html",
-        "https://www.cnn.com/2021/12/13/politics/kamala-harris-private-sector-investments-north-triangle/index.html",
-        "https://www.cnn.com/2021/12/10/politics/carpetbagging-2022/index.html",
-        "https://www.cnn.com/2021/12/08/politics/joe-biden-democracy-autocracy/index.html",
-        "https://www.cnn.com/2021/12/06/politics/joe-biden-vladimir-putin-call-on-ukraine/index.html",
-        "https://www.cnn.com/2021/11/30/politics/republican-infighting-kevin-mccarthy/index.html",
-        "https://www.cnn.com/2021/11/19/politics/trump-desantis-relationship/index.html",
-        "https://www.cnn.com/2021/11/18/politics/ronna-mcdaniel-joe-biden/index.html",
-        "https://www.cnn.com/2021/11/17/politics/republican-governors-association-glenn-youngkin/index.html",
-        "https://www.cnn.com/2021/11/17/politics/republican-party-paul-gosar-donald-trump-democrats-midterms/index.html",
-        "https://www.cnn.com/2021/11/08/politics/evan-neumann-belarus-political-asylum/index.html",
-        "https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html",
-        "https://www.cnn.com/2021/11/08/politics/fact-check-house-republican-ad-trump-images-2020/index.html",
-        "https://www.cnn.com/2021/11/04/politics/democratic-reaction-virginia-election-results/index.html",
-        "https://www.cnn.com/2021/11/03/politics/winsome-sears-virginia-lieutenant-governor-race/index.html",
-        "https://www.cnn.com/2021/11/02/politics/cia-director-russia-trip/index.html",
-        "https://www.cnn.com/2021/10/28/politics/gop-candidates-young-guns-big-lie/index.html",
-        "https://www.cnn.com/2021/10/22/politics/west-virginia-jim-justice-maryland-counties/index.html",
-        "https://www.cnn.com/2021/10/21/politics/texas-secretary-of-state/index.html",
-        "https://www.cnn.com/politics/live-news/steve-bannon-jan-6-committee-vote-10-19-21/index.html",
-        "https://www.cnn.com/2021/10/14/politics/republicans-fear-trump-2022-2024/index.html",
-        "https://www.cnn.com/2021/10/13/politics/john-yarmuth-retirement-budget-committee/index.html",
-        "https://www.cnn.com/2021/10/10/politics/terry-mcauliffe-congress-cnntv/index.html",
-        "https://www.cnn.com/2021/10/09/politics/democratic-decisions-biden-agenda-bill/index.html",
-        "https://www.cnn.com/2021/10/07/politics/russian-hackers-microsoft-report/index.html",
-        "https://www.cnn.com/2021/09/28/politics/trump-endorses-kari-lake-arizona-governor/index.html",
-        "https://www.cnn.com/2021/09/23/politics/residential-segregation-race-deconstructed-newsletter/index.html",
-        "https://www.cnn.com/2021/09/17/politics/week-in-review-california-recall-vaccine-mandates/index.html",
-        "https://www.cnn.com/2021/09/16/politics/harriet-hageman-liz-cheney-challenger/index.html",
-        "https://www.cnn.com/2021/09/13/politics/california-recall-places-to-watch/index.html",
-        "https://www.cnn.com/2021/08/27/politics/biden-gavin-newsom-california-recall/index.html",
-        "https://www.cnn.com/2021/08/16/politics/lindsey-graham-donald-trump-2020/index.html",
-        "https://www.cnn.com/2021/08/13/politics/week-in-review-afghanistan-covid/index.html",
-        "https://www.cnn.com/2021/08/11/politics/2022-senate-race-rankings-august/index.html",
-        "https://www.cnn.com/2021/08/10/politics/texas-supreme-court-blocks-arrest-democrats/index.html",
-        "https://www.cnn.com/2021/08/06/politics/republican-women-house-2022-races/index.html",
-        "https://www.cnn.com/2021/08/05/politics/texas-state-legislature-second-special-session/index.html",
-        "https://www.cnn.com/2021/08/05/politics/hakeem-jeffries-alexandria-ocasio-cortez-liberals/index.html",
-        "https://www.cnn.com/2021/07/31/politics/desantis-fauci-coronavirus-republican-2024-race/index.html",
-        "https://www.cnn.com/2021/07/30/politics/james-lankford-backlash-trump/index.html",
-        "https://www.cnn.com/2021/07/27/politics/texas-6th-district-runoff-results/index.html",
-        "https://www.cnn.com/2021/07/23/politics/kamala-harris-voting-rights/index.html",
-        "https://www.cnn.com/2021/07/21/politics/tom-barrack-trump-arrested/index.html",
-        "https://www.cnn.com/2021/07/20/politics/january-6-probe-republican-strategy/index.html",
-        "https://www.cnn.com/2021/07/16/politics/pence-noem-pompeo-iowa/index.html",
-        "https://www.cnn.com/2021/07/16/politics/mccarthy-fundraising-trump/index.html",
-        "https://www.cnn.com/2021/07/15/politics/james-carville-wokeness/index.html",
-        "https://www.cnn.com/2021/07/12/politics/jen-easterly-confirmed-dhs-cybersecurity-chief/index.html",
-        "https://www.cnn.com/2021/07/12/politics/gop-alaska-trump-murkowski-2022/index.html",
-        "https://www.cnn.com/2021/07/12/politics/cpac-takeaways-dallas-trump/index.html",
-        "https://www.cnn.com/2021/07/12/politics/woke-green-new-deal-defund-the-police/index.html",
-        "https://www.cnn.com/2021/07/08/politics/texas-special-session-voting-rights/index.html",
-        "https://www.cnn.com/2021/07/01/politics/jd-vance-ohio-senate-race/index.html",
-        "https://www.cnn.com/2021/07/02/politics/week-in-review-biden-surfside-trump-organization-afghanistan/index.html",
-        "https://www.cnn.com/2021/07/01/politics/desantis-biden-2024-surfside-florida/index.html",
-        "https://www.cnn.com/2021/06/29/politics/tom-cotton-iowa-trip/index.html",
-        "https://www.cnn.com/2021/06/28/politics/us-base-syria-iran-militia-rocket/index.html",
-        "https://www.cnn.com/2021/06/25/politics/week-in-review-biden-infrastructure-january-6-harris-border/index.html",
-        "https://www.cnn.com/2021/06/24/politics/nikki-haley-trump-iowa-2024/index.html",
-        "https://www.cnn.com/2021/06/21/politics/belarus-coordinated-sanctions/index.html",
-        "https://www.cnn.com/2021/06/19/politics/biden-europe-tour-analysis-intl-cmd/index.html",
-        "https://www.cnn.com/2021/06/18/politics/lisa-murkowski-kelly-tshibaka-trump/index.html",
-        "https://www.cnn.com/2021/06/16/politics/kamala-harris-dinner-female-senators/index.html",
-        "https://www.cnn.com/2021/06/15/politics/biden-democracy-us-abroad/index.html",
-        "https://www.cnn.com/2021/06/15/politics/geneva-summit-joe-biden-vladimir-putin/index.html",
-        "https://www.cnn.com/2021/06/15/politics/trump-influence-2022-senate-gop-field/index.html",
-        "https://www.cnn.com/2021/06/14/politics/rand-paul-democracy/index.html",
-        "https://www.cnn.com/2021/06/10/politics/sinema-arizona-progressive-blowback/index.html",
-        "https://www.cnn.com/2021/06/10/politics/biden-putin-ambassadors/index.html",
-        "https://www.cnn.com/2021/06/08/politics/biden-putin-summit-us-ambassador/index.html",
-        "https://www.cnn.com/2021/06/07/politics/what-matters-biden-putin-giuliani/index.html",
-        "https://www.cnn.com/2021/06/04/politics/trump-north-carolina-speech-2020-obsession/index.html",
-        "https://www.cnn.com/2021/06/03/politics/free-beer-covid-vaccine-shots-joe-biden/index.html",
-        "https://www.cnn.com/2021/06/02/politics/michael-flynn-coup-military-not-investigating/index.html",
-        "https://www.cnn.com/2021/05/31/politics/michael-flynn-qanon/index.html",
-        "https://www.cnn.com/2021/05/28/politics/texas-legislature-politics/index.html",
-        "https://www.cnn.com/politics/live-news/capitol-riot-senate-vote-congress-news/index.html",
-        "https://www.cnn.com/2021/05/25/politics/lonnie-leroy-coffman-capitol-riot/index.html",
-        "https://www.cnn.com/2021/05/19/politics/blinken-lavrov-us-russia-meeting/index.html",
-        "https://www.cnn.com/2021/05/18/politics/middle-east-peace-joe-biden/index.html",
-        "https://www.cnn.com/politics/live-news/liz-cheney-replacement-gop-vote-05-14-21/index.html",
-        "https://www.cnn.com/2021/05/14/politics/kfile-marjorie-taylor-greene-alexandria-ocasio-cortez/index.html",
-        "https://www.cnn.com/2021/05/14/politics/liz-cheney-house-republicans-vote/index.html",
-        "https://www.cnn.com/2021/05/13/politics/elise-stefanik-gop-leadership/index.html",
-        "https://www.cnn.com/politics/live-news/liz-cheney-gop-vote-05-11-21/index.html",
-        "https://www.cnn.com/2021/05/11/politics/romania-nato-exercises-russia/index.html",
-        "https://www.cnn.com/2021/05/11/politics/elise-stefanik-district-voter-reaction/index.html",
-        "https://www.cnn.com/2021/05/07/politics/kfile-elise-stefanik-trump-comments/index.html",
-        "https://www.cnn.com/2021/05/05/politics/what-matters-misinformation/index.html",
-        "https://www.cnn.com/2021/05/04/politics/putin-biden-summit/index.html",
-        "https://www.cnn.com/2021/04/29/politics/military-intel-leader-russia/index.html",
-        "https://www.cnn.com/2021/04/28/politics/tim-scott-response-transcript/index.html",
-        "https://www.cnn.com/2021/04/28/politics/gop-precinct-chair-in-texas-arrested-in-us-capitol-riot/index.html",
-        "https://www.cnn.com/2021/04/28/politics/budd-north-carolina-senate-bid-republican-primary/index.html",
-        "https://www.cnn.com/2021/04/27/politics/republican-circus-donald-trump/index.html",
-        "https://www.cnn.com/2021/04/26/politics/us-russia-summit-ukraine/index.html",
-        "https://www.cnn.com/2021/04/26/politics/biden-pro-union-task-force-harris/index.html",
-        "https://www.cnn.com/2021/04/20/politics/us-ambassador-russia-returning-home/index.html",
-        "https://www.cnn.com/2021/04/16/politics/russia-retaliate-us-diplomats/index.html",
-        "https://www.cnn.com/2021/04/16/politics/week-in-review-biden-afghanistan-china-foreign-policy-immigration/index.html",
-        "https://www.cnn.com/2021/04/15/politics/foreign-policy-joe-biden-russia-afghanistan/index.html",
-        "https://www.cnn.com/2021/04/14/politics/russia-sanctions-expel-officials-hacking-election/index.html",
-        "https://www.cnn.com/2021/04/15/politics/russia-sanctions-takeaways/index.html",
-        "https://www.cnn.com/2021/04/14/politics/republican-reaction-gaetz-capitol-hill/index.html",
-        "https://www.cnn.com/2021/04/14/politics/border-wall-judge-private-land/index.html",
-        "https://www.cnn.com/2021/04/14/politics/joe-biden-faces-tests/index.html",
-        "https://www.cnn.com/2021/04/13/politics/us-intel-report-coronavirus/index.html",
-        "https://www.cnn.com/2021/04/12/politics/politics-fundraising-behavior/index.html",
-        "https://www.cnn.com/2021/04/12/politics/biden-john-sullivan-moscow/index.html",
-        "https://www.cnn.com/2021/04/10/politics/matt-gaetz-donald-trump-republicans/index.html",
-        "https://www.cnn.com/2021/03/31/politics/us-russia-ukraine-calls/index.html",
-        "https://www.cnn.com/2021/03/30/politics/donald-trump-post-presidency-mar-a-lago/index.html",
-        "https://www.cnn.com/2021/03/29/politics/us-trade-suspension-myanmar/index.html",
-        "https://www.cnn.com/2021/03/28/politics/infrastructure-biden-taxes/index.html",
-        "https://www.cnn.com/2021/03/28/politics/badass-women-nikema-williams-georgia-voting-rights/index.html",
-        "https://www.cnn.com/2021/03/26/politics/joe-biden-first-news-conference-filibuster-timeline/index.html",
-        "https://www.cnn.com/2021/03/24/politics/joe-biden-gun-control-boulder-colorado-atlanta-shootings/index.html",
-        "https://www.cnn.com/2021/03/23/politics/voting-rights-republicans-bills-demographics/index.html",
-        "https://www.cnn.com/2021/03/21/politics/what-matters-for-march-21/index.html",
-        "https://www.cnn.com/2021/03/13/politics/gop-cancel-culture-analysis/index.html",
-        "https://www.cnn.com/2021/03/09/politics/adam-kinzinger-illinois-voters/index.html",
-        "https://www.cnn.com/2021/03/03/politics/what-matters-march-3/index.html",
-        "https://www.cnn.com/2021/03/01/politics/donald-trump-cpac-speech/index.html",
-        "https://www.cnn.com/2021/02/20/politics/trump-cpac-republican-party/index.html",
-        "https://www.cnn.com/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html",
-        "https://www.cnn.com/politics/live-news/washington-dc-election-riots/index.html",
-        "https://www.cnn.com/2021/02/04/politics/kfile-marjorie-taylor-greene-history-of-conspiracies/index.html",
-        "https://www.cnn.com/2021/01/30/politics/biden-trump-foreign-calls/index.html",
-        "https://www.cnn.com/2021/01/30/politics/trump-broken-promises/index.html",
-        "https://www.cnn.com/2021/01/26/politics/marjorie-taylor-greene-democrats-violence/index.html",
-        "https://www.cnn.com/2021/01/26/politics/retirements-republicans-2022/index.html",
-        "https://www.cnn.com/2021/01/26/politics/liz-cheney-wyoming-house-impeachment/index.html",
-        "https://www.cnn.com/2021/01/25/politics/joe-biden-coronavirus-congress-trump-impeachment/index.html",
-        "https://www.cnn.com/2021/01/23/politics/joe-biden-agenda-trump-impeachment/index.html",
-        "https://www.cnn.com/2021/01/22/politics/josh-hawley-capitol-riots/index.html",
-        "https://www.cnn.com/2021/01/22/politics/joe-biden-donald-trump-jen-psaki/index.html",
-        "https://www.cnn.com/2021/01/20/politics/fact-check-trump-final-video-speech-inauguration/index.html",
-        "https://www.cnn.com/2021/01/19/politics/steve-bannon-pardoned-by-trump/index.html",
-        "https://www.cnn.com/2021/01/19/politics/trump-leaving-white-house-farewell-address/index.html",
-        "https://www.cnn.com/2021/01/19/politics/keystone-xl-pipeline-biden/index.html",
-        "https://www.cnn.com/2021/01/16/politics/fact-check-dale-top-15-donald-trump-lies/index.html",
-        "https://www.cnn.com/politics/live-news/biden-inauguration-security-dc-capitol-news-01-15-21/index.html",
-        "https://www.cnn.com/2021/01/14/politics/tom-rice-south-carolina-impeachment/index.html",
-        "https://www.cnn.com/2021/01/13/politics/house-vote-impeachment/index.html",
-        "https://www.cnn.com/2021/01/13/politics/donald-trump-impeachment-history-joe-biden/index.html",
-        "https://www.cnn.com/2021/01/12/politics/what-matters-january-12/index.html",
-        "https://www.cnn.com/2021/01/12/politics/donald-trump-legacy-joe-biden/index.html",
-        "https://www.cnn.com/2021/01/11/politics/what-matters-january-11/index.html",
-        "https://www.cnn.com/2021/01/11/politics/donald-trump-democrats-impeachment-capitol-riot/index.html",
-        "https://www.cnn.com/2021/01/11/politics/mick-mulvaney-riots-capitol/index.html",
-        "https://www.cnn.com/2021/01/09/politics/trump-twitter-big-tech/index.html",
-        "https://www.cnn.com/politics/live-news/capitol-riots-investigation-trump-news-sunday/index.html",
-        "https://www.cnn.com/politics/live-news/washington-dc-riots-trump-news-friday/index.html",
-        "https://www.cnn.com/2021/01/08/politics/donald-trump-next-steps/index.html",
-        "https://www.cnn.com/2021/01/07/politics/trump-lies-capitol-mob/index.html",
-        "https://www.cnn.com/2021/01/06/politics/capitol-riots-what-happened/index.html",
-        "https://www.cnn.com/2021/01/06/politics/pro-trump-supporters-dc-protest/index.html",
-        "https://www.cnn.com/2021/01/04/politics/donald-trump-georgia-rally/index.html",
-        "https://www.cnn.com/2021/11/11/opinions/venezuela-democracy-loss-freedom-lesson-lopez/index.html",
-        "https://www.cnn.com/2021/11/07/opinions/virginia-election-lessons-gop-democrats-heye/index.html",
-        "https://www.cnn.com/2021/10/24/opinions/steve-bannons-many-lives-column-galant/index.html",
-        "https://www.cnn.com/2021/10/07/opinions/moderate-democrats-reconciliation-infrastructure-bill-dent/index.html",
-        "https://www.cnn.com/2021/09/24/opinions/donald-trump-republicans-fraud-georgia-geoff-duncan/index.html",
-        "https://www.cnn.com/2021/07/20/opinions/justin-trudeau-joe-biden-covid-19-vaccination-rate-bociurkiw/index.html",
-        "https://www.cnn.com/2021/06/11/opinions/trump-justice-department-reporters-records-zelizer/index.html",
-        "https://www.cnn.com/2021/05/24/opinions/belarus-hijacking-ghitis/index.html",
-        "https://www.cnn.com/2021/05/12/opinions/why-gop-fired-liz-cheney-stewart/index.html",
-        "https://www.cnn.com/2021/04/18/opinions/joe-bidens-audacious-gambles-opinion-column-galant/index.html",
-        "https://www.cnn.com/2021/04/18/opinions/trump-america-first-policy-institute-dantonio/index.html",
-        "https://www.cnn.com/2021/03/28/opinions/the-fried-egg-school-of-politics-opinion-weekly-column-galant/index.html",
-        "https://www.cnn.com/2021/03/25/opinions/joe-biden-first-press-conference-challenge-axelrod/index.html",
-        "https://www.cnn.com/2021/03/21/opinions/whos-teaching-us-to-hate-opinion-weekly-column-galant/index.html",
-        "https://www.cnn.com/2021/03/18/opinions/senate-democrats-trigger-filibuster-charlie-dent/index.html",
-        "https://www.cnn.com/2021/02/14/opinions/abraham-lincoln-divided-we-stand-roundup/index.html",
-        "https://www.cnn.com/2021/02/05/opinions/kyle-rittenhouse-what-law-and-order-means-hemmer/index.html",
-        "https://www.cnn.com/2021/01/13/opinions/capitol-fence-symbol-for-trump-years-gergen/index.html",
-        "https://www.cnn.com/2021/09/21/opinions/trump-lawyer-memo-begins-with-lie-honig/index.html",
-        "https://www.cnn.com/2021/04/03/us/arab-americans-covid-19-impact/index.html",
-        "https://www.cnn.com/2021/04/07/politics/tishaura-jones-st-louis-mayor/index.html",
-        "https://www.cnn.com/2021/03/19/politics/biden-harris-atlanta/index.html",
-        "https://www.cnn.com/2021/01/10/politics/warnock-ebenezer-church-sermon/index.html",
-        "https://www.cnn.com/2021/02/01/opinions/us-public-diplomacy-strengthening-duddy-schoenfeld/index.html",
-        "https://www.cnn.com/2021/01/07/opinions/capitol-riot-confederacy-reconstruction-birth-of-a-nation-merritt-barnes/index.html"
+        {
+            "link": "https://www.cnn.com/2021/12/28/politics/harry-reid-dies/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/28/politics/the-year-supreme-court-conservatives-made-their-mark/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/09/politics/fact-check-missouri-schmitt-biden-travel/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/20/politics/young-progressives-2022-midterms/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/18/politics/joe-biden-selling-infrastructure/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/12/politics/biden-private-prisons-immigration-detention-centers-invs/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/12/politics/senate-race-rankings-november/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/president-joe-biden-inflation-politics/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/10/politics/donald-trump-2024/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/09/politics/gosar-anime-video-violence-ocasio-cortez-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/09/politics/republican-extremists-paul-gosar-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/09/politics/infrastructure-democrats-blue-collar-voters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/08/politics/covid-vaccine-debate-what-matters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/08/politics/cnn-poll-biden-job-approval/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/07/politics/bannon-podcast-war-room-election-lies/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/politics/nancy-pelosi-joe-biden-state-of-play-november-5/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/politics/gun-control-fears-state-second-amendment-laws-invs/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/politics/2022-midterm-lessons-republicans-virginia/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/04/politics/texas-voting-lawsuit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/texas-abortion-law-supreme-court-oral-arguments-11-01-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/04/politics/joe-biden-pandemic-2022-midterms-trump-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/politics/election-2021-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/politics/donald-trump-glenn-youngkin-virginia/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/politics/us-election-day-analysis-virginia-new-jersey-democrats-reckoning/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/joe-biden-town-hall-10-21-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-town-hall-cincinnati-07-21-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/18/politics/joe-biden-democrats-economy-supply-chain-donald-trump-2022-midterms/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/15/politics/virginia-governors-race-latino-voters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/13/politics/congressional-republicans-trump-president-2024/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/12/politics/president-joe-biden-problems-democrats-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/06/politics/biden-us-mexico-state-department/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/03/politics/kyrsten-sinema-record-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/30/politics/nextgen-america-2022-investment/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/congress-government-funding-vote-09-27-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/24/politics/senate-race-rankings-september/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/california-recall-election-results-2021/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/newsom-california-recall-covid-mandates/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/larry-elder-covid-newsom-recall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/us-politicians-afghanistan-war-legacy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/11/politics/9-11-anniversary-biden-afghanistan/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/21/politics/california-recall-election-what-to-know/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/08/politics/kamala-harris-gavin-newsom-california-recall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/07/politics/president-travel-california-recall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/06/politics/california-recall-newsom-union-workers/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/31/politics/larry-elder-california-recall-covid-vaccines-masks-children/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/28/politics/california-recall-what-matters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/30/politics/gavin-newsom-ad-bernie-sanders-california-recall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/29/politics/white-house-democrats-political-damage-afghanistan/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/22/politics/biden-afghan-refugees-resettlement-us-politics/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/06/politics/week-in-review-eviction-moratorium-debt-ceiling-delta/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/30/politics/krysten-sinema-infrastructure-deal-backlash/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/29/politics/texas-paxton-biden-migrants/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/28/politics/garland-justice-department/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/28/politics/jared-kushner-investment-firm/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/27/politics/donald-trump-george-p-bush-ken-paxton-endorsement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/27/politics/texas-6th-district-runoff/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/13/politics/cnn-town-hall-joe-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/20/politics/white-house-biden-six-months/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/18/politics/daca-ruling-young-undocumented-immigrants-frustration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/17/politics/2022-arizona-senate-race/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/16/politics/partisanship-confidence-in-presidency-gallup-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/16/politics/chuck-schumer-challenge-infrastructure/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/14/politics/texas-blocking-biden-immigration-trnd/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/12/politics/gavin-newsom-recall-party-affiliation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/12/politics/donald-trump-republicans-cpac/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/05/politics/america-partisan-divisions-widen/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/06/politics/donald-trump-conservative-ally-wins/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/30/politics/donald-trump-south-texas-shift-republicans-democrats-border-vicente-gonzalez/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/29/politics/california-recall-gavin-newsom-shirley-weber-democrat-ballot/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-address-fact-check-updates-04-28-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/25/politics/mike-pence-donald-trump-january-6/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/24/politics/mike-pence-donald-trump-january-6/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/23/politics/gavin-newsom-recall-election-california/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/21/politics/manhattan-district-attorney-election-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/18/politics/mike-pence-faith-freedom-coalition-remarks/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/17/politics/joe-biden-infrastructure-congress-deal/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/13/politics/washington-bipartisanship-gop-no/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/12/politics/analysis-trump-election-lies-blog-post-presidency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/10/politics/joe-biden-boris-johnson-relationship/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/09/politics/kamala-harris-foreign-trip/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/09/politics/kamala-harris-biden-border-2024/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/08/politics/democrats-divide-senate-squander-biden-agenda/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/02/politics/george-p-bush-texas-attorney-general/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/29/politics/marjorie-taylor-greene-georgia-14th-district-holocaust/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/22/politics/voting-restrictions-aapi-community/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/20/politics/justin-amash-liz-cheney-axe-files/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/18/politics/what-matters-kevin-mccarthy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/17/politics/kamala-harris-aapi-summit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/13/politics/sally-yates-liz-cheney-axe-files/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/14/politics/republican-infighting-democratic-headwinds-2022/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/13/politics/fact-check-cruz-immigrants-noncitizens-democrats-bill-s1-hr1/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/10/politics/caitlyn-jenner-dana-bash-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/10/politics/liz-cheney-vote-what-to-watch/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/09/politics/what-matters-may-9/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/09/politics/kevin-mccarthy-elise-stefanik-liz-cheney-replacement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/09/politics/caitlyn-jenner-immigration-cnntv/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/08/politics/virginia-gop-governor-primary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/08/politics/what-matters-arizona/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/07/politics/elise-stefanik-gop-leadership/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/06/politics/conservatives-concerns-stefanik-replace-cheney-trump-loyalty/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/06/politics/liz-cheney-donald-trump-gop/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/06/politics/caitlyn-jenner-hannity-interview-california/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/03/politics/bush-gop-white-anglo-saxon-protestantism/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/30/politics/joe-biden-economy-2022-elections/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/president-joe-biden-first-100-days/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/26/politics/newsom-recall-signatures-california-governor/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/26/politics/trump-north-carolina-senate-race-pat-mccrory/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/26/politics/census-us-government-control/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/24/politics/louisiana-2nd-district-special-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/22/politics/what-matters-police-reform-bill/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/20/politics/donald-trump-sean-hannity-2020-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/19/politics/business-lobby-republican-lawmaker-breakup/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/17/politics/marjorie-taylor-greene-america-first-caucus/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/16/politics/marjorie-taylor-greene-america-first-caucus/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/15/politics/scott-perry-white-replacement-theory-tucker-carlson-fox-news/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/15/politics/russia-sanctions-executive-order/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/14/politics/biden-agenda-bipartisan-deals/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/12/politics/donald-trump-2024-joe-biden-legacy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/08/politics/what-matters-guns-manchin-kentucky/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/07/politics/donald-trump-republican-politics-joe-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/06/politics/mitch-mcconnell-big-business-mlb-boycott/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/02/politics/baseball-politics-president-joe-biden-georgia-coronavirus/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/30/politics/public-charge-immigration-supreme-court-texas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/27/politics/biden-immigration-border-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/26/politics/week-in-review-boulder-shooting-georgia-voting-restrictions-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/26/politics/joe-biden-blaming-donald-trump-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/joe-biden-news-conference-03-25-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/democratic-senate-divisions-filibuster-manchin/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/speed-read-biden-press-conference/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/president-biden-news-conference-today/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/joe-biden-press-conference-challenges/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/24/politics/kfile-marjorie-taylor-greene-ally-us-capitol/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/23/politics/trump-mo-brooks-election-lie/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/20/politics/immigration-border-crisis-biden-administration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/19/politics/gavin-newsom-california-recall/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/19/politics/week-in-review-biden-covid-filibuster-atlanta-border/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/19/politics/alabama-senate-race-2022-mo-brooks/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/19/politics/george-w-bush-donald-trump-texas-tribune/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/16/politics/joe-biden-covid-pennsylvania/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/15/politics/what-matters-march-15/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/10/politics/biden-stimulus-covid-relief-bill-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/08/politics/filibuster-democratic-reaction/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/03/politics/ruth-bader-ginsburg-capitol-hill-monument/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/01/politics/family-separation/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/01/politics/merrick-garland-confirmation-committee-vote/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/28/politics/trump-cpac-speech-2021/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/28/politics/democrats-immigration-reform/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/28/politics/white-evangelicals-gop-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/27/politics/cpac-2021-speeches-saturday-2024-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/26/politics/cpac-first-day-fact-check-2021/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/26/politics/nancy-pelosi-speakership/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/24/politics/kfile-marjorie-taylor-greene-close-ally-in-capitol-mob/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/merrick-garland-ag-confirmation-hearing-02-23-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/23/politics/immigration-policy-us-economy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/merrick-garland-ag-confirmation-hearing-02-22-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/19/politics/north-carolina-2022-senate-race-republicans-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/17/politics/biden-cnn-town-hall-vaccine/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/15/politics/capitol-riot-oath-keepers-stewart-rhodes-soh/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-10-2021/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/09/politics/judges-biden-democrats-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/congress-trump-impeachment-2-03-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-2-02-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-02-01-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/01/politics/homeland-security-mayorkas-confirmation-leadership/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/30/politics/supreme-court-biden-commission/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-29-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-28-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-27-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/27/politics/homeland-security-heightened-threat-bulletin/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/26/politics/biden-agenda-conservative-judges-texas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-presidency-trump-impeachment-1-25-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/25/politics/rand-paul-stolen-election-2020-abc/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/25/politics/biden-lpez-obrador-call/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/24/politics/supreme-court-controversial-issues/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/president-joe-biden-news-01-22-20/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/president-joe-biden-news-01-21-20/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/21/politics/solicitor-general-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/21/politics/joe-biden-president-america-change/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/21/politics/race-immigration-trump-era-policies-biden/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-harris-inauguration-day-2021/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/20/politics/first-100-days-biden-challenge-trump-legacy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-inauguration-dc-security-01-19-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/biden-confirmation-hearings-key-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-inauguration-dc-capitol-news-01-18-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/donald-trump-presidency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/politics/trump-legacy-historians/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/politics/donald-trump-joe-biden-transfer-of-power/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/politics/cnn-poll-trump-lowest-approval-of-his-presidency/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/politics/donald-trump-policy-legacy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-news-01-14-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/house-trump-impeachment-vote-01-13-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/politics/acting-ice-director-resigns/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-news-01-12-21/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/04/politics/proud-boys-arrest-black-lives-matter-banner/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/03/politics/georgia-newcomers-political-shift/index.html",
+            "bias": "immigration"
+        }
     ],
     "Year": 2021
 }

@@ -11,8 +11,8 @@ from ReadWriteFiles.write_output import write_to_json
 
 PATH_WRITE = "../../data/articles/NPR/"
 
-def scrape_npr(url):
-    article = Article("NPR")
+def scrape_npr(url, bias):
+    article = Article("NPR", bias)
     article.set_url(url)
     soup = request_website(url)
     
@@ -47,9 +47,9 @@ if __name__ == "__main__":
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_NAME)
     scrape_info = {"Biases": information["Biases"], "Articles": []}
     
-    for url in information["Links"]:
-        print(url)
-        article = scrape_npr(url)
+    for item in information["Links"]:
+        print(item["link"])
+        article = scrape_npr(item["link"], item["bias"])
         scrape_info["Articles"].append(article.__dict__)
     
     full_write_path = PATH_WRITE + MAIN_BIAS + '_' + str(YEAR) + '.json'

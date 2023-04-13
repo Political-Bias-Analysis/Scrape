@@ -1,372 +1,892 @@
 {
     "Biases": [
-        "immigration",
-        "undocumented",
-        "refugees",
-        "nationalism",
-        "border",
-        "Dreamers"
+        "immigration"
     ],
     "Links": [
-        "https://www.cnn.com/2015/12/10/politics/marco-rubio-donor-art-pope-north-carolina/index.html",
-        "https://www.cnn.com/2015/12/28/politics/jeb-bush-guide-to-selfies/index.html",
-        "https://www.cnn.com/2015/12/22/politics/insults-2016-election-donald-trump/index.html",
-        "https://www.cnn.com/2015/12/20/politics/rand-paul-ted-cruz-immigration/index.html",
-        "https://www.cnn.com/2015/12/17/politics/ted-cruz-marco-rubio-immigrant-fight/index.html",
-        "https://www.cnn.com/2015/12/17/politics/ted-cruz-immigration-right-wing/index.html",
-        "https://www.cnn.com/2015/12/17/politics/roger-stone-anti-marco-rubio-super-pac-donald-trump/index.html",
-        "https://www.cnn.com/2015/12/16/politics/republican-debate-2015-analysis/index.html",
-        "https://www.cnn.com/2015/12/16/politics/who-won-republican-debate/index.html",
-        "https://www.cnn.com/2015/12/15/politics/ted-cruz-immigration-legalization/index.html",
-        "https://www.cnn.com/2015/12/15/politics/franklin-graham-halt-all-immigration/index.html",
-        "https://www.cnn.com/2015/12/14/politics/presidential-debate-sarah-palin-jake-tapper/index.html",
-        "https://www.cnn.com/2015/12/14/politics/donald-trump-republican-party-history/index.html",
-        "https://www.cnn.com/2015/12/13/politics/ip-romney-ryan-2016-rescue/index.html",
-        "https://www.cnn.com/2015/12/10/politics/claire-mccaskill-david-axelrod-podcast-obama-clinton/index.html",
-        "https://www.cnn.com/2015/12/08/politics/donald-trump-josh-earnest-disqualified-president-muslims/index.html",
-        "https://www.cnn.com/2015/12/08/politics/donald-trump-muslim-republicans-2016/index.html",
-        "https://www.cnn.com/2015/12/08/politics/lindsey-graham-donald-trump-go-to-hell-ted-cruz/index.html",
-        "https://www.cnn.com/2015/12/07/politics/donald-trump-ted-cruz-iowa-poll/index.html",
-        "https://www.cnn.com/2015/12/04/politics/donald-trump-poll-cnn-orc-national/index.html",
-        "https://www.cnn.com/2015/12/03/politics/republican-jewish-coalition-san-bernardino-shootings/index.html",
-        "https://www.cnn.com/2015/12/03/politics/lindsey-graham-republican-jewish-coalition/index.html",
-        "https://www.cnn.com/2015/12/02/politics/donald-trump-senate-gop-memo/index.html",
-        "https://www.cnn.com/2015/12/01/politics/supreme-court-immigration-texas-delay/index.html",
-        "https://www.cnn.com/2015/12/01/politics/donald-trump-2016-election/index.html",
-        "https://www.cnn.com/2015/12/01/politics/ted-cruz-quotes-2016-election/index.html",
-        "https://www.cnn.com/2015/11/28/politics/donald-trump-sarasota-florida-rally/index.html",
-        "https://www.cnn.com/2015/11/23/politics/immigration-supreme-court-texas-obama/index.html",
-        "https://www.cnn.com/2015/11/23/politics/voters-distrust-anger-government-pew-poll/index.html",
-        "https://www.cnn.com/2015/11/20/politics/obama-administration-immigration-ruling-supreme-court/index.html",
-        "https://www.cnn.com/2015/11/18/politics/marco-rubio-vandersloot-big-donor/index.html",
-        "https://www.cnn.com/2015/11/15/politics/democratic-debate-key-takeaways/index.html",
-        "https://www.cnn.com/2015/11/14/politics/paris-attacks-2016-presidential-candidates/index.html",
-        "https://www.cnn.com/2015/11/12/politics/marco-rubio-2016-immigration/index.html",
-        "https://www.cnn.com/2015/11/11/politics/republican-debate-takeaways/index.html",
-        "https://www.cnn.com/2015/11/10/politics/republican-debate-2015-updates/index.html",
-        "https://www.cnn.com/2015/11/11/politics/republican-debate-hillary-clinton-attacks/index.html",
-        "https://www.cnn.com/2015/11/07/politics/democratic-2015-elections-off-year-crisis/index.html",
-        "https://www.cnn.com/2015/11/05/politics/chuck-schumer-interview-rubio-immigration/index.html",
-        "https://www.cnn.com/2015/11/04/politics/marco-rubio-daca-new-hampshire/index.html",
-        "https://www.cnn.com/2015/11/03/politics/republican-debates-cnbc-donald-trump/index.html",
-        "https://www.cnn.com/2015/11/03/politics/ted-cruz-john-mccain-axiom-strategies/index.html",
-        "https://www.cnn.com/2015/10/29/politics/republican-debate-2015-winners-losers/index.html",
-        "https://www.cnn.com/2015/10/28/politics/jeb-bush-video-hillary-clinton/index.html",
-        "https://www.cnn.com/2015/10/21/politics/jeb-bush-marvel-superhero-las-vegas/index.html",
-        "https://www.cnn.com/2015/10/25/politics/donald-trump-democrats-republicans-bipartisanship-great-unifier/index.html",
-        "https://www.cnn.com/2015/10/25/politics/sunday-shows-donald-trump-ben-carson-republican-debate/index.html",
-        "https://www.cnn.com/2015/10/25/politics/marco-rubio-hillary-clinton-donald-trump/index.html",
-        "https://www.cnn.com/2015/10/23/politics/hillary-clinton-alexandria-campaign/index.html",
-        "https://www.cnn.com/2015/10/22/politics/paul-ryan-house-speaker-announcement/index.html",
-        "https://www.cnn.com/2015/10/21/politics/house-speaker-election-leadership-paul-ryan/index.html",
-        "https://www.cnn.com/2015/10/21/politics/joe-biden-bernie-sanders-2016-election/index.html",
-        "https://www.cnn.com/2015/10/15/politics/hillary-clinton-latino-voters-texas/index.html",
-        "https://www.cnn.com/2015/10/14/politics/republican-poll-donald-trump-nevada-south-carolina/index.html",
-        "https://www.cnn.com/2015/10/13/politics/democratic-debate-2015-what-to-watch/index.html",
-        "https://www.cnn.com/2015/10/11/politics/bernie-sanders-martin-omalley-hillary-clinton-debate/index.html",
-        "https://www.cnn.com/2015/10/08/politics/nevada-republicans-2016-primaries/index.html",
-        "https://www.cnn.com/2015/10/07/politics/joe-biden-latino-victory-project/index.html",
-        "https://www.cnn.com/2015/10/01/politics/hillary-clinton-latino-focus/index.html",
-        "https://www.cnn.com/2015/09/29/politics/hillary-clinton-bernie-sanders-fundraising/index.html",
-        "https://www.cnn.com/2015/09/29/politics/immigration-obama-lawsuit-delays/index.html",
-        "https://www.cnn.com/2015/09/23/politics/marco-rubio-2016-below-radar-campaign/index.html",
-        "https://www.cnn.com/2015/09/22/politics/pope-francis-america-congress-visit/index.html",
-        "https://www.cnn.com/2015/09/20/politics/ip-for-speaker-boehner-a-bit-of-personal-redemption/index.html",
-        "https://www.cnn.com/2015/01/16/politics/gop-retreat-chocolate/index.html",
-        "https://www.cnn.com/2015/09/17/politics/republican-debate-winners-losers-donald-trump/index.html",
-        "https://www.cnn.com/2015/09/16/politics/republican-debate-cnn-2016/index.html",
-        "https://www.cnn.com/2015/09/16/politics/republican-debate-undercard-trump-graham/index.html",
-        "https://www.cnn.com/2015/09/15/politics/reagan-amnesty-2016/index.html",
-        "https://www.cnn.com/2015/09/14/politics/hillary-clinton-bill-clinton-vice-president/index.html",
-        "https://www.cnn.com/2015/09/14/politics/cnn-poll-guns-immigration-abortion-2016/index.html",
-        "https://www.cnn.com/2015/09/11/politics/2016-election-political-insults/index.html",
-        "https://www.cnn.com/2015/09/10/politics/donald-trump-women/index.html",
-        "https://www.cnn.com/2015/09/10/politics/donald-trump-ben-carson-cnn-poll/index.html",
-        "https://www.cnn.com/2015/09/08/politics/election-2016-republicans-rubio/index.html",
-        "https://www.cnn.com/2015/09/07/politics/congress-iran-nuclear-deal-pope-francis-government-shutdown/index.html",
-        "https://www.cnn.com/2015/09/06/politics/ip-hillary-clintons-post-labor-day-strategy/index.html",
-        "https://www.cnn.com/2015/09/03/politics/donald-trump-2016-rnc-pledge-meeting/index.html",
-        "https://www.cnn.com/2015/09/01/politics/donald-trump-don-lemon-interview/index.html",
-        "https://www.cnn.com/2015/08/30/politics/jeb-bush-donald-trump-immigration/index.html",
-        "https://www.cnn.com/2015/08/30/politics/scott-walker-northern-border-immigration-2016/index.html",
-        "https://www.cnn.com/2015/08/29/politics/jeb-bush-fundraisers-campaign/index.html",
-        "https://www.cnn.com/2015/08/28/politics/donald-trump-hillary-clinton-2016-election-political-hits/index.html",
-        "https://www.cnn.com/2015/08/28/politics/donald-trump-marco-rubio-south-carolina/index.html",
-        "https://www.cnn.com/2015/08/25/politics/bush-trump-border-immigration/index.html",
-        "https://www.cnn.com/2015/08/24/politics/2016-elections-economy-donald-trump-market-turmoil/index.html",
-        "https://www.cnn.com/2015/08/23/politics/scott-walker-donald-trump-birthright-citizenship-2016/index.html",
-        "https://www.cnn.com/2015/08/21/politics/donald-trump-rally-mobile-alabama/index.html",
-        "https://www.cnn.com/2015/08/19/politics/donald-trump-chris-cuomo-cnn-interview/index.html",
-        "https://www.cnn.com/2015/08/18/politics/donald-trump-presidential-poll-debate/index.html",
-        "https://www.cnn.com/2015/08/18/politics/ben-carson-large-crowd-phoenix/index.html",
-        "https://www.cnn.com/2015/08/18/politics/donald-trump-republican-2016-field/index.html",
-        "https://www.cnn.com/2015/08/16/politics/donald-trump-iowa-state-fair/index.html",
-        "https://www.cnn.com/2015/08/17/politics/chris-christie-hillary-clinton-emails/index.html",
-        "https://www.cnn.com/2015/08/15/politics/donald-trump-iowa-rick-santorum/index.html",
-        "https://www.cnn.com/2015/08/12/politics/john-kasich-conservative/index.html",
-        "https://www.cnn.com/2015/08/12/politics/iowa-donald-trump-poll-cnn-orc/index.html",
-        "https://www.cnn.com/2015/08/12/politics/cruz-praises-bush-amnesty-convention/index.html",
-        "https://www.cnn.com/2015/08/09/politics/2016-campaign-surprise-moments-donald-trump/index.html",
-        "https://www.cnn.com/2015/08/06/politics/republican-debate-fact-check/index.html",
-        "https://www.cnn.com/2015/08/07/politics/republican-presidential-debate-takeaways/index.html",
-        "https://www.cnn.com/2015/08/06/politics/2016-republican-party-presidential-debate-fox/index.html",
-        "https://www.cnn.com/2015/08/05/politics/jeb-bush-2016-republican-debate/index.html",
-        "https://www.cnn.com/2015/08/05/politics/republican-fox-news-debate/index.html",
-        "https://www.cnn.com/2015/08/03/politics/gop-forum-new-hampshire-2016/index.html",
-        "https://www.cnn.com/2015/08/03/politics/2016-election-koch-brothers-donor-retreat/index.html",
-        "https://www.cnn.com/2015/08/02/politics/donald-trump-2016-presidential-election/index.html",
-        "https://www.cnn.com/2015/08/01/politics/martin-omalley-puerto-rico/index.html",
-        "https://www.cnn.com/2015/07/27/politics/mike-huckabee-oven-comments-debate-2016/index.html",
-        "https://www.cnn.com/2015/07/27/politics/jeb-bush-telemundo-spanish-interview/index.html",
-        "https://www.cnn.com/2015/07/27/politics/donald-trump-cnn-orc-poll-2016/index.html",
-        "https://www.cnn.com/2015/07/23/politics/donald-trump-third-party/index.html",
-        "https://www.cnn.com/2015/07/23/politics/donald-trump-rick-perry-demagogue/index.html",
-        "https://www.cnn.com/2015/07/22/politics/lindsey-graham-donald-trump-car-wreck/index.html",
-        "https://www.cnn.com/2015/07/21/politics/trump-republicans-mccain/index.html",
-        "https://www.cnn.com/2015/07/18/politics/donald-trump-john-mccain-war-hero/index.html",
-        "https://www.cnn.com/2015/07/19/politics/scott-walker-flip-flop-2016-election/index.html",
-        "https://www.cnn.com/2015/07/17/politics/donald-trump-summer-surge/index.html",
-        "https://www.cnn.com/2015/07/17/politics/obama-presidency-winning-streak/index.html",
-        "https://www.cnn.com/2015/07/15/politics/donald-trump-financial-disclosure/index.html",
-        "https://www.cnn.com/2015/07/13/politics/scott-walker-2016-presidential-announcement/index.html",
-        "https://www.cnn.com/2015/07/12/politics/scott-walker-iowa-strategy/index.html",
-        "https://www.cnn.com/2015/07/13/politics/immigration-hillary-clinton-jeb-bush/index.html",
-        "https://www.cnn.com/2015/07/12/politics/ip-walkers-wisconsin-advantage/index.html",
-        "https://www.cnn.com/2015/07/10/politics/donald-trump-immigration-crime/index.html",
-        "https://www.cnn.com/2015/07/10/politics/scott-walker-republicans-2016/index.html",
-        "https://www.cnn.com/2015/07/10/politics/rick-perry-super-pac-fundraising-17-million/index.html",
-        "https://www.cnn.com/2015/07/08/politics/donald-trump-reince-priebus-immigrants-rnc/index.html",
-        "https://www.cnn.com/2015/07/09/politics/donald-trump-jeb-bush-fundraising/index.html",
-        "https://www.cnn.com/2015/07/08/politics/immigrants-crime/index.html",
-        "https://www.cnn.com/2015/07/07/politics/hillary-clinton-iowa-first-interview/index.html",
-        "https://www.cnn.com/2015/07/08/politics/immigration-republicans-2016/index.html",
-        "https://www.cnn.com/2015/07/02/politics/donald-trump-republicans-latinos/index.html",
-        "https://www.cnn.com/2015/07/07/politics/hillary-clinton-cnn-interview/index.html",
-        "https://www.cnn.com/2015/07/03/politics/george-pataki-donald-trump-strategy/index.html",
-        "https://www.cnn.com/2015/07/01/politics/donald-trump-poll-hillary-clinton-jeb-bush/index.html",
-        "https://www.cnn.com/2015/06/29/politics/supreme-court-2015-term-liberals-conservatives/index.html",
-        "https://www.cnn.com/2015/06/28/politics/republicans-2016-religious-liberty-gay-marriage/index.html",
-        "https://www.cnn.com/2015/06/27/politics/jeb-bush-gun-control/index.html",
-        "https://www.cnn.com/2015/06/25/politics/obama-legacy-obamacare-trade-iran/index.html",
-        "https://www.cnn.com/2015/06/17/politics/ben-carson-latinos-election-2016/index.html",
-        "https://www.cnn.com/2015/06/22/politics/immigration-border-2016-election/index.html",
-        "https://www.cnn.com/2015/05/29/politics/being-moody-latino-outreach/index.html",
-        "https://www.cnn.com/2015/06/16/politics/jeb-bush-new-hampshire/index.html",
-        "https://www.cnn.com/2015/06/16/politics/jeb-bush-latino-connections/index.html",
-        "https://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/index.html",
-        "https://www.cnn.com/2015/06/13/politics/hillary-clinton-8-things-weve-learned/index.html",
-        "https://www.cnn.com/2015/06/04/politics/jeb-bush-2016-announcement/index.html",
-        "https://www.cnn.com/2015/06/03/politics/obama-approval-rating-cnn-poll/index.html",
-        "https://www.cnn.com/2015/06/01/politics/lindsey-graham-presidential-announcement-election-2016/index.html",
-        "https://www.cnn.com/2015/05/31/politics/ip-rubios-bet-on-nevada/index.html",
-        "https://www.cnn.com/2015/05/27/politics/obama-immigration-politics/index.html",
-        "https://www.cnn.com/2015/05/24/politics/ip-hillary-clinton-test/index.html",
-        "https://www.cnn.com/2015/05/22/politics/jeb-bush-2016-strategy/index.html",
-        "https://www.cnn.com/2015/05/19/politics/christie-immigration-change-position/index.html",
-        "https://www.cnn.com/2015/05/14/politics/nevada-election-2016-jeb-bush/index.html",
-        "https://www.cnn.com/2015/05/09/politics/obama-advisers-uk-elections-messina-axelrod/index.html",
-        "https://www.cnn.com/2015/05/10/politics/jeb-bush-immigration-scott-walker-election-2016/index.html",
-        "https://www.cnn.com/2015/05/11/politics/jeb-bush-fox-interview-megyn-kelly-election-2016/index.html",
-        "https://www.cnn.com/2015/05/10/politics/ip-portman-gop-same-sex-marriage-platform/index.html",
-        "https://www.cnn.com/2015/05/08/politics/chris-christie-new-hampshire-lost-time/index.html",
-        "https://www.cnn.com/2015/05/07/politics/democrats-work-against-obama-on-trade/index.html",
-        "https://www.cnn.com/2015/05/07/politics/carly-fiorina-2016-media-blitz/index.html",
-        "https://www.cnn.com/2015/05/06/politics/rand-paul-domain-name-100k/index.html",
-        "https://www.cnn.com/2015/05/05/politics/hillary-clinton-immigration-electoin-2016/index.html",
-        "https://www.cnn.com/2015/05/05/politics/carly-fiorina-hillary-clinton-immigration/index.html",
-        "https://www.cnn.com/2015/05/05/politics/hillary-clinton-path-to-citizenship-immigration-nevada/index.html",
-        "https://www.cnn.com/2015/05/04/politics/gop-diversity-2016-election/index.html",
-        "https://www.cnn.com/2015/04/30/politics/united-kingdom-election-debate/index.html",
-        "https://www.cnn.com/2015/04/26/politics/obama-whcd-speech/index.html",
-        "https://www.cnn.com/2015/04/26/politics/ip-bernie-sanders-big-day/index.html",
-        "https://www.cnn.com/2015/04/18/politics/gop-2016-hopefuls-take-aim-at-hillary-each-other-at-summit/index.html",
-        "https://www.cnn.com/2015/04/17/politics/jeb-bush-republican-leadership-summit/index.html",
-        "https://www.cnn.com/2015/04/13/politics/election-2016-marco-rubio-presidential-campaign/index.html",
-        "https://www.cnn.com/2015/04/13/politics/nra-convention-2015-2016-elections/index.html",
-        "https://www.cnn.com/2015/04/13/politics/election-2016-marco-rubio-jeb-bush-latinos/index.html",
-        "https://www.cnn.com/2015/04/09/politics/republicans-foreign-policy-hawks-election-2016/index.html",
-        "https://www.cnn.com/2015/03/27/politics/election-2016-harry-reid-legacy/index.html",
-        "https://www.cnn.com/2015/03/25/politics/election-2016-lindsey-graham-south-carolina/index.html",
-        "https://www.cnn.com/2015/03/23/politics/election-2016-ted-cruz/index.html",
-        "https://www.cnn.com/2015/03/20/politics/us-senate-mcconnell/index.html",
-        "https://www.cnn.com/2015/03/17/politics/obama-politics-white-house/index.html",
-        "https://www.cnn.com/2015/03/15/politics/scott-walker-2016-election-new-hampshire/index.html",
-        "https://www.cnn.com/2015/03/14/politics/walker-new-hampshire/index.html",
-        "https://www.cnn.com/2015/03/13/politics/election-2016-influential-iowa-republican-snubs-jeb-bush-for-scott-walker/index.html",
-        "https://www.cnn.com/2015/03/06/politics/menendez-corruptoin-charges-obama-relationship/index.html",
-        "https://www.cnn.com/2015/03/06/politics/election-2016-jeb-bush-iowa-agriculture-summit/index.html",
-        "https://www.cnn.com/2015/03/02/politics/scott-walker-2016-south-carolina-blitz/index.html",
-        "https://www.cnn.com/2015/02/28/politics/cpac-candidates-analysis/index.html",
-        "https://www.cnn.com/2015/02/26/politics/cpac-2015-speakers-liveblog/index.html",
-        "https://www.cnn.com/2015/02/26/politics/john-king-facebook-chat/index.html",
-        "https://www.cnn.com/2015/02/26/politics/britain-gop-farage/index.html",
-        "https://www.cnn.com/2015/02/25/politics/cpac-2015-conservative-republicans/index.html",
-        "https://www.cnn.com/2015/02/26/politics/dhs-endangered-republicans/index.html",
-        "https://www.cnn.com/2015/02/25/politics/obama-immigration-dhs-funding/index.html",
-        "https://www.cnn.com/2015/02/22/politics/dhs-funding-shutdown/index.html",
-        "https://www.cnn.com/2015/02/20/politics/rubio-heckled-by-immigration-protesters/index.html",
-        "https://www.cnn.com/2015/02/18/politics/jeb-bush-iraq-speech/index.html",
-        "https://www.cnn.com/2015/02/17/politics/poll-dhs-funding-gop/index.html",
-        "https://www.cnn.com/2015/02/11/politics/obama-david-axelrod-interview/index.html",
-        "https://www.cnn.com/2015/02/08/politics/jeh-johnson-dhs-funding/index.html",
-        "https://www.cnn.com/2015/02/04/politics/jeb-bush-2016-candidate-election/index.html",
-        "https://www.cnn.com/2015/01/30/politics/boehner-battles-right-left/index.html",
-        "https://www.cnn.com/2015/01/29/politics/lindsey-graham-2016-presidential-campaign/index.html",
-        "https://www.cnn.com/2015/01/28/politics/boehner-obama-immigration-lawsuit/index.html",
-        "https://www.cnn.com/2015/01/28/politics/loretta-lynch-ag-confirmation-hearing/index.html",
-        "https://www.cnn.com/2015/01/24/politics/rubio-ready-to-run-2016/index.html",
-        "https://www.cnn.com/2015/01/21/politics/king-tweet-deportables/index.html",
-        "https://www.cnn.com/2015/01/20/politics/ernst-rebuttal-excerpts/index.html",
-        "https://www.cnn.com/2015/01/20/politics/state-of-the-union-address-2015-preview/index.html",
-        "https://www.cnn.com/2015/01/14/politics/hill-gop-retreat/index.html",
-        "https://www.cnn.com/2015/01/14/politics/crowdpac-video-and-story/index.html",
-        "https://www.cnn.com/2015/01/12/politics/kamala-harris-california-senate/index.html",
-        "https://www.cnn.com/2015/01/06/politics/boehner-vote-tuesday/index.html",
-        "https://www.cnn.com/2015/01/05/politics/gop-agenda-for-the-new-congress/index.html",
-        "https://www.cnn.com/2015/01/05/politics/conservative-coup-attempt-grows/index.html",
-        "https://www.cnn.com/2014/12/24/politics/christian-primary/index.html",
-        "https://www.cnn.com/2015/01/04/politics/gohmert-and-yoho-challenge-boehner/index.html",
-        "https://www.cnn.com/2015/01/04/politics/obama-senate-gop-keystone-to-test-new-relationship/index.html",
-        "https://www.cnn.com/2014/12/18/politics/obama-action-final-term/index.html",
-        "https://www.cnn.com/2013/12/06/politics/obama-economy/index.html",
-        "https://www.cnn.com/2015/12/27/opinions/zelizer-seven-questions-for-the-new-year/index.html",
-        "https://www.cnn.com/2015/12/16/opinions/opinion-roundup-gop-debate/index.html",
-        "https://www.cnn.com/2015/12/16/opinions/opinion-roundup-gop-debate-international-reaction/index.html",
-        "https://www.cnn.com/2015/12/15/opinions/axelrod-cnn-debate-preview/index.html",
-        "https://www.cnn.com/2015/12/13/opinions/miller-nelson-tv-presidential-debates/index.html",
-        "https://www.cnn.com/2015/07/23/opinions/zelizer-trump-ross-perot/index.html",
-        "https://www.cnn.com/2015/12/08/opinions/trump-isis/index.html",
-        "https://www.cnn.com/2015/12/07/opinions/zelizer-second-look-gop-candidates/index.html",
-        "https://www.cnn.com/2015/12/02/opinions/stanley-cruz-rubio-challenge-trump/index.html",
-        "https://www.cnn.com/2015/12/01/opinions/opinion-roundup-politicians-lies/index.html",
-        "https://www.cnn.com/2015/11/13/opinions/wright-republican-presidential-field/index.html",
-        "https://www.cnn.com/2015/11/11/opinions/graham-fox-biz-debate/index.html",
-        "https://www.cnn.com/2015/11/08/opinions/zelizer-republican-chances-for-2016/index.html",
-        "https://www.cnn.com/2015/11/05/opinions/marshall-democratic-forum/index.html",
-        "https://www.cnn.com/2015/10/30/opinions/stanley-is-rubio-like-obama/index.html",
-        "https://www.cnn.com/2015/10/26/opinions/reyes-jeb-bush/index.html",
-        "https://www.cnn.com/2015/10/14/opinions/reyes-democratic-debate-reaction/index.html",
-        "https://www.cnn.com/2015/10/10/opinions/kohn-bernie-sanders-popularity/index.html",
-        "https://www.cnn.com/2015/10/08/opinions/setmayer-tea-party-revolution/index.html",
-        "https://www.cnn.com/2015/10/06/opinions/castellanos-presidential-race/index.html",
-        "https://www.cnn.com/2015/09/16/opinions/cardona-opinion-cnn-gop-debate/index.html",
-        "https://www.cnn.com/2015/09/15/opinions/roundup-questions-for-debate/index.html",
-        "https://www.cnn.com/2015/09/13/opinions/zelizer-6-questions-for-gop-debate/index.html",
-        "https://www.cnn.com/2015/09/11/opinions/reyes-antonio-zambrano-montes/index.html",
-        "https://www.cnn.com/2015/09/09/opinions/kohn-hillary-jeb-on-tv/index.html",
-        "https://www.cnn.com/2015/08/25/opinions/yang-bush-anchor-babies/index.html",
-        "https://www.cnn.com/2015/08/23/opinions/zelizer-fiorina-women-voters/index.html",
-        "https://www.cnn.com/2015/08/22/opinions/obeidallah-gop-fear-mongering/index.html",
-        "https://www.cnn.com/2015/08/21/opinions/reyes-anchor-babies-slur/index.html",
-        "https://www.cnn.com/2015/08/21/opinions/greece-election-chryssogelos/index.html",
-        "https://www.cnn.com/2015/08/20/opinions/doyle-pa-immigration-birthright/index.html",
-        "https://www.cnn.com/2015/08/19/opinions/stanley-where-are-trumps-conservative-values/index.html",
-        "https://www.cnn.com/2015/08/17/opinions/reyes-trump-immigration/index.html",
-        "https://www.cnn.com/2015/08/13/opinions/stanley-what-trump-means/index.html",
-        "https://www.cnn.com/2015/08/11/opinions/parini-bernie-sanders/index.html",
-        "https://www.cnn.com/2015/08/07/opinions/opinion-gop-debate-roundup/index.html",
-        "https://www.cnn.com/2015/08/07/opinions/graham-trump-was-terrible-debate/index.html",
-        "https://www.cnn.com/2015/08/06/opinions/reyes-undocumented-immigrants-local-government/index.html",
-        "https://www.cnn.com/2015/07/24/opinions/sanchez-trump-border/index.html",
-        "https://www.cnn.com/2015/07/14/opinions/doyle-hillary-clinton-wonk/index.html",
-        "https://www.cnn.com/2015/07/08/opinions/williams-donald-trump/index.html",
-        "https://www.cnn.com/2015/06/19/opinions/is-europe-over-tisdall/index.html",
-        "https://www.cnn.com/2015/06/25/opinions/petraeus-bhayani-innovation-america/index.html",
-        "https://www.cnn.com/2015/06/17/opinions/kohn-donald-trump-announcement/index.html",
-        "https://www.cnn.com/2015/05/10/opinions/stanley-lessons-us-cameron-victory/index.html",
-        "https://www.cnn.com/2015/05/06/opinions/marshall-britain-general-election/index.html",
-        "https://www.cnn.com/2015/04/30/opinions/uk-election-nationalism/index.html",
-        "https://www.cnn.com/2015/04/24/opinions/uk-election-internet-keen/index.html",
-        "https://www.cnn.com/2015/05/01/opinions/uk-election-governs-king/index.html",
-        "https://www.cnn.com/2015/04/24/opinions/kasich-ohio-recovery/index.html",
-        "https://www.cnn.com/2015/04/03/opinions/oakley-uk-election-debate/index.html",
-        "https://www.cnn.com/2015/03/19/opinions/opinion-roundup-mandatory-voting-duplicate-2/index.html",
-        "https://www.cnn.com/2015/02/13/opinions/stanley-gop-visit-britain/index.html",
-        "https://www.cnn.com/2015/09/22/us/new-day-five-things/index.html",
-        "https://www.cnn.com/2015/12/16/politics/republican-debate-ted-cruz-donald-trump-marco-rubio-pivit/index.html",
-        "https://www.cnn.com/2015/12/05/politics/millennial-voters-2016-election/index.html",
-        "https://www.cnn.com/2015/11/05/politics/ted-cruz-marco-rubio-the-lead/index.html",
-        "https://www.cnn.com/2015/10/27/politics/john-kasich-republicans-debate/index.html",
-        "https://www.cnn.com/2015/10/14/politics/democratic-debate-2015-winners-losers/index.html",
-        "https://www.cnn.com/2015/09/22/politics/hillary-clinton-opposes-keystone-xl-pipeline/index.html",
-        "https://www.cnn.com/2015/09/09/politics/hillary-clinton-donald-trump-2016-bad-mood/index.html",
-        "https://www.cnn.com/2015/09/01/politics/2016-election-ben-carson/index.html",
-        "https://www.cnn.com/2015/08/26/politics/trump-ben-ferguson-hispanic-english-latino/index.html",
-        "https://www.cnn.com/2015/08/26/politics/joe-biden-path-to-beat-hillary-clinton/index.html",
-        "https://www.cnn.com/2015/08/23/politics/ben-carson-evangelicals-trump/index.html",
-        "https://www.cnn.com/2015/08/10/politics/lindsey-graham-donald-trump-hillary-clinton-2016/index.html",
-        "https://www.cnn.com/2015/08/09/politics/donald-trump-campaign-survival-2016/index.html",
-        "https://www.cnn.com/2015/07/31/politics/hillary-clinton-cuba-embargo-gop-history/index.html",
-        "https://www.cnn.com/2015/07/21/politics/john-kasich-election-2016-announcement/index.html",
-        "https://www.cnn.com/2015/04/10/politics/2016-elections-emoji-candidate-status-check/index.html",
-        "https://www.cnn.com/2015/05/03/politics/john-kasich-presidential-run-looks-pretty-good/index.html",
-        "https://www.cnn.com/2015/03/07/politics/iowa-ag-summit/index.html",
-        "https://www.cnn.com/2015/12/09/opinions/obeidallah-trump-muslims/index.html",
-        "https://www.cnn.com/2015/11/11/opinions/gop-fox-business-debate-roundup/index.html",
-        "https://www.cnn.com/2015/05/12/opinions/louis-nail-salon-workers/index.html",
-        "https://www.cnn.com/2015/09/18/us/new-day-5-things/index.html",
-        "https://www.cnn.com/2015/09/11/us/new-day-five-things/index.html",
-        "https://www.cnn.com/2015/12/16/politics/puerto-rico-government-shutdown-house-bill/index.html",
-        "https://www.cnn.com/2015/12/15/politics/hillary-clinton-isis-domestic-terrorism/index.html",
-        "https://www.cnn.com/2015/12/15/politics/republican-debate-2015-what-to-watch/index.html",
-        "https://www.cnn.com/2015/12/10/politics/marco-rubio-donald-trump-muslim/index.html",
-        "https://www.cnn.com/2015/12/06/politics/obama-oval-office-speech-terrorism/index.html",
-        "https://www.cnn.com/2015/12/03/politics/gun-control-obamacare-planned-parenthood-senate/index.html",
-        "https://www.cnn.com/2015/12/02/politics/jeb-bush-donald-trump-9-11/index.html",
-        "https://www.cnn.com/2015/12/02/politics/chris-christie-terror-attacks-women-children/index.html",
-        "https://www.cnn.com/2015/11/30/politics/kevin-mccarthy-planned-parenthood-government-shutdown/index.html",
-        "https://www.cnn.com/2015/11/19/politics/hillary-clinton-isis-bernie-sanders/index.html",
-        "https://www.cnn.com/2015/11/19/politics/hillary-clinton-isis-speech/index.html",
-        "https://www.cnn.com/2015/11/16/politics/trump-security-paris-attacks/index.html",
-        "https://www.cnn.com/2015/11/18/politics/obama-criticizes-republicans-while-abroad/index.html",
-        "https://www.cnn.com/2015/11/18/politics/paris-attacks-republicans-obama-isis/index.html",
-        "https://www.cnn.com/2015/11/18/politics/jeb-bush-military-speech/index.html",
-        "https://www.cnn.com/2015/11/15/politics/democratic-debate-hillary-clinton-secretary/index.html",
-        "https://www.cnn.com/2015/10/24/politics/jeb-bush-campaign-donald-trump/index.html",
-        "https://www.cnn.com/2015/10/04/politics/john-mccain-donald-trump-syria/index.html",
-        "https://www.cnn.com/2015/09/11/politics/mitch-mcconnell-iran-government-shutdown/index.html",
-        "https://www.cnn.com/2015/09/04/politics/barack-obama-migrant-crisis-us-response/index.html",
-        "https://www.cnn.com/2015/11/17/opinions/hewitt-syria-gop-get-out-the-vote/index.html",
-        "https://www.cnn.com/2015/11/15/opinions/opinion-roundup-democratic-debate/index.html",
-        "https://www.cnn.com/2015/10/23/opinions/canada-isis-trudeau/index.html",
-        "https://www.cnn.com/2015/10/22/opinions/abe-nuclear-restart/index.html",
-        "https://www.cnn.com/2015/10/20/opinions/cohen-canada-trudeau/index.html",
-        "https://www.cnn.com/2015/11/19/us/gettysburg-address-famous-quotes/index.html",
-        "https://www.cnn.com/2015/09/03/politics/donald-trump-gop-rick-wilson/index.html",
-        "https://www.cnn.com/2015/05/06/politics/nicola-sturgeon-scotland-uk-election/index.html",
-        "https://www.cnn.com/2015/01/19/politics/romney-obama-politics/index.html",
-        "https://www.cnn.com/2015/06/08/opinions/berman-turkey-election-results/index.html",
-        "https://www.cnn.com/2015/03/15/opinions/krieg-israeli-elections-netanyahu/index.html",
-        "https://www.cnn.com/2015/10/12/us/new-day-five-things/index.html",
-        "https://www.cnn.com/2015/07/24/us/louisiana-theater-shooter/index.html",
-        "https://www.cnn.com/2015/06/22/us/new-day-five-things/index.html",
-        "https://www.cnn.com/2015/03/18/us/new-day-five-things/index.html",
-        "https://www.cnn.com/2015/12/30/politics/new-hampshire-guide-2016-elections/index.html",
-        "https://www.cnn.com/2015/12/28/politics/state-visit-canada-prime-minister-justin-trudeau-white-house-obama/index.html",
-        "https://www.cnn.com/2015/12/07/politics/obama-speech-isis-visas-guns/index.html",
-        "https://www.cnn.com/2015/11/06/politics/keystone-xl-pipeline-decision-rejection-kerry/index.html",
-        "https://www.cnn.com/2015/11/05/politics/jeb-bush-daughter-drug-addiction/index.html",
-        "https://www.cnn.com/2015/10/13/politics/mitch-mcconnell-entitlement-changes-fiscal-talks/index.html",
-        "https://www.cnn.com/2015/09/29/politics/carly-fiorina-hillary-clinton-attacks/index.html",
-        "https://www.cnn.com/2015/09/17/politics/republican-debate-supreme-court/index.html",
-        "https://www.cnn.com/2015/08/25/politics/turkey-elections-isis-syria-iraq/index.html",
-        "https://www.cnn.com/2015/08/11/politics/donald-trump-2016/index.html",
-        "https://www.cnn.com/2015/07/20/politics/nigerian-president-buhari-obama-visit/index.html",
-        "https://www.cnn.com/2015/06/24/politics/bobby-jindal-2016-election-announcement/index.html",
-        "https://www.cnn.com/2015/06/24/politics/2016-election-republican-fundraising/index.html",
-        "https://www.cnn.com/2015/06/17/politics/donald-trump-threat-gop-candidates/index.html",
-        "https://www.cnn.com/2015/06/16/politics/donald-trump-2016-announcement-elections/index.html",
-        "https://www.cnn.com/2015/04/30/politics/uk-elections-david-cameron-ed-miliband/index.html",
-        "https://www.cnn.com/2015/05/04/politics/scottish-campaign-turns-nasty/index.html",
-        "https://www.cnn.com/2015/05/01/politics/uk-elections-david-cameron-ed-milliband/index.html",
-        "https://www.cnn.com/2015/05/02/politics/perry-cruz-south-carolina-gop/index.html",
-        "https://www.cnn.com/2015/04/24/politics/walker-iowa-2016-presidential-race/index.html",
-        "https://www.cnn.com/2015/04/14/politics/hillary-clinton-iowa-2016/index.html",
-        "https://www.cnn.com/2015/01/24/politics/saudi-king-succession-washington/index.html",
-        "https://www.cnn.com/2014/11/28/politics/gop-hopes-new-class-of-black-republicans-signals-trend-data-suggests-otherwise/index.html",
-        "https://www.cnn.com/2015/06/27/opinions/sanchez-trump-nbcu-ties/index.html",
-        "https://www.cnn.com/2015/04/14/opinions/amar-land-of-lincoln/index.html",
-        "https://www.cnn.com/2015/05/07/opinions/tv-show-fictional-leader-battle-election/index.html"
+        {
+            "link": "https://www.cnn.com/2015/12/10/politics/marco-rubio-donor-art-pope-north-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/28/politics/jeb-bush-guide-to-selfies/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/22/politics/insults-2016-election-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/20/politics/rand-paul-ted-cruz-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/17/politics/ted-cruz-marco-rubio-immigrant-fight/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/17/politics/ted-cruz-immigration-right-wing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/17/politics/roger-stone-anti-marco-rubio-super-pac-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/16/politics/republican-debate-2015-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/16/politics/who-won-republican-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/15/politics/ted-cruz-immigration-legalization/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/15/politics/franklin-graham-halt-all-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/14/politics/presidential-debate-sarah-palin-jake-tapper/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/14/politics/donald-trump-republican-party-history/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/13/politics/ip-romney-ryan-2016-rescue/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/10/politics/claire-mccaskill-david-axelrod-podcast-obama-clinton/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/08/politics/donald-trump-josh-earnest-disqualified-president-muslims/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/08/politics/donald-trump-muslim-republicans-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/08/politics/lindsey-graham-donald-trump-go-to-hell-ted-cruz/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/07/politics/donald-trump-ted-cruz-iowa-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/04/politics/donald-trump-poll-cnn-orc-national/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/03/politics/republican-jewish-coalition-san-bernardino-shootings/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/03/politics/lindsey-graham-republican-jewish-coalition/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/02/politics/donald-trump-senate-gop-memo/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/01/politics/supreme-court-immigration-texas-delay/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/01/politics/donald-trump-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/01/politics/ted-cruz-quotes-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/28/politics/donald-trump-sarasota-florida-rally/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/23/politics/immigration-supreme-court-texas-obama/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/23/politics/voters-distrust-anger-government-pew-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/20/politics/obama-administration-immigration-ruling-supreme-court/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/18/politics/marco-rubio-vandersloot-big-donor/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/15/politics/democratic-debate-key-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/14/politics/paris-attacks-2016-presidential-candidates/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/12/politics/marco-rubio-2016-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/11/politics/republican-debate-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/10/politics/republican-debate-2015-updates/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/11/politics/republican-debate-hillary-clinton-attacks/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/07/politics/democratic-2015-elections-off-year-crisis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/05/politics/chuck-schumer-interview-rubio-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/04/politics/marco-rubio-daca-new-hampshire/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/03/politics/republican-debates-cnbc-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/03/politics/ted-cruz-john-mccain-axiom-strategies/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/29/politics/republican-debate-2015-winners-losers/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/28/politics/jeb-bush-video-hillary-clinton/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/21/politics/jeb-bush-marvel-superhero-las-vegas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/25/politics/donald-trump-democrats-republicans-bipartisanship-great-unifier/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/25/politics/sunday-shows-donald-trump-ben-carson-republican-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/25/politics/marco-rubio-hillary-clinton-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/23/politics/hillary-clinton-alexandria-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/22/politics/paul-ryan-house-speaker-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/21/politics/house-speaker-election-leadership-paul-ryan/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/21/politics/joe-biden-bernie-sanders-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/15/politics/hillary-clinton-latino-voters-texas/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/14/politics/republican-poll-donald-trump-nevada-south-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/13/politics/democratic-debate-2015-what-to-watch/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/11/politics/bernie-sanders-martin-omalley-hillary-clinton-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/08/politics/nevada-republicans-2016-primaries/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/07/politics/joe-biden-latino-victory-project/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/01/politics/hillary-clinton-latino-focus/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/29/politics/hillary-clinton-bernie-sanders-fundraising/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/29/politics/immigration-obama-lawsuit-delays/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/23/politics/marco-rubio-2016-below-radar-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/22/politics/pope-francis-america-congress-visit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/20/politics/ip-for-speaker-boehner-a-bit-of-personal-redemption/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/16/politics/gop-retreat-chocolate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/17/politics/republican-debate-winners-losers-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/16/politics/republican-debate-cnn-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/16/politics/republican-debate-undercard-trump-graham/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/15/politics/reagan-amnesty-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/14/politics/hillary-clinton-bill-clinton-vice-president/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/14/politics/cnn-poll-guns-immigration-abortion-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/11/politics/2016-election-political-insults/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/10/politics/donald-trump-women/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/10/politics/donald-trump-ben-carson-cnn-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/08/politics/election-2016-republicans-rubio/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/07/politics/congress-iran-nuclear-deal-pope-francis-government-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/06/politics/ip-hillary-clintons-post-labor-day-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/03/politics/donald-trump-2016-rnc-pledge-meeting/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/01/politics/donald-trump-don-lemon-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/30/politics/jeb-bush-donald-trump-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/30/politics/scott-walker-northern-border-immigration-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/29/politics/jeb-bush-fundraisers-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/28/politics/donald-trump-hillary-clinton-2016-election-political-hits/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/28/politics/donald-trump-marco-rubio-south-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/25/politics/bush-trump-border-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/24/politics/2016-elections-economy-donald-trump-market-turmoil/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/23/politics/scott-walker-donald-trump-birthright-citizenship-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/21/politics/donald-trump-rally-mobile-alabama/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/19/politics/donald-trump-chris-cuomo-cnn-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/18/politics/donald-trump-presidential-poll-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/18/politics/ben-carson-large-crowd-phoenix/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/18/politics/donald-trump-republican-2016-field/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/16/politics/donald-trump-iowa-state-fair/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/17/politics/chris-christie-hillary-clinton-emails/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/15/politics/donald-trump-iowa-rick-santorum/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/12/politics/john-kasich-conservative/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/12/politics/iowa-donald-trump-poll-cnn-orc/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/12/politics/cruz-praises-bush-amnesty-convention/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/09/politics/2016-campaign-surprise-moments-donald-trump/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/06/politics/republican-debate-fact-check/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/07/politics/republican-presidential-debate-takeaways/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/06/politics/2016-republican-party-presidential-debate-fox/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/05/politics/jeb-bush-2016-republican-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/05/politics/republican-fox-news-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/03/politics/gop-forum-new-hampshire-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/03/politics/2016-election-koch-brothers-donor-retreat/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/02/politics/donald-trump-2016-presidential-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/01/politics/martin-omalley-puerto-rico/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/27/politics/mike-huckabee-oven-comments-debate-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/27/politics/jeb-bush-telemundo-spanish-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/27/politics/donald-trump-cnn-orc-poll-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/23/politics/donald-trump-third-party/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/23/politics/donald-trump-rick-perry-demagogue/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/22/politics/lindsey-graham-donald-trump-car-wreck/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/21/politics/trump-republicans-mccain/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/18/politics/donald-trump-john-mccain-war-hero/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/19/politics/scott-walker-flip-flop-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/17/politics/donald-trump-summer-surge/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/17/politics/obama-presidency-winning-streak/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/15/politics/donald-trump-financial-disclosure/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/13/politics/scott-walker-2016-presidential-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/12/politics/scott-walker-iowa-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/13/politics/immigration-hillary-clinton-jeb-bush/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/12/politics/ip-walkers-wisconsin-advantage/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/10/politics/donald-trump-immigration-crime/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/10/politics/scott-walker-republicans-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/10/politics/rick-perry-super-pac-fundraising-17-million/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/08/politics/donald-trump-reince-priebus-immigrants-rnc/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/09/politics/donald-trump-jeb-bush-fundraising/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/08/politics/immigrants-crime/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/07/politics/hillary-clinton-iowa-first-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/08/politics/immigration-republicans-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/02/politics/donald-trump-republicans-latinos/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/07/politics/hillary-clinton-cnn-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/03/politics/george-pataki-donald-trump-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/01/politics/donald-trump-poll-hillary-clinton-jeb-bush/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/29/politics/supreme-court-2015-term-liberals-conservatives/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/28/politics/republicans-2016-religious-liberty-gay-marriage/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/27/politics/jeb-bush-gun-control/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/25/politics/obama-legacy-obamacare-trade-iran/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/17/politics/ben-carson-latinos-election-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/22/politics/immigration-border-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/29/politics/being-moody-latino-outreach/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/16/politics/jeb-bush-new-hampshire/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/16/politics/jeb-bush-latino-connections/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/15/politics/jeb-bush-2016-presidential-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/13/politics/hillary-clinton-8-things-weve-learned/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/04/politics/jeb-bush-2016-announcement/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/03/politics/obama-approval-rating-cnn-poll/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/01/politics/lindsey-graham-presidential-announcement-election-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/31/politics/ip-rubios-bet-on-nevada/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/27/politics/obama-immigration-politics/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/24/politics/ip-hillary-clinton-test/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/22/politics/jeb-bush-2016-strategy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/19/politics/christie-immigration-change-position/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/14/politics/nevada-election-2016-jeb-bush/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/09/politics/obama-advisers-uk-elections-messina-axelrod/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/10/politics/jeb-bush-immigration-scott-walker-election-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/11/politics/jeb-bush-fox-interview-megyn-kelly-election-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/10/politics/ip-portman-gop-same-sex-marriage-platform/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/08/politics/chris-christie-new-hampshire-lost-time/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/07/politics/democrats-work-against-obama-on-trade/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/07/politics/carly-fiorina-2016-media-blitz/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/06/politics/rand-paul-domain-name-100k/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/05/politics/hillary-clinton-immigration-electoin-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/05/politics/carly-fiorina-hillary-clinton-immigration/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/05/politics/hillary-clinton-path-to-citizenship-immigration-nevada/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/04/politics/gop-diversity-2016-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/30/politics/united-kingdom-election-debate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/26/politics/obama-whcd-speech/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/26/politics/ip-bernie-sanders-big-day/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/18/politics/gop-2016-hopefuls-take-aim-at-hillary-each-other-at-summit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/17/politics/jeb-bush-republican-leadership-summit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/13/politics/election-2016-marco-rubio-presidential-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/13/politics/nra-convention-2015-2016-elections/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/13/politics/election-2016-marco-rubio-jeb-bush-latinos/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/09/politics/republicans-foreign-policy-hawks-election-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/27/politics/election-2016-harry-reid-legacy/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/25/politics/election-2016-lindsey-graham-south-carolina/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/23/politics/election-2016-ted-cruz/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/20/politics/us-senate-mcconnell/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/17/politics/obama-politics-white-house/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/15/politics/scott-walker-2016-election-new-hampshire/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/14/politics/walker-new-hampshire/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/13/politics/election-2016-influential-iowa-republican-snubs-jeb-bush-for-scott-walker/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/06/politics/menendez-corruptoin-charges-obama-relationship/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/06/politics/election-2016-jeb-bush-iowa-agriculture-summit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/02/politics/scott-walker-2016-south-carolina-blitz/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/28/politics/cpac-candidates-analysis/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/26/politics/cpac-2015-speakers-liveblog/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/26/politics/john-king-facebook-chat/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/26/politics/britain-gop-farage/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/25/politics/cpac-2015-conservative-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/26/politics/dhs-endangered-republicans/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/25/politics/obama-immigration-dhs-funding/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/22/politics/dhs-funding-shutdown/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/20/politics/rubio-heckled-by-immigration-protesters/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/18/politics/jeb-bush-iraq-speech/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/17/politics/poll-dhs-funding-gop/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/11/politics/obama-david-axelrod-interview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/08/politics/jeh-johnson-dhs-funding/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/04/politics/jeb-bush-2016-candidate-election/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/30/politics/boehner-battles-right-left/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/29/politics/lindsey-graham-2016-presidential-campaign/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/28/politics/boehner-obama-immigration-lawsuit/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/28/politics/loretta-lynch-ag-confirmation-hearing/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/24/politics/rubio-ready-to-run-2016/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/21/politics/king-tweet-deportables/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/20/politics/ernst-rebuttal-excerpts/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/20/politics/state-of-the-union-address-2015-preview/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/14/politics/hill-gop-retreat/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/14/politics/crowdpac-video-and-story/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/12/politics/kamala-harris-california-senate/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/06/politics/boehner-vote-tuesday/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/05/politics/gop-agenda-for-the-new-congress/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/05/politics/conservative-coup-attempt-grows/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/24/politics/christian-primary/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/04/politics/gohmert-and-yoho-challenge-boehner/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/04/politics/obama-senate-gop-keystone-to-test-new-relationship/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/18/politics/obama-action-final-term/index.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2013/12/06/politics/obama-economy/index.html",
+            "bias": "immigration"
+        }
     ],
     "Year": 2015
 }
