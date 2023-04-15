@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -482,6 +484,66 @@
         {
             "link": "https://www.cnn.com/2022/01/04/politics/trump-viktor-orban-election-endorsement/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2013/07/13/us/peabody-awards-fast-facts/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/12/us/five-things-june-12-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/04/politics/obama-trump-campaign-trail-return/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/kari-lake-donald-trump-election-denialism-playbook/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/10/politics/ohio-senate-debate-takeaways/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/23/politics/cheri-beasley-ted-budd-north-carolina/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/27/politics/donald-trump-2024-campaign-dark-speech/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/11/politics/georgia-political-center-stage-2022/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/11/politics/florida-special-election-sheila-cherfilus-mccormick/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/opinions/latinos-midterms-democrats-abortion-reyes/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/opinions/gop-strategy-2022-midterm-elections-cass/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/13/opinions/liz-cheney-wyoming-primary-january-6-committee-enda/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/15/us/five-things-june-15-trnd/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/opinions/ron-desantis-florida-victory-meaning-hemmer/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/30/opinions/boris-johnson-ukraine-eu-brexit-kiley/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2022

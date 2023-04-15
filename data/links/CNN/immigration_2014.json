@@ -1,6 +1,7 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented"
     ],
     "Links": [
         {
@@ -626,6 +627,34 @@
         {
             "link": "https://www.cnn.com/2014/01/01/politics/2014-house-races/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/29/politics/michael-grimm-to-resign-soon/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/23/politics/should-grimm-resign/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/22/politics/michael-grimm-guilty-plea/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/30/politics/gop-obama-lawsuit/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/11/politics/gop-obama-lawsuit-5-questions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/04/24/politics/midterms-jones-griffin-primary/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/14/politics/king-inside-politics-republican-debate/index.html",
+            "bias": "undocumented"
         }
     ],
     "Year": 2014

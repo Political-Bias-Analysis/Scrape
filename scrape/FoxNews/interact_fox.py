@@ -115,7 +115,7 @@ if __name__ == "__main__":
     ## run this: if new bias, change MAIN_BIAS and EXISTS = false, else only change bias and keep EXISTS = True
     MAIN_BIAS, EXISTS = "immigration", True
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
-    year, bias = 2016, biases[7]
+    year, bias = 2020, biases[1]
     
     all_links = get_all_links(MEDIA_NAME)
     

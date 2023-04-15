@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -1254,6 +1256,254 @@
         {
             "link": "https://www.cnn.com/2017/01/02/politics/donald-trump-us-global-politics/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/14/us/five-things-september-14-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/07/24/us/five-things-july-24-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/04/21/us/five-things-april-21-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/03/21/us/dual-u-s--mexico-citizenship/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/12/14/politics/congress-moderate-republicans-revenge/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/12/12/politics/ed-lee-san-francisco/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/12/06/politics/donald-trump-israel-palestinians-jerusalem-politics/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/11/14/politics/sessions-hearing-mueller-papadopoulos-clinton/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/11/10/politics/2020-vision-joe-biden-book-tour/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/27/politics/2020-vision-joe-biden-open-door-kamala-harris-elizabeth-warren/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/26/politics/democratic-primaries-to-watch-2018/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/24/politics/jeff-flake-donald-trump-senate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/17/politics/isis-arrests-travel-ban-countries-numbers/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/17/politics/donald-trump-negotiating-strategy/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/13/politics/heres-why-obama-stays-quiet-as-trump-attacks-his-legacy/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/10/07/politics/cnnphotos-week-in-politics-1008/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/17/politics/trump-tweet-clinton/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/14/politics/lin-manuel-miranda-honored-washington-dc/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/13/politics/donald-trump-republicans-democrats-2018-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/12/politics/new-hampshire-trump-voting-election-commission/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/11/politics/bannon-60-minutes/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/08/politics/donald-trump-nancy-pelosi-chuck-schumer-relationship/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/07/politics/hillary-clinton-book-event/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/07/politics/dianne-feinstein-california-backlash-re-election-analysis/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/05/politics/democrats-questions-fall-daca-tax-reform-health-care/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/09/04/politics/trump-congress-return-deadlines/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/22/politics/protest-trump-rally-phoenix/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/21/politics/jeff-flake-arizona-trump-comments/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/28/politics/tom-morello-prophets-of-rage-donald-trump-bernie-sanders/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/12/politics/elizabeth-warren-netroots-nation/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/03/politics/kennedy-center-honors-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/01/politics/trump-gambles-on-cultural-frustration-over-economic-self-interest/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/07/25/politics/trump-sessions-bullying/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/06/19/politics/trump-twitter/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/06/01/politics/hillary-clinton-democrats-wrong-questions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/04/12/politics/trump-russia-china-nato-syria/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/03/30/politics/trump-panel-voter-fraud-new-day-cnntv/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/03/20/politics/kfile-roger-stone-wikileaks-claims/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/02/08/politics/jeff-sessions-vote-senate-slog/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/24/politics/wh-trump-believes-millions-voted-illegally/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/24/politics/lindsey-graham-trump-illegal-votes/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/20/politics/donald-trump-inauguration-highlights/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/14/politics/human-rights-watch-donald-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/12/politics/paul-ryan-town-hall/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/11/politics/tillerson-confirmation-hearing/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/11/politics/trump-10-questions-news-conference/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/30/politics/why-black-america-may-be-relieved-to-see-obama-go/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/12/07/opinions/steve-bannons-shameful-dog-whistle-reyes/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/11/25/opinions/we-cant-stop-watching-trump-zelizer-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/06/20/opinions/where-are-you-really-from-vega-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/13/opinions/charlottesville-trump-race-moral-leadership-joseph-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/05/11/opinions/kris-kobach-waldman/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/04/13/opinions/bannon-departure-would-rip-mask-off-blue-collar-trump-opinion-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/02/28/opinions/president-trump-denounce-hate-tonight-opinion-david-love/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/24/opinions/why-trump-lies-dantonio-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/09/opinions/streep-golden-globes-cane-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/01/07/opinions/is-hillary-clinton-nyc-mayor-crazy-talk-louis/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2017/05/24/us/five-things-may-24-trnd/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2017/05/26/politics/trump-g7-summit-what-to-watch/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2017/08/11/opinions/angela-merkel-winning-schick-opinion/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2017/03/24/opinions/trump-eu-soft-power-opinion/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2017/03/16/opinions/trump-did-not-create-european-nationalism/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2017

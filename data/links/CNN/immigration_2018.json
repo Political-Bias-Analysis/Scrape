@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -2218,6 +2220,274 @@
         {
             "link": "https://www.cnn.com/2017/09/09/politics/trump-gop-immigration/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/05/us/angry-white-man-john-blake/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/09/07/us/five-things-september-7-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/09/us/new-york-attorney-general-potential-candidates/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/04/06/us/border-towns-national-guard-troops/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/12/28/politics/donald-trump-2018-year-in-review/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/12/14/politics/shutdown-showdown-trump-facts/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/28/politics/donald-trump-internet-troll/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/27/politics/donald-trump-biloxi-cindy-hyde-smith/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/10/politics/brett-kavanaugh-justice-supreme-court-first-month/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/05/politics/kemp-georgia-vote/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/03/politics/stacey-abrams-oprah-georgia-racist-robocall/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/30/politics/trump-constitutional-norms/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/24/politics/election-2018-october-surprises-that-could-upend-the-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/23/politics/georgia-governor-debate-stacey-abrams-brian-kemp/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/23/politics/georgia-abrams-governor-campaign-democrats-path-to-power/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/19/politics/russian-troll-instructions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/09/24/politics/noel-francisco-succession-rod-rosenstein/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/kavanaugh-hearing-dle/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/09/05/politics/donald-trump-mystery-op-ed/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/23/politics/donald-trump-impeachment-rudy-giuliani/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/22/politics/paul-manafort-michael-cohen-donald-trump-tick-tock/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/14/politics/kasich-dilemma-gop/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/02/politics/trump-books-list/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-supreme-court-nominee/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/07/04/politics/conservatives-gorsuch-two-point-zero/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/27/politics/trump-supreme-court-names/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/26/politics/michael-grimm-dan-donovan-republican-primary/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/19/politics/trump-campaign-manager-jeff-sessions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/11/politics/women-post-primaries-winning/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/01/politics/donald-trump-samantha-bee/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/16/politics/nancy-pelosi-cnn-town-hall-chris-cuomo/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/11/politics/john-kelly-trump-russia-probe/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/07/politics/kfile-gop-candidate-carl-higbie/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/07/politics/don-blankenship-trump-west-virginia-primary/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/03/politics/lessons-lawyer-trump-clinton-impeachment/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/04/05/politics/tim-pawlenty-minnesota/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/04/02/politics/trump-analysis-instincts-global-moment/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/03/30/politics/20-headlines-trump-white-house-this-week-analysis/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/03/27/politics/congress-south-carolina-clown-candidate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/03/26/politics/census-citizenship-question/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/02/05/politics/trump-fbi-democrats-memo-plan/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/22/politics/mcconnell-shutdown-analysis/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/21/politics/las-vegas-power-to-the-polls-womens-march/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/16/politics/las-vegas-womens-march-preview/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/18/politics/kfile-carl-higbie-on-the-radio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/16/politics/donald-trump-world-leaders-list/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/01/15/politics/daca-immigration-shutdown-state-of-play/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/12/23/opinions/trump-wall-address-base-fear-obeidallah/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/13/opinions/reenact-new-voting-rights-act-schnurer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/07/opinions/trump-2020-worse-than-midterms-2018-dantonio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/16/opinions/trump-calling-democrats-a-mob-berlatsky/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/09/02/opinions/trump-endorsement-opinion-obeidallah/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/07/21/opinions/abortion-fertility-miscarriage-stories-matter-saujani-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/07/22/opinions/trump-critics-arent-paranoid-opinion-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/07/14/opinions/trump-white-house-drama-emmy-nomination-opinion-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/29/opinions/roseanne-family-ties-opinion-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/08/opinions/republicans-dont-hold-abusive-men-to-account-filipovic/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/05/04/opinions/strange-collection-of-extremists-running-as-republicans-opinion-love/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/03/12/opinions/pennsylvania-special-election-whats-at-stake-dillon-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/03/08/opinions/leymah-gbowee-iwd-asequals-opinion-intl/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/01/us/five-things-august-1-trnd/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/12/22/politics/shutdown-mattis-whitaker-trump/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/28/politics/ivanka-trump-good-morning-america-private-email-server/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/08/10/politics/headlines-this-week-space-sanctions-special-election-analysis/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/01/opinions/trump-gillum-thief-desperate-strategy-opinion-love/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/11/01/opinions/trump-pittsburgh-opinion-soifer/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/06/01/opinions/bavaria-cross-rule-opinion-ghitis/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2018

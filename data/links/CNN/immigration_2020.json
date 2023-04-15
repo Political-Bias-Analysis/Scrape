@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -1178,6 +1180,286 @@
         {
             "link": "https://www.cnn.com/2020/01/03/politics/supreme-court-liberals-spring-dissent/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/26/us/podcasts-reckoning-2020-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/23/us/five-things-december-23-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/11/us/black-latino-sentiment-pew-study/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/03/us/five-things-december-3-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/29/us/five-things-july-29-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/19/us/five-things-june-19-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/23/politics/trump-pardons-stone-manafort-kushner/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/05/politics/trump-pardons-commutations-list/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/23/politics/donald-trump-pardons-stimulus/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/19/politics/trump-cabinet-survivors/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/15/politics/voter-fraud-urban-myth/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/10/politics/texas-attorney-general-ken-paxton-supreme-court-case/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-08-20/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-07-20/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/04/politics/biden-attorney-general-search/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/29/politics/what-matters-november-29/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/19/politics/biden-mask-mandate-republican-governors/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/08/politics/biden-first-day-executive-actions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/02/politics/fact-check-trump-election-day/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/01/politics/election-2020-trump-choice-past-future/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/25/politics/supreme-court-roberts-barrett/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/22/politics/2020-election-final-presidential-debate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/29/politics/census-incomplete-count/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/15/politics/latino-voters-biden-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/03/politics/election-threat-trump-mail-in-voting-claims-invs/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/25/politics/kfile-marjorie-greene-spread-conspiracies/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/23/politics/trump-mail-in-voting-gop/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/21/politics/dnc-2020-takeaways/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/20/politics/trump-election-disinformation-natsec-agencies/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/19/politics/democratic-convention-harris-obama-clinton/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/18/politics/dead-voters-in-michigan-rejected-ballots-fraud-fact-check/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/06/politics/pence-john-roberts-conservatives/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/30/politics/supreme-court-trump-taxes-financial-documents/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/29/politics/brett-kavanaugh-supreme-court-abortion-trump-documents/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/24/politics/week-in-review-congress-stimulus-negotiations/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/27/politics/joe-biden-fact-check-gop-tax-cuts-naacp-endorsement/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/politics/trump-war-mail-in-voting-lacks-republican-allies/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/22/politics/trump-voter-fraud-lies-fact-check/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/18/politics/daca-recipient-reactions-supreme-court/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/18/politics/another-bad-day-for-trump-at-the-supreme-court/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/29/politics/donald-trump-twitter-power-personal-whims/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/26/politics/fact-check-trump-vote-by-mail-fraud-gavin-newsom-california/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/28/politics/voter-roll-purges-lawsuits-vote-by-mail/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/20/politics/fact-check-trump-michigan-nevada-ballots-voting/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/08/politics/bernie-sanders-covid-payments-kamala-harris/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/07/politics/kayleigh-mcenany-trump-2015/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/13/politics/supreme-court-live-audio-oral-arguments/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/10/politics/stephen-breyer-zoom-coronavirus/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/30/politics/scotus-oral-arguments-coronavirus/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-democratic-debate-live-updates/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/07/politics/race-for-the-white-house-taft-roosevelt-sanders-biden-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/10/politics/supreme-court-arlenes-flowers-firearms-contraceptives-electoral-college/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/27/opinions/trump-2024-presidential-run-dantonio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/18/opinions/how-white-women-can-fight-trumpism-goss-graves-rowe-finkbeiner/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/opinions/ice-cube-50-cent-donald-trump-racism-joseph/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/01/opinions/us-elections-three-steps-restore-integrity-gest/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/22/opinions/2020-us-election-elijah-cummings-stakes-rockeymoore/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/20/opinions/biden-has-to-beware-what-trump-has-in-store-axelrod/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/14/opinions/democratic-party-vision-future-roundup/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/22/opinions/epstein-trump-manafort-stone-maxwell-honig/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/08/opinions/obamacare-contraceptive-mandate-supreme-court-ruling-hogue/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/02/opinions/william-perry-pendley-bureau-of-land-management-sutter/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/10/opinions/trumps-most-formidable-enemy-opinion-weekly-column-galant/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/29/opinions/donald-trumps-special-day-opinion-weekly-column-galant/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/15/opinions/akanksha-singh-trump-modi/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/02/opinions/coronavirus-highlights-flawed-health-care-system-kerry/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/28/us/five-things-august-28-trnd/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/25/us/five-things-march-25-trnd/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/politics/trump-us-mexico-border-wall/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/06/opinions/trump-national-prayer-breakfast-graves-fitzsimmons/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2020

@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -1474,6 +1476,250 @@
         {
             "link": "https://www.cnn.com/2016/01/04/politics/iowa-new-hampshire-south-carolina-primary-sprint/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/30/politics/donald-trump-politics-2017/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/19/politics/obama-clemency/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/15/politics/reince-priebus-denis-mcdonough-rahm-emanuel/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/15/politics/lynch-no-blanket-pardons/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/28/politics/pushback-trump-vote-fraud-allegations/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/politics/donald-trump-bill-de-blasio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/mexico-reaction-donald-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/08/politics/first-exit-polls-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/03/politics/tim-kaine-arizona-spanish-rally-2016-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/25/politics/election-2016-colorado-battleground-swing-state-trend/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/22/politics/hillary-clinton-senate-fund/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/19/politics/presidential-debate-hillary-clinton-donald-trump-quotes/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/19/politics/fact-check-presidential-debate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/19/politics/donald-trump-television-ads/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/14/politics/wikileaks-democrats-obama-muslim/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/08/politics/russia-television-donald-trump-interview/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/08/politics/trump-clinton-policy-free-2016-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/22/politics/hillary-clinton-campaign-ads/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/22/politics/donald-trump-convention-speech-america/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/19/politics/bob-dole-republican-party/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/13/politics/gallup-hispanics-fear-donald-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/12/politics/hamilton-hillary-clinton-lin-manuel-miranda/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/09/politics/donald-trump-hillary-clinton-2016-challenges/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/27/politics/libertarian-party-convention/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/26/politics/democratic-primary-hillary-clinton-bernie-sanders-california/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/25/politics/paul-ryan-no-endorsement-donald-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/16/politics/donald-trump-controversy/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/11/politics/donald-trump-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/05/politics/donald-trump-taco-bowl-cinco-de-mayo/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/15/politics/ronald-reagan-republicans-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/24/politics/anti-donald-trump-advertising/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/09/politics/democratic-debate-fact-check/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/21/politics/jeb-bushs-doomed-campaign/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/20/politics/jeb-bush-drops-out-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/17/politics/latino-vote-hispanic-presidential-elections-cuny-study/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/18/politics/democrats-town-hall-clinton-sanders/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/18/politics/republican-town-hall-highlights/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/17/politics/donald-trump-marco-rubio-ted-cruz-nikki-haley-jeb-bush/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/19/opinions/trump-dangerous-national-security-team-oppenheimer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/15/opinions/trump-break-rules-opinion-dantonio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/01/opinions/kellyanne-conway-nelson/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/26/opinions/checking-and-balancing-president-trump-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/opinions/advice-for-thanksgiving-table-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/opinions/how-do-you-deal-with-donald-trump-dantonio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/opinions/new-landscape-facing-minorities-joseph/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/student-sanctuary-campus-protest-devin-thomas-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/undocumented-students-trump-gerson-opinion/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/opinions/political-scientists-on-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/election-trump-victory-opinion-roundup/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/trumps-win-women-filipovic/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/05/opinions/pence-kaine-debate-reaction-roundup/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/05/opinions/extraordinary-discussion-of-race-veep-debate-opinion-joseph/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/23/opinions/a-vote-for-jill-stein-is-a-vote-for-trump-kohn/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/17/opinions/trump-past-catching-up-dantonio/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/19/opinions/donald-trump-post-new-york-primary-challenges-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/28/opinions/latino-muslim-support-trump-opinion-obeidallah/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/26/opinions/gop-texas-debate-rubio-trump-cruz-opinion-sexton/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/01/opinions/fear-of-a-trump-presidency-obeidallah/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/01/opinions/aung-san-suu-kyi-failing-rohingya-hossain/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/01/opinions/trump-a-threat-to-lgbtq-equality-griffin/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/26/opinions/viral-terror-the-conversation/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2016

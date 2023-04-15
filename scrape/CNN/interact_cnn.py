@@ -32,7 +32,7 @@ def get_websites(bias, all_articles):
         time.sleep(1)
 
         from_next, page_next = 0, 1
-
+        bias = bias.replace(" ", "+")
         while True:
             results = driver.find_elements(By.CLASS_NAME, "container__link.__link")
             if len(results) == 0:
@@ -50,6 +50,7 @@ def get_websites(bias, all_articles):
             
     return articles
 
+
 def get_year(date):
     return int(date.split(' ')[-1])
 
@@ -59,7 +60,7 @@ if __name__ == "__main__":
     MEDIA_NAME = "CNN"
     MAIN_BIAS, EXISTS = "immigration", True
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
-    cur_bias = biases[1]
+    cur_bias = biases[3]
 
     all_links = get_all_links(MEDIA_NAME)
 

@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -1586,6 +1588,226 @@
         {
             "link": "https://www.cnn.com/2019/01/02/politics/donald-trump-mitt-romney-oped/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/howdy-modi-houston-live-updates/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/12/us/undocumented-in-america-special-report/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/10/us/five-things-july-10-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/28/us/five-things-june-28-trnd/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/21/politics/fact-check-trump-two-weeks-december/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/trump-bad-day-good-week/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-12-17-2019/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/05/politics/ohio-illegal-voting-2018-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/21/politics/november-democratic-debate-highlights/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/10/politics/daca-scotus-government-shutdown-ip-forecast-cnntv/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/08/politics/donald-trump-african-american-support-atlanta/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/22/politics/donald-trump-impeachment-lynching/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/15/politics/who-can-vote-in-us-elections/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/15/politics/2020-election-voters/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/18/politics/donald-trump-california-fundraising/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/03/politics/mitch-mcconnell-gun-legislation-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/06/politics/mitch-mcconnell-gun-control/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/31/politics/democratic-debate-highlights/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/29/politics/2020-election-michigan-voters/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/12/politics/trump-paul-ryan-american-carnage/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/09/politics/federal-judge-doj-census-legal-team/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/30/politics/inside-politics-forecast-june-30-cnntv/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/19/politics/donald-trump-orlando-2020-kickoff/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/2020-democrats-policy-plans/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/07/politics/donald-trump-mexico-politics-dday-britain-immigration/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/22/politics/william-barr-nationwide-injunctions-daca/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/09/politics/trump-2020-panama-city-florida/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/02/politics/trump-border-aid-obamacare-analysis/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/30/politics/beto-orourke-campaign-launch-rallies-saturday-texas/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/15/politics/trump-veto-resolution/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/04/politics/donald-trump-super-bowl-interview/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/01/politics/donald-trump-2020-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/30/politics/abortion-supreme-court-judicial-nominations/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/28/politics/koch-breather-from-politics/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/28/politics/kamala-harris-announcement/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/24/politics/house-committee-chairs-cabinet-secretaries/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/23/politics/donald-trump-nancy-pelosi-government-shutdown-congress/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/23/politics/supreme-court-2020-politics/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/16/politics/kamala-harris-2020-bid-personal/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/10/politics/trump-mexico-pay-wall/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/04/politics/shutdown-donald-trump-nancy-pelosi/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/new-congress-january-2019/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/opinions/live-news/debate-commentary-october-2019/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/11/opinions/presidential-debate-talk-about-sexual-harassment-carlson-klein/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/20/opinions/mike-pence-shocking-use-of-mlk-words-zelizer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/14/opinions/importance-of-challenging-democratic-incumbents-rojas-mcelwee/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/29/us/houses-of-worship-attacks/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/10/politics/tom-steyer-cnn-town-hall/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/07/politics/beto-orourke-skips-iowa-state-fair/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/house-vote-impeachment-resolution-trump-rally/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/29/politics/donald-trump-michigan-grand-rapids-campaign-speech/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/07/opinions/trump-border-wall-military-construction-funds-ghitis/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/17/opinions/trump-stokes-fear-hides-his-insecurity-dantonio/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2018/10/29/opinions/pittsburgh-synagogue-shooting-opinion-orbach/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/02/opinions/its-bad-news-if-trump-really-starts-to-sweat-dantonio/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2019

@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -814,6 +816,182 @@
         {
             "link": "https://www.cnn.com/2021/01/03/politics/georgia-newcomers-political-shift/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/04/us/redistricting-alabama-and-north-carolina/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/12/politics/voting-rights-what-matters/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/17/politics/controversy-paul-gosar-congress/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/04/politics/kfile-kari-lake-nazi-symapthizer-qanon-figure/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/28/politics/joe-biden-progressives-paid-family-leave/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/05/politics/senate-broken-biden-agenda/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/23/politics/joe-biden-legislative-legacy-on-the-brink/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/03/politics/california-recall-latino-voters-key-to-gavin-newsom/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/31/politics/california-governor-recall-top-candidates/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/23/politics/kathy-hochul-new-york-governor/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/21/politics/alabama-senate-trump-rally/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/andrew-cuomo-resign-kathy-hochul-08-11-21/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/andrew-cuomo-investigation-08-10-21/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/andrew-cuomo-investigation-08-09-21/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/04/politics/who-is-new-york-lt-gov-kathy-hochul/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/04/politics/covid-emergency-moves-evictions/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/21/politics/joe-biden-cnn-town-hall/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/29/politics/solomon-yue-on-white-nationalist/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/22/politics/fact-check-four-false-claims-voting-rights-bill/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/01/politics/president-joe-biden-agenda-summer/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/15/politics/fact-check-republican-dishonesty-mccarthy-gohmert-cruz/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/10/politics/joe-biden-jobs-report-republicans-donald-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/03/politics/big-lie-bush-cheney-romney/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/13/politics/andrew-yang-new-york-city-mayor-democratic-primary/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/04/politics/cuomo-new-york-politics-future/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/fact-check-hr1-s1-for-the-people-hearing-voting-elections/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/22/politics/mo-brooks-alabama-senate-campaign/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/24/politics/president-joe-biden-congress-republicans/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/22/politics/xavier-becerra-confirmation-hearing/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/22/politics/neera-tanden-biden-omb-twitter/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/25/politics/gop-lawyers-trump-impeachment-senate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/supreme-court-trump-timeline/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/trump-supreme-court-legacy/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/07/politics/fact-check-trump-republicans-electoral-college-objections/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/ossoff-perdue-georgia-election-news/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/05/politics/loeffler-ossoff-perdue-warnock-runoff-results/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/21/opinions/allies-texas-women-need-abortion-magee/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/19/opinions/daca-federal-ruiling-democrats-honig/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/07/opinions/covid-mental-health-biden-advisers-grinker/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/04/politics/biden-state-department-visit/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/13/opinions/perilous-journeys-biden-harris-opinion-column-galant/index.html",
+            "bias": "asylum+seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/11/opinions/biden-budget-proposal-centrism-ghitis/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2021

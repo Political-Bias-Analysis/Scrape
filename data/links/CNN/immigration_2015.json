@@ -1,6 +1,8 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "asylum seekers"
     ],
     "Links": [
         {
@@ -886,6 +888,98 @@
         {
             "link": "https://www.cnn.com/2013/12/06/politics/obama-economy/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/22/us/new-day-five-things/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/16/politics/republican-debate-ted-cruz-donald-trump-marco-rubio-pivit/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/05/politics/millennial-voters-2016-election/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/05/politics/ted-cruz-marco-rubio-the-lead/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/27/politics/john-kasich-republicans-debate/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/14/politics/democratic-debate-2015-winners-losers/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/22/politics/hillary-clinton-opposes-keystone-xl-pipeline/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/09/politics/hillary-clinton-donald-trump-2016-bad-mood/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/01/politics/2016-election-ben-carson/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/26/politics/trump-ben-ferguson-hispanic-english-latino/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/26/politics/joe-biden-path-to-beat-hillary-clinton/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/23/politics/ben-carson-evangelicals-trump/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/10/politics/lindsey-graham-donald-trump-hillary-clinton-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/09/politics/donald-trump-campaign-survival-2016/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/31/politics/hillary-clinton-cuba-embargo-gop-history/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/21/politics/john-kasich-election-2016-announcement/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/10/politics/2016-elections-emoji-candidate-status-check/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/03/politics/john-kasich-presidential-run-looks-pretty-good/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/07/politics/iowa-ag-summit/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/09/opinions/obeidallah-trump-muslims/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/11/opinions/gop-fox-business-debate-roundup/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/12/opinions/louis-nail-salon-workers/index.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/04/politics/barack-obama-migrant-crisis-us-response/index.html",
+            "bias": "asylum+seekers"
         }
     ],
     "Year": 2015

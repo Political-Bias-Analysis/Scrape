@@ -1,6 +1,7 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented"
     ],
     "Links": [
         {
@@ -342,6 +343,10 @@
         {
             "link": "https://www.cnn.com/2012/12/31/politics/btn-2013-politics/index.html",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.cnn.com/2013/05/18/politics/los-angeles-mayoral-race/index.html",
+            "bias": "undocumented"
         }
     ],
     "Year": 2013
