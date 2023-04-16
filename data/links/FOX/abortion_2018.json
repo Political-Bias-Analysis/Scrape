@@ -1,0 +1,428 @@
+{
+    "Biases": [
+        "abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/maxine-waters-hit-with-fec-complaint-over-mailer-money",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/2018/09/06/judge-andrew-napolitano-metaphor-in-government-founded-church.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-nominates-brett-kavanaugh-to-supreme-court",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/west-virginia-primary-blankenship-brushes-off-bigot-moron-accusations-in-radio-ad",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/north-dakota-flips-republican",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/judge-andrew-napolitano-kavanaugh-vs-ford-showdown-is-no-way-to-confirm-a-supreme-court-justice",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/brett-kavanaugh-vows-to-keep-an-open-mind-in-every-case-after-chaotic-confirmation-hearing-day",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/facebook-identifies-dozens-of-flagged-accounts-day-before-midterm-elections",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/republicans-and-democrats-rallying-the-evangelical-vote-for-midterms",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2018/05/07/trump-endorsed-ohio-senate-candidate-responds-to-million-dollar-lawsuit-filed-by-opponent.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democratic-candidates-enjoy-windfall-of-out-of-state-cash-as-liberal-donors-bet-big",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pelosi-slams-gop-as-patriarchal-cowards-decries-kim-putin-echoes-in-kavanaugh",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/replacing-kennedy-on-the-supreme-court-will-set-off-political-warfare",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/pence-on-impact-of-anonymous-nyt-op-ed-woodwards-new-book",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/oklahoma-democratic-candidate-challenges-gop-rival-to-shooting-contest",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/stormy-daniels-lawyer-michael-avenatti-teases-potential-2020-run-against-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-pick-brett-kavanaugh-supported-by-most-gop-governors-in-letter-a-look-at-who-didnt-sign-it",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-holds-illinois-rally-on-heels-of-pittsburgh-synagogue-shooting-condemns-anti-semitism-as-assault-on-humanity",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dem-candidates-embrace-gun-control-in-campaign-for-house-takeover",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/brett-kavanaugh-confirmation-hearings-launch-amid-partisan-fireworks-high-stakes-for-supreme-court",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dem-sen-menendez-faces-unexpected-danger-in-deep-blue-new-jersey",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/graham-says-democrats-will-come-around-on-kavanaugh-nomination-following-hearing",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/eric-trump-on-lefts-double-standard-on-civility",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-anti-trump-fbi-agents-hearing-gets-heated-and-personal-dems-bluffing-on-abolishing-ice",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/eric-trump-hypocrisy-of-the-media-is-really-incredible",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/tuesday-primaries-showcase-bruising-races-for-governor",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/liberal-pundits-rip-kennedy-demand-any-trump-nominee-be-stopped",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/marc-thiessen-congrats-trump-voters-youve-just-been-vindicated",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/need-midterm-election-information-ask-alexa",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/liberals-attack-brett-kavanaugh-for-frat-boy-name",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pro-trump-new-york-artist-erects-20-foot-tall-likeness-of-president-on-lawn",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/blankenship-brawl-tops-roster-of-hard-fought-senate-contests-as-primary-voters-have-say",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rep-jordan-trump-will-be-looking-for-a-new-attorney-general",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/planned-parenthood-boss-wanted-doctors-to-reveal-their-funding-and-views-on-abortion-despite-doing-neither",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/liz-peek-how-about-trump-haley-in-2020",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cordray-dewine-projected-to-win-ohio-gubernatorial-primaries",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/black-pastors-see-trump-bringing-new-hope-but-still-need-to-convince-their-flocks",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-sanders-inspired-challenger-routed-in-rhode-island-gubernatorial-race-pro-trump-candidate-gets-gop-nod",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/pence-gives-campaign-style-speech-to-southern-baptists",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/kavanaugh-is-not-anti-women-democrats-planned-parenthood-are-insulting-americans-intelligence",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/fed-up-voters-in-illinois-and-around-us-why-libertarian-may-tip-governors-race",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/why-trump-is-blatantly-making-the-midterms-a-referendum-on-him",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/culberson-fletcher-battle-for-texas-7th-congressional-district",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-mystery-deepens-in-search-for-iowa-college-student-facebook-fuels-new-election-meddling-fears",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/michael-anton-on-the-controversy-over-birthright-citizenship-creepy-porn-lawyer-avenatti-still-dreams-of-the-white-house",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-decisions-could-curb-campus-censorship",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/texas-biology-teacher-on-leave-for-allegedly-bullying-pro-trump-student",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/17-year-old-hallie-deegan-wins-nascar-kn-pro-series-race",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/new-attorney-general-new-headaches-for-trump",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ice-employee-continued-posting-pro-clinton-messages-despite-warnings-office-of-special-counsel-says",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/alabama-gop-congresswoman-who-condemned-trump-faces-uphill-re-election-battle",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/defeated-rep-crowley-tries-easing-tensions-with-ocasio-cortez-wont-endorse-pelosi",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/west-virginia-supreme-court-denies-blankenship-bid-to-get-on-senate-ballot",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/republican-in-maine-congressional-race-fights-to-hold-on-seat",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/abuse-allegations-against-top-dem-keith-ellison-rock-minnesota-as-voters-head-to-polls-in-key-races",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-kanye-meeting-fires-up-both-sides-of-the-aisle",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/john-fund-kavanaugh-can-only-be-stopped-by-one-narrow-path-durbin-schumer-know-what-it-is",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nevada-senate-race-between-heller-rosen-is-one-democrats-hope-to-flip-a-look-at-the-candidates",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/5-primary-races-to-watch-tuesday-that-arent-in-california",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/iowa-democrats-nominate-businessman-fred-hubbell-for-governor",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/soros-sole-funder-of-pac-targeting-infrequent-voters-in-battleground-states",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/chris-stirewalt-recaps-west-virginia-gop-senate-debate",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/who-is-patrick-morrisey-a-look-at-the-west-virginia-senate-hopeful",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pro-trump-firebrand-corey-stewart-wins-virginia-senate-primary-as-crucial-nevada-north-dakota-races-take-shape",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sex-and-the-city-star-cynthia-nixon-could-be-new-yorks-next-governor-a-look-at-her-political-activism",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/what-planned-parenthood-could-learn-from-me-being-a-teenage-mom-was-hard-but-it-sure-didnt-ruin-my-life",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/virginia-congressional-candidate-compares-trump-to-bin-laden-in-new-campaign-ad",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/justice-kennedys-key-supreme-court-opinions",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/justice-anthony-kennedy-on-the-supreme-court-his-legacy-and-the-future-of-his-seat",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bill-browder-fires-back-at-putin-after-press-conference",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-the-lessons-of-the-kavanaugh-battle",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democratic-house-hopeful-decries-mansplaining-in-congress-in-new-ad",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rallying-in-kentucky-blasts-dems-chilling-lust-for-power",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/rep-jim-jordan-congress-should-examine-free-speech-restrictions-by-social-media-companies-and-others",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/us/high-school-summer-reading-list-is-decried-as-anti-police",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/meadows-doj-fbi-can-be-part-of-the-clean-up-or-cover-up",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rep-jim-jordan-on-threat-to-subpoena-rod-rosenstein-rep-ratcliffe-on-seeking-answers-from-fusion-gps",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-when-metoo-becomes-hetoo",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/putin-or-the-democrats-for-some-today-its-not-so-easy",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/warrens-dna-test-mocked-by-gop-trump-offers-charity-donation-only-if-i-can-test-her-personally",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/how-justice-kennedys-vacancy-will-change-the-supreme-court",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/gorka-suddenly-the-left-care-about-minorities-and-children",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/west-virginia-republican-senate-hopefuls-near-primary-a-look-at-the-top-three-candidates",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/antifa-vandalizes-nyc-gop-headquarters-witches-pick-their-latest-target-kavanaugh",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/us/california-universitys-website-says-its-ok-for-children-to-engage-in-sexual-play-watch-porn",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/manhattan-da-reportedly-opens-up-investigation-into-schneiderman-after-bombshell-report",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/is-hillary-clinton-secretly-planning-to-run-in-2020",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/women-pose-naked-in-grab-them-by-the-ballot-photo-shoot-to-encourage-votes-for-democrats",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nyfw-designer-wears-shirt-protesting-supreme-court-nominee-brett-kavanaugh",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/can-using-weed-killer-give-you-cancer",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/in-kavanaugh-confirmation-fight-just-a-handful-of-senators-hold-the-key",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kavanaugh-confirmation-process-has-been-an-intergalactic-freak-show-sen-kennedy-says",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/woman-has-61-pound-mass-removed-from-uterus",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/virgin-birth-stingray-gives-birth-to-darth-vader-after-cloning-herself-in-scientific-phenomenon",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/woman-has-132-pound-ovarian-cyst-removed",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ny-bill-mandates-3-months-paid-bereavement-leave-even-when-grandparents-die",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/what-is-ivf-what-to-know-about-the-costly-fertility-treatment",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/bed-bug-outbreak-hits-british-cities",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/men-seeing-drastic-drop-in-sperm-count-study-claims",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/florida-beaches-littered-with-dead-sea-turtles-scientists-blame-red-tide",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/hybrid-python-threat-has-spread-beyond-florida-everglades-dna-study-shows",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/great-outdoors/oklahoma-fishermen-catch-behemoth-alligator-snapping-turtle",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/arizona-dem-governor-candidates-top-staffer-plagiarized-his-us-congress-campaign-website",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/why-the-heck-do-so-many-koalas-have-chlamydia",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2018
+}

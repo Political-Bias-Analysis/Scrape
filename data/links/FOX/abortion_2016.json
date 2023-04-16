@@ -1,0 +1,744 @@
+{
+    "Biases": [
+        "abortion",
+        "pro-life", 
+        "pro-choice", 
+        "planned parenthood", 
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/former-presidents-bush-plan-to-sit-out-2016-general-election",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/walker-announces-2016-white-house-bid-vows-to-fight-for-america",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-leads-trump-by-7-points",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/comedians-in-cars-getting-abortions-video-outrages-both-sides-of-debate",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senate-fails-to-advance-planned-parenthood-defund-effort",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/rep-blackburn-the-hyde-amendment-is-in-jeopardy-on-its-fortieth-anniversary",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/calm-informed-reasonable-trump-scores-at-final-debate",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/soda-tax-battle-brewing-at-2016-ballot-box",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/07/27/clinton-kaine-face-flip-flop-questions-after-nomination.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/05/20/no-sanders-wouldnt-be-better-match-for-trump.html?cmpid=prn_msn",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/day-after-debate-trump-clinton-square-off-again-at-roast",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/banned-abortion-video-leaked-appears-to-show-clinic-owner-advocating-burning-of-fetuses",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-steps-on-slippery-slope-with-late-term-abortion",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/potential-2016-candidate-webb-a-no-show-at-iowa-stop",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/09/15/trump-supports-birth-control-without-prescription.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/10/20/trump-couldnt-resist.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/of-course-evangelicals-can-vote-for-trump",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/vp-candidate-kaines-faith-an-influence-sometime-struggle",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-has-health-episode-at-9-11-memorial-doctor-says-she-has-pneumonia",
+            "bias": "abortion"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2016/07/25/dnc-tries-to-draw-contrasts-to-gop-by-giving-undocumented-immigrants-key-roles.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/boothe-on-trumps-claim-the-election-is-rigged-the-system-is-rigged-but-not-exactly-the-way-hes-describing-it",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-oks-bill-blocking-planned-parenthood-funds-amid-shutdown-worries",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/06/13/re-election-rethink-rubio-says-attack-giving-him-pause-to-consider-future.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/social-issues-resurgent-in-midterms",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/police-search-home-of-michigan-doctor-after-finding-what-seems-to-be-fetus-parts-in-car-trunk",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/back-in-washington-clinton-trump-work-toward-party-unity",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/weighing-2016-bid-bobby-jindal-to-meet-with-pastors-in-iowa",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/why-christians-must-vote-in-this-election-staying-home-is-not-an-option",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wikileaks-podesta-email-release-reveals-massive-clinton-hits-file-on-sanders",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/voter-fraud-california-man-finds-dozens-of-ballots-stacked-outside-home",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/09/15/huelskamp-may-force-impeachment-vote-against-irs-chief-despite-deal.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kaine-pence-trade-blows-over-insult-driven-campaigns-in-vp-debate",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/sen-thom-tillis-we-need-to-fight-zika-now-democrats-must-stop-playing-games",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/09/15/house-votes-to-halt-guantanamo-detainee-transfers.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/religious-vote-hears-messages-from-both-candidates",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/leaked-tape-captures-trump-in-crude-rant-with-tv-host",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/virginia-gov-terry-mcauliffe-under-investigation-by-doj-over-possible-illegal-campaign-contributions",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cuban-rules-out-third-party-bid-open-to-being-clinton-trumps-vp",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/spokesman-for-missouri-state-auditor-found-dead-1-month-after-boss-killed-himself",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-leads-trump-by-10-points-both-seen-as-flawed",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2015/09/24/democratic-led-filibuster-stalls-stopgap-funding-measure.html",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/watch-the-final-presidential-debate-moderated-by-fox-news-chris-wallace",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/photo-of-obama-in-muslim-garb-shows-deep-ties-to-faith-oreilly-says",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/likely-voters-dont-like-their-options",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/congressman-youve-got-some-explaining-to-do",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-democrats-stage-sit-in-protest-in-dispute-over-gun-control",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/while-christie-chases-new-job-his-son-scores-one-with-mets",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-strange-philanthropy-of-chris-ruddy-conservative-newsman-pledges-1m-to-clintons",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mitt-and-jeb-to-hold-salt-lake-summit-today",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/high-wire-act-for-jeb-at-cpac",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/us/abortionists-creepy-confrontation",
+            "bias": "abortion"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/donna-rice-hughes-one-womans-case-for-donald-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/why-mike-pence-is-a-gutsy-choice-for-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/evangelical-leaders-to-quiz-trump-on-faith-and-values",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/todd-starnes-crass-beat-class-but-nation-can-survive-trump-presidency",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/should-christians-vote-for-donald-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-backs-ellmers-in-north-carolina-gop-primary-battle",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/super-pac-hoping-amish-voters-will-make-election-day-a-gop-barn-raiser",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/looking-for-substance-voters-tune-in-for-vp-debate",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-advisors-try-to-pivot-not-fishtail",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-cannibalism-really-cooking-now",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/media-rigging-election-press-hits-back-hard-at-trumps-rhetoric",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nc-rep-ellmers-becomes-first-gop-incumbent-to-lose-primary-this-cycle",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-meets-with-concerned-evangelical-leaders-in-nyc",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/04/22/warren-warms-up-her-backhand-hillarys-terrific/?cmpid=washexam",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-is-losing-in-wisconsin-but-why",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/democrats-do-it-right-obama-soars-in-philly-kaine-is-steady-not-shiny",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/chaos-or-order",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gops-davidson-wins-ohio-race-to-succeed-boehner",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kentucky-oregon-hold-primaries-tuesday-as-clinton-trump-look-to-november-matchup",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillarys-hauteur",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/04/28/boehner-likes-trump-savages-cruz.html#&_intcmp=hpbt1",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/tight-fight-for-second-in-south-carolina-poll",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/what-we-can-learn-from-early-vote-returns",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-accuses-trump-of-whining-on-vote-rigging-claims",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-creates-nervous-condition",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/so-um-congratulations-mr-speaker-elect",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/congress-returns-for-brief-election-year-session-with-zika-funding-avoiding-shutdown-topping-its-list",
+            "bias": "pro-life"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2016/09/26/crowley-trump-needs-to-be-happy-warrior-at-debate.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/flip-flopping-or-evolving",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-fought-to-keep-boko-haram-off-terror-list",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/shooter-was-body-builder-guard-once-wanted-to-be-cop",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/jerry-parr-secret-service-agent-who-saved-reagan-after-shooting-dead-at-85",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/team-obama-tells-dems-to-attack-not-apologize",
+            "bias": "pro-life"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2015/12/21/putin-trump-and-americas-europeanized-politics.html?utm_source=dlvr.it&utm_medium=twitter",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/independents-day-trump-needs-nonpartisan-landslide",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-edge-debate-droughts-good-for-trump-carson",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/in-second-clinton-debate-damaging-tape-increases-stakes-for-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/cal-thomas-why-kaine-and-pence-should-be-asked-about-their-faith",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/president-romney",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-on-ryan-i-dont-want-his-support-i-dont-care-about-his-support",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/stunner-44-percent-not-proud-to-be-american",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/panicky-hillary-starts-shouting",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/klain-a-political-fixer-for-a-political-problem",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ex-rep-grimm-sentenced-to-8-months-in-prison-in-tax-evasion-case",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/tennessee-primary-guide-carr-looks-for-lightning-to-strike-twice",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sister-of-former-supreme-court-justice-oconnor-killed-in-arizona-car-crash",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-demand-shinseki-scapegoat-but-will-obama-oblige",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-great-divorce-republican-style",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-vs-hillary-three-things-to-look-for-at-the-showdown-in-st-louis",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016-gop-power-index-carson-drops-on-security-fears",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/25-years-ago-today-kahane-assassination-first-jihadist-attack-on-us-soil",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/partial-shutdown-clips-obamas-wings",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-gop-calls-grow-for-fbi-perjury-probe-into-clinton-statements",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-administration-mum-as-turkeys-post-coup-crackdown-expands",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/us/discrimination-of-christians-in-america",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/a-pen-a-phone-a-duck-obamacare",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2015/10/07/digital-dragnet-closing-in-on-hillary-emails.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/thats-a-mighty-big-if-mr-president",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-majority-chances-slim-and-nunn",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-passes-baton-to-clinton-stirs-up-3rd-term-charges",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-to-announce-vp-pick-friday-in-new-york-city",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-to-trayvon-martin-foundation-conference-trumps-dangerous-pro-gun-policies-way-out-there",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/judith-miller-how-mike-pence-worked-to-protect-freedom-of-the-press",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-warns-of-rigged-vote-as-clinton-claims-opponent-uses-chinese-steel",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-trying-to-nudge-comey-out-at-fbi-after-clinton-probe-decision",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-trump-narrows-clintons-lead",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/08/29/poll-majority-says-obama-not-tough-enough/",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ryan-meets-trump-says-very-encouraged-but-unity-will-take-time",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-camp-works-to-peel-off-sanders-support-amid-never-hillary-uprising",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-campaign-pushes-democratic-party-stars-to-shore-up-youth-vote",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/state-department-stonewall-still-standing-on-hillary-doc",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-warren-mrs-obama-slam-trump-and-appeal-for-unity-at-unruly-dem-convention",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/johnson-holds-on-in-wisconsin-beats-feingold-in-senate-rematch",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/haywire-over-hacking-media-refuse-to-believe-trumps-russia-comments-were-sarcastic",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/source-trump-advisers-ultimatum-prompted-move-to-oust-lewandowski",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/giuliani-obama-would-be-one-of-the-worst-presidents-ever-if-he-pardons-hillary",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/white-house-correspondence-indeed",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-vp-plot-thickens-as-trump-prepares-to-accept-gop-nod",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-doesnt-gain-new-delegate-after-kentucky-recanvass",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-on-fbis-renewed-clinton-probe-we-dont-operate-on-innuendo",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-nutty-final-days-sex-witchcraft-car-wrecks-and-punditry-on-steroids",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ex-clinton-aide-testifies-in-benghazi-probe-behind-closed-doors-dem-lashes-out",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/presenting-your-south-carolina-field-guide",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-time-has-come-for-iran-to-decide-on-nuclear-deal",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-raps-planned-parenthood-on-videos",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-jumps-in-the-ring-with-trump",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/planned-parenthood-backed-bill-faces-aclu-media-backlash-in-california",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/congress-september-ritual-keep-government-open-with-zika-elections-now-in-mix",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-calls-planned-parenthood-scandal-disturbing",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/farrakhan-compares-hillary-clinton-to-hitler-in-sermon",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/carlys-comeback-fiorina-reportedly-eyeing-run-for-rnc-chair",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/congress-passes-stopgap-government-funding-bill-1-1b-for-zika-fight",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-falls-biden-rises-against-gop-field",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senate-democrats-block-measure-to-battle-zika-virus",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/08/02/rep-hanna-becomes-first-gop-member-congress-to-support-clinton.html#&_intcmp=trending",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/in-battle-for-womens-vote-trump-cites-bill-clinton-infidelity-as-hillary-shrugs-off-personal-attacks",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/03/08/presenting-your-march-8-primary-day-field-guide.html#&_intcmp=hpbt1",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/us/the-latest-hickenlooper-visits-clintons-home-in-washington",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-edge-cruz-rises-high-as-carson-jeb-sink",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/oregon-allowing-15-year-olds-to-get-state-subsidized-sex-change-operations",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/rev-samuel-rodriguez-democrats-you-have-failed-hispanics-too",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/congress-faces-physicists-multiverse-of-issues-including-irs-zika-upon-impending-return",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-donors-start-anti-trump-barrage",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/us/maine-school-official-apologizes-for-post-about-white-christian-men-with-guns",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senate-blocks-stopgap-bill-to-prevent-shutdown-this-weekend",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/washington-flummoxed-over-federal-confederate-flag-displays",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/conservatives-flex-muscle-in-house-speaker-race-but-what-do-they-want",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/my-conservative-page-got-blocked-by-facebook",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/boyfriend-of-murdered-tv-reporter-floats-house-bid",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/draw-them-to-punch-you-2-dem-operatives-lose-jobs-after-undercover-video-comments",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-pulls-into-passing-lane-on-obamacare",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mythical-creatures-abound-on-gun-control",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/health/a-couple-with-down-syndrome-is-fighting-to-have-children",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-reveal-2014-strategy-smash-and-grab",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/white-house-braces-for-doctor-dump",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-bailout-train-gains-steam",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.foxnews.com/health/it-may-not-be-a-boy-when-dads-been-exposed-to-dioxin",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/10-warning-signs-of-low-testosterone-men-should-never-ignore",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/could-birth-control-pills-hinder-your-pregnancy-chances",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/fit-moms-6-pack-caused-complications-during-her-pregnancy",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/tattoo-ink-may-be-toxic-study-suggests",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/can-laser-hair-removal-cause-cancer",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/walgreens-clinics-run-by-catholic-nonprofit-to-include-birth-control",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/12-natural-ways-to-improve-fertility",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/obama-nemesis-hobby-lobby-probed-for-allegedly-buying-black-market-biblical-items",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/first-baby-born-with-zika-linked-microcephaly-in-new-york-tri-state-area",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/freaky-new-frog-mating-position-discovered",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/5-foods-that-are-killing-your-sex-drive",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/health/the-surprisingly-common-cause-of-painful-sex",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/global-threats-shredded-dem-midterm-playbook",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hackers-delight-obamacare-data-dangers-not-fixed",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.foxnews.com/science/mom-of-the-year-mother-spider-feeds-self-to-babies",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2016
+}

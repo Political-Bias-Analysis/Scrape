@@ -1,0 +1,32 @@
+{
+    "Biases": [
+        "racial", "racial discrimination", "BLM", "CRT", "white privilege"
+    ],
+    "Links": [
+        {
+            "link": "http://www.foxnews.com/politics/2010/10/19/nevada-senate-race-gets-uglier-hispanic-ad.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2010/10/18/conway-attack-could-cement-paul-lead-in-roiling-ky-race.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.foxnews.com/us/2010/09/10/court-victory-gay-rights-activists-pressing-senate-repeal-dont-ask-dont-tell/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2010/09/04/white-house-link-tax-plan-hiring/",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2010/07/31/stalls-sept-trial-gitmo/",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2010/10/02/whitman-blames-opponent-housekeeper-flap.html",
+            "bias": "CRT"
+        }
+    ],
+    "Year": 2010
+}

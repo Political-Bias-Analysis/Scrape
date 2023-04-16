@@ -4,7 +4,7 @@ import time
 import json
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("scrape")
 from ReadWriteFiles.read_write_links import *
 
 def access_websites(bias, dates, all_links):
@@ -84,6 +84,8 @@ def check_us_news(url):
 
 
 def write_links_new_bias(links_info, bias, year):
+    #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+    # PATH = f"data\links\FOX\\" + bias + '_' + str(year) + '.json'
     PATH = '../../data/links/FOX/' + bias + '_' + str(year) + '.json'
     with open(PATH, 'w+') as f:
         output = json.dumps(links_info, indent=4)
@@ -92,6 +94,8 @@ def write_links_new_bias(links_info, bias, year):
 
 
 def write_links_exist_bias(main_bias, bias, year, links):
+    #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+    # PATH = f"data\links\FOX\\" + main_bias + '_' + str(year) + '.json'
     PATH = '../../data/links/FOX/' + main_bias + '_' + str(year) + '.json'
     
     cur = None
@@ -101,6 +105,7 @@ def write_links_exist_bias(main_bias, bias, year, links):
     cur["Biases"].append(bias)
     cur["Links"] += links
     write_links_new_bias(cur, cur['Biases'][0], year)
+    
 
     
 def compose_dict(links, bias, year):
@@ -113,9 +118,14 @@ if __name__ == "__main__":
 
     MEDIA_NAME = "FOX"
     ## run this: if new bias, change MAIN_BIAS and EXISTS = false, else only change bias and keep EXISTS = True
-    MAIN_BIAS, EXISTS = "immigration", True
-    biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
-    year, bias = 2016, biases[7]
+    MAIN_BIAS, EXISTS = "socioeconomic", True
+    biases = ["socioeconomic",
+              "poverty line",
+              "working class",
+              "medicare",
+              "middle class",
+              ]
+    year, bias = 2020, biases[4]
     
     all_links = get_all_links(MEDIA_NAME)
     

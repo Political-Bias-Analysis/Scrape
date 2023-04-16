@@ -1,0 +1,31 @@
+{
+    "Biases": [
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
+    ],
+    "Links": [
+        {
+            "link": "http://www.foxnews.com/politics/2012/08/30/new-gop-platform-condemns-fast-furious-blame-agent-death-on-operation/",
+            "bias": "immigration"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2012/07/06/rep-mccotter-resigns-after-ballot-problems/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2012/10/17/gop-rep-walsh-boosted-by-pac-donation-from-former-employer.html",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2012/07/08/obama-administration-to-ask-congress-for-civilian-afghan-aid-through-2017.html",
+            "bias": "border"
+        }
+    ],
+    "Year": 2012
+}

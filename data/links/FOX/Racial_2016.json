@@ -1,1154 +1,487 @@
 {
     "Biases": [
-        "Racial",
-        "disparities",
-        "white privilege",
-        "black lives matter",
-        "segregation",
-        "critical race theory",
-        "criminal",
-        "racial discrimination"
+        "racial", "racial discrimination", "BLM", "CRT", "white privilege"
     ],
     "Links": [
         {
-            "link": "https://www.foxnews.com/politics/race-to-remember-top-moments-from-2016s-rollercoaster-election",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/opinion/karl-rove-when-terror-intrudes-into-the-2016-race-it-helps-trump-hurts-hillary",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/politics/2016-election-the-issues-shaping-the-race",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/politics/fight-over-ag-nominee-lynch-takes-racial-turn-with-back-of-the-bus-charge",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/politics/illegal-immigrants-surging-to-us-mexico-border-in-race-against-election-day",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/politics/2016/06/15/heck-cortez-masto-to-face-off-in-pivotal-senate-race.html",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/politics/trump-wins-presidency-defeats-clinton-in-historic-election-upset",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/politics/romneys-timely-trump-trolling",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/politics/fox-news-electoral-scorecard-2016-race-tightens-in-key-battlegrounds",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/us/the-latest-gop-senator-to-vote-for-democratic-gun-amendment",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/politics/early-voting-suggests-tight-race-in-key-states-despite-clinton-camp-boast",
-            "bias": "Racial"
+            "link": "https://www.foxnews.com/opinion/presidential-debates-and-the-importance-of-american-history",
+            "bias": "racial"
         },
         {
-            "link": "https://www.foxnews.com/opinion/can-hillary-clinton-buy-the-2016-election",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/alan-dershowitz-the-strange-incredible-2016-race-has-left-us-with-electile-dysfunction",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/kennedy-the-2016-race-is-one-giant-pro-wrestling-match-america",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-calls-clinton-devil-warns-of-rigged-race-makes-isis-charge",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-facebook-to-host-first-gop-primary-debate-of-2016-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/rambunctious-debate-scrambles-iowa-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/adelson-pours-25-million-into-white-house-race-more-may-be-coming",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/its-on-sanders-already-raising-for-dnc-chairwomans-challenger",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/megyn-kelly-special-trump-defends-tone-says-bid-will-be-complete-waste-if-he-doesnt-win",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-moves-to-4-point-edge-over-trump",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/swing-state-polls-show-clinton-trump-in-airtight-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/courts-deal-setbacks-to-gop-voting-restrictions-in-3-states",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/11/08/floridas-marco-rubio-wins-re-election-in-senate-race.html?fromNewsdog=1",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-and-trump-in-a-one-point-race-among-likely-voters",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/closing-arguments-trump-pledges-jobs-security-clinton-sounds-unity-message-in-final-push",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-looks-to-handcuff-hillary-on-law-and-order",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-wont-commit-to-accepting-election-results-at-fiery-final-debate-with-clinton",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/long-shot-republican-candidates-weigh-spicing-up-2016-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/with-social-media-tease-wisconsins-scott-walker-jumps-into-2016",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/seven-week-sleep-as-2016-race-churns-congress-sits-it-out-on-summer-recess",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/why-2016-is-the-year-of-the-angry-white-male",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/koch-brothers-donor-network-to-focus-on-senate-not-presidential-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/blunt-beats-challenger-kander-in-missouri-senate-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/juan-williams-in-the-2016-election-we-jumped-the-shark-america",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/five-numbers-that-explain-the-state-of-the-democratic-race-right-now",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/louisiana-gov-jindal-looks-ready-to-jump-into-2016-race-but-his-path-to-victory-may-be-tough",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/the-2016-ford-mustang-cobra-jet-is-ready-to-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-pivots-to-general-election-fight-as-last-rival-kasich-bows-out",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/senate-battle-race-for-control-goes-down-to-the-wire",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/too-soon-the-media-cast-trumps-task-as-mission-impossible",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/electoral-map-polls-scrambled-in-final-days-amid-campaign-unrest",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-general-election-exit-poll-summary",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/08/10/colorado-latinos-key-voting-bloc-in-battleground-state-feel-ignored-by-trump.html#&_intcmp=related",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/the-2016-election-in-5-easy-charts",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/republicans-rally-behind-johnson-in-tight-wisconsin-senate-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/battleground-map-shifting-in-clintons-favor-for-now",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trumps-path-to-presidency-narrows-upping-pressure-to-tilt-race-at-debate",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/will-racial-unrest-help-trump-again",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/presenting-your-key-counties-for-election-day",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-election-hq-a-stunning-studio-for-a-dramatic-presidential-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/paperback-version-of-clintons-hard-choices-omits-her-former-tpp-trade-pact-support",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/team-trump-tries-to-define-immigration-policy-by-contrasting-clintons-plan",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/voting-for-trump-gop-lawmakers-get-into-rhetorical-knots",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/federal-appeals-court-blocks-north-carolina-voter-id-law",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/oregons-top-civil-rights-lawyer-alleges-racial-profiling",
-            "bias": "Racial"
-        },
-        {
-            "link": "http://www.foxnews.com/politics/2016/08/15/wasserman-schultz-battling-to-hang-on-in-house-race-faces-debate-criticism.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
-            "bias": "Racial"
-        },
-        {
-            "link": "http://www.foxnews.com/politics/2016/06/15/heck-cortez-masto-to-face-off-in-pivotal-senate-race.html",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/06/06/as-clinton-moves-to-brink-nomination-sanders-eyes-california-upset.html#&_intcmp=trending",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/anchor-babies-what-really-matters-in-u-s-presidential-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/teachers-use-election-to-discuss-weighty-issues-worries",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/campaigns-aim-for-turnout-as-voters-deliver-decision-in-trump-clinton-brawl",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/in-battleground-north-carolina-2016-races-too-close-to-call",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/debate-reveals-contours-of-a-three-man-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/the-latest-trump-says-police-hamstrung-in-terrorism-fight",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/spotlight-on-libertarian-convention-amid-voter-unease-over-trump-clinton-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/us/2016/05/10/voters-in-west-virginia-and-nebraska-cast-primary-ballots.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/new-poll-majority-believes-race-relations-worse-under-obama",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/todd-wilcox-drops-out-of-florida-senate-race-backs-rubio",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/report-anti-trump-republicans-contacted-mark-cuban-about-third-party-bid",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/california-democratic-sen-barbara-boxer-wont-seek-re-election-in-2016",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/dont-kid-yourself-the-polls-are-usually-right",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/polls-show-clinton-trump-tied-in-likely-november-matchup-record-un-favorability",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016-x-factor-potential-gop-hopefuls-seek-help-running-for-white-house-re-election-at-once",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/tech/election-2016-trump-beating-clinton-in-google-searches",
-            "bias": "Racial"
-        },
-        {
-            "link": "http://www.foxnews.com/us/2016/05/03/indiana-becomes-potential-game-changer-in-race-for-white-house.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-clinton-surrogates-brawl-as-race-heats-up",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/sanders-to-meet-tuesday-with-clinton-still-vows-to-run-campaign-until-convention",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/louisianas-u-s-senate-race-set-for-runoff-in-december",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/mccarthy-withdraws-from-speaker-race-vote-postponed",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/the-docket-supreme-court-to-tackle-religious-freedom-election-rules-in-new-term",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/gingrich-trump-remarks-about-judge-mistake-inexcusable",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-clinton-make-final-pitches-as-early-votes-counted-in-tiny-new-hampshire-towns",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/are-democrats-kidding-themselves",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/richmond-virginia-mayor-race-sex-scandals-comebacks-party-clash",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/gop-wins-governors-races-in-vermont-missouri-indiana-nc-too-close-to-call",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/illinois-kirk-defeated-by-duckworth-in-tight-senate-race",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/politics-on-the-menu-fox-friends-visits-diners-for-election-day-pulse",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clinton-urges-supporters-to-accept-trump-victory-give-him-chance-to-lead",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-electoral-scorecard-map-shifts-again-in-trumps-favor-as-clinton-holds-edge",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/republicans-projected-to-keep-control-of-senate-house",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/cruz-faces-hard-fight-against-trump-surge-in-indiana-as-front-runner-says-race-is-over-with-win",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-poll-trump-tops-clinton-both-seen-as-deeply-flawed-candidates",
-            "bias": "Racial"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/obama-us-in-better-place-than-when-he-graduated-college",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/health/family-classes-tied-to-better-school-performance-for-poor-kids",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/judge-blocks-north-dakotas-voter-identification-law",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/to-tackle-our-mass-incarceration-problem-lets-start-at-the-local-level",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/phoenix-sheriff-joe-arpaio-may-have-new-foe-george-soros",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/health/us-pharmacies-sell-cigarettes-for-less-than-other-stores",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/health/own-networks-lamman-rucker-pours-heart-into-cardiovascular-health",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/snowed-in-de-blasio-obama-stay-focused-on-wealth-gap",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/us/homelessness-in-hawaii-grows-defying-image-of-paradise",
-            "bias": "disparities"
-        },
-        {
-            "link": "https://www.foxnews.com/us/white-privilege-survey-in-high-school-class-sparks-parents-ire",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/wasserman-schultz-to-step-down-as-dnc-chairwoman-amid-email-fallout",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/10/06/white-house-coordinated-with-state-department-clinton-campaign-on-email-issue-documents-show.html",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-forgotten-women-who-are-supporting-trump",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/presenting-the-2015-turkey-bowl-winners",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/white-house-snubs-chaffetz-refuses-to-let-aide-testify-after-controversial-iran-remarks",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/sheriff-david-clarke-its-time-to-stand-up-to-black-lives-matter",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clintons-off-the-reservation-remark-angers-native-americans-forces-twitter-response",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-trump-kids-the-best-part-of-the-election-cycle",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/gen-mike-flynn-why-hillarys-record-on-libya-is-even-worse-than-you-think",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/scrappy-toledo-newspaper-raises-white-flag-after-long-battle-with-blade",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/gop-reps-hammer-wh-aide-rhodes-at-hearing-senators-seek-firing",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/supreme-court-strikes-down-texas-abortion-law",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/hillarys-hopes-could-fall-through-enthusiasm-gap",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/sources-clinton-emails-would-have-been-whitelisted-for-obama-blackberry",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/zika-irs-avoiding-government-shutdown-all-connected-in-congress-final-weeks",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/clive-owen-returns-as-the-driver-for-bmw-films",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016-gop-power-index-trump-needs-jeb-comeback",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/documents-could-shed-light-on-secretive-skull-and-bones-society",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fbi-revisiting-clinton-emails-just-latest-in-long-history-of-october-surprises",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/vietnam-captain-recalls-trick-that-faked-the-enemy-saved-lives-and-earned-medal-of-honor",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/split-screen-frames-obamas-struggle-on-race",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/check-your-privilege-gop-establishment",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/review-2012-chevrolet-impala",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/best-chevrolet-corvette-movie-appearances",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/memphis-professor-behind-racist-tweets-resurfaces-at-crosstown-school",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/white-house-knew-obamacare-claims-were-false",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/senate-torture-report-exposed-misdeeds-but-there-may-never-be-a-similar-probe-of-cia-drones",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/flip-flopping-dems-once-big-comey-fans-now-piling-on",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/test-drive-2013-chevrolet-corvette-427",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/tim-kaine-hillarys-safe-choice-gets-kid-glove-treatment-from-the-media",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/us/watchdog-calls-for-work-by-veteran-artists-after-report-shows-va-spent-20m-on-high-end-art",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/no-wonder-they-wont-release-the-numbers",
-            "bias": "white privilege"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/hey-black-lives-matter-stop-terrorizing-our-cities",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clinton-staffer-on-black-lives-matter-founder-yuck",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/green-lives-matter-college-course-title-has-some-critics-seeing-red",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/dallas-police-sniper-was-shunned-by-new-black-panthers-says-groups-leader",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/black-community-sees-charlotte-as-glimmering-fake-oz",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/dallas-cop-files-lawsuit-against-black-lives-matter-obama",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "http://www.foxnews.com/politics/2016/10/25/wither-obamacare.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/david-duke-qualifies-for-televised-senate-debate-at-historically-black-college",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/can-clinton-rely-on-black-voters-to-counter-sanders-surge",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/demonstrators-gather-outside-white-house-to-protest-donald-trump",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/the-latest-adelsons-spend-big-in-effort-to-defeat-clinton",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/west-point-investigating-black-female-cadets-raised-fists-photo",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/protesters-cleared-from-i-40-bridge-over-mississippi",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/pence-triumphs-in-vp-debate-and-then-there-was-the-nights-biggest-loser",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/our-men-and-women-in-blue-now-stand-in-a-deadly-political-hailstorm",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/trump-vs-clinton-will-americans-vote-for-the-party-of-anger-or-the-party-of-entitlement",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/the-latest-new-clinton-ad-features-soldiers-father",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-asks-cnn-to-give-debate-advertising-sales-to-veterans",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/new-black-panther-party-plans-to-bring-guns-to-gop-convention-if-law-allows",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/prosecutor-claims-officer-could-have-saved-freddie-gray-but-didnt",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/black-lives-matter-accuses-dems-of-placating-group-after-memo-leaked",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fbi-reopens-clinton-probe-after-new-emails-found-in-anthony-weiner-case",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/andrew-jackson-statue-target-of-protests-twice-in-one-week",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/the-five-stages-of-a-trumptation",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/im-asian-a-woman-and-a-proud-trump-deplorable",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-says-obama-born-in-us-period-after-new-birther-dust-up",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-one-thing-that-could-tip-the-balance-in-the-next-presidential-debate",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/influential-from-the-wire-to-washington-sociologist-william-julius-wilson-looks-ahead-at-80",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-declares-himself-law-and-order-candidate-calls-for-anti-police-hostility-to-end",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-disorganization-proves-costly",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/two-days-after-nypd-cop-gunned-down-anti-cop-rally-held-in-times-square",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/the-latest-kaine-wife-attend-catholic-mass-in-richmond",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/debate-night-trump-struggles-clinton-clings-to-facts-and-figures-holt-stumbles",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/03/09/dear-republicans-its-ted-cruz.html",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/dana-perino-talks-with-juan-williams-about-his-book-we-the-people",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/obama-joins-clinton-on-campaign-trail-touting-her-experience-and-judgement",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/obama-team-nixed-fundraiser-by-attorney-for-sex-offender-pal-of-bill-clinton-emails-show",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/church-resumes-bible-study-in-space-where-9-were-shot-to-death-in-charleston",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/missouri-house-candidate-accuses-fellow-legislature-candidate-of-rape",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clinton-dismisses-controversies-surrounding-benghazi-emails-at-event",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/nfls-kaepernick-insults-americans-law-enforcement-officers-everywhere",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/the-latest-gun-owners-are-the-new-silent-majority",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trumps-wife-worked-illegally-during-her-first-weeks-in-the-us-documents-show",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-ahead-of-trump-by-two-points",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/who-will-pass-the-terror-test",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/bias-alert-police-group-accuses-cnn-of-deceptive-edit-of-charlotte-shooting",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/historic-church-returns-to-space-where-9-slain-as-pastors-body-heads-back-to-charleston",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/2016-chevrolet-camaro-ss-test-drive",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/health/woman-with-facial-tumor-gains-fame-as-makeup-vlogger",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/travel/united-flier-says-she-was-kicked-off-flight-for-wearing-black-panther-hat",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/senates-lone-black-gop-member-says-police-stopped-him-7-times-in-a-year",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/new-low-dead-vets-left-to-decompose-in-va-morgue-for-weeks-without-burial",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/ap-explains-why-do-republicans-say-sky-is-falling-is-it",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/not-worth-saving-in-a-fire-pint-size-conservative-cj-pearson-claims-teacher-dissed-him",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/police-announce-arrest-in-shooting-death-at-charlotte-riot",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/one-year-later-officials-stunned-by-betrayal-of-illinois-cop-who-staged-suicide",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/in-heartland-iowa-trump-vows-to-help-farmers-urban-minorities-alike",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/rapper-busted-after-video-shows-him-blasting-trump-while-brandishing-stolen-guns",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/obama-at-a-loss-on-ferguson",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/the-5-coolest-classic-car-colors-ever",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/has-pence-pushed-trump-into-ryan-nod",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/bmw-admits-regret-over-using-nazi-slave-labor-during-wwii",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/captive-rubio-symbolizes-gop-struggle",
-            "bias": "black lives matter"
-        },
-        {
-            "link": "https://www.foxnews.com/us/ole-miss-student-senate-seeks-to-remove-state-flag-from-campus",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/dinesh-dsouza-the-secret-history-of-the-democratic-party",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clinton-aide-says-foundation-paid-for-chelseas-wedding-wikileaks-emails-show",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/travel/barcelona-city-officials-call-for-removal-of-oppressive-christopher-columbus-statue",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/us/troopers-arrest-41-protesters-blocking-highway-traffic-in-minneapolis",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/us/inmate-was-nearly-cut-in-two-missing-organs-after-california-prison-riot",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/obamacare-defund-to-get-a-vote",
-            "bias": "segregation"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/dhs-accused-of-sitting-on-damning-border-report-as-immigration-issue-drives-presidential-race",
-            "bias": "critical race theory"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2015/07/13/clinton-to-urge-firms-to-expand-profit-sharing-with-workers-in-economic-address.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+foxnews%252Fpolitics+(Internal+-+Politics+-+Text)",
-            "bias": "critical race theory"
-        },
-        {
-            "link": "https://www.foxnews.com/health/new-study-links-pancreatic-cancer-to-2-types-of-bacteria-found-in-gum-disease",
-            "bias": "critical race theory"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/double-voting-even-triple-voting-found-in-us-elections",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/judge-orders-state-dept-to-release-documents-on-corrupt-contractor-before-election",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/email-shows-federal-immigration-bosses-in-ot-push-to-swear-in-new-citizens-due-to-election",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-top-sixteen-moments-of-the-first-2016-presidential-debate",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-doubles-down-on-impenetrable-physical-wall-during-immigration-speech",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/democrats-are-treating-people-of-faith-like-criminals",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fbis-comey-clinton-extremely-careless-about-emails-but-bureau-will-not-advise-criminal-charges",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-final-argument-for-hillary-clinton-based-on-3-indisputable-facts",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-says-hes-open-to-softening-immigration-laws-in-hannity-town-hall",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/washington-state-elector-says-he-wont-vote-for-clinton",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/florida-prosecutor-who-charged-zimmerman-could-lose-re-election-bid",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-fbi-primary-is-over-hillary-dodged-criminal-charges-for-one-simple-reason",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-vows-to-deport-criminal-illegal-immigrants-within-one-hour-of-swearing-in",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/donald-trumps-acceptance-speech-at-the-republican-national-convention",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/2016/11/09/latest-latest-victory.html",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/2016/10/08/ken-cuccinelli-what-youre-not-being-told-about-new-crime-numbers.html?utm_source=akdart",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/the-top-9-moments-of-the-third-presidential-debate",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-clinton-clash-at-fiery-first-debate-on-trade-tax-returns-temperament",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/us-immigration-policies-allow-gangs-to-thrive-in-violence-plagued-ny-community-say-critics",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/one-california-city-is-paying-people-not-to-commit-crimes",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/arizona-sheriff-officially-charged-with-criminal-contempt",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-says-fbi-records-on-clinton-reveal-criminal-act-state-dept-official-should-resign",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/cal-thomas-the-single-best-word-that-defines-hillary-clinton",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fbi-doj-roiled-by-comey-lynch-decision-to-let-clinton-slide-by-on-emails-says-insider",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/california-mayor-charged-with-providing-alcohol-to-minors-eavesdropping",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/house-panel-calls-for-criminal-probe-into-failed-oregon-health-care-exchange",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/dr-keith-ablow-you-are-the-sex-addict-america-not-trump-or-clinton",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/elusive-crime-wave-data-shows-frightening-toll-of-illegal-immigrant-criminals",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/house-panel-seeks-criminal-charges-for-university-of-new-mexico-in-abortion-research",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/gregg-jarrett-an-avalanche-of-evidence-may-now-bury-hillary",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-camp-holds-alternative-to-mainstream-media-on-facebook",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/opinion/the-essential-question-of-2016-what-else-is-hillary-hiding",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/arizonas-sheriff-joe-formally-charged-with-criminal-contempt",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/auto/2016-scion-im-test-drive",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/trump-says-hell-accept-a-clear-election-result-wont-lose",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/labor-secretary-perez-says-clinton-must-win-back-voters-trust",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trumps-midnight-in-america-speech",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/fbis-comey-tells-congress-email-review-completed-decision-not-to-prosecute-clinton-stands",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/rep-corrine-brown-indicted-in-fraud-case-over-charity-slush-fund",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/nothing-criminal-suspected-in-boys-death-on-worlds-tallest-water-slide-police-say",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/san-francisco-analyzes-sanctuary-protections-for-illegal-immigrants",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/ap-exclusive-review-of-convictions-in-north-carolina",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/05/12/republican-brass-in-fantasyland.html",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/comey-gives-hillary-a-closing-argument",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016/08/26/trumps-immigration-stance-is-it-total-reversal-claimed-by-media.html?cmpid=edpick",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/the-edge-media-gets-back-on-the-trump-train",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/arms-dealer-says-administration-made-him-scapegoat-on-libya-operation-to-protect-clinton",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/orlando-gunman-tied-to-radical-imam-released-from-prison-last-year-say-law-enforcement-sources",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/trump-tries-to-disrupt-clinton-scandal-cycle",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/gop-convention-first-openly-gay-speaker-paypals-thiel-acknowledges-his-sexuality",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/lets-get-it-out-clinton-calls-on-fbi-to-release-info-on-email-investigation",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/11-freshmen-victims-in-alleged-oregon-hazing-coach-charged",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/emails-show-clinton-campaign-coordinated-with-state-dept-official-before-email-revelation",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/georgia-man-sent-teen-sex-texts-as-son-was-dying-in-hot-car",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/charges-dropped-against-cab-driver-in-deadly-beating-of-wifes-would-be-rapist",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/unaccompanied-minors-swelling-ranks-of-american-gangs-say-experts",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/syria-casts-shadows-on-2016-dems",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/clinton-it-specialist-ignores-subpoena-for-house-hearing-other-witnesses-plead-5th",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/minnesota-gun-buyback-program-a-dud-some-legal-owners-say",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/2016-gop-power-index-paul-fights-his-way-down",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/us/49-killed-in-shooting-at-florida-nightclub-in-possible-act-of-islamic-terror",
-            "bias": "criminal"
-        },
-        {
-            "link": "https://www.foxnews.com/politics/us-high-court-refuses-to-reinstate-north-carolina-voter-id",
+            "link": "https://www.foxnews.com/politics/trump-accuses-clinton-of-perjury-as-candidates-battle-over-north-carolina",
             "bias": "racial discrimination"
         },
         {
-            "link": "https://www.foxnews.com/politics/ex-kkk-leader-david-duke-signs-up-to-run-for-us-senate-seat",
+            "link": "https://www.foxnews.com/opinion/eight-decades-after-amelia-earhart-made-history-lets-celebrate-todays-women-pilots",
             "bias": "racial discrimination"
         },
         {
-            "link": "https://www.foxnews.com/politics/jeb-bush-one-of-two-gop-candidates-to-speak-before-urban-league-conference",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/dallas-sniper-who-gunned-down-5-cops-wanted-to-kill-white-people-chief-says",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/student-president-payton-head-racism-exists-at-university-of-missouri-but-students-unified",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/science/wild-horses-should-be-killed-or-sold-government-board-decides",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/searing-doj-report-says-ferguson-pd-routinely-violated-rights-of-african-americans",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/politics/trump-clinton-meet-with-netanyahu-as-presidential-debate-looms",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/powder-keg-employees-a-problem-for-hr-even-after-theyre-gone",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/science/the-alaska-ice-monster-is-likely-no-monster-at-all",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/trump-delays-vp-announcement-due-to-attack-reportedly-has-offered-job-to-pence",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/opinion/schoen-im-a-democrat-and-i-worked-for-bill-clinton-but-i-cant-vote-for-hillary",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/long-overdue-2-wwi-heroes-to-get-medal-of-honor-for-courage",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/politics/fox-news-electoral-scorecard-key-states-tilting-toward-trump-after-fbis-october-surprise",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/gunman-who-killed-2-on-live-tv-is-dead-after-shooting-himself",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/auto/lamborghini-owner-decks-out-car-in-donald-trump-wrap",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/long-lines-technical-glitches-greet-some-voters-across-the-country",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/auto/no-takers-for-obamas-1-million-chrysler",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/opinion/what-hillary-gets-wrong-about-americas-moment-of-reckoning",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/health/donald-trumps-draft-deferment-what-are-heel-spurs",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/2016/06/14/divided-america-evangelicals-feel-alienated-anxious.html",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/mother-of-nyc-jogger-killed-in-1995-speaks-out-on-similar-2016-murder",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/a-battle-royal-shaping-up-for-open-senate-seat-in-nevada",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/tech/a-new-combat-vehicle-that-swims-for-the-marine-corps",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/2-transgender-democrats-nominated-in-western-gop-strongholds",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/florida-diocese-investigating-ex-head-of-rhode-island-school",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/black-farmers-say-floridas-medical-marijuana-law-shuts-them-out",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/politics/krauthammer-on-fbi-probe-revives-everything-that-had-been-buried-and-banished",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/us/teacher-speech-coach-ousted-from-omaha-catholic-school-for-being-gay-may-have-little-recourse",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/ailes-denies-allegations-in-gretchen-carlson-harassment-suit-as-fox-news-launches-investigation",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/tsunami-alert-new-poll-shows-obamacare-driving-voters",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/mother-milwaukee-shooting-victim-was-23-year-old-black-man",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/follow-the-leader-is-one-game-house-lawmakers-cant-seem-to-play",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/politics/americans-at-benghazi-post-were-rescued-by-qaddafi-officer-militia-report-reveals",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/clinton-hits-trump-as-champion-of-crazy-alt-right-but-is-that-off-base",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/politics/ex-miss-universe-machado-disses-melania-had-racy-tv-encounter-while-engaged",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/team-obama-grabs-the-pitchforks",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/tech/dallas-police-used-bomb-robot-to-kill-shooting-suspect",
+            "bias": "BLM"
         },
         {
-            "link": "https://www.foxnews.com/politics/trumps-candidacy-not-all-about-him-no-seriously",
-            "bias": "racial discrimination"
+            "link": "https://www.foxnews.com/us/billionaire-sex-offender-epstein-once-claimed-he-co-founded-clinton-foundation",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/secret-service-agents-book-claims-clinton-has-volcanic-leadership-style",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/d-a-henderson-who-led-effort-to-eradicate-smallpox-dies-at-87",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/lincoln-navigator-concept-charts-new-course-for-luxury-suv",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/mercedes-previews-next-gen-sprinter-with-vision-van-concept",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/science/the-original-alamo-may-have-been-found",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/travel/disneyland-reveals-plans-for-luxury-resort",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/formerly-conjoined-twins-released-from-texas-hospital",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/wisconsin-farmer-16-cows-dead-after-being-overcome-with-manure-fumes",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/women-more-likely-than-men-to-face-poverty-during-retirement",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/mint-1969-shelby-gt500-found-under-40-years-of-dust",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/robert-e-lees-gettysburg-headquarters-recieves-6m-restoration",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2010-mercedes-benz-s400-hybrid",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/chevrolets-hydrogen-powered-stealth-truck-enlists-with-u-s-army",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/schools-father-daughter-dance-canceled-after-some-complaints-it-wasnt-inclusive",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/someone-hacked-katy-perrys-twitter-to-send-out-nsfw-tweets-and-shout-out-taylor-swift",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/mercedes-benz-unveils-the-most-powerful-suv",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/science/tallest-mountain-in-us-arctic-found-along-with-a-surprise",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/police-teen-fatally-shot-after-shooting-st-petersburg-florida-officer-in-the-leg",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/is-it-safe-to-reuse-a-water-glass-before-washing-it",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/man-who-lost-wife-home-in-tornado-is-reunited-with-missing-dog",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/bugatti-unveils-a-1200-hp-roadster",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/warrant-issued-for-suspect-in-1m-new-mexico-jewelry-heist",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/man-accused-of-shooting-dad-ohio-deputy-to-be-arraigned",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/elementary-school-teacher-accused-of-punching-child-in-the-face",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/faster-pastor-breaks-motorcycle-hearse-world-speed-record",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/moscow-reveals-new-presidential-limo-concepts",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/shark-tank-star-touts-virtual-reality-chemotherapy-for-kids",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/portland-public-schools-ban-textbooks-that-cast-doubt-on-climate-change",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/first-chevy-volt-sold-for-225000-to-nascar-team-owner",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/radical-fmx-bike-designed-to-fly",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/hundreds-brave-mud-mosquitoes-to-witness-chincoteague-pony-swim",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/travel/knotts-berry-farm-closes-controversial-mental-institution-themed-haunted-house",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/classic-car-tv-stars-rom-the-days-when-the-big-three-ruled-tv",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/oshkosh-developing-unmanned-mine-sweeping-trucks",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/mini-jump-starters-for-your-car",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/the-automotive-threatened-endangered-and-extinct-list",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/health/man-survives-knife-in-eye-socket",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/chip-foose-is-bringing-life-to-a-cadillac-sketch-from-1935",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/the-2017-chevrolet-camaro-zl1-is-a-monstrous-muscle-car",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/secret-hoard-of-ultra-rare-motorcycles-found-in-barn",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/us/report-freddie-gray-may-have-intentionally-tried-to-injure-self-in-police-van",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2-5-million-bugatti-chiron-out-to-claim-world-speed-record",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sc-push-to-remove-confederate-flag-scrambled-by-oddball-amendments",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/5-weird-movie-cars",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-sends-obamacare-contraception-mandate-case-back-to-lower-courts",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/virginia-high-court-strikes-down-govs-order-giving-felons-right-to-vote",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/whats-at-stake-in-the-2016-elections-nothing-less-than-the-constitution",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-slams-ginsburg-says-she-made-very-inappropriate-statements",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-halts-ballot-counting-in-controversial-native-hawaiian-vote",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/supreme-court-avoids-major-ruling-in-birth-control-dispute",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wisconsin-court-ends-probe-of-presidential-hopeful-walker",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/appeals-court-tosses-1-of-2-indictments-against-rick-perry",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/court-strikes-down-proof-of-citizenship-voting-requirement-in-3-states",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/feds-to-bring-criminal-contempt-charges-against-arpaio",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/white-house-sends-supreme-court-picks-questionnaire-to-senate",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/court-denies-virginia-gops-challenge-on-felon-voting-rights",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/appeals-court-week-of-early-voting-shouldnt-return-to-ohio",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/how-can-supreme-court-justices-be-penalized-theres-really-only-one-option",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/federal-appeals-court-orders-changes-to-texas-voter-id-law",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/in-strange-election-cycle-electoral-college-deciding-whos-president-must-be-mentioned",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-cautious-on-new-cases-as-term-begins-under-cloud-of-vacancy-politics",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/07/13/trump-demands-ginsburg-resigns-after-her-comments-on-his-campaign.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/iowa-supreme-court-upholds-ban-on-voting-rights-for-felons",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/2016/09/08/north-carolina-election-officials-plan-to-settle-early-voting-disputes.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/michigan-straight-party-voting-ban-wont-take-effect",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ted-cruzs-supreme-court-remark-draws-white-house-criticism",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/bowe-bergdahl-court-martial-delayed-until-february-2017",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/make-soros-happy-inside-clinton-teams-mission-to-please-billionaire-vip",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/state-department-to-release-all-clinton-schedules-before-election",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dozens-of-lawsuits-accuse-trump-of-not-paying-his-bills-reports-claim",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/2016/11/01/after-trump-evangelical-examination-conscience.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/judge-rules-kansas-cannot-require-citizenship-proof-to-vote",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/anti-trump-delegate-in-virginia-wins-portion-of-lawsuit",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-sends-alabama-redistricting-case-back-for-review",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-wins-nra-endorsement-blasts-clinton-on-gun-stance-at-forum",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/09/01/hillarys-bet-on-making-2016-about-trump-looks-riskier.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/cruz-huckabee-go-head-to-head-in-competition-for-evangelical-votes-in-georgia",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/nevada-high-court-blocks-funding-for-school-choice-program",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/supreme-court-some-noteworthy-cases-coming-up-in-new-term",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/unusual-start-to-new-term-no-arguments-on-jewish-new-year",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/kentucky-man-accused-in-triple-homicide-threatens-judge",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-rejects-appeal-to-reopen-gov-walker-investigation",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trumps-no-apologies-campaign-tour-hits-hard-on-romney-warren",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/massachusetts-court-to-hear-appeal-in-mail-bomb-killing",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-called-out-for-appearing-to-mock-disability",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/colorado-nuns-appeal-ruling-on-health-care-laws-contraception-requirement-to-supreme-court",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/flight-logs-show-bill-clinton-flew-on-sex-offenders-jet-much-more-than-previously-known",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-chris-wallace-brings-experience-sterling-reputation-to-moderators-role",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2016/04/30/former-alabama-democratic-gov-siegelman-in-solitary-confinement-again-son-says.html#&_intcmp=hplnws",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/09/30/crunch-time-dems-face-gloomy-midterm-forecast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/republican-delegate-revolt-grows-in-effort-to-sidetrack-trump-nomination",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/us/princeton-begins-to-remove-man-from-official-school-material",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/judge-blocks-florida-abortion-law-that-adds-restrictions-for-clinics",
+            "bias": "white privilege"
         }
     ],
     "Year": 2016

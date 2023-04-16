@@ -1,0 +1,47 @@
+{
+    "Biases": [
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/2014/08/25/mexican-president-may-discuss-immigration-border-crisis-during-california-visit.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/05/29/media-ratchet-up-pressure-on-white-house-as-probe-confirms-cover-up-at-va/",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/2014/11/07/obama-future-president-power-dependent-on-willingness-to-compromise/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fopinion+%28Internal+-+Opinion+-+Mixed%29",
+            "bias": "immigration"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2014/08/06/fatal-attraction-stadium-death-trap-for-birds/",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/09/04/dnc-head-says-regrets-word-choice-in-gov-walker-comments.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/09/11/isis-terrorists-not-sneaking-over-us-southern-border-with-mexico-dhs-officials.html?version=meter+at+null&module=meter-Links&pgtype=article&contentId=&mediaId=&referrer=&priority=true&action=click&contentCollection=meter-links-click",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/08/14/tea-party-backed-cochran-foe-challenges-loss-in-mississippi-state-court/",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2014/05/06/nm-college-spends-5-million-on-solar-array-to-save-200000-in-utility-bills/#&_intcmp=latestnews",
+            "bias": "border"
+        }
+    ],
+    "Year": 2014
+}

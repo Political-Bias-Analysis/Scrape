@@ -1,0 +1,704 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "medicare",
+        "middle class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/health/the-weird-way-your-latitude-may-affect-your-blood-pressure",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-endorses-clinton-for-president-on-heels-of-sanders-meeting",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/the-real-reason-why-liberals-hate-id-requirements-for-voting",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/cleveland-is-so-much-more-than-just-a-host-city-for-the-gop-convention",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-kaine-pile-on-trump-in-scorching-warm-up-for-closing-night",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/science/hidden-fault-could-trigger-cataclysmic-megaquake-in-asia",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/sen-john-mccain-obamacare-nightmare-may-leave-10000-arizonans-with-no-insurance-options",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/hillary-clintons-amazing-almost-comical-economic-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/african-americans-should-start-voting-for-republicans-again",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/more-benefit-cuts-under-obamacare",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/pakistan-vintage-car-collectors-preserve-a-part-of-history",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ryan-trump-await-the-right-moment-to-come-together",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-if-i-become-president-were-all-going-to-be-saying-merry-christmas-again",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-tries-to-keep-promise-on-poverty",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/travel/the-most-unfriendly-cities-in-the-us",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/get-the-pen-out-unions-step-up-obamacare-attacks",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gates-raises-new-trust-questions-for-embattled-obama",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/health/when-gofundme-goes-wrong-woman-faced-losing-state-assistance-after-raising-money-for-daughter-with-aggressive-cancer",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/us/charleston-church-shootings-a-stark-reminder-of-threat-from-violent-disaffected-extremists",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-rekindles-poor-war",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/power-trip-obamas-clout-on-trial",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/white-house-shakeup-panic-play",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/elites-can-afford-a-clinton-presidency-working-people-cannot",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/patrick-caddell-the-real-election-surprise-the-uprising-of-the-american-people",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/several-schools-close-for-election-day-over-fears-of-students-safety",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ivanka-trump-tells-gop-convention-her-father-will-fight-for-working-people",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-trump-tops-clinton-in-battlegrounds-nevada-n-carolina-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/podesta-kaine-suggest-wikileaks-docs-revealing-clinton-private-speeches-are-bogus-inaccurate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/what-will-bernies-voters-do-this-fall-democrats-worry-theyll-stay-home",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/thank-you-bill-clinton-for-endorsing-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/is-hillary-clinton-out-of-ammo-to-use-against-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/health/trump-sexual-assault-allegations-why-some-victims-stay-silent",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/populist-paradox-why-donald-trump-could-grab-some-bernie-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/class-clash-hillary-tries-to-head-off-walker",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/what-trump-has-in-common-with-the-brexit-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-trouble-in-the-burbs",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/im-an-evangelical-woman-and-i-support-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/convention-host-state-no-sure-bet-for-democrats",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-tries-to-rally-supporters-behind-clinton-but-they-remain-wary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ap-analysis-shows-clinton-needs-just-one-more-state-for-electoral-college-win",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/melania-trump-cruz-hit-trail-as-surrogates-for-donald",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/vfw-fires-back-at-obama-politics-not-confused",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/flood-help-weighs-heavily-in-west-virginia-governors-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016-gop-power-index-trump-joins-the-pageant",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/in-year-of-supposed-angry-electorate-just-one-congressional-incumbent-ousted-in-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/time-for-another-democratic-presidential-nomination-rules-commission",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/longtime-conservative-activist-phyllis-schlafly-dead-at-92",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/people-carried-out-on-stretchers-after-waiting-in-heat-for-tardy-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/04/21/beach-brawl-for-rnc.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/economist-our-country-would-be-better-off-with-a-republican-president",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2016-honda-pilot-test-drive",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-selling-building-from-real-estate-empire-to-fund-campaign-an-option",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/dana-perino-get-ready-for-the-2016-campaign-cleanse",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/again-with-the-emails-latest-scandal-rocks-clintons-crowning-at-convention-start",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/feds-mark-chicagos-pullman-neighborhood-for-rich-history",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/j-d-vance-what-i-didnt-know-how-the-world-of-the-american-elite-works",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2016-cadillac-ats-v-test-drive",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-focuses-on-blue-states-while-clinton-will-crisscross-battleground-states-on-races-final-sunday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-lawmakers-introduce-bill-to-give-union-members-say-in-political-donations",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-says-he-wont-self-fund-general-election-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/if-trumps-record-on-women-is-fair-game-then-so-is-hillarys-plus-5-more-debate-takeaways",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/best-cars-for-tall-or-short-drivers",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/boehner-battle-sets-up-another-bust",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-clinton-taxes-and-the-markets",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/pontiac-officially-out-of-business",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/health/where-do-the-worlds-tallest-and-shortest-people-live",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/health/6-exercise-excuses-moms-make-solved",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/watch-navy-pilots-save-plane-after-it-falls-off-carrier",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/06/18/poll-shows-obama-hits-new-low-on-foreign-policy/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/humbug-indeed",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/alaska-republicans-back-bill-to-prevent-obamacare-meltdown-in-state",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bush-proposes-overhaul-of-social-security-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nevada-gop-rep-joe-heck-to-run-for-reids-us-senate-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-says-hes-ready-to-sign-medicare-doctor-payment-fix",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-clinton-tops-trump-by-6-points",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-clinton-wallace-winners-and-losers-from-the-final-presidential-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/from-reset-button-to-nazi-talk-hillary-the-hawk-returns",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/justice-department-charges-three-in-1-billion-medicare-fraud-scheme",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/presidential-debates-most-memorable-zingers-and-blunders",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/doug-schoen-trump-hillary-and-the-forgotten-swing-vote-seniors",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/health/family-doctors-dont-always-screen-smokers-for-lung-cancer",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-panel-adopts-budget-but-gop-divisions-remain",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2016/07/26/grayson-ex-wife-accuses-him-long-running-domestic-abuse.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/double-digit-obamacare-premium-hikes-projected-in-2017",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/judge-dismisses-fine-against-new-jersey-homeowner-who-flew-trump-flags",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-kaine-face-flip-flop-questions-after-nomination",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/dr-marc-siegel-how-would-your-health-care-change-under-a-trump-or-clinton-presidency",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-sanders-teams-wrangle-at-democratic-platform-meeting-over-tpp-health-care-minimum-wage",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/us/aging-nuns-their-orders-no-longer-able-to-provide-care-get-care-at-jewish-nursing-home",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/science/young-ceo-of-biotech-company-just-got-barred-from-running-labs-for-2-years",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/shovel-ready-team-obama-sees-islamist-threat-as-jobs-problem",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-warns-hillary-i-havent-made-up-my-mind",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/karl-rove-trump-clinton-must-now-confront-violence-grief-gripping-america",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/health-insurer-aetna-backs-off-obamacare-expansion-plans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/health/new-peak-for-us-health-care-spending-10345-per-person",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-poised-to-veto-9-11-bill-and-could-face-first-successful-override",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-plots-big-tv-ad-blitz-that-could-change-campaign-landscape",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/thought-police-firms-must-swear-obamacare-not-a-factor-in-firings",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-fix-is-in-dems-push-obamacare-remedies",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/new-caveat-on-obama-pledge-pay-to-keep-your-doctor",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-benefits-breakdown",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/virginia-squeaker-sends-shivers-through-dems",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/is-the-press-pushing-hillarys-argument-that-trump-is-dangerous",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/can-obama-scare-supporters-to-the-polls",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-premium-hikes-fuel-trump-gop-case-in-key-swing-states",
+            "bias": "medicare"
+        },
+        {
+            "link": "http://www.foxnews.com/opinion/2016/06/09/why-is-donald-trump-successful-because-unlike-most-republicans-fights-back.html#&_intcmp=ob_article_footer_text",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/big-fat-greek-fiscal-crisis-likely-to-fuel-washington-debt-wars",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/uninsured-shun-obamacare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wonk-around-the-clock-why-hillarys-bureaucratic-approach-isnt-exciting-democrats",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/why-trumps-trade-tirade-at-odds-with-the-gop-could-win-working-class-votes",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-to-reduce-workforce-by-2-million-jobs-worth-of-hours-cbo-says",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-hillary-files-juicy-details-from-friends-diary",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/peace-prize-winner-to-explain-bombing-campaign-in-seventh-muslim-nation",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/health/company-offers-patients-cheaper-way-to-obtain-prescription-drugs",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/06/05/desperation-drove-obama-stumble-on-bergdahl/",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/block-your-cellphone-number-from-caller-id-with-this-one-trick",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/frightful-poll-sends-dems-screaming",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/americans-for-prosperity-hits-landrieu-with-iraq-vet-obamacare-victim",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/schumer-steps-up-as-the-head-of-the-hillary-caucus",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/endangered-dems-push-iraq-escalation",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/rubio-makes-case-for-obamacare-bailout-blockade",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/faltering-obama-revs-up-attacks",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-to-reid-you-and-mitch-work-it-out",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/how-low-can-he-go-bad-numbers-could-doom-obamacare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/putin-defies-obama-in-power-play",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obamacare-damage-control",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-blindsided-by-ryan-now-open-to-change-on-minimum-wage",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/grimes-escalates-obama-bashing-ahead-of-hillary-visit",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-makes-biggest-ad-buy-to-date-hammers-clinton-on-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-shows-flexibility-on-taxes-minimum-wage-in-turn-toward-november",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-administration-confirms-double-digit-premium-hikes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/the-one-and-only-thing-to-consider-when-you-vote-for-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/florida-school-ends-nations-last-tackle-powder-puff-football-game",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-reaches-out-to-sanders-supporters-in-acceptance-speech",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/liz-weston-a-president-cant-fix-your-finances",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-campaign-scrambles-to-defend-rust-belt-against-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/giuliani-says-trumps-comments-on-women-wrong-but-that-hes-still-best-choice-for-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/clinton-defeats-sanders-in-dc-primary-candidates-meet",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/teacher-suspended-over-test-questions-about-drugs-guns",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/tom-hayden-famed-1960s-anti-war-activist-dies-at-76",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-americans-superdelegates-must-take-a-hard-look-at-ig-report-on-clinton-emails",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/volvos-ethanol-powered-electric-car",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-receives-rousing-welcome-from-audience-on-late-show",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2016-ram-1500-rebel-test-drive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wikileaks-hacked-emails-reveal-more-about-clintons-once-private-wall-street-speeches",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/after-trumps-rnc-speech-hillary-and-her-party-should-be-running-scared",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-two-conventions-two-realities-and-a-jarring-contrast",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/business-empress-now-super-surrogate-can-ivanka-trump-be-dads-deal-closer",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-stop-spending-to-oust-rubio-in-florida-as-path-to-senate-takeover-gets-rockier",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/cars-made-in-brazil-are-deadly",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/podesta-takes-swipe-at-assange-as-his-wikileaks-continues-to-release-hacked-podesta-emails",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/teacher-resigns-after-reading-students-book-about-gay-couple",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2011-bugatti-veyron-super-sport",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/production-of-worlds-oldest-new-car-halted",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/cal-thomas-this-wont-be-the-end-of-the-revelations-about-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-bid-to-beat-bibi-backfires",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/lifestyle/ram-might-finally-take-on-the-chevrolet-suburban-with-a-full-size-body-on-frame-suv",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/video-shows-maryland-teacher-using-belt-to-discipline-students",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/five-famous-tv-dad-cars",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2015-chevrolet-ss-test-drive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/what-donald-trump-knows-about-hillary-clinton-and-her-bodyguards",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/us-adds-a-robust-255000-jobs-unemployment-stays-4-9-percent",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/kansas-public-school-removes-jesus-picture-after-group-complains",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/health/florida-boy-attempts-suicide-at-school",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/health/iraqi-children-face-high-rates-of-death-and-disability",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/in-panning-trump-onomics-clinton-also-trashed-the-policies-of-jfk",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/no-wonder-dems-want-to-stop-talking-about-isis",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/rights-groups-seek-us-sanctuary-for-bangladeshi-writers-in-urgent-danger-of-extremist-attack",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/ex-texas-cop-who-threw-teen-to-ground-at-pool-party-will-not-be-charged",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/2011-hyundai-equus",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/illinois-state-lawmaker-files-legislation-to-remove-chicago-mayor-emanuel",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/auto/hands-off-2017-mercedes-benz-e300-test-drive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/boehner-makes-opening-move-in-shutdown-chess-match",
+            "bias": "middle class"
+        }
+    ],
+    "Year": 2016
+}

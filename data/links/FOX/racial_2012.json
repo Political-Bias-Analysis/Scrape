@@ -1,0 +1,24 @@
+{
+    "Biases": [
+        "racial", "racial discrimination", "BLM", "CRT", "white privilege"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/2012/10/17/tight-nevada-senate-race-may-hinge-on-voter-turnout-for-presidential-race.html",
+            "bias": "racial"
+        },
+        {
+            "link": "http://www.foxnews.com/transcript/2012/11/02/bill-oreilly-new-fox-news-poll-presidential-election/",
+            "bias": "racial"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2012/07/26/political-parties-turn-to-independent-voters-for-edge-in-november/",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2012/05/04/interior-designer-to-retake-stand-at-edwards-trial/?test=latestnews",
+            "bias": "CRT"
+        }
+    ],
+    "Year": 2012
+}

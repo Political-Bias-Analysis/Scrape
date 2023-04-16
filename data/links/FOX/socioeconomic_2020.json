@@ -1,0 +1,1180 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "medicare",
+        "middle class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/white-working-class-job-prospects-climb-trump-economy",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/whats-up-with-trump-and-the-hispanic-vote",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/a-virus-that-found-our-political-weak-spot",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/labor-sec-scalia-us-in-a-much-better-economic-place-than-predicted",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/health/teens-with-overbearing-parents-struggle-with-social-relationships-in-adult-life-study-finds",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/media/ted-cruz-texas-2020-battleground-media-claims",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kweisi-mfume-maryland-congressman-kim-klacik-baltimore",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-most-diverse-staff-wont-release-diversity-numbers",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/media/doug-collins-recusal-atlanta-da-rolfe-rayshard-brooks",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/us/coronavirus-front-lines-women-immigrants-people-of-color",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/black-lives-matter-black-fatherhood-curtis-hill",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/shelby-steele-on-goal-of-protests-over-george-floyds-death-its-about-victimhood-and-power",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/dr-martin-makary-and-victor-agbafe-telehealth-access-should-be-expanded-after-coronavirus-emergency",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/coronavirus-numbers-bias-health-care-study-sally-pipes",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/media/news-anchor-abc-news-barbara-fedida-network-couldnt-hire-white-males",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/poverty-rates-historic-low-2019",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/us/trump-makes-last-ditch-pitch-to-black-americans-in-op-ed",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-biden-election-economy-mercedes-schlapp",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/presidential-debate-trump-biden-incorporated-marsha-blackburn",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-trump-final-debate-presidential-election-hunter-biden",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/cdc-director-contradicts-trump-on-coronavirus-guidance-vaccine-timing",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kim-klacik-maryland-republican-congressional-candidate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-on-kamala-harris-im-not-sure-americans-want-someone-so-liberal",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rallies-pennsylvania-michigan-wisconsin",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/home-depot-co-founder-marcus-trump-second-term",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-2020-election-trump-supporters-love-him",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/gutfeld-on-the-san-francisco-school-board-trying-to-change-school-names-in-the-pandemic",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/rnc-speaker-kim-klacik-republican-convention",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/the-five-react-to-trump-challenging-dems-to-impeach-him-over-supreme-court-pick",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/what-to-expect-in-the-senate-over-the-next-four-days-in-amy-coney-barretts-confirmation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/biden-dismisses-reports-about-sons-business-interests-as-smear",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/gutfeld-pans-joe-bidens-play-for-the-latino-vote-in-florida",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/food-drink/celebrity-chef-jose-andres-serving-food-voting-polls",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/mike-lee-vp-debate-harris-agenda",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ohio-dem-backs-trump-after-history-party-feuds",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sen-graham-powerful-trump-ally-in-trouble-with-reelection-in-south-carolina",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/why-democrats-are-nervous-about-kim-klacik",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/missouri-voters-expand-medicaid",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/democrats-smear-amy-coney-barrett-during-confirmation-hearing",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/when-access-hollywood-week-starts-to-look-good",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/rep-rodney-davis-twitter-tries-to-censor-trump-with-fact-check-but-gets-its-facts-wrong-on-voter-fraud",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/gutfeld-on-trumps-rallies-and-bidens-seclusion",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-hits-fauci-coronavirus-prognostications-pitching-arm",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/coronavirus-shutdown-fauci-steve-hilton",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/amid-a-downpour-gop-sees-a-rainbow-in-kansas",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/new-fox-news-polls-show-trump-biden-race-tightening-in-key-states",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sen-john-kennedy-joe-biden-may-be-the-nominee-but-bernie-sanders-is-the-head-of-the-democratic-party",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/barr-george-floyd-violence-from-antifa-other-group-is-domestic-terrorism-and-will-be-treated-accordingly",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senate-power-rankings-fifty-one-derful",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/president-trump-on-decision-to-cancel-jacksonville-part-of-gop-convention-lawlessness-in-liberal-cities",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/what-problems-have-democrats-solved",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/buttigieg-dnc-dems-coalition-progressives-moderates-future-former-republicans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-billionaires-and-bolsheviks-for-biden",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/dr-richard-besser-on-covid-cases-trending-down-in-us-push-for-effective-vaccine",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kimberly-klacik-house-gop-candidate-baltimore-democrats",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/constitutional-law-expert-on-trumps-list-of-potential-supreme-court-nominees",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/media/food-pantries-feel-the-growing-burden-as-unemployment-skyrockets",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/republican-convention-uplifting-american-story-rnc-chairwoman-ronna-mcdaniel",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/white-house-looks-to-pelosi-for-stimulus-help",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/bidencare-trump-biden-socialized-medicine-sally-pipes",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/mark-levin-breaks-down-the-bernie-sanders-joe-biden-manifesto",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/baltimore-republican-viral-campaign-ad-ruinous-city",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/us/philadelphias-coronavirus-trash-filthadelphia",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dallas-city-council-slashes-overtime-budget-for-police-department",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-campaigns-in-arizona-while-biden-campaigns-in-delaware",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/lindsey-graham-announces-james-comey-will-testify-before-judiciary-committee",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democratic-convention-what-to-know",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-white-house-event-first-walter-reed",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-guest-coronavirus-virus-may-strike-teachers-unions",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sen-kennedy-says-nancy-pelosi-and-the-managerial-elite-think-theyre-more-virtuous-than-ordinary-americans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/donna-brazile-trump-falsely-accuses-obama-of-political-scandal-to-distract-us-from-his-own-many-failures",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/educator-in-pennsylvanias-poorest-town-fights-to-save-those-kids-with-school-choice",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/media/solan-police-seattle-chaz-across-country",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/portland-riots-trump-constitution-law-andrew-mccarthy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mourners-flock-to-floyd-memorial",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/us/louisville-kentucky-future-policing",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/defund-police-tried-60s-70s-failed-steve-levy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dhs-federal-law-enforcement-presence-over-july-4-weekend-to-protect-monuments-amid-fears-of-vandalism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/hunter-bidens-business-partners-feared-release-of-china-story",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/baltimore-gop-house-candidate-kimberly-klacik-on-gop-outreach-to-minority-voters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/media/thomas-sowell-mark-levin-left-ideology",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/miami-mayor-francis-suarez-on-miami-beach-prohibiting-short-term-vacation-rentals-rejects-comparison-to-wuhan",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/donald-trump-jr-blasts-joe-biden-for-50-years-of-failure",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/amy-coney-barrett-supreme-court-leslie-marshall",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/is-obama-ready-to-promote-sheriff-joe",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sen-lindsey-graham-says-the-fbi-misled-the-senate-intel-committee-about-the-steele-dossier-in-2018",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dnc-convention-james-clyburn",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/democratic-chicago-alderman-criticizes-mayor-lori-lightfoot-over-response-to-federal-law-enforcement",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-on-violence-in-liberal-cities-brainwashed-joe-biden-response-to-covid-crisis-supreme-court-rulings",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/liberals-conservatives-agree-fathers-matter-larry-elder",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/federal-law-enforcement-clash-with-rioters-in-portland",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/stephen-moores-big-idea-replace-the-income-tax-with-national-sales-tax",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/coronavirus-schools-trump-glenn-sacks",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-the-left-wants-to-use-supreme-court-to-remake-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/geraldo-rivera-slams-joe-bidens-claim-that-trump-is-first-racist-president",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/retired-navy-pilot-who-spotted-tic-tac-ufo-theres-something-out-there",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-china-spying-marco-rubio",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/coronavirus-melania-trump-support-children-families-jennifer-pickens",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/electricity-grid-trump-order-energy-security-peter-navarro",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.foxnews.com/media/jemele-hill-says-democrats-need-to-stop-obsessing-over-white-working-class-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ohio-voters-election-results-legitimate-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ohio-republicans-congress-election-2020-jim-jordan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/where-are-the-democratic-and-republican-conventions-in-2020-being-held",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ingraham-democrats-true-agenda-middle-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/andrew-yang-working-class-sees-dems-as-coastal-urban-elites-who-care-about-policing-cultural-issues",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/bernie-sanders-biden-working-class-young-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/steve-hilton-says-2020-election-about-people-vs-establishment",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/workers-2020-election-william-barber-sherrod-brown",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-edicts-put-pressure-on-pelosi-not-senate-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/biden-record-big-banks-tech-beijing-sen-josh-hawley",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/2020-election-post-office-sen-james-lankford",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-defectors-biden-chance-win-groups-leslie-marshall",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/going-to-school-on-the-politics-of-corona",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-sun-belt-warms-to-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ohio-ballot-signature-rule-upheld-election-security",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/florida-dead-voters-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-biden-presidential-debate-richard-fowler",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/reporters-notebook-107-year-old-vote-22nd-presidential-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/on-the-roster-biden-battles-trump-for-rust-belt-backers-top-general-bucks-trump-on-confederate-honors-more-trouble-for-rnc-convention-plans-michigan-district-tells-of-struggle-for-house-nope",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/tracking-the-carolina-panther",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/biden-polls-hillary-trump-still-win-doug-schoen",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kamala-harris-trumps-tax-cuts",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-pessimists-guide-to-the-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/biden-steal-2020-election-elites-democrats-miranda-devine",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-trump-clash-over-coronavirus-vaccine",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/which-way-will-the-polls-miss-this-time",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-touts-plan-that-bets-on-the-american-worker-and-targets-trump-in-minnesota-stop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-biden-tale-two-tax-plans-2020",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/presidential-election-joe-biden",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-tax-story-no-bombshell",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-power-rankings-when-trends-collide",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/9-states-to-determine-presidential-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/steve-hilton-bolton-book-trump-swamp",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-trump-not-biden-is-the-real-champion-of-the-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/karl-rove-trump-biden-working-class-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dead-people-caught-voting-in-nyc-elections-records-show-according-to-ny-post",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-ads-wisconsin-minnesota-ads-radical-left-riots",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/election-biden-trump-vote-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/republicans-democrats-control-of-house-senate-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/florida-gov-desantis-reflects-on-hurricane-sally-impact-were-relieved-to-not-have-any-fatalities",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-asks-did-joe-biden-profit-from-son-hunters-china-deals",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pennsylvania-republicans-democrats-voter-registration",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/auchincloss-wins-dem-primary-massachusetts-beats-progressive",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-convention-delegates-push-back",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rallying-minnesota-labor-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/children-2020-election-good-citizenship-paul-batura",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mounting-concerns-about-postal-slowdown-and-elections",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-sanders-progressives-biden",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-2020-election-biden-win-age-of-oligarcy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-case-reelection-america-voters-biden-liz-peek",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/2020-election-lesson-liberal-mega-rich-politicians-victor-davis-hanson",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/victor-davis-hanson-trump-must-make-election-about-class-not-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hialeah-florida-cubans-trump-republicans",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/as-clock-ticks-mcconnell-accuses-dems-of-sabotage",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-union-clean-energy-2020-presidential",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-record-august-fundraising-convention",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/bidens-policies-push-into-deep-depression-tom-del-beccaro-steve-moore",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/us/vanderbilt-quiz-constitution-white-supremacy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mail-in-voting-group-potentially-misleading-ballot-applications",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/vice-presidential-debate-pence-harris-top-five-moments",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-struggle-to-mobilize-college-voters-with-remote-classes-covid-restrictions",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/what-to-watch-for-at-the-first-trump-biden-presidential-debate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-say-bloomberg-not-helping-2020-campaign-as-much-as-promised-report",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-supporters-progressives-journalists-trash-biden-harris-ticket",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pelosi-mnuchin-try-to-jam-senate-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/trump-trauma-how-the-media-blew-it-once-again",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-pushes-populist-made-in-america-plan-to-pump-up-economy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-third-time-charm-presidency",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-why-silicon-valley-is-doing-all-it-can-to-help-the-biden-harris-ticket",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-dems-hoped-covid-19-would-fix-what-impeachment-couldnt",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/lara-trump-on-strategy-for-final-stretch-of-campaign-kate-bedingfield-on-civil-unrests-impact-on-race-for-white-house",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-scranton-pennsylvania-election-morning-stop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kamala-harris-honored-joe-biden-running-mate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/dems-coronavirus-medicare-for-all-sally-pipes",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-trump-seniors-expendable-virtually-nobody",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/michael-moore-progressives-biden-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/health/hospitals-medicare-patients-cost-coronavirus",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rep-kevin-mccarthy-sen-tim-scott-on-house-emergency-usps-bill-goals-for-republican-national-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/warren-medicare-for-all-pivot-biden-running-mate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/election-trump-hitting-biden-social-security-medicare-flip-flops",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/competing-claims-over-bill-to-address-looming-social-security-medicare-insolvency-in-gop-coronavirus-package",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-vp-hopeful-bass-regrets-past-castro-comment",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/amid-some-dissent-democrats-adopt-party-platform",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-biden-truth-health-care-nicole-saphier",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/top-5-moments-of-the-first-presidential-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/rnc-spends-9-million-for-battlegrounds-in-final-tv-advertising-push-on-healthcare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-says-dems-dont-know-how-to-unite-as-party-set-to-kick-off-2020-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/over-1000-democratic-delegates-voted-against-party-platform",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/jo-jorgensen-big-idea-market-based-health-care-system",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/odni-to-offer-election-security-briefings-for-both-parties-in-run-up-to-november",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-aoc-alliance-puts-stamp-in-democratic-convention-platform",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-signal-plans-to-target-filibuster-if-they-take-back-senate-as-gop-embraces-campaign-issue",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ilhan-omar-trump-effed-around-minnesota",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/pence-vp-debate-harris-president-liz-peek",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/whats-in-the-biden-sanders-unity-platform",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kamala-harris-drift-left-gop-target-radical",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/debbie-dingells-big-idea-dethrone-iowa-new-hampshire-as-first-presidential-primary-states",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/media/seema-verma-andrew-cuomo-nursing-home-deaths",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-campaign-bernie-supporters-dnc-drop-proposals",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/tammy-baldwin-5-things-to-know",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/progressive-candidates-surge-new-york-congressional-primaries",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/progressive-pac-biden-ambitious-policies-pledges-party-unity",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/joe-biden-kamala-harris-mike-huckabee",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-slams-trump-health-care-progressives",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-launches-final-55-million-ad-blitz-in-final-stretch",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/media/biden-campaign-animal-crossings-presence-pokemon",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-backs-down-on-payroll-tax-cut",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/john-hickenlooper-a-look-at-the-dem-candidate-expected-to-flip-colorados-senate-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/after-swearing-off-top-dollar-fundraiser-warren-to-hold-one-for-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-kamala-harris-pelosi-blunder-liz-peek",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-vs-bidens-health-care-plans-where-do-the-candidates-stand",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bidencare-trump-biden-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/aoc-says-trumps-premature-claims-of-victory-are-illegitimate-dangerous-and-authoritarian",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/house-speaker-nancy-pelosi-slams-trumps-executive-order-as-an-illusion",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/three-former-astronauts-endorse-sen-martha-mcsally-over-challenger-mark-kelly",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/obamacare-trump-amy-coney-barrett-sally-pipes",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/media/kamala-harris-laughs-when-asked-if-she-has-socialist-perspective",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-biden-sane-person-vote-trump-liz-peek",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/kevin-mccarthy-republicans-house-blueprint",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/left-fearmongering-over-covid-despite-new-data",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rally-florida-coronavirus-treatment-positive",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-bernie-sanders-beat-the-socialist",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/all-the-times-kamala-harris-criticized-joe-biden-during-the-democratic-primary",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pelosi-barrett-illegitimate-supreme-court-justice",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-pushes-back-against-ties-to-bernie-sanders-i-beat-him-by-a-whole-hell-of-a-lot",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-to-sign-coronavirus-relief-executive-orders-saturday-to-help-unemployed-americans-renters",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-policy-convention-speakers-trump",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pelosi-on-fox-news-sunday",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/media/joe-biden-media-scrutiny",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/stephen-miller-nationwide-catch-and-release-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sanders-america-threatened-by-authoritarianism-dnc",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/mcconnell-about-time-to-discuss-scotus-nominee-instead-of-process",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sarah-sanders-vicious-attacks-on-amy-coney-barrett-show-what-democrats-think-of-women",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/democratic-convention-scorecard-arnon-mishkin",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/despite-trumps-wishful-thinking-the-left-is-standing-with-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-sanders-eyeing-potential-biden-cabinet-role-report",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/shaheen-turns-down-offer-to-be-vetted-as-bidens-running-mate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/judge-jeanine-the-undoing-of-america-can-only-happen-from-within",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ohio-steve-chabot-kate-schroder-squad-house-race-1st-district",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/pelosi-teases-using-25th-amendment-after-trump-covid-19-diagnosis",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/kamala-harris-mike-pence-adriana-cohen",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senate-intel-chief-out-after-feds-raid-home",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/joe-biden-kamala-harris-ronna-mcdaniel",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rnc-trail-biden-may-fundraising-maintain-cash-advantage",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/progressives-including-squad-release-agenda-to-push-a-biden-adminstration-left",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democratic-convention-unity-bernie-sanders-supporters",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cruz-accuses-democrats-of-coordinated-effort-to-keep-schools-businesses-closed-to-hurt-trump",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-touts-fracking-policy-in-pennsylvania-rally-says-dems-hate-fracking",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaign-re-launches-ads-with-a-focus-on-critical-early-voting-states",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-democrats-coronavirus-steal-election-rnc-remarks",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-biden-issue-final-twitter-attacks",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-plans-addressing-issues-from-climate-to-elder-care-approach-10-trillion-price-tag",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/democratic-party-left-me-leo-terrell",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaign-biden-rally-toledo-ohio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/presenting-your-presidential-power-rankings",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-argues-trump-policies-fueled-coronavirus-economic-disaster",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaign-bullish-post-convention-polls-battleground-states",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-adviser-calls-nbc-town-hall-brazen-display-of-media-duplicity",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ted-cruz-speaks-out-against-imprisoned-felons-voting-uses-charles-mason-to-make-case",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cotton-says-gop-will-gain-credibility-at-convention-by-standing-up-against-these-rioters?cmpid=prn_newsstand",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-passes-postal-service-funding-bill",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/lawrence-jones-we-need-the-media-to-challenge-biden-on-his-policies",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/pro-biden-super-pac-launches-10-million-ad-blitz",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-launches-general-election-ad-blitz",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/ingraham-biden-family-get-rich-quick-schemes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/the-atlantic-dnc-blind-spot-economic-message",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-backing-jeff-flake-calls-trump-an-embarrassment-slams-election-rigging-claims",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-biden-bank-on-job-recovery-plan-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/social-media-backlash-facebook-twitter-hunter-biden",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-2-trillion-boost-clean-energy-rebuild-infrastructure",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/vice-presidential-debate-both-trump-biden-campaign-claim-victory-after-pence-harris-showdown",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/biden-trump-hold-dueling-rallies-in-unlikely-battleground",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaign-asymmetrical-covid-lockdowns",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-north-carolina-rally-jam-packed-saturday",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nations-largest-union-organization-backs-biden",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/media/cultural-chasm-why-the-election-hinges-on-financial-victims-of-the-virus",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/peter-navarro-on-what-to-expect-from-the-economy-this-fall",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/christian-whiton-trumps-reelection-prospects-7-reasons-why-hell-likely-see-a-second-term",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/kamala-harris-caught-on-hot-mic-checking-rally-location-are-we-in-cleveland",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-attack-amy-coney-barrett-sexual-preference-biden",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaign-biden-k-shaped-economic-recovery",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/polls-show-biden-ahead-in-traditional-gop-stronghold-arizona",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/florida-mail-voting-challenges-pandemic",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/joe-biden-has-been-caught-in-repeated-lies-over-biden-inc-sen-johnson",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/protest-movement-fragility-woke-victor-davis-hanson",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/hannity-the-latest-political-smear-against-president-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/joe-biden-speaks-with-jacob-blake-two-days-after-president-trump-surveyed-damage-in-kenosha",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-warns-biden-presidency-will-strip-americans-of-their-freedom",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/warren-biden-record-fundraiser",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-minnesota-duluth-visit",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/joe-biden-vote-mike-huckabee",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/steve-bannon-democrats-want-death-and-destruction",
+            "bias": "middle class"
+        }
+    ],
+    "Year": 2020
+}

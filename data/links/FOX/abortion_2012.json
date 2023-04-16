@@ -1,0 +1,16 @@
+{
+    "Biases": [
+        "abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/2012/06/16/obama-proposal-to-raise-dropout-age-falls-flat",
+            "bias": "abortion"
+        }
+    ],
+    "Year": 2012
+}

@@ -1,0 +1,56 @@
+{
+    "Biases": [
+        "racial", "racial discrimination", "BLM", "CRT", "white privilege"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/transcript/2014/06/12/all-star-panel-handicapping-house-majority-leader-horse-race/",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/11/04/gop-challenger-cory-gardner-wins-senate-seat.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/09/11/fec-moves-to-strip-unconstitutional-election-spending-rules-after-4-year-delay/",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2014/05/21/supreme-court-halts-execution-convicted-killer-in-missouri/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/10/14/supreme-court-blocks-parts-texas-abortion-law/",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/05/16/obama-sends-congratulations-to-india-modi.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2014/07/30/obama-to-sign-executive-order-to-expand-labor-rights-for-contractors/",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/us/2014/10/06/philadelphia-schools-cancel-teachers-union-contract/",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/08/02/libertarians-factor-in-key-senate-races-but-downplay-gop-spoiler-theory/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29",
+            "bias": "CRT"
+        },
+        {
+            "link": "http://www.foxnews.com/politics/2014/05/11/new-jersey-mayor-fights-feds-over-prayer-during-citizenship-ceremony.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/2014/09/10/2014-midterms-it-big-mistake-for-republicans-to-play-it-safe/?cmpid=prn_o_o",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2014/07/23/dnc-chairwoman-gets-her-facts-wrong-about-nevada-exchange-in-tv-interview/#&_intcmp=trending",
+            "bias": "CRT"
+        }
+    ],
+    "Year": 2014
+}

@@ -2,18 +2,23 @@ import json
 import pathlib
 
 def write_all_links(media_name, links):
-
-    with open(f"../../data/links/{media_name}/all_links.json", "w") as f:
+    #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+    # with open("data\links\FOX\\all_links.json", "w") as f:
+    with open("../../data/links/FOX/all_links.json", "w") as f:
         in_json = json.dumps(list(links), indent=4)
         f.write(in_json)
 
 
 def get_all_links(media_name):
+    #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+    # with open(f"data\links\{media_name}\\all_links.json") as f:
     with open(f"../../data/links/{media_name}/all_links.json") as f:
         return set(json.loads(f.read()))
 
 
 def get_links_by_year(year, main_bias, media_name):
+    #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+    # PATH = f"data\links\{media_name}\{main_bias}_{str(year)}.json"
     PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json"
 
     with open(PATH, 'r') as f:
@@ -27,6 +32,8 @@ def prepare_format(links, main_bias, year):
 def write_links_by_year(dict_links, main_bias, media_name):
 
     for year, links in dict_links.items():
+        #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+        #PATH = f"data\links\{media_name}\{main_bias}_{str(year)}.json"
         PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json"
         with open(PATH, "w") as f:
             in_json = json.dumps(prepare_format(links, main_bias, year), indent=4)
@@ -37,6 +44,8 @@ def write_more_links_by_year(dict_links, main_bias, new_bias, media_name):
 
     for year, links in dict_links.items():
         cur = None
+        #DON'T DELETE THIS COMMENT DEBORAH NEEDS THIS
+        # PATH = f"data\links\{media_name}\{main_bias}_{str(year)}.json"
         PATH = f"../../data/links/{media_name}/{main_bias}_{str(year)}.json" 
         if pathlib.Path(PATH).exists():
             with open(PATH, 'r') as f:

@@ -1,0 +1,1123 @@
+{
+    "Biases": [
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
+    ],
+    "Links": [
+        {
+            "link": "https://www.foxnews.com/politics/non-citizens-illegal-immigrants-now-may-register-to-vote-in-san-francisco-school-board-elections",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/midterm-election-voters-can-decide-abortion-marijuana-immigration-issues-12-ballot-measures-this-year",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2018/06/21/breaking-house-hammers-hard-line-immigration-bill.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/october-surprise-5-things-that-could-rock-the-midterms",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-democrats-latest-election-strategy-they-aim-to-win-by-allowing-non-citizens-to-vote",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/libby-schaaf-oaklands-anti-trump-anti-ice-mayor-facing-election-rivals-who-focus-on-local-issues",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/2018/05/13/rep-michael-mccaul-on-iran-deal-flaws-immigration-policy.html",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-voters-continue-to-prefer-a-pathway-to-citizenship",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-compromise-immigration-bill-defeated-on-house-floor",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-on-migrant-caravan-onslaught-of-illegal-aliens-represents-disgrace-to-the-dems",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sessions-defends-zero-tolerance-immigration-policy",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/what-trumps-zero-tolerance-immigration-policy-means-for-children-separated-from-families-at-border",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-avoid-sparring-with-trump-on-caravan-as-midterm-nears",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/iowa-dems-reject-partisan-fight-over-mollie-tibbetts-as-platform-opposes-enforcing-federal-immigration-laws",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/russian-national-charged-with-interfering-in-us-political-system-2018-elections",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/north-carolina-hit-with-subpoena-for-millions-of-voter-records-by-federal-officials-investigating-fraud",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/president-trump-can-solve-the-immigration-crisis-with-legislation-that-died-in-2013",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-trump-predicts-dems-will-be-put-on-ice-in-november-dems-in-dissension-mexico-elects-messiah",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/may-day-protests-focus-on-trumps-immigration-record-midterms",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-says-red-wave-needed-to-pass-immigration-bill-over-obstructing-democrats",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/oprah-campaigns-for-stacey-abrams-as-star-power-hits-the-stump-in-final-midterm-stretch",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-dems-warned-about-midterm-overconfidence-oprah-trump-battle-in-ga-trump-targets-asylum-fraud",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-midterm-elections-three-big-issues-immigration-the-economy-and-nationalism",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/number-of-illegal-immigrants-in-us-may-be-twice-whats-reported-yale-mit-study",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/illegal-immigrant-found-guilty-of-killing-kansas-mom-kidnapping-her-6-day-old-baby",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/geraldo-rivera-immigration-advocates-should-strike-a-bargain-with-trump-heres-what-i-propose",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hillary-clinton-bashes-trump-on-immigration-helsinki-summit-at-ozy-fest-in-new-york-city",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/with-him-or-against-him-trump-looms-large-over-election-day",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/cal-thomas-san-francisco-makes-it-clear-what-immigration-debate-is-all-about-votes-for-democrats",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-caravan-remarks-at-the-white-house",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-impeachment-push-emerges-as-next-dem-litmus-test",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/names-of-non-us-citizens-increasingly-found-on-voter-rolls",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/everybodys-going-to-be-watching-arizonas-2nd-congressional-district-on-the-border-as-immigration-issues-heat-up",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/man-with-long-immigration-record-is-charged-with-killings",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-tibbetts-slaying-becomes-immigration-debate-lightning-rod-trump-in-legal-peril-after-cohen-deal",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/border-apprehensions-have-jumped-in-2018-u-s",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/election-cast-as-referendum-on-trump-as-democrats-win-house",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/illegal-immigrant-accused-of-raping-impregnating-non-verbal-13-year-old-girl",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/google-facebook-and-twitter-staffs-splurge-on-democrats-ahead-of-midterms",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/immigration-agency-jail-freed-man-later-charged-with-murder",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-if-republicans-want-to-defeat-democrats-in-2018-they-must-do-this",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/the-2018-midterms-matter-dont-let-others-determine-the-outcome-for-you",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/house-gop-passes-subsidy-packed-farm-bill-tightening-food-stamp-rules-and-work-requirements",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-get-illegal-immigrants-out-of-americas-front-lawn",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/mexican-citizen-pleads-guilty-to-voter-fraud-in-texas",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-slams-dems-after-viral-photo-of-children-in-cages-from-obamas-term-backfires",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wisconsin-democrat-who-refused-to-resign-amid-sexual-misconduct-accusations-loses-primary",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-calls-us-immigration-laws-the-dumbest-anywhere-in-the-world",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/daniel-henninger-the-october-surprise-arrives",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-calling-for-ice-to-be-abolished-include-kirsten-gillibrand-elizabeth-warren-and-others",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-holds-arizona-rally-in-hopes-of-giving-gop-hopefuls-edge",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/texas-democrats-under-investigation-after-sending-applications-with-citizenship-box-pre-checked-to-non-citizens",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/2018/07/17/is-2018-really-all-about-russia.html?utm_source=dlvr.it&utm_medium=facebook",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/philadelphia-terminates-ice-contract-after-activists-storm-city-hall-dhs-rips-misguided-move",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/john-fund-why-did-trump-retreat-on-immigration-its-all-about-the-november-elections",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/american-victims-of-illegal-immigrant-crimes",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/laura-ingraham-republicans-must-unite-over-lawlessness-at-the-border",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/backlash-against-border-policy-grows-but-furor-could-help-trump-in-midterms",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/san-francisco-spends-about-6326-for-each-non-citizen-voter-to-sign-up-for-local-election-report-says",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/lisa-boothe-migrant-caravan-is-a-political-gift-to-trump",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/democrats-fear-call-to-shame-trump-admin-officials-will-cost-votes-in-midterms-report",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-trump-uses-obamas-words-to-justify-immigration-policy-dems-face-pelosi-midterm-power-struggle",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-who-drafted-bill-to-abolish-ice-now-say-theyll-vote-against-it",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ted-cruz-beto-orourke-clash-in-first-debate-over-trump-immigration-and-the-supreme-court",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/supreme-court-upholds-trump-travel-ban-on-some-muslim-majority-nations",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/19-foreign-nationals-charged-with-illegal-voting-during-2016-election",
+            "bias": "immigration"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/georgia-dem-gubernatorial-nominee-says-blue-wave-will-include-undocumented-immigrants",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-on-the-fallout-from-justice-kavanaughs-confirmation",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/suspicious-devices-sent-to-prominent-political-figures",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/georgia-governor-candidate-vows-to-round-up-criminal-illegals-with-own-truck-if-necessary",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cynthia-nixon-on-getting-single-payer-health-care-in-new-york-pass-it-and-then-figure-out-how-to-fund-it",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/us/farm-that-hired-cristhian-rivera-mollie-tibbetts-suspected-killer-did-not-use-e-verify-system-official-says",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/new-york-gov-cuomo-pardons-illegal-immigrants-facing-deportation-for-crimes",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/mccarthy-mueller-is-pursuing-obstruction-case-against-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/breaking-ig-report-says-comey-broke-protocol",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/us/texas-officer-arrested-for-allegedly-sexually-assaulting-4-year-old-girl-threatening-mom-with-deportation",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/cruz-orourke-rallying-latino-voters-in-lone-star-state",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/ex-rep-michael-grimm-says-its-a-no-win-situation-for-trump-when-endorsing-congressional-hopefuls",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/unity-for-thee-but-not-for-we",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/brettkavanaugh5thingstoknow",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/california-craziness-congress-may-have-to-stop-state-from-giving-free-health-care-to-illegal-immigrants",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/what-is-daca-and-what-does-the-trump-administration-want-to-do-with-it",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/voter-fraud-exists-even-though-many-in-the-media-claim-it-doesnt",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/crying-migrant-girl-on-time-magazine-cover-was-not-separated-from-mother-family-says",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/laura-ingraham-media-rolls-out-red-carpet-for-invading-horde-i-mean-caravan",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/gop-senate-candidate-america-needs-a-border-wall-and-an-immigration-policy-to-protect-americans",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/what-can-us-do-to-stop-migrant-caravans",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/oregon-voters-will-decide-fate-of-states-controversial-sanctuary-law",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/kellyanne-conway-cnns-bombshell-report-is-just-a-bomb",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/gen-stanley-mcchrystal-on-what-makes-effective-leaders",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trumps-supreme-court-candidates-meet-the-potential-nominees",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trumps-threat-to-use-military-to-close-our-southern-border-is-a-smart-move",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/harmeet-dhillon-lanny-davis-sold-out-michael-cohen",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-cites-2005-obama-remarks-to-support-immigration-policy",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/donna-brazile-on-nancy-pelosis-bold-prediction",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/media-take-trumps-animals-remark-out-of-context",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/why-newt-gingrich-says-caravan-is-an-attack-on-america",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/dna-test-reveals-sen-elizabeth-warren-could-be-1-1024th-native-american",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-sanders-political-group-sees-2nd-departure-sparking-concerns-about-racial-tensions",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/whats-a-sanctuary-church-a-look-at-the-policy-and-its-legality-in-us",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/doj-watchdog-james-comey-broke-protocol-in-clinton-probe",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/is-there-room-for-interpretation-in-the-14th-amendment",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/us/florida-businessman-targeted-as-predator-for-renting-office-space-to-ice",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/john-mccains-political-accomplishments",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/caravan-clash-press-accusing-president-of-fear-and-falsehoods",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/rep-ken-calvert-california-democrats-take-hypocrisy-to-new-heights-in-stance-on-sanctuary-laws-and-national-guard",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/dont-abolish-ice-restructure-and-rebrand-it",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-should-fix-our-immigration-system-not-spread-fear-of-immigrants",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/im-a-democrat-and-im-sticking-with-my-party-heres-why",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-the-caravan-is-an-attack-on-america-stop-the-caravan-now",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/progressives-want-to-use-migrant-caravan-to-make-trump-and-gop-look-bad-before-midterm-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/post-maria-puerto-rican-migration-could-impact-key-florida-races",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-calls-troop-deployment-to-border-a-political-stunt",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/republican-and-democratic-outlook-in-november-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-administration-cuts-refugee-admissions-to-30000",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/secret-donors-helped-finance-trump-dossier-team-research-after-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/google-is-threat-to-the-republic-says-trump-campaign-manager",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/no-im-not-over-it-hillary-clinton-jabs-trump-shows-off-russian-hat-at-yale-class-day",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dhs-secretary-nielsen-some-caravan-migrants-come-from-middle-east",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-threatens-border-shutdown-ahead-of-migrant-caravan",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/congress-bound-minnesotas-ilhan-omar-enjoys-another-first",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-trump-accuses-dems-of-welcoming-caravan-before-midterms-rosie-odonnell-wants-troops-to-oust-trump",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rudy-giuliani-takes-aim-at-michael-cohens-credibility",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/scalise-violence-isnt-the-answer-to-political-differences-mike-rowe-on-whats-great-about-america",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/primaries-bring-good-news-for-trump-and-republicans-bad-news-for-divided-democrats",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/greg-gutfeld-on-the-link-between-language-and-violence",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-mocks-controversies-over-clinton-emails-migrant-caravan-in-fiery-final-midterm-campaign-swing",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-appears-in-lebanon-ohio-for-make-america-great-again-rally",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/turkish-elections-sunday-will-create-a-problem-for-the-world-a-re-elected-president-erdogan",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/west-virginia-trump-democrat-congressional-hopeful-threatened-republican-delegate-on-facebook-messenger",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/state-of-the-midterms-republican-john-james-cuts-sen-stabenows-lead-in-half-in-michigan",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-trump-warns-against-rush-to-judgment-in-missing-activist-case-pocahontas-kin-to-warren-apologize",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/laura-ingraham-googles-global-titans-vs-the-american-people",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/jason-kander-withdraws-from-kansas-city-mayoral-race-to-focus-on-treating-depression-ptsd",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/google-bosses-upset-over-trump-election-victory-leaked-video-shows",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/mcsally-sinema-is-in-the-liberal-witness-protection-program",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/synagogue-suspect-at-courthouse-survivors-recall-ordeal",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-global-titans-vs-the-american-people",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-travel-ban-timeline-of-a-legal-journey",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/laura-ingraham-mobile-mob-highlights-democrats-tone-deafness",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/haley-says-iran-is-feeling-the-pain-from-trumps-revived-sanctions-we-are-suffocating-them",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nj-dem-menendez-lashes-out-at-bogus-lies-after-gop-opponent-revives-prostitution-allegations",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/senators-talk-of-refugee-crisis-but-divided-on-reasons-why-central-american-migrants-come-to-us",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/bernie-sanders-medicare-for-all-bill-estimated-to-cost-32-6t-new-study-says",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/pittsburgh-synagogue-massacre-leaves-11-dead-6-wounded",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/medical-group-says-many-migrants-killed-in-libya-escape",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/southern-methodist-university-hosts-the-five",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/us/somali-immigrants-find-growing-acceptance-in-minnesota",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/wave-of-vietnamese-americans-run-for-office-in-orange-county",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/brett-kavanaugh-prepares-for-senate-panels-deep-dive-into-his-career-as-dc-insider",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dem-candidate-boasts-working-for-republican-president-after-5-month-stint-as-entry-level-civil-servant-report",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-on-synagogue-attack-nationalism-and-media-bias",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-grapples-with-foreign-domestic-challenges-as-midterm-elections-near",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/impact-of-trump-border-policies-on-midterm-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dhs-secretary-nielsen-slams-irresponsible-media-says-no-policy-of-separating-families-at-the-border",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/jimmy-carter-to-beat-trump-dems-cant-scare-off-moderates-with-pivot-too-far-left",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-when-the-inmates-run-the-immigration-asylum",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "http://www.foxnews.com/us/2018/05/15/amid-conflict-jews-and-muslims-in-us-seek-solidarity.html/",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/us/ap-explains-the-migrant-caravan-at-the-us-border",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-mulls-plan-to-bar-entry-of-all-migrants-at-us-mexico-border",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/public-blames-media-trump-for-violence",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/us-military-deploying-resources-to-border-as-caravan-approaches-mattis-says",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-talks-to-keith-ellisons-accuser-do-democrats-condone-mob-tactics",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/blankenship-defends-controversial-remarks-addresses-critics",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/breaking-down-the-fallout-from-the-trump-putin-summit",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/us/india-nationals-illegally-crossing-the-us-mexico-border-in-record-numbers-pay-smugglers-up-to-25g",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/secretary-nielsen-on-synagogue-attack-pipe-bomb-arrest",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-race-to-the-bottom",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-reportedly-tossed-starburst-at-merkel-during-g-7-summit-dont-say-i-never-give-you-anything",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-says-gop-wants-strong-borders-no-chaos-and-no-caravans-at-missouri-rally",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/are-the-democrats-selling-1968-all-over-again",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/tucker-carlson-tonight-investigates-brenda-snipes",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/us/operation-faithful-patriot-1st-100-us-troops-arrive-to-serve-at-border-defense-official-says",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-sessions-never-let-himself-get-distracted-from-the-mission-at-hand-to-make-america-better",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/illegal-border-crossers-now-ineligible-for-asylum-white-house-says",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-must-stop-treating-immigrants-like-dangerous-invaders-its-time-for-a-different-approach",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/judge-jeanine-ig-report-evidence-of-deep-state-hard-at-work",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-stoking-the-right-with-sudden-focus-on-hot-button-issues",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/nunes-tightens-screws-in-his-probe-into-surveillance-abuses",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mattis-when-asked-if-troop-deployment-to-border-is-a-stunt-we-dont-do-stunts",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/nuggets-from-the-passing-parade",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/charlie-kirk-heres-why-trumps-crackdown-on-illegal-immigration-protects-all-americans",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/kellyanne-conway-on-the-booming-trump-economy",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-erupt-into-usa-chant-on-house-floor-after-hoyer-gives-fiery-anti-putin-speech",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/tucker-carlson-midterms-had-major-lessons-for-republicans-ones-they-should-pay-attention-to",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rejects-blame-for-packages-sent-to-top-dems-says-suspect-was-insane-a-long-time",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/no-free-market-conservatives-are-not-becoming-dems",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-snarks-blame-the-russians-over-slow-vote-count-in-florida-georgia",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-touts-senate-gains-compared-with-obamas-first-midterms-says-republicans-defied-history",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/mark-penn-trump-needs-to-be-a-unifier-now-to-succeed-move-on-to-successful-re-election",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ex-sailor-pardoned-by-trump-reacts-to-new-clinton-probe-documents",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-gives-eleventh-hour-endorsement-to-new-jersey-gop-senate-candidate-bob-hugin",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/salena-zito-trumps-election-in-2016-was-no-fluke-and-americas-political-experts-still-dont-get-it",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/sen-graham-allegation-against-kavanaugh-is-collapsing",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/steve-bannon-on-nato-trump-is-saying-no-more-games",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hungarys-pro-trump-populist-government-pushes-soros-crackdown",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/what-the-virtue-signaling-liberal-media-cannot-understand-about-trump",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://foxnews.com/politics/trump-defends-midterm-results-praises-pelosi-calls-cnn-reporter-terrible",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/trump-at-un-elites-may-laugh-but-americans-can-see-through-the-globaloney",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/us/un-rights-chief-vowed-us-cuts-wouldnt-be-fatal-to-office",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/the-mooch-on-trumps-truth-telling",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/mainstream-media-hysterics-over-helsinki-meeting",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rips-macron-after-landing-in-france-over-insulting-call-for-european-army",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-critics-escalate-rhetoric-after-week-of-horrible-violence",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/laura-ingraham-anatomy-of-a-freak-out",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/john-mccain-to-discontinue-medical-treatment-for-brain-cancer",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/dr-zuhdi-jasser-on-terror-threats-facing-the-united-states",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rep-trey-gowdy-on-dems-behavior-at-kavanaugh-hearings",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-tests-the-turning-radius-on-the-ship-of-state",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/todd-starnes-air-force-general-is-attacked-by-extremist-group-because-he-prays-for-others",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/amid-cancer-treatment-mccain-exercised-significant-political-clout-from-afar",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/steyer-compares-trump-to-some-of-the-worst-tyrants-on-earth-including-saddam-hussein-in-new-ad",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/change-the-rules-why-the-left-is-slamming-the-senate-and-electoral-college",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.foxnews.com/us/congress-heads-toward-postelection-fight-over-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-praises-big-night-after-favored-candidates-win-primaries",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/tech/microsoft-foils-hacking-attempt-on-2018-election-candidates",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-trump-to-use-as-many-troops-as-necessary-to-stop-caravan-missing-wis-girl-search-expanding",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/breaking-house-hammers-hard-line-immigration-bill",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/hurricane-michael-derails-florida-campaigns-before-midterm-elections",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-campaigns-for-troy-balderson-in-ohio-says-rival-is-a-pelosi-puppet-and-a-vote-for-open-borders",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/republican-senate-candidates-sound-off-ahead-of-the-midterms",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/republican-victories-in-2018-midterms-are-a-sure-bet-if-they-play-to-win-like-trump-did",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-signs-executive-order-to-impose-sanctions-against-any-election-interference",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dems-house-takeover-sets-up-series-of-legislative-showdowns-but-compromise-possible-on-flashpoints-like-border-wall-trade",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/john-bolton-on-maduro-assassination-attempt-russian-election-meddling",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-new-poll-suggests-midterm-blue-wave-hopes-may-be-going-bust-u-s-bound-migrant-caravan-grows",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mccarthy-to-introduce-bill-to-fully-fund-trumps-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-at-north-carolina-rally-after-mail-bomb-arrest-decries-divisiveness-and-medias-role-in-it",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/us/canadians-could-be-banned-from-the-us-forever-if-they-smoke-legal-pot",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-and-trump-hope-dems-wont-notch-historic-ohio-upset-as-races-wind-down-in-5-states",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-threatens-to-torpedo-august-recess-keeping-vulnerable-dems-off-campaign-trail",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/us/mattis-expected-to-send-hundreds-of-troops-to-border",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/putnam-desantis-spar-over-trump-support-shootings-in-fox-news-gop-debate-in-florida",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/florida-voting-rights-of-more-than-1-million-felons-restored",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/science/us-mexico-border-wall-will-damage-wildlife-scientists-warn",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/graham-kavanaugh-and-the-caravan-have-united-republicans",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/mitt-romney-triumphs-in-utah-senate-primary-runoff-in-latest-win-for-trump-backed-candidate",
+            "bias": "border"
+        },
+        {
+            "link": "https://foxnews.com/politics/trump-on-the-ballot-as-midterm-elections-turn-on-presidents-record-influence",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/dem-gavin-newsom-elected-california-governor-fox-projects",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-rallies-for-florida-republicans-says-dems-are-wielding-a-giant-wrecking-ball",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trump-at-vegas-rally-calls-for-border-wall-urges-voters-to-keep-america-great",
+            "bias": "border"
+        },
+        {
+            "link": "https://foxnews.com/opinion/election-day-is-finally-here-president-trump-needs-your-support",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/arizona-election-officials-work-to-fix-problems-with-voting-machines-on-primary-day",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-a-proposed-republican-pledge-on-health-care",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/us-opens-embassy-in-jerusalem-recognizing-city-as-true-capital-of-israel",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/newt-gingrich-trump-and-republicans-must-do-this-or-the-left-may-just-get-the-blue-wave-they-are-hoping-for",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/obama-tells-voters-to-remember-who-started-economic-recovery-at-nevada-rally",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/abolish-ice-sees-little-support-among-democrats-despite-left-wing-push-poll-finds",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.foxnews.com/us/fox-news-first-mueller-tells-trumps-team-that-subpoena-is-possible-states-sue-to-end-daca",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/the-biggest-media-bias",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/beto-orourke-ted-cruz-make-last-minute-appeal-to-texas-voters",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/freedom-caucus-tries-to-put-ryan-out-to-pasture",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/where-does-president-trumps-relationship-with-russia-and-putin-stand",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/gop-moderates-bid-to-force-daca-vote-falls-2-signatures-short",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/what-will-voters-make-of-the-economy-as-they-hit-the-polls",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/defiant-pelosi-says-shes-staying-i-can-take-the-heat",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/fox-news-poll-democrats-gain-in-congressional-vote-test",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/trumps-birthright-citizenship-interview-sparks-the-media-reaction-he-wanted",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/rep-trey-gowdy-on-the-doj-inspector-generals-findings",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/ingraham-prosecutors-politics-and-personal-ambition",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/kellyanne-conway-responds-to-democrats-calls-to-abolish-ice",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/joe-digenova-ig-report-is-being-scrubbed-by-rosenstein",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/reps-denham-and-duffy-on-the-gop-split-on-immigration",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/freedom-caucus-leader-meadows-says-farm-bill-not-dead",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/trump-urges-gop-to-delay-efforts-until-after-midterms",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/mary-anne-marsh-never-underestimate-nancy-pelosi",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/more-blame-a-divided-america-on-the-media-than-on-trump",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/history-at-the-capitol-rotunda-where-mccains-casket-will-lie-in-state",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/sessions-vows-emergency-supreme-court-battles-amid-outrageous-discovery-rulings-by-federal-judges",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/michelle-obama-rips-trump-in-upcoming-memoir-report",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/laura-ingraham-my-commentary-was-about-keeping-america-safe",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/steve-hilton-are-you-triggered-by-the-joyless-puritanical-xenophobic-authoritarians-of-the-left",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/steve-hilton-the-elite-embrace-selfishness-bigotry-and-hatred-of-trump-and-his-supporters",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/opinion/media-continue-demonizing-trump-blaming-him-for-motivating-violent-attackers",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/transcript/the-carolinas-brace-for-direct-impact-from-hurricane-florence",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/us/liberals-label-president-donald-trump-childrens-book-dangerous",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.foxnews.com/politics/video-verite-google-execs-rant-about-trump-and-his-extreme-voters",
+            "bias": "xenophobia"
+        }
+    ],
+    "Year": 2018
+}
