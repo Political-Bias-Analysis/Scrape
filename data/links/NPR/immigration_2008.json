@@ -1,0 +1,52 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/sections/vox-politics/2008/11/thursday_morning_bidens_birthd.html",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/10/21/95929699/krugman-on-the-financial-crisis-and-public-spending",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/01/17/18188682/barrio",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/01/17/18185299/barrio",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/01/17/18183260/barrio",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/10/30/96330333/hot-button-issues-on-ballots-color-election-2008",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/11/17/97028129/hispanic-turnout-may-spur-immigration-overhaul",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/07/01/92103248/mccain-obama-head-overseas",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/09/12/94545601/voter-registrations-could-face-legal-challenges",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/04/09/89490032/visa-legislation-delay-squeezes-seasonal-workforce",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2008/07/31/93111068/ariz-a-leader-in-efforts-to-curb-illegal-immigration",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2008
+}

@@ -1,0 +1,476 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/2022/09/20/1123928430/desantis-marthas-vineyard-migrants",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/05/1126591648/what-experts-get-wrong-about-latino-voters-myths-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/08/1116285340/new-york-migrant-bus-texas-abbott",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/20/1105966424/elise-stefaniks-defense-of-trump-around-jan-6-clouds-her-pro-democracy-work-abro",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/15/1093148912/trump-endorses-j-d-vance-wading-into-ohios-contentious-republican-senate-primary",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/20/1093529387/as-biden-plans-to-lift-title-42-democrats-want-details-on-how-hell-address-influ",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/12/20/1142808053/harris-says-congress-needs-to-lead-on-immigration-after-title-42-restrictions-en",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/12/13/1142418932/tunisians-risking-their-lives-trying-to-cross-the-mediterranean-to-europe",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/28/1139166191/dont-call-florida-a-red-state-yet-left-leaning-groups-say-their-voters-stayed-ho",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/23/1135015809/house-republicans-chair-committees-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/21/1134825428/strawberry-spain-migration-africa-work",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/15/1044234232/trump-announces-run-president-2024",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/12/1136312101/the-ahead-road-for-republicans-after-the-2022-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1134832026/texas-governor-election-results-greg-abbott-beto-orourke",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1134165064/florida-election-results-governor-ron-desantis-charlie-crist",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1135190249/farmers-lame-duck-session-immigration",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1135076892/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1135070268/mail-in-ballots-indian-child-welfare-migrants-barred-from-italy",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/08/1135015938/election-night-guide",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/07/1134832876/inflation-is-top-issue-in-this-weeks-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/07/1134832874/five-big-issues-americans-are-voting-on-this-election",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/07/1134121891/why-a-southern-california-congressional-race-hinges-on-asian-american-voters",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/03/1133902519/taking-lessons-from-2020-thousands-of-election-deniers-are-now-working-the-midte",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/03/1133741967/right-wing-groups-spend-millions-dollars-ads-anti-transgender-kids",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/03/1133561454/senate-races-control-election",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/02/1133667477/in-some-tight-house-races-asian-american-voters-could-determine-the-winner",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/02/1133477932/nevada-is-a-crucial-state-for-the-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/02/1133241231/nevada-campaigns-see-latinos-as-key-to-winning-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/02/1133169243/poll-democrats-republicans-election-midterms-voters",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/11/02/1129660076/latino-voter-issues-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/30/1132724638/political-misinformation-further-complicates-messaging-accepted-by-immigrants",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/29/1132633489/the-latest-on-brazils-contentious-presidential-run-off",
+            "bias": "immigration"
+        },
+        {
+            "links": "http://www.wbur.org/hereandnow/2022/10/27/sheriffs-election-trump",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/26/1131711218/massachusetts-could-allow-undocumented-people-to-get-drivers-licenses",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/26/1131541333/midterm-elections-pennsylvania-ohio-voters",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/24/1131190772/republican-florida-gov-ron-desantis-and-democrat-charlie-christ-debate",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/24/1130451390/midterms-biden-democrats-republicans-latino-voters",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/22/1130445425/midterm-elections-biden-dr-oz-tim-ryan-ads",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/18/1129738436/as-election-day-nears-democrats-rest-hopes-on-abortion-rights",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/19/1130031998/how-abortion-is-affecting-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/19/1129849444/val-demings-goes-on-attack-against-marco-rubio-in-florida-senate-debate",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/18/1129735934/why-biden-gave-a-speech-about-abortion-rights",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/17/1129529050/new-culture-war-cudgel-gop-ads-blame-opioid-crisis-on-migrants",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/16/1129355136/in-montana-house-race-republican-candidate-ryan-zinke-struggles-to-shake-off-tru",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/15/1129295205/how-the-democratic-party-is-deploying-vp-harris-before-the-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/13/1128624020/the-number-of-venezuelan-migrants-attempting-to-get-into-the-u-s-is-soaring",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/13/1128623943/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/11/1127573261/key-senate-races",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/09/1127728124/politics-chat-opec-deals-blow-to-bidens-hopes-of-keeping-inflation-down-before-m",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/04/1126745000/stacey-abrams-wants-to-be-more-than-just-first",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/10/06/1126935638/poll-biden-improvement-voting-midterms-2022",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/26/1125054579/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/24/1124950839/italy-braces-for-far-right-victory-in-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/24/1124915461/week-in-politics-stock-market-trump-add-to-midterm-woes-for-democrats-and-republ",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/24/1124685476/giorgia-meloni-italy-election",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/23/1124836884/italy-appears-likely-to-elect-its-most-right-wing-leader-since-world-war-ii",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/19/1123908989/one-roadblock-to-immigration-fix-gop-politicians-love-the-optics",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/18/1123644692/desantis-migrants-texas-massachusetts-marthas-vineyard-legal-questions",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/13/1122760386/its-general-election-season-live-from-texas",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/15/1123109768/migrants-sent-to-marthas-vineyard",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/12/1122308327/sweden-enters-political-limbo-after-an-anti-immigration-party-gains-in-election",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/10/1122198503/voter-sentiment-towards-democrats-is-shifting-in-the-run-up-to-the-midterm-elect",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/09/1121557573/as-republicans-struggle-in-close-senate-races-they-look-to-colorado-for-an-upset",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/08/1121535686/poll-abortion-inflation-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/04/1120904265/claims-voter-fraud-donald-trump",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/09/01/1120479578/why-biden-is-reviving-his-soul-of-the-nation-argument-for-the-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/31/1120176699/republicans-have-invested-millions-in-nonwhite-voter-outreach-ahead-of-the-midte",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/22/1118389494/top-10-us-senate-seats-pennsylvania-georgia-arizona",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/20/1118619747/week-in-politics-liz-cheney-loses-primary-trump-distracts-from-republican-races",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/18/1118271910/many-americans-falsely-think-migrants-are-bringing-most-of-the-fentanyl-entering",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/18/1118094309/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/06/1116135401/week-in-politics-job-growth-in-a-shrinking-economy",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/04/1115445768/midterm-elections-biden-trump",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/03/1115175247/talk-of-invasion-moves-from-the-fringe-to-the-mainstream-of-gop-immigration-mess",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/08/01/1115001974/the-race-for-texas-governor-between-abbott-and-orourke-ramps-up",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/07/26/1113816038/ads-from-democratic-groups-boost-the-republican-candidates-that-may-be-easier-to",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/07/23/1113166779/hispanic-and-minority-voters-are-increasingly-shifting-to-the-republican-party",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/07/18/1111768365/immigration-bill-food-prices-farmers-h-2a-visas-republicans",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/30/1108843767/thousands-of-migrants-at-the-border-will-be-affected-by-remain-in-mexico-decisio",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/30/1108843753/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/28/1108117666/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/24/1083848846/bilingual-ballots-voting-rights-act-section-203-explained",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/22/1106844115/it-didnt-end-on-january-6th-republican-election-fraud-conspiracies-persist",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/20/1106292758/rhetoric-around-ghost-flights-of-migrant-children-is-often-at-odds-with-the-fact",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/14/1104327135/nevada-governor-primary-results-sisolak-lombardo",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/07/1103569634/gop-military-veterans-are-running-for-congress-hoping-to-flip-blue-seats-red",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/07/1102668968/new-mexico-governor-primary-election-lujan-grisham-results",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/06/05/1103172335/immigrants-are-suing-the-u-s-government-over-delays-in-citizenship-process",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/25/1101016123/cuellar-cisneros-texas-28th-congressional-district-democratic-runoff-results",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/24/1100222256/9-primary-races-to-watch-tuesday-in-georgia-texas-alabama-and-arkansas",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/22/1100614934/a-house-democrats-anti-abortion-stance-could-cost-him-a-seat",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/22/1100072832/georgia-voters-gwinnett-forsyth-2022-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/20/1100327234/voters-in-forsyth-county-ga-discuss-weighing-their-choices-in-midterm-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/19/1099997260/national-politics-shape-state-elections-including-georgias-gwinnett-count",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/05/10/1098014655/macron-won-frances-presidency-but-the-votes-indicate-an-increasingly-divided-nat",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/29/1095366671/npr-pbs-newshour-marist-survey-republicans-biden-democrats-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/27/1094798190/immigration-advocates-warn-of-midterm-risks-for-democrats-if-title-42-isnt-lifte",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/26/1094864138/immigration-inflation-loom-large-as-dems-wonder-how-to-tout-wins-ahead-of-midter",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/25/1094590730/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/25/1094234568/redistricting-and-democrats-stalled-agenda-put-this-blue-arizona-house-seat-in-p",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/24/1094070784/title-42-policy-meaning",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/22/1094390305/macron-is-beating-le-pen-in-frances-polls-but-not-by-as-much-as-5-years-ago",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/22/1094248885/why-frances-presidential-election-matters-far-beyond-its-borders",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/11/1091483542/the-top-10-senate-races-that-are-most-likely-to-flip-to-the-other-party",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/08/1091769547/french-voters-will-decide-whether-to-give-macron-a-3rd-term-this-weekend",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/08/1091569017/morning-news-brief",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/04/02/1090448778/lifting-pandemic-border-restrictions-could-result-in-an-influx-of-migrants-to-u-",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/03/06/1084800700/politics-chat-state-republicans-set-agenda-with-reactive-bills-ahead-of-midterms",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/03/06/1084593495/election-year-do-nothing-congress-history",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/03/04/1084611499/january-6th-committee-says-it-has-evidence-trumps-election-efforts-broke-the-law",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/03/02/1083132197/texas-28th-district-cisneros-cuellar",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/03/01/1083228514/4-races-to-watch-in-the-texas-primary",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/02/19/1081634031/henry-cuellar-jessica-cisneros-democratic-primary-28th-district-texas",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/02/17/1081570882/oregon-governor-race-will-go-on-without-nick-kristof",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/01/31/1077078950/democratic-activists-say-biden-has-failed-to-deliver-on-immigration-promises",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/01/19/1073931133/a-year-after-mobilizing-for-biden-young-supporters-feel-let-down-on-immigration",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2022/01/06/1071069793/novak-djokovic-australian-open-immigration-detention",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2022
+}

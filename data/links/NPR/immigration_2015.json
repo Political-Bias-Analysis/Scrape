@@ -1,0 +1,48 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/sections/thetwo-way/2015/11/19/456553584/immigrants-may-impact-an-election",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/thetwo-way/2015/12/07/458773083/far-right-national-front-gains-in-french-regional-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/11/11/455577634/white-house-to-appeal-immigration-ruling-to-supreme-court",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/about-npr/399416269/npr-news-interview-with-senator-marco-rubio",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/01/30/382659284/undocumented-voting",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/12/13/459554544/france-election-results-will-play-into-three-major-issues",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/10/28/452608572/stalled-legal-process-threatens-obamas-executive-actions-on-immigration",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/12/31/461627738/immigration-activists-hope-to-maintain-momentum-for-reform",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2015/04/20/401048719/european-leaders-address-migrant-crisis-in-mediterranean",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2015/04/14/399496231/as-country-changes-rubio-republicans-try-to-adjust",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2015
+}
