@@ -1,7 +1,8 @@
 {
     "Biases": [
         "socioeconomic",
-        "poverty line"
+        "poverty line",
+        "medicare"
     ],
     "Links": [
         {
@@ -35,6 +36,10 @@
         {
             "link": "https://www.npr.org/2005/01/18/4457244/memorable-second-inaugural-speeches",
             "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/02/14/4498379/slates-politics-iraq-elections-medicare",
+            "bias": "medicare"
         }
     ],
     "Year": 2005

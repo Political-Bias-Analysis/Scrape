@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -228,6 +230,102 @@
         {
             "link": "https://www.npr.org/2017/01/06/508385203/bernie-sanders-says-trump-won-because-democrats-are-out-of-touch",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/18/571579606/morning-news-brief",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/09/569673632/despite-maduros-unpopularity-venezuela-s-opposition-isn-t-a-shoo-in-for-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/10/04/555433641/who-will-benefit-most-from-gop-tax-plan-early-report-suggests-the-wealthy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/09/28/554157358/news-brief-middle-class-miracle-unveiled-puerto-rico-in-dire-need-of-aid",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/09/27/553917902/news-brief-tax-overhaul-roy-moore-wins-in-alabama-saudi-arabia-lets-women-drive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/02/535240734/democratic-voters-roundtable-finding-a-cohesive-message-ahead-of-midterm-electio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/26/530179298/hillary-clinton-to-deliver-commencement-speech-at-wellesley-college",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2017/05/18/528748471/when-iran-heads-to-the-polls-a-stark-if-limited-choice-awaits",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/17/528730694/the-rise-of-the-internet-based-economy-shows-whats-changed-in-iran",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2017/04/17/524301351/brash-leftist-candidate-shakes-up-frances-presidential-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/08/519170619/millions-head-to-the-polls-in-indian-state-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/28/573995878/morning-news-brief",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/11/13/563735136/trump-picks-azar-to-lead-health-and-human-services",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/11/10/563029459/medicaid-expansion-takes-a-bite-out-of-medical-debt",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/11/542676994/bernie-sanders-knows-his-medicare-for-all-bill-wont-pass-thats-not-the-point",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/03/541278161/bill-moyers-on-working-with-lbj-to-pass-medicare-52-years-ago",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/24/539087963/democrats-unveil-their-economic-pitch-ahead-of-2018-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/24/539066705/democrats-better-deal-aims-to-reclaim-a-populist-image",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/02/535240706/study-no-one-issue-clearly-unites-5-groups-of-trump-voters",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/17/528769195/trumps-election-integrity-commission-could-have-a-chilling-effect-on-voting-righ",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/23/521259581/obama-america-is-stronger-because-of-the-affordable-care-act",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/02/17/515777903/president-trump-seems-determined-to-continue-the-permanent-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/12/509559718/ben-carson-trumps-pick-for-housing-agency-wont-rule-out-grants-to-trump-properti",
+            "bias": "medicare"
         }
     ],
     "Year": 2017

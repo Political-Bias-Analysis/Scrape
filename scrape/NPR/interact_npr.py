@@ -60,7 +60,7 @@ if __name__ == "__main__":
     MAIN_BIAS, EXISTS = "socioeconomic", True
     biases = ["socioeconomic", "poverty line", "working class", "middle class", "medicare"]
     
-    cur_bias = biases[2]
+    cur_bias = biases[4]
     
     all_links = get_all_links(MEDIA_NAME)
     dict_links = get_websites(cur_bias, all_links)

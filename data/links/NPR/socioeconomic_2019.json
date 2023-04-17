@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -224,6 +226,310 @@
         {
             "link": "https://www.npr.org/2019/01/16/676604096/ohio-sen-sherrod-brown-moves-closer-to-launching-2020-campaign",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/28/792022280/whats-happened-since-protests-started-in-iran",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/13/787457849/warren-doubled-down-on-medicare-for-all-as-voters-had-second-thoughts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/12/787552775/the-effects-medicare-for-all-has-had-on-elizabeth-warrens-campaign",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/09/785320977/biden-rejects-calls-for-impeachment-testimony-as-a-trump-ploy-to-divert-attentio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/20/781358673/what-to-watch-for-in-tonights-democratic-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/19/780510150/with-democratic-field-in-flux-what-to-watch-for-at-the-november-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/01/775335150/read-elizabeth-warrens-plan-to-pay-for-medicare-for-all",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/15/770511224/a-surging-warren-faces-attacks-from-more-moderate-2020-candidates",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/13/760642016/what-wisconsinites-think-of-the-democratic-presidential-candidates",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/13/750897672/elizabeth-warren-on-how-personal-struggles-inspired-her-politics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/31/747041403/10-more-candidates-face-off-on-night-2-of-2nd-democratic-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/30/746805856/the-democratic-debate-over-medicare-for-all-and-middle-class-taxes-explained",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/29/745715773/biden-promises-no-more-mr-nice-guy-in-second-democratic-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742723399/facing-pressure-in-campaign-sanders-defends-his-signature-health-care-plan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-16/yes-my-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/09/740020635/middle-class-joe-no-more-biden-earned-15-million-since-leaving-office",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/29/737059959/democratic-debate-highlights-a-big-advantage-for-trump-its-the-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/11/731370440/democratic-presidential-debates-could-reignite-warren-biden-bankruptcy-fight",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/07/710799152/ahead-of-israeli-election-netanyahu-pledges-to-annex-west-bank-settlements",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/01/708856182/a-black-woman-will-make-history-this-week-in-chicagos-mayoral-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/12/702530602/biden-speaks-to-chants-of-run-joe-run-as-2020-decision-nears",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/21/677834764/sen-kamala-harris-announces-2020-presidential-candidacy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/06/682607948/warren-kicks-off-2020-presidential-campaign-in-iowa",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/30/689863693/we-answer-the-question-what-is-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/15/770417067/what-to-watch-for-during-the-4th-democratic-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/26/745034477/the-practical-reasons-candidates-talk-about-improbable-policies",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/20/790047612/6-takeaways-from-the-6th-democratic-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/12/19/789517725/what-matters-to-health-care-voters-5-voices-from-new-hampshire",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/19/789366498/democratic-debate-what-you-need-to-know-about-thursdays-faceoff",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/10/786835341/new-hampshire-voters-share-their-views-on-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/25/782143440/president-obama-may-not-be-up-for-election-but-his-legacy-is",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/20/779792658/democratic-debate-what-you-need-to-know-about-wednesdays-face-off",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/11/13/777688384/novelist-doctor-skewers-corporate-medicine-in-mans-4th-best-hospital",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/08/774716877/just-the-right-policy-pete-buttigieg-on-his-medicare-for-all-who-want-it-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/01/775636312/democratic-candidate-divisions-on-display-at-fiery-iowa-dinner",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/22/771865563/i-am-back-how-bernie-sanders-revolution-is-proving-resilient",
+            "bias": "medicare"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/10/21/heidi-heitkamp-impeachment-inquiry",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/18/771412714/the-path-forward-for-bernie-sanders-following-his-heart-attack",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/02/766402754/bernie-sanders-has-heart-procedure-cancels-events-until-further-notice",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2019/10/01/765736947/wealth-tax-showdown",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/21/762535702/want-to-be-the-next-georgia-senator-apply-now",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/09/19/762435585/how-an-international-price-index-might-help-reduce-drug-prices",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/14/760666026/democrats-get-closer-to-serious-field-of-trump-challengers",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/13/760642110/shining-moments-and-cheap-stunts-at-the-3rd-democratic-presidential-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/12/760375754/what-is-the-filibuster-and-why-do-some-democrats-want-to-end-it",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/13/760364830/democratic-debate-exposes-deep-divides-among-candidates-over-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/12/760264377/top-contenders-share-one-stage-at-3rd-democratic-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/09/759157595/voters-in-north-carolina-to-decide-the-final-race-from-the-2018-midterms-on-tues",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/04/757645741/what-medicare-for-all-might-mean-for-jobs",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/09/03/755990796/what-would-trumpcare-look-like-follow-gops-choice-and-competition-clues",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/29/755555421/10-candidates-qualify-for-septembers-democratic-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/08/16/rural-hospitals-medicare-for-all-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/15/750944139/former-gov-john-hickenlooper-drops-presidential-bid-as-beto-orourke-recasts-his",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/31/746817460/impossible-promises-vs-small-ideas-moderates-and-progressives-clash-at-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/30/746687022/sanders-and-warren-take-the-same-stage-in-second-round-of-democratic-debates",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/21/743847254/examining-bidens-health-care-pitch",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742818954/sen-bernie-sanders-defends-his-medicare-for-all-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/12/740787105/progressive-activists-gather-hoping-to-seize-their-moment-in-2020-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/01/737761311/sen-bernie-sanders-idea-of-generational-change-is-a-pretty-superficial-argument",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/30/728387119/how-california-is-helping-shape-the-2020-presidential-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/27/726330329/former-colorado-governor-and-2020-candidate-urges-distance-from-socialism",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/21/725488534/democratic-presidential-candidate-pete-buttigieg-on-trade-military-force-and-mor",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/19/724851279/-i-ve-been-able-to-bridge-divides-says-2020-democrat-steve-bullock",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-05-16/1a-across-america-how-will-the-manufacturing-comeback-shape-the-2020-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/11/712427498/mcconnells-2020-plan-cast-gop-as-firewall-against-socialism",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/04/11/711902886/as-sanders-calls-for-medicare-for-all-a-twist-on-that-plan-gains-traction",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/22/705592811/moderate-democrats-under-pressure-as-partys-left-grabs-attention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/19/703570750/amy-klobuchar-runs-on-a-record-of-accomplishments-including-with-republicans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/02/699733858/barbershop-the-progressive-push-in-2020-presidential-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/23/697027833/are-democrats-ready-to-feel-the-bern-or-is-sanders-the-myspace-of-2020",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/10/683063237/minnesota-sen-amy-klobuchar-expected-to-launch-2020-presidential-bid",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/08/692120495/democratic-governors-pitch-pragmatism-on-sidelines-of-2020-presidential-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/01/676578945/cory-booker-makes-it-official-hes-running-for-president-in-2020",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/01/30/689930022/several-democrats-eying-a-presidential-run-embrace-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/30/689742354/run-bernie-run-n-h-progressives-divided-by-another-bernie-sanders-bid",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/21/687255705/democratic-sen-kamala-harris-enters-2020-presidential-race-with-a-call-for-unity",
+            "bias": "medicare"
         }
     ],
     "Year": 2019

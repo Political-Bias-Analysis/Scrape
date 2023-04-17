@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -140,6 +142,26 @@
         {
             "link": "https://www.npr.org/2021/04/13/986549868/top-republicans-work-to-rebrand-gop-as-party-of-working-class",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2021/06/02/1002631402/israeli-politicians-say-they-have-reached-a-deal-to-oust-netanyahu",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2021/11/29/1059861834/hondurans-are-hopeful-and-skeptical-as-votes-for-president-are-counted",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2021/11/03/1052079438/the-latest-on-the-race-for-governor-in-new-jersey",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2021/10/20/1047532206/morning-news-brief",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2021/06/13/1006067960/juneteenth-census-lawsuit-and-voting-iranian-presidential-election",
+            "bias": "medicare"
         }
     ],
     "Year": 2021

@@ -2,7 +2,8 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class"
     ],
     "Links": [
         {
@@ -12,6 +13,10 @@
         {
             "link": "https://www.npr.org/1998/10/02/1033073/brazil-election",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/1998/02/02/1027038/clinton-presents-budget",
+            "bias": "middle class"
         }
     ],
     "Year": 1998

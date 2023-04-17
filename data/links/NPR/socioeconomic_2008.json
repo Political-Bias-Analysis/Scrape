@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -728,6 +730,230 @@
         {
             "link": "https://www.npr.org/2008/01/17/18176861/democrats-woo-labor-minorities-in-nevada",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/06/96689418/gop-must-refocus-on-middle-america-editor-says",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96670568/in-conn-a-longtime-gop-congressman-ousted",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96670543/democrats-make-major-gains-in-congress",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96670531/how-obama-mapped-out-his-path-to-power",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96644812/ohios-smaller-counties-aid-in-obama-win",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/03/96487160/mccain-goes-full-out-day-before-the-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/03/96487157/obama-taking-nothing-for-granted-with-1-day-left",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/31/96403116/in-ga-gop-sen-chambliss-faces-tight-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/30/96344525/obama-adviser-explains-tax-plan-rips-palin",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/30/96344495/in-ohio-mccain-attacks-obama-on-taxes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/30/96311190/obama-hopes-to-capitalize-on-media-exposure",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/29/96284149/with-less-than-a-week-candidates-hit-trail",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/22/95965660/obama-campaigns-another-day-in-florida",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/18/95862823/obama-hammers-mccain-on-health-care",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/16/95792532/mccain-on-attack-obama-steady-at-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/16/95787092/paying-for-college-in-a-rough-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/15/95730347/candidates-spar-over-policies-negative-campaign",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/15/95730384/candidates-meet-for-final-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/15/95720360/new-hampshires-independents-empowered",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/15/95720320/economy-steals-spotlight-among-debate-issues",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/14/95702894/obama-aide-explains-democrats-plan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/13/95664778/clintons-campaign-for-obama-in-scranton",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/10/95573939/questions-and-answers-on-voting-rules",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/08/95510510/parsing-the-politics-of-main-street",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/08/95505168/obama-adviser-sees-presidential-race-opening",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/08/95501960/undecided-voters-watch-debate-in-albuquerque",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/08/95501948/mccain-obama-debate-focuses-on-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/07/95460487/obama-congress-should-help-more-families",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/03/95329901/obama-has-michigan-to-himself",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/01/95263497/on-senate-floor-obama-calls-for-bailouts-passage",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/01/95236451/obama-middle-class-needs-wall-street-rescue",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/30/95222954/what-strategies-will-biden-palin-take-in-vp-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/30/95222939/mccain-obama-urge-congress-to-act-on-bailout",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/29/95157331/biden-logs-many-miles-for-democratic-ticket",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/18/94771342/with-economy-as-focus-candidates-hit-trail",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/16/94658928/obama-vows-to-battle-credit-crisis",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/15/94640709/mccain-obama-vow-changes-amid-wall-st-woes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/09/94428402/obama-vows-to-double-charter-school-funding",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/08/94377272/womens-pay-disparity-a-growing-campaign-issue",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/05/94332526/obama-gop-convention-ignored-middle-class-woes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/04/94290420/obama-fires-back-at-palin-attacks",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/04/94266100/obama-courts-working-women-in-ohio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/04/94266074/ex-pow-mccain-has-supporters-in-vietnam",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/03/94233000/one-party-country-dissects-why-republicans-win",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/29/94118832/obama-nomination-palin-pick-cap-week-in-politics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/29/94118817/looking-at-the-5-who-wont-get-obama-tax-cut",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/29/94110630/obama-accepts-nomination-with-sweeping-speech",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/29/94077510/obamas-acceptance-pledge-fix-broken-politics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94057373/giuliani-clintons-speech-no-help-to-obama",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/27/94048033/transcript-joe-bidens-acceptance-speech",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94034751/democrats-make-historic-pick-its-obama",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/secretmoney/2008/08/new_wave_of_ads_on_union_elect.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/26/93970721/obama-hits-battleground-states-on-path-to-denver",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93954231/will-battleground-states-deliver-an-obama-win",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/15/19096640/medicare-trigger-may-bring-political-headache",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/22/93847112/plans-to-cut-health-costs-may-not-pay-off",
+            "bias": "medicare"
         }
     ],
     "Year": 2008

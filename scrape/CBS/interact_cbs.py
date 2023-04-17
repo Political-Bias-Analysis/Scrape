@@ -10,7 +10,7 @@ from ReadWriteFiles.read_write_links import *
 
 CURRENT_YEAR = 2023
 
-def get_websites(query, all_articles):
+def get_websites(bias, all_articles):
 
     driver = webdriver.Chrome()
     driver.get('https://www.cbsnews.com/#search-form:')
@@ -19,7 +19,7 @@ def get_websites(query, all_articles):
     driver.find_element(By.CLASS_NAME, "site-nav__item-anchor.site-nav__item-anchor--level-1.site-nav__item--search-link").click()
     time.sleep(2)
     
-    driver.find_element(By.CLASS_NAME, "search-field").send_keys(query)
+    driver.find_element(By.CLASS_NAME, "search-field").send_keys(f"election {bias}")
     time.sleep(1)
     
     articles = defaultdict(list)
@@ -43,7 +43,7 @@ def get_websites(query, all_articles):
         if href not in all_articles:
             date = item.find_element(By.CLASS_NAME, "item__date").text
             all_articles.add(href)
-            articles[get_year(date)].append(href)
+            articles[get_year(date)].append({"link": href, "bias": bias})
             
     return articles
                 
@@ -58,14 +58,14 @@ def get_year(date):
 
 if __name__ == "__main__":
     MEDIA_NAME = "CBS"
-    MAIN_BIAS, EXISTS = "immigration", True
+    MAIN_BIAS, EXISTS = "immigration", False
     biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
     
-    cur_bias = biases[7]
+    cur_bias = biases[0]
     
     all_links = get_all_links(MEDIA_NAME)
     
-    dict_links = get_websites(f"election {cur_bias}", all_links)
+    dict_links = get_websites(cur_bias, all_links)
     write_all_links(MEDIA_NAME, all_links)
 
     if not EXISTS:

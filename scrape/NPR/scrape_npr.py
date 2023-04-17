@@ -42,7 +42,7 @@ def scrape_npr(url, bias):
     
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = 'racial', 2018
+    MAIN_BIAS, YEAR = 'Abortion', 2014
     MEDIA_NAME = "NPR"
     
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_NAME)

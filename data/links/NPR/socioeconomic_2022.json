@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -332,6 +334,42 @@
         {
             "link": "https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/17/1142517505/tunisians-are-voting-in-an-election-critics-say-could-cement-a-return-to-autocra",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/07/1134895387/150-years-ago-victoria-woodhull-became-the-first-woman-to-run-for-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/20/1130318752/biden-returns-to-pittsburgh-pa-after-a-bridge-collapsed-there",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/2022-live-primary-election-race-results/2022/09/14/1122554421/leavitt-mowers-new-hampshire-primary",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1070849329/why-fringe-movements-now-include-middle-class-americans-with-jobs-and-families",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135619144/biden-gives-a-rare-formal-press-conference-following-the-midterms",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/06/1134608104/politics-chat-biden-focuses-on-policies-in-final-stretch-before-polls-close",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/23/1119003972/maxwell-frost-first-gen-z-candidate-wins-primary",
+            "bias": "medicare"
         }
     ],
     "Year": 2022

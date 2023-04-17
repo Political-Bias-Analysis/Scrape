@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -132,6 +134,86 @@
         {
             "link": "https://www.npr.org/2013/04/10/176757042/hugo-chavezs-legacy-looms-over-venezuelan-election",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/25/172887340/fearing-election-turmoil-kenyans-seek-a-tech-solution",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/03/173374339/kenyans-prepare-for-decisive-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/12/26/257392034/thai-government-says-it-wont-postpone-parliamentary-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/12/09/249729649/thai-prime-minister-dissolves-parliament-calls-new-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/11/25/247077050/crippled-by-sanctions-irans-economy-key-in-nuclear-deal",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/07/06/199024057/after-a-rapid-rise-a-challenge-to-political-islam",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/05/188924496/after-protests-evaluating-turkeys-role-as-a-democracy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/04/25/179042833/still-in-the-middle-class-but-standing-on-a-banana-peel",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/19/174708601/rnc-report-calls-for-community-outreach-revamped-primary-rules",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/alltechconsidered/2013/03/09/173905754/how-kenyas-high-tech-voting-nearly-lost-the-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/20/172416876/controversial-cleric-stirs-protests-upon-return-to-pakistan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2013/02/04/170842922/ed-koch-new-york-city-and-the-politics-of-resentment-and-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/23/170092293/an-israeli-political-newcomer-who-may-soon-be-an-insider",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/23/170085076/after-israels-elections-reshuffling-political-alliances",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/21/169909091/in-address-obama-highlights-equal-rights-and-governments-role",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/16/169520525/what-now-obama-leads-polarized-government-into-second-term",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/10/23/240248593/insurgent-wing-grapples-for-control-of-the-gop",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/03/08/173747689/senate-mostly-blamed-for-agency-and-court-vacancies-but-obama-isnt-helping",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/11/05/243173918/top-stories-its-election-day-new-jersey-mall-shooting",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/10/29/241577393/tuesday-political-mix-obamacare-official-in-the-batters-box",
+            "bias": "medicare"
         }
     ],
     "Year": 2013

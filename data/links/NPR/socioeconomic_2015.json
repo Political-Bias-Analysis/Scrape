@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -108,6 +110,102 @@
         {
             "link": "https://www.npr.org/2015/01/02/374511123/democrats-problem-white-working-class-voters",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/25/451643502/how-presidential-hopefuls-faired-at-iowa-democratic-partys-fundraising-dinner",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/08/455206524/one-year-until-election-day-2016-where-the-candidates-stand",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/10/459250001/pew-research-report-finds-most-americans-are-no-longer-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/02/458127671/saudi-elections-to-offer-a-small-step-toward-democracy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/19/456683688/bernie-sanders-delivers-anticipated-speech-on-democratic-socialism",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/16/456186628/the-real-debate-two-very-different-world-views-on-terrorism",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/07/26/425981961/the-2016-election-is-all-about-economics-and-anger",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/07/13/422672906/clinton-unveils-economic-plan-focusing-on-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/07/08/421151627/sanders-among-the-least-wealthy-presidential-candidates",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/06/25/417180942/sanders-my-goal-right-now-is-to-win-this-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/06/08/412942680/kurdish-party-wins-record-number-of-seats-in-turkish-parliament",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/06/03/411547757/lincoln-chafees-improbable-quest-for-the-white-house",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/04/18/400501273/omalley-possible-clinton-rival-says-a-president-cant-let-polls-lead",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2015/02/17/386876102/on-irans-streets-death-to-america-and-hope-for-a-nuclear-deal",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/02/13/385948438/political-necessity-forces-gop-into-middle-class-income-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/02/03/383454940/budget-sent-to-congress-values-middle-class-economics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/29/382463508/prosecutors-murky-death-could-impact-argentinas-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/21/378905643/rep-van-hollen-obamas-focused-on-helping-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/01/21/378788183/obama-makes-the-case-for-middle-class-economics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/01/20/378542546/obama-in-tonights-state-of-the-union-will-focus-on-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/30/461388614/8-things-congress-actually-did-this-year",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/19/456668030/bernie-sanders-explains-democratic-socialism-in-6-clips",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/18/456401100/listen-4-speeches-bernie-sanders-should-hear-before-his-socialism-address",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/10/18/449473533/puerto-ricans-vow-to-have-a-bigger-voice-in-2016-election",
+            "bias": "medicare"
         }
     ],
     "Year": 2015

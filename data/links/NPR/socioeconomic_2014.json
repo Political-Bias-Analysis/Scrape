@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -124,6 +126,38 @@
         {
             "link": "https://www.npr.org/2014/02/12/275796905/san-diego-voters-go-to-polls-to-elect-new-mayor",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2014/12/29/372537535/despite-election-defeat-obama-sees-room-to-push-his-agenda",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2014/05/24/315402720/conservatives-brainstorm-to-win-voters-in-the-middle",
+            "bias": "middle class"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2014/02/03/thailand-election-protesters",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2014/10/13/355685450/florida-governors-race-familiar-faces-big-money-brutal-ads",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2014/08/03/337071268/two-doctors-weigh-whether-to-accept-obamacare-plans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2014/04/02/298159556/ryans-budget-proposal-takes-midterm-elections-into-consideration",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2014/03/11/289211014/in-closely-watched-election-jolly-wins-in-florida",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2014/02/18/278952364/democrats-eye-long-time-gop-seat-in-florida-special-election",
+            "bias": "medicare"
         }
     ],
     "Year": 2014

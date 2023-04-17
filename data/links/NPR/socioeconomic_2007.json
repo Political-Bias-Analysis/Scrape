@@ -2,7 +2,8 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "medicare"
     ],
     "Links": [
         {
@@ -120,6 +121,10 @@
         {
             "link": "https://www.npr.org/2007/09/04/14154835/key-labor-groups-endorse-edwards",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2007/04/24/9794068/medicare-money-problems-trigger-warning",
+            "bias": "medicare"
         }
     ],
     "Year": 2007

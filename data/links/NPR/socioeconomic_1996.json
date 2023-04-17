@@ -1,0 +1,18 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/1996/06/28/1043959/another-familys-vote",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/1996/10/25/1041678/house-races",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 1996
+}

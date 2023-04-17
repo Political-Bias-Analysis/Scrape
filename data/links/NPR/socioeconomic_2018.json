@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -248,6 +250,230 @@
         {
             "link": "https://www.npr.org/2018/03/21/595791300/senate-intelligence-committee-recommends-more-security-for-midterms-not-how-to-f",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/20/669761110/democratic-sen-jon-tester-on-how-he-keeps-winning-elections-in-republican-countr",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/06/664794713/battle-for-u-s-senate-seat-has-some-texan-voters-anxious-about-results",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/06/664617111/key-midterm-election-races-to-watch-in-new-jersey",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/29/659665970/as-more-democrats-embrace-progressive-label-it-may-not-mean-what-it-used-to",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/23/659917659/fact-check-president-trumps-false-claims-on-migrant-caravan-tax-cuts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/20/659122565/health-care-as-an-election-issue",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/28/633101218/democracy-for-cambodia-is-at-stake-as-country-heads-into-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/26/632771939/how-trumps-tariffs-and-trade-policies-are-affecting-midterm-campaigns",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/25/632183527/pakistans-national-elections-are-marred-by-violence",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/16/620698914/dan-pfeiffer-didn-t-plan-to-write-yes-we-still-can-until-trump-won",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/14/619833359/san-francisco-elects-first-african-american-woman-for-mayor",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/31/598575862/a-case-for-giving-16-year-old-activists-the-vote",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/17/593643801/black-voters-need-more-convincing-from-democrats-in-2018",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/15/594062924/what-some-black-voters-say-they-need-to-see-done-before-returning-to-the-polls",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/04/590670040/pennsylvania-district-prepares-to-vote-in-special-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/02/582852276/vp-pence-visits-pennsylvania-to-campaign-in-congressional-special-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/29/581503137/putin-critic-arrested-in-presidential-election-protests",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/01/04/575621420/heres-what-makes-iran-s-anti-regime-protests-different-this-time",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/03/575252552/in-response-to-protests-iran-cuts-off-internet-access-blocks-apps",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/10/30/661790950/gops-latest-campaign-punch-on-health-care-returns-to-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/08/665809570/bernie-sanders-clarifies-comments-about-racism-hurting-black-candidates",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/12/17/677217798/what-you-need-to-know-about-the-affordable-care-act-after-texas-ruling",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/27/670800149/bernie-sanders-criticizes-democrats-and-republicans-in-where-we-go-from-here",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/07/665112521/how-did-progressives-fare-in-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/05/664492107/indiana-democrats-say-theyre-optimistic-in-race-for-u-s-senate-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/31/662696762/how-will-recent-politically-tinged-violence-affect-the-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/31/662120699/this-maine-district-went-for-obama-then-trump-now-its-a-toss-up",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/26/660670687/poll-trump-seen-as-important-factor-in-americans-vote-as-democrats-open-up-lead",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/25/660281890/2018-is-the-year-democrats-got-comfortable-talking-health-care-again",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/24/660294550/health-care-debate-over-pre-existing-conditions-heats-up-as-midterms-near",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/18/658255884/voter-turnout-could-hit-50-year-record-for-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/17/651181932/midterm-election-could-reshape-health-policy",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/16/657923147/whats-at-stake-in-u-s-health-policy-with-this-years-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/10/11/656503264/fact-check-whos-right-about-protections-for-pre-existing-conditions",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/10/656249981/fact-check-trumps-false-claims-on-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/10/646422438/democrats-will-try-to-score-more-upsets-in-last-primaries-before-midterms",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/29/642947215/andrew-gillum-floridas-upset-democratic-candidate-in-an-early-tangle-with-trump",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/28/642798502/ron-desantis-rides-trump-coattails-to-victory-in-florida-primary-for-governor",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/08/636854634/ohios-special-congressional-election-still-too-close-to-call",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/08/636661809/detroits-rashida-tlaib-poised-to-become-first-muslim-woman-in-congress",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/07/636161186/primaries-to-watch-gop-fears-ohio-upset-trump-and-ocasio-cortez-back-challengers",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/03/634613137/republicans-scramble-trump-to-ohio-to-avert-special-election-loss",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/02/635047733/democrats-hope-to-secure-house-in-upcoming-november-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2018/08/02/health-care-sanders-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/26/630960719/what-you-need-to-know-about-the-democratic-socialists-of-america",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/15/628757547/the-next-big-democratic-primary-showdown",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/27/623876336/house-democrats-reeling-after-crowley-upset-by-long-shot-challenger",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/14/619687290/flipping-the-script-red-state-democrats-campaign-on-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/06/617499903/new-mexico-could-elect-first-native-american-woman-to-congress",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/26/606165063/senate-ethics-panel-admonishes-sen-menendez",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/20/603632677/after-special-election-upsets-gop-takes-nothing-for-granted-in-arizona-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/18/603476033/gop-groups-pour-money-into-upcoming-arizona-special-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/11/601520405/paul-ryan-will-not-seek-re-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/11/601449190/house-speaker-paul-ryan-will-not-seek-reelection",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/14/593626102/democrat-apparent-winner-in-pennsylvania-special-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/02/13/585183996/trumps-budget-proposal-swings-at-drug-prices-but-may-land-only-a-glancing-blow",
+            "bias": "medicare"
         }
     ],
     "Year": 2018

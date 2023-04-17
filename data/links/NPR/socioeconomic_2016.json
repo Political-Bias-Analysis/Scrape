@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -696,6 +698,382 @@
         {
             "link": "https://www.npr.org/2016/01/11/462698199/clinton-sanders-get-tough-on-policy-differences-in-close-iowa-race",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/17/474569139/how-do-we-ensure-big-banks-arent-too-big-to-fail",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/alltechconsidered/2016/11/23/503146770/npr-finds-the-head-of-a-covert-fake-news-operation-in-the-suburbs",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/14/502050969/distrust-of-government-drove-many-new-hampshire-voters-to-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/13/501904251/black-ish-creator-kenya-barris-says-show-will-take-new-direction-post-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2016/11/09/501472007/souring-on-sweet-voters-in-4-cities-pass-soda-tax-measures",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501451368/here-is-what-donald-trump-wants-to-do-in-his-first-100-days",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/07/500706879/final-npr-battleground-map-the-race-snaps-back-but-clinton-maintains-advantage",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/06/500898851/middle-class-americans-face-biggest-strain-under-rising-obamacare-costs",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/04/500634376/hardline-conservatives-strategize-at-rare-pre-election-meeting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/29/499867715/populism-and-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/26/499483811/battleground-texas-could-hillary-clinton-actually-win-the-lone-star-state",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/17/498278884/vice-president-biden-trump-is-out-there-doing-something-very-dangerous",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/11/497570475/new-clinton-child-tax-credit-could-help-low-income-parents-but-cost-200-billion",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/08/497200481/growing-list-of-republicans-call-for-trump-to-drop-out",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/08/497170981/wikileaks-releases-alleged-clinton-wall-street-speeches-in-batch-of-campaign-ema",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/03/496442113/clinton-trump-present-starkly-different-messages-on-the-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/19/493920060/springfield-ohio-a-shrinking-city-faces-a-tough-economic-future",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/29/491813999/in-largest-ad-buy-yet-trump-campaign-paints-clinton-as-job-killing",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/26/491260083/suburban-women-key-to-victory-in-pennsylvania-senate-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/25/491389989/pennsylvanias-senate-race-comes-down-to-women-in-philadelphia-suburbs",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/17/490102648/the-clintons-wrote-the-book-on-how-politicians-climb-out-of-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/15/490112600/clinton-campaigns-with-vice-president-biden-in-scranton-penn",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/09/489314346/child-care-plan-is-a-change-in-rhetoric-for-donald-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/05/488864186/iranians-deeply-divided-over-us-presidential-candidates",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/05/488825863/trumps-names-wall-street-and-real-estate-titans-as-economic-advisors",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/04/488722399/clinton-touts-alternate-paths-to-success-trump-criticizes-payment-to-iran",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/29/487884861/clinton-says-democrats-need-to-create-opportunity-for-working-people",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/07/29/487821128/the-economy-and-politics-of-1968-now-playing-in-reruns",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/28/487729936/at-democratic-convention-making-the-case-for-hillary-clintons-readiness",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/14/486063724/-thenewmiddle-tell-us-what-the-middle-class-means-to-you",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2016/07/12/484985728/coney-the-hot-dog-that-fueled-detroits-middle-class-dreams",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/05/481571379/a-brief-history-of-americas-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/06/18/482545036/-nprreads-make-a-wager-on-these-3-stories-this-weekend",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/18/478571278/biden-to-announce-new-overtime-pay-rules-in-ohio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/17/478463549/millions-to-be-eligible-for-overtime-under-new-rule-obama-administration-rule",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/05/16/473105166/you-can-have-our-millions-but-first-you-have-to-pass-our-test",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/13/477930933/reality-check-what-donald-trump-has-said-about-taxes-and-the-wealthy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/05/12/477825124/in-9-out-of-10-cities-middle-income-families-are-slipping-away",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/09/477402982/study-sanders-proposals-would-add-18-trillion-to-debt-over-10-years",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/03/476639229/in-indiana-donald-trump-looks-to-cement-path-to-gop-nomination",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/01/476346660/california-primary-weighs-heavily-on-republican-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/29/476203920/in-2-indiana-manufacturing-cities-presidential-politics-play-unexpected-role",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/15/474395547/republicans-hunt-for-delegates-in-an-unlikely-place-democratic-districts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/14/474243488/why-republicans-in-the-bronx-and-other-deep-blue-districts-are-suddenly-so-popul",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/13/474120856/oregons-jeff-merkley-becomes-first-senator-to-endorse-bernie-sanders",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/10/473702974/hanging-on-a-pressured-middle-class-in-economic-recovery",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/04/07/473397854/the-view-from-mexico-on-donald-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/16/470597174/listen-to-interviews-from-nprs-march-15-special-broadcast",
+            "bias": "middle class"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2016/03/11/europeans-fixated-on-trump",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/10/469972534/illinois-newspaper-reporters-gauge-political-climate-ahead-of-primary",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/06/469433016/clinton-sanders-face-off-in-democratic-debate-in-flint",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2016/02/17/466730455/fact-check-bernie-sanders-promises-free-college-will-it-work",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/12/466465333/sanders-favors-a-speculation-tax-on-big-wall-street-firms-what-is-that",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/10/466317593/after-win-in-new-hampshire-bernie-sanders-meets-with-rev-al-sharpton",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/09/466007361/these-are-the-new-hampshire-towns-to-watch-on-primary-night",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/04/465607161/clinton-sanders-to-meet-in-first-debate-since-close-iowa-caucus",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/30/464862396/from-axes-to-flip-flops-a-peek-at-200-years-worth-of-american-political-schwag",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/23/463855521/meet-the-candidates-in-100-words-and-60-seconds",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/about-npr/463730459/npr-news-interview-with-former-secretary-of-state-hillary-clinton",
+            "bias": "middle class"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2016/03/14/senior-voters-florida",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2016/11/26/503158039/paul-ryans-plan-to-change-medicare-looks-a-lot-like-obamacare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/25/468149447/republican-establishment-slowly-adjusts-to-donald-trumps-rise",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/01/503984040/in-idaho-lumber-country-trump-voters-wait-to-see-if-he-can-jumpstart-jobs",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2016/11/17/502341021/a-growing-group-of-doctors-are-big-money-prescribers-in-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/04/500376980/polarization-and-a-lack-of-productivity-are-likely-to-reign-after-election-day",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/02/500371785/platform-check-trump-and-clinton-on-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/01/500264332/economists-warn-trump-promotes-magical-thinking-and-conspiracy-theories",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/26/499409037/obamacare-premium-hike-catapults-health-care-into-election-spotlight",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/publiceditor/2016/10/18/497936132/calling-trumps-bragging-what-it-is-election-coverage-sept-25-oct-8",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/06/496067982/the-issues-hillary-clinton-and-donald-trump-on-social-security-and-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/18/493836716/florida-isnt-just-your-grandmas-battleground-state-anymore",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/05/488748072/stricter-voter-id-and-other-voting-laws-rolled-back-in-slew-of-court-decisions",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/27/487577895/obama-has-much-riding-on-clintons-candidacy",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/25/487303094/sanders-supporters-on-the-march-against-clinton",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/11/485533468/sanders-and-clinton-to-rally-together-in-new-hampshire",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2016/06/16/482311439/more-generics-and-negotiating-leverage-could-slow-medicare-drug-spending",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/21/478962881/sanders-criticizes-democratic-nominating-process-during-new-mexico-rally",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/19/478753386/do-democrats-want-what-bernie-wants-or-just-what-bernie-has",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/17/478410141/older-voters-to-candidates-dont-forget-about-us",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/12/477836054/fact-checking-hillary-clintons-medicare-buy-in-proposal",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/12/477835971/speaker-paul-ryan-calls-donald-trump-meeting-encouraging",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/11/477693468/presidential-candidates-confront-obstacles-to-opioid-addiction-treatment",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/09/477382582/donald-trump-attempts-to-clarify-comments-on-federal-debt-payments",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/26/475808602/acela-primary-results-5-states-go-to-the-polls-in-consequential-voting-day",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/15/474411569/platform-check-breaking-down-the-presidential-candidates-tax-plans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/23/471597161/ryan-americans-shouldnt-accept-ugliness-in-politics-as-the-norm",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/13/470280358/why-some-ohioans-are-supporting-bernie-sanders",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/12/470130961/fact-check-republican-candidates-on-keeping-or-changing-social-security",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2016/02/23/467639551/sanders-health-plan-renews-debate-on-universal-coverage",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/11/466457079/democratic-presidential-candidates-to-debate-after-bernie-sanders-big-win",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/22/464013732/bernie-sanders-revives-debate-over-single-payer-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/18/463439129/clinton-finds-herself-in-a-real-debate-as-first-voter-tests-loom",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/17/463422105/watch-sunday-night-democratic-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/14/463084358/democratic-race-transforms-into-battle-of-sharp-contrasts",
+            "bias": "medicare"
         }
     ],
     "Year": 2016

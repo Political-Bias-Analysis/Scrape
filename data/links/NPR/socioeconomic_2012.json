@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -584,6 +586,1434 @@
         {
             "link": "https://www.npr.org/2012/10/16/163009074/the-tea-party-cooled-down-or-as-strong-as-ever",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/01/154138225/may-jobless-report-keeps-obama-on-defensive-aids-romneys-offense",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/01/154131119/unemployment-rate-8-2-percent-in-may-as-just-69-000-jobs-added",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/01/147637798/as-election-nears-russians-express-frustrations",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/12/144969198/in-russia-modern-revolution-comes-at-its-own-pace",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145688512/obama-campaign-to-focus-on-state-of-the-union-address",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160676763/do-democrats-have-a-gender-gap-problem",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/22/147247321/police-question-strauss-kahn-in-prostitution-ring",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145688520/state-of-the-union-preview",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/18/167459508/daughter-of-a-dictator-favored-in-s-korean-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/17/167427986/egypt-readies-for-2nd-round-of-voting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/06/166666263/fixing-the-budget-while-protecting-the-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/15/165186986/obama-takes-questions-from-reporters-wednesday",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/11/14/165130117/live-blog-president-obamas-news-conference",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/11/164888535/senate-win-in-wis-a-turning-point-for-gay-rights",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/10/164868365/the-election-is-over-but-fiscal-cliff-still-looms",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/09/164815321/deja-vu-all-over-again-obama-and-boehner-clash-on-fiscal-cliff-and-taxes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164582514/obama-pledges-to-complete-economic-recovery",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164582510/wis-elects-first-openly-gay-person-to-senate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164582506/commentators-weigh-in-on-presidential-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164578524/obama-wins-popular-vote-controls-electoral-college",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/05/164330380/on-election-eve-obama-and-romney-try-blazing-a-path-to-270",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/04/164274645/obama-makes-final-pitch-to-get-out-the-vote",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/03/164233830/the-political-middle-what-ohioans-have-to-say",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/02/164157345/obama-makes-final-push-for-second-term",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/01/164129885/obama-pitches-bipartisanship-before-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/01/164120931/in-key-senate-races-outside-groups-outpace-candidates-ad-spending",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/31/164011476/scrutinizing-the-candidates-stump-speeches",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/30/163895118/paid-in-america-the-road-to-the-middle",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/25/163640367/in-search-of-obamas-second-term-agenda",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/24/163540517/mortgage-interest-deduction-could-be-in-play",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/22/163390276/debates-and-debauchery-drinking-games-in-2012",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/10/23/163194272/the-political-consultants-are-real-the-candidate-is-faket",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/17/163109375/divided-wis-voters-unite-in-debate-viewing",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/17/163109361/obama-focused-energetic-after-second-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/17/163063458/take-charge-obama-shows-up-for-second-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/16/163032665/when-the-debate-ends-the-advertising-debate-is-just-beginning",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/16/162988706/obama-romney-to-meet-in-town-hall-style-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/16/162979856/poll-romney-near-landslide-in-rural-swing-counties",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/15/162953753/candidates-views-on-poverty-get-little-attention",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/12/162815162/biden-brings-high-energy-to-vice-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/12/162795376/7-signals-stolen-from-the-running-mates-one-game-playoff",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/12/162767807/no-2s-biden-ryan-square-off-in-combative-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/11/162757053/debate-decision-a-family-still-divided-in-swing-state-ohio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162743635/bidens-job-in-vp-debate-is-to-change-the-narrative",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/11/162707575/wonkfest-or-slugfest-anticipation-mounts-ahead-of-biden-vs-ryan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162691351/romney-tries-to-move-to-the-center",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162691337/obama-is-committed-to-a-second-term",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/10/162623454/live-blog-biden-vs-ryan-in-the-vice-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/10/162595046/colorado-students-look-to-vote-for-a-better-future",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/09/162580446/tale-of-the-tape-senate-showdown-in-indiana",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/09/162584028/romney-shows-his-soft-side-president-tightens-his-pitch",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/09/162547180/romneys-jobs-plan-relies-on-his-tax-proposal",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/10/09/162481810/is-the-v-p-debate-a-sideshow-or-something-more",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/07/162456485/taxes-are-certain-but-what-about-romneys-cuts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/07/162455240/reading-between-the-candidates-economic-lines",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/05/162347188/wis-crowd-welcomes-obama-after-lackluster-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162320103/romney-takes-a-mini-victory-lap-after-first-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162320089/romneys-tax-policy-still-has-holes-after-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162272404/npr-reporters-fact-check-denver-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162268384/obama-romney-clash-repeatedly-over-taxes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162265100/five-takeaways-from-the-first-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/03/162263539/romney-goes-on-offense-pays-for-it-in-first-wave-of-fact-checks",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/10/04/162242657/romney-and-obama-vs-our-fake-presidential-candidate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/03/162246644/romney-obama-have-parallel-points-on-the-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2012/10/02/162166564/democrats-and-republicans-differ-on-medicaid-fix",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/02/162099460/candidates-say-little-on-difficult-issue-of-housing",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/01/162085827/obama-romney-on-taxes-similar-plans-few-details",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/01/162067617/obama-preps-for-1st-debate-with-romney-in-nevada",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/26/161841920/new-obama-and-romney-ads-are-linked-by-guilt",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/25/161690670/two-plans-for-fixing-the-economy-but-few-details",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/21/161588138/romneys-tax-release-gives-more-fodder-to-critics-who-already-had-surplus",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/21/161526165/romney-argues-for-the-proper-role-of-government",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/20/161492236/parties-debating-meaning-value-of-redistribution",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/20/161456027/warrens-senate-bid-gets-a-boost-from-dnc-speech",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/19/161436137/ohio-senate-race-gets-nasty-amid-flood-of-ads-and-cash",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/19/161415162/republicans-race-to-re-frame-romney-comments-as-campaign-opportunity",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/19/161391331/romney-campaign-should-embrace-taped-comments",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161369262/romney-conflated-different-groups-with-47-percent",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/17/161272851/football-and-conservative-politics-do-mix-for-some-nfl-fans",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/09/17/161263176/white-house-launching-trade-complaints-against-china",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/12/161007295/is-the-black-middle-class-disappearing",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/11/160965678/pro-romney-superpac-enormous-opportunity-in-western-swing-states",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/11/160910384/rhetoric-aside-few-details-of-romneys-tax-plan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/10/160879594/former-aides-talk-strategy-for-homestretch",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/07/160746287/top-speechwriters-grade-conventions",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/07/160730139/fact-checkers-ding-obama-and-biden-for-some-spinning",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160697489/obama-more-partisan-practical-than-four-years-ago",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/06/160669132/in-high-stakes-speech-obama-seeks-to-shift-the-argument-forward",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160654716/bill-clinton-steals-the-show-at-democrats-convention",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/05/160591872/democrats-unleashed-some-dubious-or-misleading-claims-fact-checkers-say",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160588869/first-lady-stays-above-the-fray-in-convention-speech",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160584797/senate-hopeful-elizabeth-warren-to-address-dnc",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/04/160581747/michelle-obama-being-president-reveals-who-you-are",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160541511/dnc-chair-democrats-will-set-the-record-straight",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160526304/democrats-gather-in-charlotte-to-renominate-obama",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/03/160508059/obama-could-see-convention-as-chance-to-reintroduce-hope",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/03/160507188/presidents-obama-and-clinton-not-exactly-old-friends",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/03/160507186/obama-spends-labor-day-with-ohio-union-workers",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/03/160497158/now-its-our-turn-the-democratic-national-convention-kicks-off-in-charlotte",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/31/160371764/fact-checkers-ding-romney-on-a-few-familiar-points",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/31/160365481/gop-nominee-mitt-romney-makes-his-case-for-change",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160338597/gop-delegates-say-romney-must-focus-on-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/30/160302110/it-s-the-middle-that-matters-as-romney-prepares-to-take-center-stage",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2012/08/28/160175239/before-her-big-gop-convention-speech-ann-romney-lets-them-eat-cake",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/27/160131213/republicans-must-do-more-with-less-at-convention",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/27/160083532/romney-s-plan-to-broaden-tax-base-finds-critics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/27/159917204/as-conventions-begin-where-is-the-u-s-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/25/160025239/veteran-n-c-political-strategists-see-obama-path-to-tar-heel-state-win",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/21/159586648/obama-stresses-education-in-ohio-nevada",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/19/159153144/ryans-taxes-show-gap-between-romney-and-the-not-so-rich",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/17/158991002/obama-camps-doa-tax-offer-to-romney-keeps-issue-alive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/08/15/158822949/campaign-trail-bidens-comment-about-chains-sparks-controversy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/10/158583401/its-incumbent-vs-incumbent-in-iowa-and-washingtons-watching",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158791593/stump-speeches-on-the-trail-obama-in-oskaloosa-ia",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158791589/biden-mitt-romney-will-put-america-back-in-chains",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158715803/paul-ryan-makes-solo-campaign-debut-in-iowa",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/12/158640909/ryan-adds-stark-choice-on-health-care-to-gop-ticket",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158624199/paul-ryan-at-a-glance",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158620127/transcript-romney-names-ryan-as-running-mate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158618943/transcript-ryan-makes-first-remarks-as-vp-choice",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/11/158615173/romney-picks-wisconsins-ryan-to-be-his-running-mate-on-gop-ticket",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/12/158581700/this-election-season-vote-sneaky-pie-for-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/09/158520735/obama-talks-clean-energy-latino-issues-in-colorado",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/04/158115219/obama-romney-each-read-jobs-numbers-differently",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/03/158100724/romney-obama-spin-july-jobs-report-differently",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/03/157968869/latest-jobs-data-maintains-status-quo-of-obama-romney-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/03/157958513/back-from-abroad-romney-hits-the-road-in-colo",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/08/02/157826114/163-000-jobs-added-in-july-but-unemployment-rate-ticked-up-to-8-3-percent",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/02/157804141/romney-flunks-obama-on-economy-president-mocks-gop-tax-cut-fairy-dust",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/02/157764136/breaking-tax-code-obama-jumps-on-romneys-policy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/01/157713997/in-ohio-obama-seeks-middle-class-mantle-romneys-team-would-deny-him",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/26/157400874/obama-talks-jobs-guns-at-urban-league-meeting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/16/156873695/presidential-campaigns-zoom-in-on-fertile-crescent-of-ohio-pennsylvania",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/16/156846566/afscme-attacks-on-public-sector-harm-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/13/156747545/obama-romney-trade-barbs-over-bain-capital",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/07/12/156665375/cheers-for-biden-at-naacp-convention-as-he-contrasts-obama-and-romney",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/11/156615170/romney-absorbs-boos-tells-naacp-that-democrats-have-failed-blacks",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/07/11/156604071/romney-to-naacp-if-you-knew-my-heart-i-would-get-your-vote",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/11/156595328/romney-campaigns-in-colorado",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/11/156595326/obama-tells-iowa-voters-he-needs-to-finish-what-he-started",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/10/156573499/obama-romney-take-dueling-messages-on-tour",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/10/156569699/intriguing-opportunity-some-risk-for-romney-in-speech-to-naacp",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/10/156552092/taxes-jobs-and-jabs-obama-and-romney-slug-it-out-in-swing-states",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/10/156493984/bush-tax-cuts-the-new-middle-class-norm",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/09/156509340/obama-calls-for-tax-cuts-extension-for-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/09/156504501/who-owns-the-bush-tax-cuts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/07/09/156481156/reports-obama-to-pitch-one-year-extension-of-tax-cuts-for-middle-class",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/06/156373482/is-the-jobs-report-a-kick-in-the-gut",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/06/156354557/obama-boards-a-bus-to-promote-his-economic-vision",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/04/156258445/obama-bus-tour-focuses-on-swing-state-ohio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/02/156120570/romney-adviser-seems-to-undercut-gop-health-care-tax-argument",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/28/155940210/tax-designation-that-saved-health-care-law-being-used-to-fight-obama",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/28/155914563/obamas-supreme-court-health-care-victory-hard-to-overstate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/18/155308616/greece-still-divided-on-austerity-after-new-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/17/155213291/close-race-in-egyptian-candidates-birthplace",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/15/155082676/crisis-exposes-gaps-in-greek-electorate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/14/155039301/obama-romney-duel-on-economy-in-ohio-the-state-that-could-decide-it-all",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/14/155013532/miami-mayor-bucks-party-line-on-voting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/11/154763094/arizona-voters-choosing-gabby-giffords-replacement",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/05/154384654/live-blog-wisconsin-decides-governors-fate-in-recall-vote",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/03/154251865/wisc-recall-a-trial-run-for-the-presidential-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/02/154222963/elizabeth-warren-leaps-over-primary-challenge-in-massachusetts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/31/153999113/the-fine-political-art-of-jobs-forecasting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/24/153559032/muslim-brotherhood-candidate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/17/152885405/biden-speech-part-of-coordinated-attack-on-romney",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/05/16/152829200/biden-on-bain-romney-thinks-this-experience-will-help-our-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/15/152725845/obama-ad-blasts-romneys-time-at-bain-capital",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/11/152520939/egyptian-families-finding-new-interest-in-politics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/06/152118139/obama-focus-on-the-next-4-years-not-the-last-ones",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/05/152079794/the-race-is-on-obama-heads-to-battleground-states",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/04/152041662/closing-in-on-egyptian-presidential-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/05/04/152017701/surprising-no-one-obama-romney-dont-agree-on-meaning-of-april-jobs-stats",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/26/151417933/obama-to-begin-campaigning-in-earnest",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/21/151047524/gop-intensifies-its-outreach-to-latino-voters-focusing-on-the-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/17/150817351/if-you-hate-tax-day-just-wait-until-next-year",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/17/150795365/other-options-gone-tea-party-members-warm-up-to-romney",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/17/150787150/tri-state-tea-party-welcomes-romney-to-philly",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/11/150437103/romney-and-ryan-a-budding-political-bromance",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/11/150406672/what-does-santorums-withdrawal-mean-for-the-gop-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/10/150346202/4-reasons-why-obama-keeps-pushing-buffet-rule",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/08/150230254/warming-up-for-the-gop-veepstakes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/05/150041912/romneys-rhetoric-shifts-toward-november-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/04/150011701/romney-accuses-obama-of-anti-business-agenda",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/04/149982572/obama-romney-define-each-other-as-general-election-fight-starts-for-real",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/02/149829285/romney-expected-to-win-wisconsins-winner-take-all-primary",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/19/148934227/in-illinois-candidates-make-a-final-delegate-dash",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/24/147351064/from-george-romney-to-mitt-a-shrinking-tax-rate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/15/146942816/obamas-manufacturing-push-meets-skepticism-from-some-experts",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/08/146562937/gingrich-uses-food-stamps-to-criticize-rivals",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/04/146405559/in-nev-solid-showing-expected-for-romney",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/04/146383356/out-west-gop-candidates-mine-for-caucus-votes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/03/146350872/if-romney-misspoke-about-poor-why-did-he-double-down-on-it",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/01/146244919/remarks-from-romney-spark-controversy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/27/145993627/obama-revs-up-house-democrats-for-election-year-fight",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/25/145851605/ron-paul-steadily-our-numbers-are-growing",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145812869/transcript-gop-response-from-gov-mitch-daniels",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145786177/obamas-challenge-be-political-but-not-too-political",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145759842/a-few-questions-answers-about-mitt-romneys-taxes",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145759509/obama-to-outline-the-pillars-of-a-strong-economy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145759503/romney-releases-his-tax-returns",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/24/145698131/romneys-taxes-legally-sound-perhaps-but-politically-tricky",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/01/24/145690405/mitt-romneys-tax-returns-show-43-million-income-in-past-two-years",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/23/145627770/syria-rejects-arab-league-plan-to-quell-fighting",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/19/145451104/q-a-why-such-a-low-tax-rate-for-romney",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/18/145384410/romneys-investments-taxed-at-15-percent",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/17/145357660/romney-campaigns-in-south-carolina",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/16/145319204/romney-fumbles-in-south-carolina-debate-but-still-has-ball",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/17/145312069/newts-food-stamp-president-racial-or-just-politics",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/10/144974110/political-fact-checking-under-fire",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/08/144873071/the-new-hampshire-primary-boost-or-bust",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/06/144751851/the-turkish-model-can-it-be-replicated",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/02/144578811/in-final-iowa-push-once-sunny-gingrich-says-romney-will-lie-to-you",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/02/144570162/romney-looks-to-finish-strong-in-iowa",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/23/151219417/social-security-medicare-reaction-reflects-partisan-election-year-divide",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/19/148925864/rep-paul-ryan-stokes-new-medicare-fight-this-time-during-election-year",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2012/10/16/163025327/medicare-where-preisdential-politics-and-policy-collide",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158784577/will-florida-seniors-accept-ryans-medicare-vision",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/12/12/167038775/when-it-comes-to-entitlements-obama-feels-heat-from-left-and-right",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/12/164962537/what-progressives-like-van-jones-want-in-next-term",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/11/164915860/election-2016-too-soon",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164631073/after-disappointing-2012-whats-next-for-tea-party",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164631067/reelection-forces-states-to-act-soon-on-obamacare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164616929/controversial-members-of-congress-come-and-go",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164598977/two-columnists-weigh-in-on-gops-very-bad-night",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164589159/election-night-was-dismal-for-the-republicans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164568202/business-labor-groups-laud-obama-victory",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164555962/on-the-issues-how-obama-prevailed",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/03/164195273/race-for-redrawn-calif-district-is-tight-and-pricey",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/31/164055698/fact-checking-a-romney-stump-speech",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/31/164043351/mysterious-anti-obama-spam-texts-linked-to-republican-consulting-group",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/28/163795245/democrats-see-opportunity-in-fiery-illinois-house-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2012/10/25/163646649/medicare-medicaid-face-uncertain-budget-futures",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/25/163606522/amid-vp-run-ryan-working-to-keep-house-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/24/163558292/what-the-presidential-debates-accomplished",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/18/163132047/rendell-obama-needs-to-be-specific-about-2nd-term",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/15/162954683/pro-oil-democrat-in-the-hunt-for-n-d-senate-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2012/10/12/162822043/vice-presidential-candidates-spar-over-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/12/162790264/biden-debate-coach-on-vps-performance",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/12/162760386/five-takeaways-from-the-vice-presidential-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/11/162757834/biden-ryan-bent-the-truth-at-times-fact-checkers-say",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/11/162742530/b-i-d-e-n-or-r-y-a-n-its-debate-bingo",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162710676/a-closer-look-beyond-the-buzzwords",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162691349/biden-ryan-to-meet-in-kentucky-for-only-v-p-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162633324/beep-if-you-understand-veep-buzzwords",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/10/162658971/i-was-just-too-polite-says-obama-vowing-to-hit-hard-at-next-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/10/09/162557994/nyt-excerpt-what-undecided-voters-agree-on",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/07/162480455/presidential-politics-does-likeability-matter",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162294045/did-the-president-need-a-sip-of-romneys-red-bull",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/10/04/162293140/kitchenaid-apologizes-for-offensive-tweet-about-obamas-grandmother",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/04/162291833/dont-confuse-us-with-facts-why-debates-are-all-about-style",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/03/162261605/swing-state-debate-watchers-give-first-round-to-romney-and-lehrer-the-loss",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/01/162100614/live-blog-obama-romneys-first-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/03/162171197/on-eve-of-first-debate-npr-poll-shows-romney-within-striking-distance",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/27/161906329/iowa-voters-who-are-literally-done-with-the-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/26/161824829/crunch-time-for-the-presidential-campaigns",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/26/161796972/libertarian-presidential-candidate-could-influence-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/24/161689493/rep-cleaver-pushes-to-prep-black-voters",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/09/24/161241497/as-polls-show-romney-trailing-in-swing-states-obama-edges-towards-270-goal",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/21/161581400/fact-checking-obama-and-ryan-speeches-to-aarp",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/21/161581384/obama-ryan-talk-medicare-at-aarp-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/21/161562549/in-wisconsin-political-circus-leaves-voters-wounded",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/20/161495807/senate-race-tough-to-call-as-wisconsin-swings",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/19/161436242/poll-obama-leads-romney-3-to-1-on-some-topics",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/19/161424581/obama-opens-8-point-lead-in-pew-poll-big-advantage-with-women-blacks-young-voter",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161369280/some-florida-seniors-divided-on-47-percent-reaction",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161346421/david-corn-romney-shows-disdain-for-moochers",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/13/161105831/where-political-ads-go-to-be-mocked",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/13/161096416/can-a-republican-win-a-senate-seat-in-blue-hawaii",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/12/160989357/bill-clinton-stumps-for-obama-in-miami",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/09/160695749/critics-say-ryans-record-belies-tough-deficit-talk",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/07/160726506/obama-wants-4-more-years-to-fix-nations-problems",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160697493/most-facts-check-out-in-bill-clintons-dnc-speech",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160654720/its-never-too-early-to-prepare-for-presidential-debates",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/05/160643387/wonky-clinton-wows-convention-in-muscular-obama-sales-pitch",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160607414/philly-mayor-michael-nutter-thinks-local-at-dnc",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160526296/on-campaign-break-obama-tours-louisiana-storm-damage",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/31/160385297/how-do-republican-delegates-define-success",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/31/160366699/examining-romneys-acceptance-speech",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160355509/transcript-sen-marco-rubios-convention-speech",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160338590/ryans-speech-provides-fodder-for-fact-checkers",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/30/160301854/fact-checkers-say-some-of-ryans-claims-dont-add-up",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/30/160295154/ryan-s-speech-revives-the-spirit-of-jack-kemp-war-over-reaganomics",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160293856/ryan-tells-gop-delegates-u-s-needs-a-turnaround",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/29/160284324/ryan-rips-obama-sets-table-for-romney",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/28/160174856/as-ryan-takes-the-stage-he-gives-hope-to-republicans-democrats-alike",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/27/160143017/at-the-rnc-the-university-of-newt",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/27/160111786/romney-campaign-not-giving-up-on-black-vote",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/27/160095711/watching-isaac-gop-delays-opening-convention-in-tampa",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/23/159918557/presidential-campaign-ads-target-seniors-in-fla-younger-voters-in-n-h",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/22/159833137/obama-defends-government-as-a-national-caretaker",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/22/159805955/political-junkie-todd-akin-and-negative-campaigning",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/21/159565376/romneys-vp-pick-puts-focus-on-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/21/159541059/has-the-damage-been-done-for-todd-akin",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/17/158979813/weekly-standard-obamas-medicare-myths",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/17/158966227/obama-romney-must-sell-seniors-on-medicare-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/16/158911319/ryan-pick-forces-medicare-discussion",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/15/158870028/will-romneys-pick-swing-the-senior-vote",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/15/158818419/on-the-road-with-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158791574/beyond-the-budget-where-does-paul-ryan-stand",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/16/158770724/ryans-mission-for-fed-focus-on-prices-not-unemployment",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158745433/obama-campaign-update",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158742491/hecklers-interrupt-ryan-at-iowa-state-fair-stop",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158715801/obama-calls-out-paul-ryan-over-farm-bill-in-iowa",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158715783/medicare-a-hot-topic-as-romney-ryan-hit-the-trail",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/13/158710066/with-four-candidates-now-campaigning-choice-is-the-theme",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158703293/will-ryan-help-or-hurt-the-gop-ticket",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158677025/ryan-offers-bold-ideas-to-gop-presidential-ticket",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158676943/obama-disagrees-with-romney-ryan-economic-vision",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/12/158656291/does-ryan-pick-help-or-hurt-romneys-chances-in-florida",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/08/08/158460169/paul-ryan-bold-move-by-romney-more-ammo-for-democrats-or-both",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/12/158661682/in-paul-ryan-obama-finds-familiar-foe",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/12/158648860/romney-ryan-surrogates-trade-shots-on-sunday-talk-shows",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158630471/what-an-ayn-rand-view-could-do-to-romneys-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158630469/the-possible-future-of-health-care-given-vp-pick",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158630467/thats-the-ticket-romney-and-ryan-kick-off-tour",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158630465/paul-ryans-agenda-now-romneys",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158630463/ryan-with-alternative-agenda-had-quick-gop-rise",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/11/158626447/pros-and-cons-ryan-as-romneys-vp",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/11/158617473/historically-cautious-romney-takes-shot-down-the-field-in-ryan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/11/158566814/ryan-brings-big-ideas-and-some-risk-to-gop-ticket",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/09/158449219/iowa-key-to-obamas-2008-win-now-divided",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/06/158066770/even-in-florida-swing-county-minds-seem-made-up",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/30/157596458/poll-jobs-should-be-next-presidents-priority-tax-fairness-not-so-much",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/07/26/157396666/the-disagreement-behind-our-economic-platform",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/24/157246809/budget-hawk-ryan-offers-romney-risk-reward",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/20/157084524/obama-lobbies-seniors-in-florida-for-their-vote",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/21/155504668/gary-johnson-offers-third-choice-in-2012-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/11/154793398/rangel-downplays-the-roots-that-might-help-his-re-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/13/154906384/democrat-wins-ariz-test-of-2012-themes-fighting-sioux-retired-in-n-d",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/06/154430080/n-d-s-open-senate-seat-could-be-next-national-battleground",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/05/29/153920122/fueled-by-outside-money-ad-blitz-hasnt-stopped-for-weary-iowans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/25/151378067/gingrichs-unconventional-white-house-bid-a-retrospective",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/04/24/151224338/were-headed-for-a-fiscal-cliff-should-we-jump",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/20/151058716/week-in-politics-election-gsa-and-secret-service-scandals",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/29/150589840/in-soutwestern-pa-two-conservative-democratic-incumbents-fight-for-one-seat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/03/149930467/gsa-clown-conference-scandal-could-result-in-counterproductive-reaction",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/04/02/149431801/republicans-have-run-against-the-courts-for-years-will-it-be-obamas-turn",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/03/29/149632898/house-passes-2013-budget-that-includes-private-option-for-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/29/149585096/how-a-collapse-of-the-health-care-law-could-help-democrats-down-the-road",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/29/149564923/romneys-support-for-ryan-budget-has-democrats-crying-foul",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/24/149279770/medicare-cuts-end-as-you-know-it-or-future-gift",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/01/147752408/one-of-closest-senate-races-may-be-in-mont",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/24/147367964/romney-makes-economic-pitch-in-detroit",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/17/147034692/some-friday-political-stories-worth-knowing-about",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/15/146924898/election-year-brings-congressional-compromise-on-payroll-taxes-and-more",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/13/146821095/gop-candidates-and-the-budget-a-look-at-their-plans",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/31/146099749/the-golden-age-florida-primary-centers-on-seniors",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/27/145985299/rep-allen-west-to-black-voters-give-gop-a-chance",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/26/145920709/gingrich-fights-against-the-lobbyist-label",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145688508/romney-campaign-finally-releases-his-tax-returns",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/17/145357662/fiscal-conservatives-discuss-gop-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/11/145046984/gop-candidates-turn-attention-to-south-carolina",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/09/144894949/over-wine-and-donuts-n-h-women-get-heated-over-primary-vote",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/09/144888871/n-h-female-voters-weigh-in-on-primary-issues",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/06/144801659/a-look-at-super-pacs-and-political-coordination",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/05/144752778/spotlight-shines-on-late-riser-rick-santorum",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/01/03/144488073/iowa-republicans-start-it-off-today",
+            "bias": "medicare"
         }
     ],
     "Year": 2012

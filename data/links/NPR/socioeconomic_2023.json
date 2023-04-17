@@ -2,7 +2,9 @@
     "Biases": [
         "socioeconomic",
         "poverty line",
-        "working class"
+        "working class",
+        "middle class",
+        "medicare"
     ],
     "Links": [
         {
@@ -60,6 +62,38 @@
         {
             "link": "https://www.npr.org/2023/02/04/1153843337/george-santos-new-york-district",
             "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/28/1160204284/nigeria-africas-most-populous-nation-elects-bola-tinubu-as-the-new-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/24/1159207670/peter-obi-could-shake-up-nigerias-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2023/02/16/1157324177/medicare-political-wars-could-hurt-seniors",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/12/1169569273/republican-south-carolina-sen-tim-scott-takes-a-step-toward-a-presidential-bid",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2023/03/14/1163163234/why-medicare-is-suddenly-under-debate-again",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/12/1162957423/what-president-biden-and-republicans-are-saying-about-funding-medicare",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/11/1156132516/republicans-say-they-wont-cut-social-security-so-why-does-it-keep-coming-up",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/01/1153569128/another-classified-doc-search-a-debt-ceiling-meeting-and-a-new-presidential-camp",
+            "bias": "medicare"
         }
     ],
     "Year": 2023
