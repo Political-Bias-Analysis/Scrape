@@ -1,0 +1,68 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/2013/12/19/255559698/president-obamas-terrible-horrible-no-good-very-bad-year",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/12/04/248811266/immigration-advocates-face-hurdles-in-gop-house-districts",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/codeswitch/2013/12/04/248718302/supporters-of-immigration-overhaul-remain-focused",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/10/17/236425197/obamas-immigration-pivot-hits-a-bruised-gops-weak-spot",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/02/12/171740019/4-things-to-expect-in-obamas-state-of-the-union-address",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/02/04/171078868/critics-question-witness-list-ahead-of-immigration-hearing",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/01/31/170744897/for-asian-americans-immigration-backlogs-are-becoming-a-major-hurdle",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2013/01/08/168890345/house-gears-up-for-immigration-battle",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/01/02/168457444/on-multiple-fronts-russian-jews-reshape-israel",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/01/31/170765389/the-coming-fight-over-immigration-policy",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/09/26/226347329/if-the-government-closes-essential-employees-would-work",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/01/29/170525728/senators-unveil-plan-to-fix-immigration-system",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/01/30/170629905/latino-voters-help-push-immigration-changes-forward",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/04/01/175938451/the-politics-of-the-guest-worker-program",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2013/02/02/170891267/whos-carl-this-time",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2013
+}

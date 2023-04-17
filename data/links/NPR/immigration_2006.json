@@ -1,0 +1,40 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/2006/09/26/6145781/gop-looks-for-immigration-win-before-elections",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/08/15/5652735/the-contentious-land-of-az",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/08/15/5651179/fiery-rep-hayworth-in-hot-arizona-race",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/05/16/5408187/immigration-divides-bush-from-his-base",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/12/24/6669964/rep-goode-launches-debate-over-muslims-in-office",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/05/24/5428461/senate-takes-step-toward-immigration-vote",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/08/30/5736011/immigrant-marches-planned-for-labor-day-weekend",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2006/05/08/5389518/migrants-job-search-empties-mexican-community",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2006
+}

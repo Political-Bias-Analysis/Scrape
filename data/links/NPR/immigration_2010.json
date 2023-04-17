@@ -1,0 +1,48 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/2010/08/05/129007120/republicans-push-to-revise-14th-amendment",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/07/30/128873428/once-again-immigration-is-a-hot-campaign-issue",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/thetwo-way/2010/07/26/128772646/deportations-higher-under-obama-than-bush",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/07/19/128629792/national-guard-details-plans-for-border-patrol",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/07/14/128508596/the-new-republic-immigration-and-the-democrats",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/06/09/127596420/u-k-to-test-english-of-marriage-visa-applicants",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/thetwo-way/2010/05/by_david_gura_good_morning.html",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/05/04/126490029/policies-not-personalities-dominate-in-rural-u-k",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/11/27/131627159/politics-and-music-in-wyclef-jean-s-haitian-experience",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2010/12/22/132262159/redistricting-rules-from-both-sides-of-the-aisle",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2010
+}
