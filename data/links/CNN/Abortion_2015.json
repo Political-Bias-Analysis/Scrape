@@ -1,0 +1,403 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2015/04/08/us/new-day-five-things/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/14/politics/marco-rubio-traditional-values-ad/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/10/politics/dee-snider-donald-trump-twisted-sister/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/17/politics/planned-parenthood-republicans-20-million/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/11/politics/jeb-bush-marco-rubio-electability/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/08/politics/ted-cruz-super-pac-abandoned-plans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/02/politics/jeb-bush-e-book-email/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/17/politics/carly-fiorina-poll-numbers/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/08/politics/bernie-sanders-republican-support/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/30/politics/planned-parenthood-congress-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/27/politics/carly-fiorina-planned-parenthood-government-shutdown/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/21/politics/planned-parenthood-shutdown-campaign/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/17/politics/republican-debate-hillary-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/15/politics/planned-parenthood-government-shutdown-congress/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/10/politics/abortion-group-ted-cruz-super-pac-online-for-life/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/11/politics/carson-trump-evangelicals-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/11/politics/supreme-court-2016-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/02/politics/donald-trump-jeb-bush-spanish/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/02/politics/election-2016-donald-trump-ben-carson-democrats/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/01/politics/planned-parenthood-intact-fetuses/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/29/politics/hillary-clinton-women-gender-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/27/politics/planned-parenthood-videos-congress-report/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/16/politics/john-kasich-state-of-the-union/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/13/politics/claire-mccaskill-todd-akin/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/12/politics/donald-trump-howard-stern/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/13/politics/mike-huckabee-iowa-six-percent-growth/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/12/politics/hillary-clinton-problems-email-polls-bernie-sanders/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/11/politics/donald-trump-planned-parenthood-abortion-defunding/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/11/politics/hillary-clinton-primary-republican-attacks/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/07/politics/evangelicals-defunding-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/31/politics/george-pataki-debates-early-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/29/politics/donald-trump-rape-comments-controversy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/25/politics/ted-cruz-wilks-brothers/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/21/politics/donald-trump-election-democrat/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/07/17/politics/emilys-list-fundraising-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/30/politics/chris-christie-2016-presidential-campaign/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/18/politics/pope-encyclical-climate-change-catholic-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/15/politics/climate-change-2016-presidential-campaign/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/11/politics/abortion-ban-scott-walker-lindsey-graham/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/27/politics/rick-santorum-2016-presidential-announcement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/10/politics/election-2016-rand-paul-campaign-bumps/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/05/politics/ted-cruz-iowa-evangelicals/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/24/politics/capitol-hill-parties-congress-fourth-of-july/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/28/politics/tim-ryan-abortion-shift/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/22/politics/house-abortion-vote/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/23/politics/gop-abortion-vote-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/20/politics/who-is-joni-ernst/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/16/opinions/waldman-paris-trump-iowa-voters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/21/opinions/kohn-gop-women/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/16/opinions/hoover-ben-carson-surge/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/15/opinions/cupp-hillary-clinton-candidacy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/22/us/philadelphia-catholic-seminarians/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/12/us/ismael-ozanne-wisconsin-district-attorney-tony-robinson-case/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/07/us/five-things-tsarnaev-hernandez-rand-paul-emanuel-ferguson/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/14/politics/ted-cruz-donald-trump-republican-establishment/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/13/politics/lindsey-graham-donald-trump-ben-carson/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/30/politics/carly-fiorina-california-campaign/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/01/politics/donald-trump-music-video-parody-steve-berke/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/28/politics/hillary-clinton-2016-dnc-meeting-minneapolis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/06/24/politics/trade-bill-obama-clinton-mcconnell/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/02/politics/south-carolina-gop-2016/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/28/politics/same-sex-marriage-puts-gop-in-awkward-position/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/29/politics/omalley-challenges-clinton/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/19/politics/hillary-clinton-election-2016-emails/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/19/politics/politics-republicans-egypt/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/03/politics/clinton-headlines-emilys-list-march-event/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/28/politics/romney-clinton-wealth/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/08/politics/barbara-boxer-not-running/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/05/opinions/china-taiwan-summit-no-game-changer/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/08/politics/jeb-bush-super-pac-desk-ad-video/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/03/politics/bloomberg-koch-virginia-election/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/11/politics/jewish-voters-florida-hillary-clinton-election-2016/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/18/politics/rand-paul-kentucky-caucus/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/19/politics/super-pac-local-elections-2015/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/14/politics/marco-rubio-hillary-clinton-jeb-bush-2016/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/09/politics/election-2016-ted-cruz-super-pacs/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/31/politics/pence-indiana-culture-war/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/03/politics/hillary-clinton-2016-election-emilys-list/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/09/opinions/ghitis-nobel-peace-prize-winner/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/04/06/opinions/zelizer-democrats-vs-wall-street/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/25/us/new-day-five-things/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/19/politics/democratic-debate-hillary-clinton-bernie-sanders-updates/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/18/politics/hillary-clinton-young-voters-millennials/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/11/14/politics/ted-cruz-paris-attacks-religious-freedom/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/28/politics/republican-debate-media/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/27/politics/carly-fiorina-republican-debate/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/20/politics/house-democrats-plot-2016-takeover/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/14/politics/democratic-debate-2015-analysis/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/08/politics/republican-establishment-kevin-mccarthy-donald-trump-2016/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/30/politics/house-speaker-mccarthy-boehner-freedom-caucus/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/29/politics/kevin-mccarthy-john-boehner-gop-leadership/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/25/politics/john-boehner-resignation-jeb-bush-2016-presidential-campaign/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/16/politics/republican-debate-barack-obama-doom-gloom-patriotic/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/14/politics/2016-election-social-media/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/05/politics/donald-trump-iowa-organize/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/02/26/politics/cpac-2015-scott-walker-momentum/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/23/opinions/kohn-donald-trump-comments/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2015/09/25/opinions/gergen-boehner-exit-implications/index.html",
+            "bias": "planned parenthood"
+        }
+    ],
+    "Year": 2015
+}

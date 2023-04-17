@@ -1,7 +1,9 @@
 {
     "Biases": [
         "immigration",
-        "undocumented"
+        "undocumented",
+        "refugees",
+        "border"
     ],
     "Links": [
         {
@@ -347,6 +349,38 @@
         {
             "link": "https://www.cnn.com/2013/05/18/politics/los-angeles-mayoral-race/index.html",
             "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/22/world/meast/mideast-obama-trip/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2013/08/13/us/san-diego-mayor-scandal/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/08/14/us/indian-reservation-alcohol-vote/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/05/01/politics/btn-us-mexico/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/05/politics/forced-spending-cuts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/04/politics/forced-spending-cuts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/22/politics/forced-spending-cuts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/21/politics/forced-spending-cuts-blame/index.html",
+            "bias": "border"
         }
     ],
     "Year": 2013

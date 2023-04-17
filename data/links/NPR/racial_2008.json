@@ -1,0 +1,347 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination",
+        "BLM"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2008/12/02/97688083/after-the-election-whither-the-religious-right",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/talk/2008/12/rick_warren_roundup_1.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/01/97470798/best-classical-cds-music-crossing-boundaries",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/25/97454237/obama-win-sparks-rise-in-hate-crimes-violence",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96654196/king-biographer-dont-exaggerate-racial-progress",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2008/10/the_countown_day_23_tiptoes.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/visibleman/2008/10/the_conservatives_racebaiting.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/vox-politics/2008/10/tuesday_morning_debate-eve_character_hits_politico_takes_on_race_and_hsu_back_in_the_news.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/24/94988796/roundtable-ojs-back-in-court-does-anyone-care",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/sundaysoapbox/2008/06/race_and_election_08_1.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/talk/2008/03/march_18th_show.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/12/88163375/iranian-elections-provide-view-into-power-dynamics",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/12/98202735/understanding-african-american-religious-diversity",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/18/93699661/roundtable-mccain-obama-find-religion",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/31/18566967/romney-mccain-trade-blows-at-gop-debate",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/15/98278814/navigating-interracial-love-and-romance",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/12/96916824/barack-obama-face-of-new-multiracial-movement",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/22/95985609/bipartisan-islamophobia-frustrates-muslim-voters",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/24/96123809/decades-later-old-racial-wounds-still-ache",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/29/95174904/tim-wise-this-is-your-nation-on-white-privilege",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/19/88552621/obamas-challenge-make-race-more-than-spectacle",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/02/95288278/responding-to-your-letters",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/18/91637327/roundtable-black-conservatives-voting-for-obama",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/07/96751056/californias-prop-8-passes-passions-flare",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96631784/transcript-of-john-mccains-concession-speech",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/04/96588557/remembering-gracie-allens-white-house-run",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/29/96280224/which-candidate-benefits-from-early-voting",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/03/94258995/transcript-gov-sarah-palin-at-the-rnc",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/26/94003143/transcript-hillary-clintons-prime-time-speech",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/16/91544417/political-wrap-up-mccain-obama-and-russert",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/09/91303988/clintons-speech-high-points-and-the-road-ahead",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/08/91293231/clinton-fans-mixed-on-shifting-support-to-obama",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/08/91293209/clintons-ex-pastor-weighs-in-on-her-exit-next-step",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/19/90596524/republicans-face-election-year-hurdles",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/24/88968602/satirist-wants-to-see-obamas-white-side",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/05/18711476/voters-around-u-s-say-what-drove-them-to-polls",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/15/18121689/do-political-endorsements-matter",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/14/18085237/presidential-hopeful-edwards-in-for-the-long-haul",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/02/17785158/black-iowans-ready-for-caucuses",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/10/96810103/an-emotional-election-night-for-journalists-of-color",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/20/95894643/colin-powell-endorses-obama",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94076309/obama-to-accept-democratic-nomination",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/30/92021515/posters-show-obama-as-superhero-sun-god-saint",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/07/89431734/whats-with-that-obama-poster",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/03/18619707/obama-clinton-found-faith-in-land-of-lincoln",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/25/18418875/celebrities-elevating-candidates-profiles",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/09/17962825/re-energized-after-n-h-mccain-moves-to-michigan",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/07/17910759/edwards-fights-his-underdog-status-in-n-h",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/02/96446763/why-i-vote",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/31/96373766/david-dukes-view-of-an-obama-presidency",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/10/94449402/in-ohio-mccain-repeats-upbeat-iraq-assessment",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94046769/the-long-historic-tale-of-aug-28",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94076303/rep-lewis-reflects-on-king-obama",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94071198/jimmy-carter-on-this-american-moment",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94051037/lewis-sees-new-racial-era-with-obamas-success",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/04/97770913/100-year-old-gears-up-for-obamas-inauguration",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2008/07/poll_finds_obama_isnt_closing_1.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/18/92675387/carters-new-thriller-mixes-murder-love-and-politics",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2008/07/james_l_taylor_voting_for_bara.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/watchingwashington/2008/07/helms_passage_a_hinge_of_histo.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/04/91122836/rfk-assassination-sparked-secret-service-change",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/07/17902944/bloggers-roundtable-obamas-iowa-victory",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/18/91637322/more-americans-politically-active-on-the-web",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96660387/a-defining-moment-in-american-history",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96640337/champagne-corks-pop-in-paris-for-obama",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96581933/at-109-slaves-daughter-revels-in-historic-vote",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/29/96263677/palin-out-mavericks-mccain-obama-in-prime-time",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/tellmemore/2008/10/planning_to_sit_out_election_d.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/08/95507590/race-remains-an-election-wild-card-in-ohio",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/30/95209118/politics-its-all-in-what-you-hear",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/18/94733622/obama-race-and-undecided-voters",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/11/94499874/voters-confront-race-and-politics-in-york-pa",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/09/94412886/palin-signifying-gains-in-womens-political-power",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93927292/democratic-convention-is-a-faith-based-initiative",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/15/93622958/howard-dean-shares-plan-to-unite-dems",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/06/93307756/miss-senate-race-duked-out-at-county-fair",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/21/92744947/racial-balance-shifts-as-white-flight-subsides",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/06/91246551/obamas-success-impacting-notions-of-race",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2008/05/the_racism_vs_sexism_debate_re.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/21/90681786/are-women-torn-between-obama-and-clinton",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/04/90173306/remarks-spark-questions-about-black-church",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/14/88230417/evangelicals-backing-away-from-political-affiliation",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/13/88194863/clinton-backer-resigns-over-race-comments",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/01/18595746/a-bright-future-for-solar-energy",
+            "bias": "BLM"
+        }
+    ],
+    "Year": 2008
+}

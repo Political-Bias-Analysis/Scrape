@@ -1,0 +1,41 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2005/12/10/5047880/former-presidential-candidate-mccarthy-dies",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2005/06/19/4709606/palestinians-await-changes-in-gaza",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/09/22/4859257/race-poverty-and-katrina",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/09/09/4839153/katrina-shakes-up-agenda-in-congress",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/08/10/4793716/sen-rick-santorum-on-race-and-family-values",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/06/08/4694475/bob-geldof-and-the-launch-of-live-8",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/05/10/4646283/sarah-vowell-death-takes-a-holiday",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2005/01/18/4457244/memorable-second-inaugural-speeches",
+            "bias": "poverty line"
+        }
+    ],
+    "Year": 2005
+}

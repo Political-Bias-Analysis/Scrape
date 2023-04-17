@@ -1,171 +1,1346 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "http://www.wbur.org/hereandnow/2016/09/02/election-trump-immigration",
+            "link": "http://www.wbur.org/hereandnow/2016/09/02/election-trump-immigration",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/06/26/483424582/the-view-from-the-northeast-corridor-deep-divisions-ahead-of-2016-election",
+            "link": "https://www.npr.org/2016/06/26/483424582/the-view-from-the-northeast-corridor-deep-divisions-ahead-of-2016-election",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/thetwo-way/2016/12/29/507238655/the-top-stories-on-npr-org-this-year",
+            "link": "https://www.npr.org/sections/thetwo-way/2016/12/29/507238655/the-top-stories-on-npr-org-this-year",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/12/21/505538964/police-and-illegal-immigration-what-our-neighbors-do",
+            "link": "https://www.npr.org/2016/12/21/505538964/police-and-illegal-immigration-what-our-neighbors-do",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/thesalt/2016/11/29/503182640/the-farmers-courting-trump-dont-speak-for-rural-america",
+            "link": "https://www.npr.org/sections/thesalt/2016/11/29/503182640/the-farmers-courting-trump-dont-speak-for-rural-america",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/11/13/501746601/i-have-a-purpose-sting-talks-about-57th-9th-and-why-hes-still-here",
+            "link": "https://www.npr.org/2016/11/13/501746601/i-have-a-purpose-sting-talks-about-57th-9th-and-why-hes-still-here",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/thetwo-way/2016/11/10/501535930/top-stories-trump-transition-efforts-future-of-world-climate-accord",
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/10/501535930/top-stories-trump-transition-efforts-future-of-world-climate-accord",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/11/09/latino-vote-impact",
+            "link": "http://www.wbur.org/hereandnow/2016/11/09/latino-vote-impact",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/parallels/2016/11/09/501398066/trumps-election-gives-hope-to-europes-far-right",
+            "link": "https://www.npr.org/sections/parallels/2016/11/09/501398066/trumps-election-gives-hope-to-europes-far-right",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/11/08/501073160/climate-change-the-forgotten-issue-of-this-years-election",
+            "link": "https://www.npr.org/2016/11/08/501073160/climate-change-the-forgotten-issue-of-this-years-election",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/11/07/new-hampshire-women-immigration",
+            "link": "http://www.wbur.org/hereandnow/2016/11/07/new-hampshire-women-immigration",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/world-cafe/2016/11/07/501034640/jim-james-on-world-cafe",
+            "link": "https://www.npr.org/sections/world-cafe/2016/11/07/501034640/jim-james-on-world-cafe",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/10/14/494780972/-were-not-hypothetical-immigrants-in-the-us-illegally-speak-out",
+            "link": "https://www.npr.org/2016/10/14/494780972/-were-not-hypothetical-immigrants-in-the-us-illegally-speak-out",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/10/13/497569716/first-listen-the-radio-dept-running-out-of-love",
+            "link": "https://www.npr.org/2016/10/13/497569716/first-listen-the-radio-dept-running-out-of-love",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/08/29/trump-immigration-policies",
+            "link": "http://www.wbur.org/hereandnow/2016/08/29/trump-immigration-policies",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/08/25/language-integration",
+            "link": "http://www.wbur.org/hereandnow/2016/08/25/language-integration",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/08/19/490609443/watch-donald-trump-releases-first-campaign-ad-to-air-in-4-states",
+            "link": "https://www.npr.org/2016/08/19/490609443/watch-donald-trump-releases-first-campaign-ad-to-air-in-4-states",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/08/02/colorado-sixth-congressional-district",
+            "link": "http://www.wbur.org/hereandnow/2016/08/02/colorado-sixth-congressional-district",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/07/28/487856654/watch-muslim-father-of-fallen-soldier-tells-trump-you-have-sacrificed-nothing",
+            "link": "https://www.npr.org/2016/07/28/487856654/watch-muslim-father-of-fallen-soldier-tells-trump-you-have-sacrificed-nothing",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/hereandnow/2016/07/28/seven-stars-farm-founder",
+            "link": "http://www.wbur.org/hereandnow/2016/07/28/seven-stars-farm-founder",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/05/23/479174113/far-right-candidate-loses-austrian-presidential-election",
+            "link": "https://www.npr.org/2016/05/23/479174113/far-right-candidate-loses-austrian-presidential-election",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/05/14/477811056/are-more-latinos-becoming-citizens-because-of-donald-trump",
+            "link": "https://www.npr.org/2016/05/14/477811056/are-more-latinos-becoming-citizens-because-of-donald-trump",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/04/09/473503408/immigrant-felons-and-deportation-one-grandmothers-case-for-pardon",
+            "link": "https://www.npr.org/2016/04/09/473503408/immigrant-felons-and-deportation-one-grandmothers-case-for-pardon",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/health-shots/2016/04/09/473358504/when-the-cost-of-care-triggers-a-medical-deportation",
+            "link": "https://www.npr.org/sections/health-shots/2016/04/09/473358504/when-the-cost-of-care-triggers-a-medical-deportation",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/03/30/472279572/do-americans-actually-follow-through-on-election-threats-to-move-to-canada",
+            "link": "https://www.npr.org/2016/03/30/472279572/do-americans-actually-follow-through-on-election-threats-to-move-to-canada",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/02/19/467303527/beyond-student-debt-where-its-not-the-top-campaign-priority-for-millennials",
+            "link": "https://www.npr.org/2016/02/19/467303527/beyond-student-debt-where-its-not-the-top-campaign-priority-for-millennials",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/01/13/462372040/service-members-not-citizens-meet-the-veterans-who-have-been-deported",
+            "link": "https://www.npr.org/2016/01/13/462372040/service-members-not-citizens-meet-the-veterans-who-have-been-deported",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/05/26/479635775/nonprofit-works-to-reshape-public-perception-of-latinos-in-america",
+            "link": "https://www.npr.org/2016/05/26/479635775/nonprofit-works-to-reshape-public-perception-of-latinos-in-america",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/11/01/500183765/dutch-far-right-politician-leads-in-polls-despite-legal-charges",
+            "link": "https://www.npr.org/2016/11/01/500183765/dutch-far-right-politician-leads-in-polls-despite-legal-charges",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/05/12/477758494/immigrants-rush-to-become-citizens-to-vote-against-trump",
+            "link": "https://www.npr.org/2016/05/12/477758494/immigrants-rush-to-become-citizens-to-vote-against-trump",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/10/18/498441969/demographic-changes-spark-debate-over-immigration-in-nevada",
+            "link": "https://www.npr.org/2016/10/18/498441969/demographic-changes-spark-debate-over-immigration-in-nevada",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/03/20/471161667/arizona-primary-republicans-playing-immigration-policy-card-still-draws-voters",
+            "link": "https://www.npr.org/2016/03/20/471161667/arizona-primary-republicans-playing-immigration-policy-card-still-draws-voters",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/03/14/470427598/far-right-alternative-for-germany-party-gains-seats-in-regional-elections",
+            "link": "https://www.npr.org/2016/03/14/470427598/far-right-alternative-for-germany-party-gains-seats-in-regional-elections",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/02/18/467253408/nevada-millennials-push-candidates-to-address-issues-beyond-college-debt",
+            "link": "https://www.npr.org/2016/02/18/467253408/nevada-millennials-push-candidates-to-address-issues-beyond-college-debt",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/05/25/479420323/n-m-s-primary-could-predict-how-latinos-vote-in-november",
+            "link": "https://www.npr.org/2016/05/25/479420323/n-m-s-primary-could-predict-how-latinos-vote-in-november",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/01/13/462950389/cubans-rush-to-u-s-ahead-of-potential-changes-to-immigration-policy",
+            "link": "https://www.npr.org/2016/01/13/462950389/cubans-rush-to-u-s-ahead-of-potential-changes-to-immigration-policy",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/11/05/500843150/immigrants-temporarily-shielded-under-daca-worry-about-elections-consequences",
+            "link": "https://www.npr.org/2016/11/05/500843150/immigrants-temporarily-shielded-under-daca-worry-about-elections-consequences",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/09/13/493721808/venezuela-s-economic-downturn-causes-austerity-measures-in-cuba",
+            "link": "https://www.npr.org/2016/09/13/493721808/venezuela-s-economic-downturn-causes-austerity-measures-in-cuba",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/08/03/488568367/as-u-s-presidential-election-nears-mexicans-fear-economic-impact",
+            "link": "https://www.npr.org/2016/08/03/488568367/as-u-s-presidential-election-nears-mexicans-fear-economic-impact",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/10/20/498651997/the-third-presidential-debate",
+            "link": "https://www.npr.org/2016/10/20/498651997/the-third-presidential-debate",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2016/07/03/484602915/what-s-next-in-the-political-fight-over-immigration",
+            "link": "https://www.npr.org/2016/07/03/484602915/what-s-next-in-the-political-fight-over-immigration",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/19/505860058/obama-warns-trump-against-relying-on-executive-power",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/19/504998487/transcript-and-video-nprs-exit-interview-with-president-obama",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/24/503146277/support-pours-in-for-n-y-immigrant-after-post-election-harassment",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/13/501904167/feeling-left-behind-white-working-class-voters-turned-out-for-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2016/11/11/501747113/episode-735-president-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/11/11/501736867/de-nada-agenda-denied-for-latino-voters-a-narrative-changes-overnight",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/09/501513889/anti-trump-protests-break-out-in-cities-across-the-country",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501476980/undocumented-immigrants-face-uncertain-future-after-trump-win",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501205805/new-u-s-citizens-share-experiences-of-first-time-voting",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/19/498432527/across-a-divide-on-immigration-trump-inspires-hope-and-fear-in-a-changing-nevada",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/18/498442035/platform-check-clinton-trump-hold-polarized-positions-on-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/11/497091179/the-huddled-masses-and-the-myth-of-america",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/04/496597771/divided-states-four-arizona-voters-weigh-in-after-the-vp-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/28/495652224/-dearwashington-readers-share-personal-concerns-this-election",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/10/493427601/hillary-clintons-basket-of-deplorables-in-full-context-of-this-ugly-campaign",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/01/492196408/trump-makes-nice-in-mexico-talks-tougher-than-ever-just-hours-later-in-phoenix",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/31/492096565/fact-check-donald-trumps-speech-on-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/30/491804727/is-trump-flip-flopping-on-immigration-yes-or-no-its-sure-been-confusing",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/25/491337890/in-stunning-reversal-trump-suggests-hed-work-with-immigrants-in-us-illegally",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/22/490910889/to-be-determined-trump-campaign-signals-he-may-moderate-immigration-stance",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/12/489350032/borderland-trump-supporters-welcome-a-wall-in-their-own-backyard",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/06/488969887/how-new-citizens-and-first-time-voters-feel-about-the-2016-presidential-election",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/02/488358732/trump-tweets-support-for-lyin-ryan-house-challenger",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/26/487446722/first-night-speeches-at-the-democratic-convention",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/13/485895779/hispanics-poised-to-make-arizona-a-swing-state",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/03/484562997/new-rnc-head-of-hispanic-communications-on-trump-s-messaging",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/06/28/483873682/president-obama-defends-his-record-on-race",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/01/480335679/generation-politics-45-year-olds-share-experiences-that-shaped-their-views",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/19/478729060/donald-trump-likely-driving-latino-voter-registration-surge-in-california",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/01/476227049/republican-immigration-rhetoric-leaves-latino-population-feeling-disenfranchised",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/22/475172438/donald-trump-and-george-wallace-riding-the-rage",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/18/474376140/supreme-court-weighs-obamas-executive-action-on-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/09/469866027/watch-a-resurgent-sanders-looks-to-knock-down-clinton-in-tonights-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/03/03/469135116/the-11th-republican-presidential-debate-in-100-words-and-4-videos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/10/462433801/economy-and-immigration-whats-dividing-republicans",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/20/505743200/trumps-immigration-plan-could-undermine-promise-to-boost-economy",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/08/504856998/from-immigration-to-infrastructure-big-city-mayors-draw-up-wish-list-for-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2016/12/08/donald-trump-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/13/501921177/donald-trump-says-hell-deport-2-3-million-people-once-in-office",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/09/501437309/women-record-several-firsts-with-wins-in-u-s-senate-elsewhere",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2016/11/07/dreamers-med-school-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/08/03/488423946/reporting-while-brown-in-the-summer-of-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/07/06/484317524/the-code-switch-podcast-episode-7-youre-a-grand-old-flag",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/02/484420035/7-takeaways-14-top-cases-from-a-short-handed-high-court",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2016/06/06/trump-inroads-latinos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/04/21/473997323/racial-awakening-pride-and-fear-one-latino-perspective-on-the-obama-effect",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/22/471389565/for-many-young-latino-voters-issues-trump-political-party",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/10/469886012/democrats-debate-number-8-finds-rivals-in-familiar-grooves",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/25/468186701/and-then-there-were-5-the-republicans-debate-in-texas",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501382678/immigration-was-a-hot-button-issue-now-what",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/28/503558404/politics-in-the-news-transition-and-recount",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/11/24/503146992/after-trumps-election-uncertainty-for-syrian-refugees-in-the-u-s",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/11/10/501468031/somali-refugee-makes-history-in-u-s-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/12/08/504816164/history-making-somali-american-legislator-reports-hateful-taunts-in-d-c",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/11/15/502010346/for-refugees-and-advocates-an-anxious-wait-for-clarity-on-trumps-policy",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/18/496926243/from-the-economy-to-race-see-where-the-candidates-stand-on-the-big-issues",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2016/09/20/494620296/a-colorado-farm-helps-refugee-kids-put-down-roots-in-a-new-home",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/02/504174998/trump-returns-to-campaign-tone-in-first-post-election-rallies",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/22/506550234/international-manhunt-underway-for-tunisian-suspect-in-berlin-market-attack",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/21/506453643/more-than-a-month-since-election-day-but-trump-clinton-teams-cant-let-it-go",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/20/506337111/berlin-attack-sparks-debate-over-german-refugee-policy",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/12/04/504343185/austrias-far-right-presidential-candidate-loses-in-an-election-do-over",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/02/504146253/5-fact-checks-from-trumps-cincinnati-thank-you-tour-kick-off",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/30/503858023/2-new-works-confront-the-refugee-crisis-with-empathy-and-humanity",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/22/502980034/utica-n-y-which-welcomes-refugees-monitors-trumps-muslim-comments",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/alltechconsidered/2016/11/20/502567858/post-election-overwhelmed-facebook-users-unfriend-cut-back",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/18/502207098/trump-picks-sen-jeff-sessions-for-attorney-general",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/502402416/former-refugee-helps-others-arrving-to-america-at-jfk-airport",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/16/502344990/syrian-refugee-father-shares-his-story-with-help-of-u-s-veteran",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/13/501904223/young-republicans-roundtable-how-their-views-have-changed-after-election-of-dona",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/11/13/501600013/for-clues-to-trumps-national-security-policy-look-to-his-advisers",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/11/501633190/the-election-of-donald-trump",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/11/09/501445793/the-outlook-on-race-after-trump-victory-fear-resignation-and-d-j-vu",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501423970/how-trump-broke-campaign-norms-but-still-won-the-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/04/500634390/views-of-the-election-reconciling-values-votes-in-raleigh-n-c",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/03/500506308/michigan-community-clashes-over-embrace-of-immigrants",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/02/500274786/in-the-u-s-and-u-k-anti-establishment-voters-sound-similar-themes",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/10/14/497911789/vietgone-a-sex-comedy-about-mom-dad-and-refugee-camps",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/10/12/497063888/asian-americans-continue-to-drift-away-from-republicans-but-it-s-a-complicated-s",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/11/497563872/conservative-blogger-criticizes-gop-response-to-trumps-lewd-comments",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/03/496466007/federal-court-blocks-gov-pences-attempt-to-block-syrian-refugees-from-indiana",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/10/03/496376263/hungarian-referendum-on-refugees-is-overwhelming-but-invalid",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/02/496317237/hungarians-vote-against-eu-refugee-plan",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/02/496282817/hungary-votes-on-eu-mandatory-refugee-referendum",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/27/495576599/fact-check-first-presidential-debate",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/19/494619519/trump-clinton-prepare-to-face-off-in-first-presidential-debate-next-week",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/19/494619437/german-chancellor-angela-merkel-suffers-setback-in-regional-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/19/494619423/new-yorker-writer-imagines-donald-trump-as-president",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/09/19/494538052/top-stories-latest-in-new-york-area-bombs-russias-parliamentary-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/16/494284705/johnson-stein-officially-dont-make-the-presidential-debate-cut",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/15/493915412/inside-donald-trumps-stump-speech-annotated",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/13/493615864/when-it-comes-to-our-politics-family-matters",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/09/493266944/politics-podcast-that-televised-forum-a-tightening-race-and-the-campaign-trail",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/08/493157889/gary-johnson-asks-what-is-aleppo-in-morning-interview-gaffe",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/08/493098154/watch-in-morning-interview-gary-johnson-asks-what-is-aleppo",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/05/492674834/german-chancellors-party-has-poor-showing-in-her-home-state-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/04/492599456/germanys-anti-immigrant-party-challenges-angela-merkel-for-re-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/03/492549583/american-immigrants-consider-the-countrys-role-in-the-world",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/01/492288863/presidential-candidates-sharply-divided-over-nato",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/08/25/491311775/aid-worker-australian-treatment-of-migrants-in-nauru-is-a-stain",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/20/490738768/as-campaign-management-shakes-up-again-donald-trump-softens-his-tone",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/20/490619218/-nevertrump-candidate-mcmullin-envisions-a-country-of-understanding-and-respect",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/15/490120381/trump-proposes-new-ideological-test-for-some-visitors-and-immigrants",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/13/489883471/tone-deaf-trump-campaign-might-have-to-worry-about-utah",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/09/489262366/trump-adviser-says-one-of-the-gop-nominees-signature-plans-is-not-workable",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/08/489174101/meet-evan-mcmullin-the-nevertrump-movements-last-hope",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/08/488816816/donald-trump-looks-to-turn-the-page-on-bad-week-with-economic-speech",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/04/488722476/donald-trump-raises-confusion-concern-among-many-in-germany",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/30/488031365/5-takeaways-from-the-democratic-national-convention",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/24/487252170/green-partys-jill-stein-wants-to-be-plan-b-for-bernie-sanders-supporters",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/21/486883610/fact-check-donald-trumps-republican-convention-speech-annotated",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/20/486731446/meet-one-of-the-few-hispanic-faces-on-stage-at-the-rnc",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/18/486543063/trump-campaign-outlines-how-to-make-america-safe-again-on-first-night-of-rnc",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/15/485862409/donald-trump-and-vp-pick-pence-face-divide-on-womens-health-lgbt-issues",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/28/483854608/new-york-colorado-hold-key-primaries-in-fight-for-house-and-senate",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/25/483400958/from-brexit-to-trump-nationalist-movements-gain-momentum-around-world",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/24/483353866/make-britain-great-again-donald-trumps-remarkable-reaction-to-brexit",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/22/483100251/fact-check-trumps-speech-on-clinton-annotated",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/16/482362969/southern-baptist-convention-urges-churches-to-welcome-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/16/482268688/southern-baptists-split-with-trump-on-refugee-resettlement",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/13/481910989/trump-expands-immigration-ban-to-countries-with-proven-history-of-terrorism",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/10/481581448/clinton-trump-kick-off-general-election-with-very-different-pitches-to-their-bas",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/27/479696638/refugee-crisis-is-a-hot-button-issue-for-eu-voters",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/23/479129027/absentee-ballots-likely-to-decide-austrias-presidential-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/20/478886089/far-right-candidate-tops-first-round-of-austrian-presidential-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/05/11/477606220/top-stories-deadly-iraqi-car-bombing-primary-election-results",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/05/10/477334367/obama-gets-all-in-his-blackness-at-howard",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/04/476783606/presidential-candidates-offer-aggressive-strategies-to-combat-isis",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/18/474373351/in-close-race-unprecedented-push-for-asian-american-voters-comes-to-n-y",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/15/474407673/sanders-takes-his-message-to-the-vatican",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/26/471901535/refugees-rescue-german-politician-but-the-rhetoric-stays-the-same",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/17/470776620/5-years-of-war-in-syria-what-countries-need-to-support-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/13/470314380/new-german-law-delays-refugee-families-reuniting",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/12/470194261/german-anti-immigrant-party-gaining-election-momentum",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/11/470040254/naturalized-citizen-in-ohio-takes-voting-for-the-first-time-very-seriously",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/18/467229313/pope-says-trump-is-not-christian",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/07/465901829/australia-maintains-detention-policy-for-boat-traveling-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/31/465028555/what-young-republicans-have-to-say-about-their-partys-candidates",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/29/464811059/in-jacksonville-voters-feel-a-loss-of-control-over-the-presidential-election-pro",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/27/464558681/embedded-in-des-moines-a-times-reporters-year-covering-the-16-campaign",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/12/462821749/obama-set-to-deliver-final-state-of-the-union-address",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/04/461944996/gop-candidates-shift-focus-to-national-security-as-first-voting-nears",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/23/479207885/left-leaning-candidate-narrowly-wins-austrian-presidential-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/05/23/479174783/left-leaning-candidate-wins-austrias-presidential-election-barely",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/26/503416873/non-politicians-talking-politics-australian-radio-host-richard-glover",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/21/502841546/germanys-angela-merkel-62-will-seek-a-fourthterm-in-217",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2016/11/11/501579870/forced-out-of-crimea-tatar-restaurant-finds-solidarity-among-kiev-diners",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/21/479001681/austrian-far-right-party-plays-on-fear-of-criminal-migrants-in-campaigns",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/02/25/467989963/why-a-single-question-decides-the-fates-of-central-american-migrants",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/25/467020627/why-a-single-question-decides-the-fates-of-central-american-migrants",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/15/490037581/merkel-stakes-her-career-on-welcoming-middle-east-migrants",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/20/506263325/investigators-probe-wreckage-of-deadly-berlin-christmas-market-crash",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/20/506337121/democrats-face-difficult-path-forward-after-bruising-2016-election",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/12/09/504978897/this-week-in-race-racism-racism-and-to-salve-your-soul-john-legend",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/29/503620409/in-montana-an-unease-over-extremist-views-moving-out-of-the-woods",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/22/503032226/polls-suggest-americans-warming-to-donald-trump-but-with-reservations",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/20/502719871/energized-by-trumps-win-white-nationalists-gather-to-change-the-world",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/18/502616380/anti-trump-protesters-march-on-in-days-after-election",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/16/502301828/reports-of-turmoil-color-trumps-transition",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/16/502274776/election-result-vindicates-african-american-trump-supporter",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/14/502044316/obama-democratic-party-needs-to-reflect-show-up-everywhere",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501819288/president-elect-donald-trump-names-mike-pence-to-lead-transition-team",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/20/494751020/obama-at-u-n-reject-tribalism-home-and-abroad",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/25/491358661/clinton-trump-is-taking-hate-groups-mainstream",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/19/490671241/week-in-politics-trump-campaign-shake-ups",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/30/488027717/democratic-national-convention-flips-the-script-with-reagan-esque-themes",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/18/486427264/trumps-party-is-not-your-granddaddys-gop-but-its-been-building-over-time",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/05/484832465/trumps-words-and-tweets-spur-interest-in-white-supremacist-groups",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/01/483724724/the-purge-election-year-offers-a-vote-of-no-competence",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/28/483768326/obama-cautions-against-hysteria-over-brexit-vote",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/26/483587824/clinton-and-trump-channel-brexit-reactions-into-campaign-messaging",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/06/477072163/nationalism-v-conservatism-what-trumps-rise-means-for-the-gop",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/25/475551861/populist-candidates-appeal-to-voters-who-feel-theyre-unheard",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/04/469233608/week-in-politics-super-tuesday-gop-rift",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/22/506451640/normal-the-word-of-the-year-in-a-year-that-was-anything-but",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/15/505771432/weekly-roundup-thursday-december-15",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/27/503520811/the-white-nationalist-origins-of-the-term-alt-right-and-the-debate-around-it",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/17/502481148/u-s-hasnt-gone-too-fast-in-globalization-obama-says-in-berlin-visit",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/14/502013652/hundreds-of-hateful-incidents-reported-in-wake-of-trumps-victory",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/06/492775675/morehouse-professor-weighs-in-on-kareem-abdul-jabbars-voter-comments",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/05/02/476445162/the-man-at-the-center-of-iraqs-political-storm",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/03/21/471290845/amid-crackdown-in-turkey-dissatisfaction-with-president-erdogan-grows",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/12/505227792/members-of-black-lives-matter-gear-up-for-trumps-administration",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/20/502770866/ex-head-of-twitter-news-social-media-companies-alone-shouldn-t-regulate-fake-new",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/26/499440089/harassed-on-twitter-people-need-to-know-the-reality-of-what-its-like-out-there",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/502413784/journalist-says-steve-bannon-had-a-years-long-plan-to-take-down-hillary-clinton",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/27/483665262/politics-in-the-news",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/11/501679230/leading-voice-in-nevertrump-movement-says-it-s-hard-to-wipe-the-slate-clean",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/21/471233435/trump-promises-aipac-speech-will-outline-middle-east-plan",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/03/504274570/u-k-defense-secretary-looking-forward-to-working-with-mattis",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/08/504864999/muslim-jewish-advisory-council-bridges-religious-lines-to-fight-discrimination",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/16/505892953/longform-podcast-names-best-magazine-articles-of-2016",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/15/486208713/week-in-politics-terror-attack-in-france-trump-chooses-pence",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/24/483426141/week-in-politics-brexit-house-democrats-sit-in-over-gun-control",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/502448169/weekly-roundup-thursday-november-17",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502211121/republicans-consider-how-trump-has-changed-their-party",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/08/504806512/new-york-times-executive-editor-on-the-new-terrain-of-covering-trump",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/24/483385888/quick-take-brexit",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/14/501975670/trump-names-priebus-chief-of-staff-bannon-chief-strategist",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/19/502717935/trump-victory-leaves-u-n-officials-hoping-to-keep-climate-deal-in-place",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/07/492962278/sad-and-absurd-the-u-s-s-r-s-disastrous-effort-to-create-a-jewish-homeland",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/25/491345326/weekly-roundup-thursday-august-25",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/25/475551926/this-week-in-politics-5-states-hold-primaries-on-tuesday",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/11/17/502400825/top-stories-trump-on-immigration-anti-trump-protests-continue",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2016/10/12/us-mexico-border-lookouts",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/31/492124288/the-weekend-edition-staff",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/26/491531862/before-migrants-reach-u-s-mexico-deports-central-americans",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/29/499899395/american-argues-mexicans-can-make-america-great",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/14/497911747/trump-uses-ohio-rally-to-bring-up-clinton-s-leaked-emails-private-server",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/12/02/502455950/this-week-in-race-dog-whistles-dreamers-and-dead-dictators",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/502402402/protests-against-trumps-election-continue-across-the-country",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/501582824/charts-heres-what-donald-trump-has-said-on-the-issues",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/14/502050934/obama-holds-first-news-conference-since-election-of-trump",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/24/490100087/newly-american-dreamers-are-torn-between-love-and-disappointment",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/18/490558406/watch-donald-trump-expresses-regret-for-sometimes-saying-the-wrong-thing",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/27/487577944/julian-castro-on-obamas-legacy-latino-voter-turnout",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/15/486188836/we-now-know-what-the-democratic-convention-will-look-like",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/01/482943749/the-obama-years-views-on-a-presidency-across-america",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/17/467115506/democratic-candidates-look-to-capture-diverse-base-in-nevada",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/15/466848831/scalias-death-brings-supreme-court-into-spotlight-of-presidential-race",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/20/463730125/-top-secret-email-revelation-changes-nothing-clinton-says",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/03/461192533/prepping-for-daca-s-last-year",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/08/504760612/as-he-leaves-the-senate-harry-reid-says-hes-hopeful-on-trump",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/05/504467169/university-of-california-pledges-to-fight-trump-on-immigration-policy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/25/503361254/after-criticizing-trump-miami-gop-congressman-prepares-to-work-with-him",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/20/502770885/u-s-immigrant-youths-fear-deportation-under-trump",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/10/501537335/latino-votes-for-clinton-didnt-offset-trumps-support",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/01/488173223/beyond-bright-lights-jay-mcinerney-reveals-the-trials-of-a-perfect-couple",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/05/476743466/novelist-richard-russo-i-find-myself-now-having-lived-the-american-dream",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2016/04/24/475273719/still-would-stand-all-time-notes-on-prince",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/20/463748438/transcript-nprs-interview-with-hillary-rodham-clinton",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/12/462831088/president-obama-state-of-the-union-transcript",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/10/462581269/5-things-to-watch-for-in-obamas-final-state-of-the-union",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/26/499517019/wednesday-october-26",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/20/494684774/clinton-and-trump-poll-poorly-with-voters-under-35-research-shows",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/09/462481085/as-his-final-state-of-union-nears-looking-at-obamas-legacy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502111381/immigration-and-border-security-top-president-elect-trump-s-to-do-list",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/11/470137614/weekly-roundup-friday-march-11",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/08/485256168/-1628-who-is-an-american",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/23/503182731/university-of-michigan-weighs-how-to-handle-student-concerns-post-election",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502165973/ex-breitbart-executive-brings-alt-right-ties-to-the-white-house",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/31/500115391/historically-conservative-ohio-newspapers-endorse-hillary-clinton",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/11/497563949/rabbis-consider-presidential-election-in-yom-kippur-sermons",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/15/493915186/how-does-basket-of-deplorables-play-in-the-real-world",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/24/491242682/campaign-2016-analysis-minority-outreach-marks-shift-in-trump-strategy",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/04/488518658/clinton-republicans-trump-democrats-see-whos-defecting-this-election",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/03/488568418/hillary-clinton-uses-billionaire-supporters-to-undermine-donald-trump",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/17/486359447/how-is-turbulent-climate-that-rocked-68-democratic-convention-different-from-tod",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/29/484087513/obama-globalization-is-here-and-done",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/29/483986743/obama-trump-brexit-vote-both-tap-into-fear-of-funny-looking-people",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/19/482706167/a-moral-obligation-to-protest-trump-says-michael-eric-dyson",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/13.7/2016/11/24/502845662/giving-thanks-for-animals-and-those-who-help-them",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/11/18/502199116/who-should-do-the-hard-work-of-being-the-race-ambassador",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/16/502338446/americas-forgotten-hear-trumps-economic-battle-cry-but-will-he-deliver",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/14/502021122/bernie-sanders-calls-for-fundamental-reassessment-of-democratic-party",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/20/494585814/spurning-trump-self-styled-conservative-gatekeeper-finds-himself-on-the-margins",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/19/494538524/in-germany-far-right-party-strikes-a-blow-to-angela-merkes-ruling-party",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/01/483273808/nprs-interview-with-president-obama-about-obamas-years",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/06/25/483362200/brexit-whats-race-got-to-do-with-it",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2016/06/13/481859852/what-queer-latinos-are-saying-about-the-orlando-shooting",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/08/468941984/unnerving-wwii-noir-in-a-man-lies-dreaming",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/22/502980027/brock-launches-donor-network-to-rebuild-the-left-after-trumps-victory",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/25/475551905/italians-concerned-by-austrias-plan-to-add-border-controls",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/12/493651289/quick-take-clintons-health-basket-of-deplorables",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/12/470228206/barbershop-the-campaign-creep-and-how-to-handle-politics-in-relationships",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/publiceditor/2016/11/15/501463352/nprs-election-coverage-a-review-and-wrap-up",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/13/501904202/trump-election-revealed-division-among-evangelicals",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501704004/after-trump-victory-many-bernie-sanders-supporters-say-i-told-you-so",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/14/497983015/some-business-owners-say-this-election-makes-campaign-signs-worth-the-risk",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/05/496754919/the-atlantic-endorses-hillary-clinton-for-president",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/01/496196000/authors-talk-politics-junot-diaz-on-election-2016",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/12/493681762/trump-blasts-clintons-deplorables-comment-in-asheville-n-c",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/12/493654957/trump-responds-to-clintons-comments-about-his-supporters",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/12/493654922/hillary-clinton-stumbles-after-reluctance-to-address-health-issues",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/11/493491928/clinton-turns-to-generalizations-trump-plays-well-with-conservative-christians",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/05/488836402/asked-about-black-friends-clinton-says-shes-blessed-to-have-a-crew",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/31/488122747/donald-trump-campaign-to-focus-on-black-voter-outreach",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/05/476780660/just-how-ugly-will-the-general-election-be-here-s-a-preview",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/07/04/484187757/after-brexit-another-european-referendum-looms",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2016/06/22/483142244/episode-707-brexit",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/26/479561196/why-elizabeth-warren-is-an-effective-messenger-for-progressive-democrats",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/12/497715235/immigrant-turned-successful-businessman-invests-in-the-middle",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/09/469767648/sanders-narrowly-defeats-clinton-in-michigan-she-wins-miss-primary",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/22/486999056/in-his-acceptance-speech-trump-promises-to-restore-safety",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/09/459969899/quick-take-what-happened-in-nevada-and-south-carolina",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/13/497857068/transcript-donald-trumps-speech-responding-to-assault-accusations",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/10/493436468/trump-pence-make-their-pitch-to-christian-conservatives",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/02/468937739/as-trump-ascends-journalists-struggle-to-characterize-his-rhetoric",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/30/464995795/roundtable-donald-trumps-media-tactics",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/28/483890275/the-innocent-have-nothing-to-fear-echoes-real-life-republican-race",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/15/494164093/weekly-roundup-thursday-september-15",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/13/497868487/weekly-roundup-thursday-october-13",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2016

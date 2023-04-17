@@ -1,0 +1,734 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2008/04/17/89732552/more-issues-less-horse-race-say-female-voters",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/26/89121141/bumper-stickers-simple-cheap-and-effective",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/07/96735174/is-black-america-ready-for-a-black-president",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/visibleman/2008/11/is_black_america_ready_for_a_b_1.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/24/18372963/global-leaders-discuss-womens-role",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/01/90102916/will-voter-id-law-disenfranchise-voters",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/28/90889667/roundtable-gop-minority-recruitment-lagging",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/25/91884410/roundtable-poll-reveals-americans-racial-attitudes",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89871089/mccain-settles-in-as-unchallenged-gop-candidate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/22/89851554/mccain-woos-november-voters-as-dems-battle",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/22/19266657/mass-law-uncovers-more-uninsured-than-expected",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/11/96869356/president-elect-policies-what-to-expect",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/10/96817462/op-ed-why-black-voters-didnt-fight-prop-8",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/10/88030713/new-italy-sings-same-old-song-of-dysfunction",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/06/96706875/roundtable-bipartisan-reaction-to-election-2008",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96643808/elation-skepticism-as-world-reacts-to-obama-win",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96643788/chinese-seem-blase-toward-u-s-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/28/96214396/a-dream-team-cabinet-for-new-white-house",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/17/95843538/obamas-evolution-from-organizer-to-politician",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/07/95470369/what-would-you-ask-the-presidential-candidates",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/08/94389779/defining-mccains-international-priorities",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/04/94302894/transcript-john-mccains-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93898277/1968-chicago-riot-left-mark-on-political-protests",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/08/92334322/john-edwards-still-has-work-to-do",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/02/92138264/obama-mccain-reach-out-to-evangelicals",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/12/91415097/obamas-chief-vp-selector-resigns-under-criticism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/13/88177009/huckabee-gop-can-come-together-in-fall",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/15/19096637/green-collar-jobs-and-the-presidential-campaign",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/31/18567451/giuliani-edwards-bail-on-presidential-race",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/30/18544214/political-junkie-parsing-primary-results",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/25/18427589/democrats-await-outcome-of-s-carolina-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/25/18418858/edwards-says-hes-in-it-for-the-long-haul",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/02/17781654/tensions-in-kenya-follow-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/01/17764981/post-election-kenya-violence-claims-more-lives",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/01/17761574/death-toll-rises-in-election-violence-in-kenya",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/14/95695996/republicans-acorn-spar-over-voter-registration",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/27/94045962/transcript-bill-clintons-prime-time-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/18/98455533/obama-and-the-politics-of-being-biracial",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/08/97940375/excerpt-the-tribes-of-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/06/96700243/thirteen-books-that-shaped-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/21/95941657/madeleine-albrights-memo-to-the-president",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/31/93112319/africa-rising-brings-its-runway-to-d-c",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/16/92561906/a-manifesto-for-young-republicans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/30/92043788/anglican-conservatives-step-back-from-split-threat",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/30/92029251/new-orleans-aftermath-provokes-singers-ire",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/23/91794525/mayors-gathering-focuses-on-urban-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/08/90268555/u-s-pressures-yemen-to-crack-down-on-militants",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/04/89381997/reporters-roundtable-zimbabwe-vote-king-legacy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2008/03/barack_obama_delivers_major_sp.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/18/88473796/obama-forced-to-address-relationship-with-pastor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/04/49328288/susan-jacoby-attacks-american-unreason",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/18/19148444/final-day-of-campaigning-in-wisconsin",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/02/17781657/priest-observes-kenyan-violence",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/02/17774156/kenyan-leaders-pressured-to-end-violence",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/22/95989157/competition-between-iraqi-shiites-gains-strength",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/05/17872712/georgia-voters-hand-president-another-term",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/12/18/98455548/rick-warren-to-deliver-inaugural-invocation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/10/94453547/chancellor-shakes-d-c-schools-with-aggressive-reform",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/02/90127353/pakistan-holds-peace-talks-with-tribal-leaders",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/29/93025154/africa-update-new-u-s-sanctions-for-zimbabwe",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/07/93381628/how-does-comedy-influence-politics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/24/96105726/whats-next-in-the-presidential-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/17/88382492/clinton-obama-battle-rages-gop-immigration-gap",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96649317/mark-sawyer-on-implications-of-obamas-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/11/05/96644856/economy-a-critical-issue-for-ohio-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/31/96403107/undecided-voter-explains-dilemma",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/30/96329328/what-mccain-needs-in-pennsylvania",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/24/96083826/what-state-polls-show-about-the-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/23/96019316/obama-rebuts-criticism-of-his-tax-plan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/21/95924770/obama-gets-campaign-help-from-rays-hillary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/16/95780692/final-presidential-debate-intense",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/15/95748791/reliably-gop-states-still-in-play-in-presidential-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/14/95702888/mccain-unveils-economic-plan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/11/95606864/voters-take-measure-of-candidates-tax-plans",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/10/95613646/obama-chides-mccain-on-economy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/10/95591135/union-leader-confronts-race-issue-in-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/10/02/95297635/pennsylvania-county-considers-prejudices-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/24/95003297/hispanic-vote-may-tip-the-balance-in-colorado",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/18/94748532/mccain-courts-michigans-working-class-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/14/94603540/new-hampshire-back-in-campaign-spotlight",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/10/94471537/palin-media-frenzy-rocks-both-campaigns",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/10/94449399/traveling-in-ohio-va-obama-pans-bushs-iraq-plan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/09/94418711/electoral-map-shifts-in-conventions-wake",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/08/94394573/after-conventions-mccain-takes-lead-in-some-polls",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/06/94352718/on-the-trail-with-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/03/94244003/republican-moderates-reflect-on-place-in-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/03/94243969/gops-huckabee-has-advice-for-mccain-palin",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/09/03/94239583/black-republicans-explain-their-gop-loyalty",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/28/94076297/mccain-vp-pick-may-steal-obama-thunder",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93954220/curtain-rises-on-democrats-gathered-in-denver",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93937969/achieving-democratic-unity-in-denver",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93932120/pelosi-democrats-must-reach-the-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/25/93927843/obamas-challenge-sell-mile-high-vision-to-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93906345/clinton-delegate-biden-a-great-choice",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93906342/analysis-biden-choice-shows-obamas-pragmatism",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93906339/obama-selects-biden-for-democratic-ticket",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93903313/biden-strong-on-foreign-policy-national-security",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/23/93902534/barack-obama-chooses-sen-joseph-biden-for-vp",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/22/93890815/obama-keeps-nation-guessing-on-running-mate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/08/13/93575211/new-poll-shows-obama-losing-ground",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/24/92864146/scotland-election-a-key-test-for-british-pm-brown",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/22/92768054/with-obama-away-mccain-polishes-domestic-plans",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/11/92445084/fallout-measured-as-jackson-apologizes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/07/92278856/mccain-obama-battle-for-latino-voters-accelerates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/07/03/92178049/ex-bush-spokesman-tapped-to-focus-mccain-camp",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/13/91479424/candidates-strongly-differ-on-how-to-tax-the-rich",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/09/91327126/mccain-pushes-obama-for-townhall-sessions",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/09/91327123/obama-discusses-economy-in-n-c",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/07/7103513/sen-hillary-clinton-ny",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/06/91240915/the-battle-for-the-white-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/05/91181124/as-democratic-race-ends-mccain-back-in-spotlight",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/04/91155927/politician-inspired-by-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/06/04/91155924/clinton-supporter-predicts-shell-concede-soon",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/28/90889660/does-obama-need-the-rural-working-class-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/23/90755777/mccain-obama-start-search-for-running-mates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/22/90714720/local-u-k-election-may-signal-trouble-for-brown",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/21/90696947/dissecting-what-went-wrong-for-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/21/90694373/obama-camp-deal-on-delegates-possible",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/21/90664411/no-suprise-obama-takes-delegate-majority",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/19/90584044/obama-clinton-continue-campaigning-in-ky-ore",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/18/90555893/poll-rural-voters-not-reliably-republican-in-2008",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/15/90477013/john-edwards-makes-barack-obama-his-choice",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/14/90452417/edwards-backs-obama-for-democratic-nomination",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/13/90381052/clinton-easily-wins-west-virginias-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/12/90365887/monday-morning-politics-update",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/07/90232493/obama-wins-n-carolina-clinton-takes-indiana",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/05/90180148/analysis-democrats-attack-mccain-kicks-back",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/05/90179747/who-is-north-carolina-a-pre-primary-tour",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/04/90167603/democratic-presidential-battle-moves-to-n-carolina",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/05/01/90090659/clinton-keeps-cool-on-foxs-oreilly-factor",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/28/89990585/political-wrap-up-barack-obama-on-fox-news",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/25/89934160/obamas-ex-pastor-to-address-detroit-naacp",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/25/89934157/mccain-takes-message-to-poor-democratic-areas",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/24/89905062/mccain-asks-n-c-gop-to-pull-ad-attacking-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/24/89904789/are-white-men-the-soccer-moms-of-2008",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89886717/loss-highlights-potential-weaknesses-for-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89886010/undecided-superdelegate-weighs-candidates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89871083/trailing-in-money-votes-clinton-gains-momentum",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89870735/clinton-says-after-pa-win-shell-carry-on",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/23/89851118/clinton-wins-but-dynamics-of-the-race-stay-same",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/21/89803649/clinton-courts-women-working-class-voters-in-pa",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/21/89803218/analyst-clinton-needs-big-win-to-avoid-devastation",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/18/89750285/michelle-obama-candor-controversy-on-the-stump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/17/89713255/update-on-the-presidential-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/16/89695217/pennsylvania-primary-debate-previewed",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/16/89675875/whats-up-with-pa-a-voters-tour",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/14/89612885/obama-and-clinton-angle-for-pennsylvania-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/13/89604711/reaction-to-obamas-bitter-comment-brews",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/11/89551845/lunch-bucket-democrats-key-in-pa-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/04/89362895/swing-voters-in-the-heart-of-pennsylvania",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/04/03/89327051/bill-clintons-legacy-looms-over-pittsburgh-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/20/88689984/politics-roundtable-race-documents-mideast-gaffe",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/19/88610123/mccainism-could-set-a-radical-path-for-the-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/19/88607209/obama-talks-race-mccain-talks-iraq",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/18/88512159/how-will-obama-race-speech-affect-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/09/88025653/mississippi-voters-to-cast-ballots-in-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/09/87931972/whats-next-for-the-democratic-candidates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/05/87928793/risks-for-clinton-obama-in-defeating-each-other",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/05/87913533/tight-democratic-race-called-good-for-the-country",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/03/87868917/candidates-woo-texans-on-eve-of-primaries",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/03/87865555/candidates-blitz-on-eve-of-four-state-contests",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/02/87843443/clinton-campaigns-in-crucial-state-of-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/03/01/87823931/rhode-island-refuses-to-be-overshadowed-march-4",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/29/87792129/whats-the-deal-with-rhode-island-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/28/87775210/in-texas-clintons-hopes-rest-with-hispanics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/26/38241288/rhode-island-and-vermont-secondary-primaries",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/22/19289521/30-second-ad-can-say-a-lot-about-a-candidate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/22/19287645/catholics-a-key-voting-bloc-in-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/20/19200400/the-state-of-the-election-momentum-and-rhetoric",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/20/19182215/obama-mccain-triumph-look-ahead-to-march",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/17/19128162/democrats-warm-up-wisconsin-for-next-contest",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/15/19096600/democrats-eye-working-class-white-men",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/15/19072201/battle-for-delegates-continues",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/12/18822305/whats-at-stake-in-the-potomac-primaries",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/11/18873236/voting-blocs-shape-obama-clinton-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/02/04/18672627/huckabee-rallies-for-a-boost-from-southern-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/25/18409472/gop-hopefuls-push-tax-cuts-at-florida-debate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/23/18335120/fact-checking-clinton-obamas-political-sparring",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/18/18228021/reports-from-the-campaign-trail-nevada",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/18/18227334/clinton-critiques-bush-obama-on-economy-taxes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2008/01/17/18176861/democrats-woo-labor-minorities-in-nevada",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2008
+}

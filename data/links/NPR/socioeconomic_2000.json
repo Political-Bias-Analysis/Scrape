@@ -1,0 +1,18 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2000/01/19/1069344/clinton-health-care",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2000/07/06/1076283/white-working-class-as-swing-voters",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2000
+}

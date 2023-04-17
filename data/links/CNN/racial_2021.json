@@ -1,0 +1,1775 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "CRT",
+        "BLM"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2021/12/24/us/idaho-sheriff-disparaging-comments-native-americans/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/29/us/jussie-smollett-how-we-got-here/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/02/us/black-parents-and-critical-race-theory/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/26/us/waukesha-car-parade-prosecutor-bail-reform/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/20/us/angry-white-men-trials-blake-cec/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/07/us/wilmington-north-carolina-massacre-funeral-joshua-halsey/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/07/us/police-reform-moderation/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/us/five-things-november-5-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/02/us/five-things-november-2-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/16/us/boston-mayoral-race-city-history-black-residents/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/04/us/census-browning-of-america-myth-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/28/us/voting-rights-march-civil-rights-leaders/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/28/us/march-on-for-voting-rights-what-to-know/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/11/us/texas-law-critical-race-theory-latinos/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/18/us/nelson-mandela-birthday-lessons-for-us-politics-today/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/02/us/five-things-july-2-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/23/us/march-on-washington-2021/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/18/us/five-things-june-18-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/01/us/five-things-june-1-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/18/us/george-floyd-racial-reckoning-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/24/us/civil-rights-leaders-george-floyd-impact/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/05/us/critical-race-theory-southlake-carroll-isd-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/16/us/tamir-rice-reopen-investigation/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/05/us/arab-american-heritage-month/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/31/us/five-things-march-31-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/30/us/children-mlk-lewis-ct-vivian-condemn-voting-law/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/29/us/georgia-voting-law-sports-events/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/28/us/georgia-voting-jim-crow-slave-narratives/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/27/us/growing-up-asian-american-in-us/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/08/us/race-relations-george-floyd-poll/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/23/us/ahmaud-arbery-one-year-anniversary/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/16/us/black-church-pew-pbs-moment/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/15/us/kamala-harris-interracial-marriage-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/opinions/biden-racial-unity/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/25/us/black-us-senators-history-trnd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/us/biden-racial-unity-leaders/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/us/give-send-go-extremism-invs/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/us/georgia-black-voters-future/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/kenosha-jacob-blake-09-03-2020/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/kenosha-jacob-blake-09-01-2020/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/us/capitol-riot-racial-justice-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/16/us/atlanta-synagogue-warnock-cyber-attack/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/15/us/capitol-insurrection-threat-states/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/us/capitol-riots-black-lives-matter-cori-bush/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/us/bryan-monroe-obituary/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/09/us/capitol-hill-insurrection-extremist-flags-soh/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/28/politics/january-6-portland-unrest-compare-judges/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/26/politics/republicans-trump-2021-lies/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/12/politics/fact-check-nc-senate-mccrory-attack-ad-trump-romney-blm/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/11/politics/january-6-capitol-riot-punishments-jail/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/30/politics/atlanta-mayor-race-andre-dickens/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/22/politics/peter-welch-leahy-vermont-senate-run/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/20/politics/redistricting-maps-gerrymandering-what-matters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/04/politics/north-carolina-congressional-map-redistricting/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/politics/trump-election-voters-2021-what-matters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/02/politics/virginia-exit-polls/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/election-day-results-11-02-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/02/politics/voting-republican-trump-support-what-matters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/02/politics/virginia-governor-race-nationalization/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/01/politics/donald-trump-january-6-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/31/politics/virginia-governor-race-republican-gains-2022/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/30/politics/donald-trump-game-4-world-series-braves-astros/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/26/politics/virginia-toni-morrison-beloved-mcauliffe-youngkin/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/politics/texas-redistricting-senate-voting-rights/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/21/politics/garland-house-judiciary-testimony-takeaways/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/politics/garland-bannon-criminal-referral-house-january-6/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/18/politics/colin-powell-dies/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/18/politics/biden-colin-powell-statement/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/17/politics/emerging-republican-senate-majority/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/17/politics/medicare-medicaid-obamacare-reconciliation-bill/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/14/politics/us-united-nations-human-rights-council/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/09/politics/mitch-mcconnell-merrick-garland-what-public-schools-teach-threats/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/07/politics/glenn-youngkin-parental-rights-education-strategy/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/04/politics/judge-tanya-chutkan-capitol-riot/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/02/politics/redistricting-maps-gerrymandering-what-matters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/25/politics/voter-suppression-white-people-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/23/politics/massachusetts-governor-democratic-primary/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/17/politics/north-carolina-court-blocks-voter-id-law/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/boston-mayors-race-historic/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/donald-craighead-dnc-charged/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/14/politics/department-of-homeland-security-memo-january-6/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/13/politics/donald-trump-white-house-2024-divisive/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/12/politics/cnn-poll-donald-trump-republicans/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/09/politics/redistricting-justice-department-voting-rights-act-preclearance/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/08/politics/legal-help-election-officials-threats-2020/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/08/politics/pro-chinese-disinformation-operation-coronavirus-pandemic-protests/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/04/politics/gen-z-running-for-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/27/politics/texas-voting-bill/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/26/politics/capitol-police-officers-sue-donald-trump-rally-organizers/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/24/politics/john-lewis-voting-rights-advancements-act-house/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/17/politics/2020-census-red-states-blue-cities/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/17/politics/capitol-rioters-defiant-guilty-pleas/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/16/politics/kristen-clarke-house-judiciary-voting-rights-testimony/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/13/politics/how-the-2020-census-explains-donald-trump/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/census-2020-results-08-12-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/11/politics/congress-democrats-john-lewis-voting-rights-supreme-court/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/10/politics/democrats-blue-collar-voters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/08/politics/joe-manchin-voting-rights-young-people/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/05/politics/texas-special-session-federal-voting-legislation/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/05/politics/california-recall-debate-republicans/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/03/politics/ohio-special-elections-what-to-watch/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/01/politics/voting-rights-blunder-democrats-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/27/politics/january-6-select-committee-hearing/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/jan-6-house-select-committee-hearing-07-27-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/27/politics/takeaways-january-6-committee/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/23/politics/what-matters-vaccines-masks-delta-variant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/22/politics/texas-senate-bill-critical-race-theory-abbott/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/22/politics/voter-suppression-race-deconstructed-newsletter/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/14/politics/house-select-committee-first-hearing-democrats-capitol-police/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-speech-voting-rights-07-13-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/13/politics/donald-trump-books-last-days-2020/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/for-the-people-act-vote-06-22-2021/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/12/politics/texas-democrats-washington-voting-rights/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/13/politics/religion-politics-divide/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/08/politics/critical-race-theory-panic-race-deconstructed-newsletter/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/07/politics/hillary-clinton-voting-rights-oped/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/02/politics/manhattan-da-race-alvin-bragg/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/02/politics/john-roberts-voting-rights-act/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/politics/supreme-court-6-3-conservative-liberal/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/politics/what-supreme-court-rulings-mean-for-voters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/politics/voting-rights-act-supreme-court-ruling/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/politics/2020-election-pew-study/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/politics/cruelty-adam-serwer-book-race-deconstructed-newsletter/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/28/politics/trump-book-bombshells-delusions/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/29/politics/breyer-retirement-plans/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/24/politics/bender-book-trump-milley-protests/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/joe-biden-crime-speech-06-23-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/23/politics/capitol-rioter-sentenced/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/22/politics/what-matters-voting-rights/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/22/politics/primary-election-day-2021-nyc/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/22/politics/the-pandemic-has-changed-america/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/21/politics/congress-week-ahead-voting-rights-infrastructure-policing/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/20/politics/voting-rights-joe-manchin-bernie-sanders-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/17/politics/racial-inequity-legislation-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-signs-juneteenth-bill/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/17/politics/stacey-abrams-joe-manchin-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/17/politics/black-voters-matter-fund-bus-tour-voting/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/01/politics/supreme-court-obamacare-lgbtq-religious-freedom-voting-laws/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/16/politics/joe-manchin-voting-rights-talks/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/15/politics/moderates-win-presidency-southern-baptist-convention/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/14/politics/congress-week-ahead-infrastructure-voting-rights-police-reform/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/08/politics/barack-obama-donald-trump-democracy/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/07/politics/obama-fatherhood-leadership-legacy-political-landscape-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/06/politics/activists-running-for-office-george-floyd/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/02/politics/voting-rights-supreme-court-arizona/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/02/politics/american-democracy-gop-trump-democrats-biden/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/28/politics/week-in-review-george-floyd-infrastructure-january-6-commission/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/27/politics/andrew-yang-new-york-daily-news-cartoon-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/25/politics/marjorie-taylor-greene-holocaust-outrage/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/24/politics/biden-condemns-attacks-jewish/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/25/politics/abortion-mississippi-supreme-court-culture-war/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/23/politics/republicans-extremists-worse-than-2012/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/18/politics/voting-rights-bills-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/17/politics/sunrise-movement-nina-turner-ohio-11th-district-special-election/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/15/politics/us-political-party-split-history/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/08/politics/black-voter-suppression/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/07/politics/fact-check-florida-elections-law-desantis-drop-boxes-id-applications/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/02/politics/elizabeth-warren-book-2020/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/29/politics/biden-social-plan-fdr-lbj/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/28/politics/brendan-hunt-guilty-threatening-assault-murder-members-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/28/politics/tim-scott-republican-response-biden-address-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/28/politics/tim-scott-spotlight-policing-reform/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/25/politics/new-voting-restrictions-advance-in-more-states/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/25/politics/supreme-court-obamacare-voting-rights-religious-liberty/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/25/politics/biden-elected-race-uniting-country-analysis/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/22/politics/virginias-jennifer-mcclellan-wins-support-from-prominent-donors-in-bid-to-become-nations-first-black-female-governor/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/21/politics/new-york-bill-voting-rights/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/21/politics/joe-biden-derek-chauvin-trial-verdict/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/20/politics/black-women-mayors-historic-wins/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/20/politics/maxine-waters-kevin-mccarthy-minnesota-police/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/19/politics/maxine-waters-derek-chauvin-blm/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/10/politics/pennsylvania-senate-democratic-primary/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/09/politics/judges-reagan-clinton-trump-biden/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/06/politics/stephen-breyer-harvard-speech/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/03/politics/voting-rights-expansion-democratic-states/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/31/politics/virginia-voting-rights-act-ralph-northam/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/30/politics/john-lewis-graphic-novel/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/29/politics/georgia-second-lawsuit-voting-law/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/28/politics/raphael-warnock-biden-voting-rights-infrastructure-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/28/politics/voting-rights-georgia-souls-polls-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/27/politics/supreme-court-georgia-voting-law-john-roberts-shelby-county/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/georgia-voting-restrictions-bill-03-25-21/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/26/politics/georgia-voter-suppression-law-trump-biden/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/politics/georgia-state-house-voting-bill-passage/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/23/politics/kim-janey-boston-mayor-first-black-woman/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/20/politics/march-madness-analysis/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/20/politics/republican-voting-analysis/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/20/politics/us-china-friction-ahead/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/18/politics/charles-ramsey-ron-johnson-capitol-riot-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/16/politics/stimulus-bill-democrats-blue-collar-voters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/15/politics/ron-johnson-blm-antifa/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/09/politics/georgia-senate-bill-voting/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/05/politics/cnn-analysis-weekend-voting-restrictions-in-georgia-would-strike-at-black-voters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/02/politics/supreme-court-brnovich-v-dnc-case-analysis-john-roberts/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/01/politics/voting-rights-act-supreme-court-section-2/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/02/politics/voting-rights-bill-millennials-generation-z/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/02/politics/voting-rights-act-supreme-court-oral-arguments/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/capitol-riot-house-hearing-02-25-20/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/22/politics/steve-scalise-quote-donald-trump/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/19/politics/election-officials-lose-and-leave-jobs/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/17/politics/ku-klux-klan-act-lawsuit-trump/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/17/politics/biden-town-hall-voters-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/13/politics/what-matters-february-12/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/12/politics/fact-check-trump-defense-impeachment-trial/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/10/politics/republican-senators-trump-impeachment/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/11/politics/lincoln-citizenship-americas-path-forward/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/07/politics/pressley-white-supremacy-capitol-riot-trump-cnntv/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/07/politics/biden-republican-opposition/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/04/politics/young-progressives-run-for-office/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/02/politics/fact-check-meidastouch-marco-rubio-capitol/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/01/politics/virginia-gop-governors-race-2021/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/27/politics/president-biden-coronavirus/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/26/politics/north-carolina-2022-senate-race-jeff-jackson/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/24/politics/trump-worst-abuses-of-power/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/20/politics/black-women-celebrate-kamala-harris/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/20/politics/biden-inauguration-day-analysis/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/20/politics/kamala-harris-inauguration-racial-justice-white-supremacy/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/biden-covid-victims-memorial/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/extremist-groups-military-coordination-capitol-riot/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/19/politics/cnn-poll-biden-favorability/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/politics/kamala-harris-resigns-senate/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/politics/us-government-prepares-for-extremists/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/12/politics/mississippi-new-state-flag-flown/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/11/politics/justice-democrats-endorse-nina-turner-ohio-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/10/politics/black-southerners-political-power-blake/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/10/politics/stephen-breyer-biden-supreme-court/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/politics/capitol-riot-viewer-reaction/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/politics/donald-trump-impeachment-capitol-riot/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/07/politics/georgia-election-wins-biden/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/what-matters-january-6/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/warnock-ossoff-black-georgia-voters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/georgia-senate-runoff-election-results/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/merrick-garland-biden-attorney-general/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/black-voter-turnout-georgia-senate-runoff/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/03/politics/georgia-politics-jimmy-carter-joe-biden/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/06/politics/voter-registration-voting-rights-act/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/29/opinions/harry-reid-moment-against-democrat-establishment-axelrod/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/28/opinions/crime-wave-test-democrats-republicans-2022-ghitis/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/03/opinions/stacey-abrams-2022-governor-georgia-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/28/opinions/2024-coup-douglas/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/25/opinions/conviction-in-murder-of-ahmaud-arbery-mcmichael-bryan-bailey/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/21/opinions/the-last-big-covid-mystery-weekly-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/19/opinions/build-back-better-biden-messaging-zelizer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/07/opinions/the-hurricane-thats-12-months-away-weekly-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/06/opinions/democrats-virginia-racism-history-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/opinions/democrats-build-an-ark-virginia-election-2021-begala/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/31/opinions/timely-message-from-the-fly-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/17/opinions/trump-cant-always-get-what-he-wants-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/16/opinions/defund-the-police-question-ballot-minneapolis-democrats-wierson/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/22/opinions/biden-un-speech-agenda-hard-to-carry-out-miller/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/15/opinions/republican-strategy-fail-larry-elder-yang/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/02/opinions/voting-rights-crumbling-american-infrastructure-johnson/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/30/opinions/joe-biden-texas-voting-rights-lesson-orourke/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/01/opinions/arizona-voter-access-supreme-court-blow-douglas/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/28/opinions/stokely-carmichael-80th-birthday-india-walton-blm-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/23/opinions/homicide-rates-crime-law-and-order-biden-democrats-zelizer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/22/opinions/voting-rights-democracy-death-spiral-arnwine-barber-hair-jackson/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/21/opinions/stacey-abrams-joe-manchin-voting-rights-boykin/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/20/opinions/juneteenth-and-obamacare-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/18/opinions/critical-race-theory-right-wing-moral-panic-hemmer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/17/opinions/southern-baptist-convention-litton-conservative-race-butler-bass/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/10/opinions/in-the-heights-magic-but-missing-something-morales/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/11/opinions/voting-rights-19th-century-gop-voter-suppression-grinspan/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/08/opinions/barack-obama-anderson-cooper-interview-hope-and-change-bailey/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/30/opinions/republican-divided-gop-extremism-dent/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/25/opinions/george-floyd-murder-america-crossroads-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/21/opinions/latinx-brown-ish-ted-cruz-morales/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/16/opinions/cdc-guidance-startles-american-opinion-weekly-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/02/opinions/trump-saw-it-coming-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/21/opinions/makhia-bryant-and-chauvin-verdict-a-reminder-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/11/opinions/voting-for-vaccine-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/07/opinions/black-executives-letter-georgia-voter-suppression-mlk-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/04/opinions/the-year-that-never-ended-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/03/opinions/easter-jesus-gallup-poll-church-decline-graves-fitzsimmons/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/31/opinions/georgia-voting-restrictions-legal-action-douglas/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/25/opinions/voting-rights-suppression-is-jim-crow-suit-and-tie-hemmer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/02/opinions/trump-return-cpac-victims-dantonio/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/02/opinions/gops-bogus-claims-of-cancel-culture-seuss-filipovic/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/03/opinions/what-ida-b-wells-would-say-about-capitol-riot-duster/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/24/opinions/four-presidents-take-stand-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/24/opinions/trump-fascism-misguided-comparison-weber/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/20/opinions/post-inauguration-commentary/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/16/opinions/martin-luther-king-legacy-with-capitol-violence-trump-impeachment-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/15/opinions/trump-and-allies-invoke-george-orwell-orwellian-beers/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/opinions/congress-second-impeachment-important-first-step-zelizer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/13/opinions/bridgerton-escapism-and-jane-austen-fantasies-maltby/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/12/opinions/battle-against-anti-democratic-extremism-kasparov/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/10/opinions/trumps-ultimate-outrage-opinion-column-galant/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/opinions/jarring-video-of-black-men-cleaning-up-the-capitol-bailey/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/opinions/capitol-attack-beer-hall-putsch-authoritarianism-weaver/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/opinions/georgia-senate-victory-warnock-ossoff-joseph/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/03/opinions/america-chile-democracy-reckoning-dorfman/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/01/opinions/jimmy-carter-legacy-rock-and-roll-zelizer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/26/us/five-things-october-26-trnd/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/30/politics/trump-supreme-court-documents/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/28/politics/january-6-committee-trump-documents/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/28/politics/donald-trump-allies-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/27/politics/donald-trump-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/24/politics/trump-vaccine-election-what-matters/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/23/politics/donald-trump-supreme-court-records-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/21/politics/michael-flynn-lawsuit-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/16/politics/florida-parent-power-elections-moms-for-liberty/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/15/politics/joe-biden-mark-meadows-contempt/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/mark-meadows-house-contempt-vote/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/15/politics/mark-meadows-january-6-committee-donald-trump/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/14/politics/meadows-congress-justice-department-referral/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/14/politics/january-6-committee-text-messages/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/14/politics/january-6-committee-mark-meadows/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/13/politics/trump-jr-text-mark-meadows-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/mark-meadows-house-committee-hearing/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/13/politics/january-6-meadows-contempt-report-vote/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/12/politics/mark-meadows-january-committee-contempt-of-congress-resolution/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/11/politics/mark-meadows-documents-2020-election/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/10/politics/donald-trump-january-6-supreme-court/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/09/politics/january-6-committee-mark-meadows-what-matters/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/09/politics/january-6-committee-trump-allies-stonewalling/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/08/politics/mark-meadows-lawsuit/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/08/politics/nyc-noncitizens-voting/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/08/politics/mark-meadows-donald-trump-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/06/politics/marc-short-pence-aide-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/bob-dole-death-reactions/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/03/politics/meadows-book-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/01/politics/jeffrey-clark-criminal-contempt-report/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/01/politics/donald-trump-house-republicans-toxicity/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-trump/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/30/politics/mark-meadows-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/30/politics/jeffrey-clark-contempt-report-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/30/politics/trump-archives-white-house-documents/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/28/politics/january-6-investigation/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/28/politics/adam-schiff-mark-meadows-january-6-committee-cnntv/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/23/politics/donald-trump-january-6-committee-subpoenas-roger-stone-alex-jones/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/22/politics/biden-administration-congress-trump-records-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/18/politics/mark-meadows-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/18/politics/bannon-hearing/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/18/politics/bannon-judge-carl-nichols-miers-case/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/17/politics/january-6-whats-next/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/january-6-insurrection-pence-what-matters/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/trumps-legal-woes/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/09/politics/trump-documents-january-6-committee-national-archives-judge-ruling/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/10/politics/donald-trump-january-6-case-executive-privilege-2022-midterms/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/09/politics/january-6-subpoenas-donald-trump-steve-bannon-merrick-garland/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/politics/jeffrey-clark-house-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/05/politics/january-6-committee-donald-trump-2022-midterms/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/04/politics/trump-records-hearing-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/30/politics/electoral-count-act-january-6-house-select-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/30/politics/donald-trump-house-democrats-january-6-documents/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/28/politics/jeffrey-clark-dan-scavino-postponements-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/big-oil-climate-change-hearing-10-28-21/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/28/politics/january-6-committee-eyes-contempt-proceedings-mark-meadows/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/27/politics/voting-rights-what-matters/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/26/politics/trump-white-house-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/26/politics/donald-trump-joe-biden-executive-privilege-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/steven-bannon-contempt-charge-vote-10-21-21/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/21/politics/donald-trump-steve-bannon-republicans-voting-rights-democracy/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/politics/checks-and-balances-what-matters/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/politics/liz-cheney-trump-bannon-january-6/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/politics/liz-cheney-january-6-steve-bannon-donald-trump/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/19/politics/january-6-committee-steve-bannon-donald-trump-congress/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/18/politics/january-6-committee-releases-bannon-contempt-report/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/16/politics/january-6-investigation-week-wrap/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/15/politics/steve-bannon-donald-trump-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/14/politics/steve-bannon-deposition-deadline/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/jan-6-committee-deposition-deadlines-10-14-21/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/13/politics/conservative-lawyers-steer-clear-of-trump/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/13/politics/january-6-committee-donald-trump-investigation/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/09/politics/scavino-subpoena-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/08/politics/trump-associates-january-6-subpoena/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/08/politics/donald-trump-senate-judiciary-committee-report-january-6-investigation/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/07/politics/subpoena-january-6-select-committee-explainer/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/05/politics/house-committee-january-6-subpoena-serve-dan-scavino/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/30/politics/durham-subpoenas-probe-russia-fbi-sussman/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/23/politics/january-6-subpoenas-trump-loyalists/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/23/politics/white-house-trump-information-january-6-committee/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/25/politics/january-6-house-documents-investigation/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/08/politics/dick-durbin-jeffrey-rosen-trump-doj-testimony-cnntv/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/06/politics/doj-clark-trump-election/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/06/politics/january-6-committee-investigation-white-house-phone-logs/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/04/politics/justice-resignation-threats-trump-election/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/03/politics/ohio-11-special-election-results/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/30/politics/trump-election-justice/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/28/politics/subpoena-trump-house-january-6-probe/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/27/politics/doj-executive-privilege-trump-capitol-riot/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/16/politics/democratic-headquarters-sacramento-plot/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/02/politics/trump-administration-phone-records-reporters-new-york-times/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/23/politics/badass-women-lucy-mcbath/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/12/politics/takeaways-capitol-riot-cheney-trump/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/29/politics/giuliani-ukraine-federal-raid/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/04/07/politics/pence-book-deal-trump-administration/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/30/politics/joe-biden-judicial-nominees/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/stimulus-update-us-relief-bill-03-04-21/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/04/politics/trump-georgia-grand-jury/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-12-2021/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/01/politics/donald-trump-legal-team-impeachment-trial/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/09/politics/donald-trump-impeachment-lawyers-dershowitz-giuliani/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/10/opinions/trump-loss-court-of-appeals-republic-gift-eisen-perry/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/12/01/opinions/is-mark-meadows-turning-on-trump-dantonio/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/18/opinions/steve-bannon-criminal-contempt-eisen-lydgate-perry/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/14/opinions/inflation-sleeping-monster-wakes-column-galant/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/10/opinions/truth-about-trump-is-coming-soon-dantonio/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/20/opinions/liz-cheney-bannon-trump-january-6-committee-ghitis/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/16/opinions/steve-bannon-january-6-committee-congress-eisen-aftergut/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/10/opinions/mark-zuckerberg-couldnt-resist-column-galant/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/08/opinions/senate-committee-january-6-report-rodgers/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/07/opinions/jan-6-select-committee-subpoenas-eisen-sparks/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/29/opinions/trump-election-lies-voting-rights-eisen/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/06/opinions/attempted-trump-coup-thisclose-honig/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/25/opinions/merrick-garland-trump-mueller-honig/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/06/opinions/senate-zombie-impeachment-trial-naftali/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/17/opinions/10-votes-against-trump-courage-opinion-galant/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/10/opinions/capitol-attack-white-supremacy-daniel-black/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/opinions/impeach-trump-again-zelizer/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/opinions/america-saved-by-democracy-paton-walsh/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/07/opinions/capitol-rioters-contrast-with-june-2020-black-lives-matter-jones/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/07/opinions/capitol-riot-what-americans-deserve-to-know-lockhart/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/21/us/ohio-school-boards-contentious-elections/index.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/17/politics/parents-school-frustration-political-organization/index.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.cnn.com/2021/11/03/politics/school-board-elections/index.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.cnn.com/2021/06/06/opinions/gop-trump-north-carolina-georgia-obeidallah/index.html",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.cnn.com/2021/09/17/politics/donald-trump-september-18-january-6/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/30/politics/january-6-phone-records-members-of-congress/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/05/13/politics/cheney-trump-mccarthy-nbc-interview/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/03/12/politics/ron-johnson-capitol-riot/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/23/politics/patriot-party-trump/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/08/politics/liz-cheney-fox-news-sunday-donald-trump/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/21/politics/fact-check-marjorie-taylor-greene-twitter-election-capitol/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/06/politics/kelly-loeffler-senate-term-analysis/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/08/31/opinions/jan-6-select-committee-pelosi-phone-records-filipovic/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/07/30/opinions/mo-brooks-jan-6-trump-rioters-dantonio/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/02/23/opinions/capitol-riot-hearing-revealed-shocking-failures-filipovic/index.html",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.cnn.com/2021/01/08/opinions/capitol-violence-charlottesville-antifa-myth-hemmer/index.html",
+            "bias": "BLM"
+        }
+    ],
+    "Year": 2021
+}

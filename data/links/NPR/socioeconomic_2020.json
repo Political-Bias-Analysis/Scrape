@@ -1,0 +1,354 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2020/12/15/945031391/poll-despite-record-turnout-80-million-americans-didnt-vote-heres-why",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2020/11/09/933117256/in-harris-black-sororities-and-fraternities-celebrate-one-of-their-own",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/11/02/928200462/medicaids-future-hinges-on-who-wins-the-white-house",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/30/929609084/how-presidential-election-could-reshape-medicaid",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/11/900694605/challenge-to-minnesota-rep-omar-tops-5-races-to-watch-tuesday",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/31/897814403/a-37-year-old-opposition-candidate-challenges-the-longtime-leader-of-belarus",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/29/800778189/election-meltdown-is-a-real-possibility-in-2020-presidential-race-author-warns",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/24/948030242/in-rural-america-fears-about-the-future-abound-as-fewer-students-go-to-college",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/22/947525229/arab-spring-generation-not-as-scared-as-their-parents-are-of-change",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://the1a.org/segments/urban-suburban-voters-trump/",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/01/930026577/asian-american-voters-are-a-powerful-but-hard-to-define-group",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/13/934718056/ernest-owens-argues-that-chocolate-cities-should-be-viewed-as-americas-heartland",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/21/860564359/answering-your-coronavirus-questions-fashion-education-and-health-disparities",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/20/859785385/democrats-think-prioritizing-health-care-will-give-them-wins-in-2020",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/801786950/npr-politics-live-from-des-moines-the-road-to-2020",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/801775770/impeachment-trial-continues-coronavirus-a-public-health-emergency-iowa-voters",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/31/929952736/poverty-politics-and-the-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/810996396/where-voters-are-pueblo-mayor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/04/802533836/poverty-in-iowa-why-the-poor-often-dont-participate-in-caucuses",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/09/933186902/leader-of-grassroots-organization-on-what-black-detroit-voters-expect-from-biden",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/07/30/896662950/will-missouri-be-the-next-red-state-to-expand-medicaid-voters-to-decide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/26/809530224/spotlighting-voters-in-charlotte-n-c-and-pueblo-colo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/12/945825924/trump-supporters-arrive-in-washington-once-again-for-a-million-maga-march",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/19/925342186/ally-of-socialist-evo-morales-wins-bolivias-election-as-rival-concedes",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/19/925278725/results-are-pending-in-bolivias-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/20/914949205/milwaukee-alderman-discusses-black-voters-in-wisconsin",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/14/912612270/swing-voters-in-northwestern-pennsylvania-weigh-in-on-fall-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/02/825467802/with-rallies-off-the-table-trumps-reelection-moves-to-virtual-campaigning",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/27/822171139/bernie-sanders-on-his-campaign-it-s-going-to-be-a-very-steep-road",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/02/930575202/does-hillbilly-elegy-really-have-something-to-say",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/18/936096289/morning-news-brief",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/16/934584373/transcript-nprs-full-interview-with-former-president-barack-obama",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/02/930266991/in-chicago-7-aaron-sorkin-sees-chilling-parallels-between-68-summer-and-today",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/29/929022501/2-visions-of-america-examining-president-trump-and-joe-bidens-view",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/26/927743294/the-history-of-how-we-vote-from-drunken-parties-to-private-booths",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/16/923844907/when-shoplifting-is-a-felony-retailers-back-harsher-penalties-for-store-theft",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/05/920314166/millions-of-americans-cant-afford-enough-to-eat-as-pandemic-relief-stalls-in-d-c",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/14/912749547/why-nobody-feels-rich-the-psychology-of-inequality",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/21/808016586/calif-gov-newsom-lays-out-framework-to-address-homelessness",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/14/796160587/alejandro-giammattei-guatemalas-president-elect-to-take-office",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/21/904648300/documentary-chronicles-students-fight-for-black-rights-during-freedom-summer",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/28/917747287/the-everlasting-problem",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/27/810095460/from-steel-city-to-a-service-economy-changing-times-in-pueblo-colo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/02/919532786/how-we-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/14/902659709/week-in-politics-democratic-ticket-and-trumps-usps-moves",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/06/899748740/fresh-air-remembers-veteran-journalist-pete-hamill",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/25/883269587/christine-baranski-on-putting-up-a-good-fight-during-this-dystopian-era",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2020/10/30/pennsylvania-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2020/07/13/economy-checkin-covid-surges-again",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/06/812989349/irish-voters-blow-up-2-party-system",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/22/936933838/hold-the-champagne-what-happens-when-neither-party-gets-to-celebrate-the-electio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/05/931836707/how-latino-voters-broke-expectations-this-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/04/931223865/2020-presidential-race-its-all-over-but-the-final-vote-tallies",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/03/930919841/election-day-updates-what-voting-looks-like-in-detroit",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/03/930696519/tracy-chapman-returns-to-sing-of-revolution-on-the-eve-of-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/28/928336749/trump-has-weaponized-masculinity-as-president-heres-why-it-matters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/13/923170402/presidential-campaigns-visit-key-states-as-novembers-election-nears",
+            "bias": "working class"
+        },
+        {
+            "link": "https://the1a.org/segments/white-working-class-suburbs-trump/",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/10/921583854/despite-surge-in-volunteers-some-swing-states-still-need-poll-workers",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/07/921287242/vice-presidential-debate-preview",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/01/919006661/morning-news-brief",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/30/918846795/joe-biden-embarks-on-a-train-to-campaign-in-ohio-and-pennsylvania",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/16/913693671/how-party-leaders-get-ready-for-the-election-in-pivotal-pennsylvania-county",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/13/912055824/so-skeptical-as-election-nears-iowa-senator-under-pressure-for-covid-19-remarks",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/01/908327619/markey-fends-off-kennedy-challenge-in-high-profile-mass-senate-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/30/907720070/nyt-reporter-discusses-economic-influence-in-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/23/905181724/politics-chat-republicans-gear-up-for-national-convention",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/22/904847069/shedding-big-hats-and-hoopla-democrats-find-love-online",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/05/899230696/activist-cori-bush-ousts-rep-william-lacy-clay-jr-in-missouri-primary-upset",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/17/892393037/former-school-principal-unseats-longtime-rep-eliot-engel-of-new-york",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/12/889895073/you-havent-heard-the-last-of-iowa-this-election-cycle",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/08/889189235/democratic-task-forces-deliver-biden-a-blueprint-for-a-progressive-presidency",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/26/884039330/president-trumps-attempts-to-define-and-disqualify-biden-are-having-mixed-result",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/26/883257716/house-vote-friday-would-make-d-c-the-51st-state-trump-and-the-senate-say-no",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/29/847517729/poll-half-of-americans-financially-affected-by-coronavirus",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/11/814603309/what-the-michigan-primary-says-about-what-could-happen-in-november",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/10/813879277/joe-biden-spent-years-embracing-michigan-now-he-hopes-voters-return-the-favor",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/09/813763812/as-biden-campaigns-in-michigan-detroit-voters-could-be-key-to-his-fortunes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/08/813486514/where-voters-are-young-caretaker-in-washington-state",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/04/812091068/bloomberg-backs-biden",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/04/811785729/biden-surges-on-super-tuesday-transforming-democratic-primary-into-2-man-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/810813892/4-takeaways-from-joe-bidens-big-win-in-south-carolina",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/28/810135605/joe-bidens-campaign-is-on-the-line-in-south-carolina",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/26/809741212/texas-primary-and-its-massive-delegate-haul-takes-shape-for-super-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/12/805397048/what-to-take-away-from-the-new-hampshire-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/11/804941346/what-democrats-want-to-see-happen-during-the-new-hampshire-primary",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2020
+}

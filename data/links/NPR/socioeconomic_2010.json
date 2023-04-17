@@ -1,0 +1,106 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2010/09/16/129855900/other-suns-when-african-americans-fled-north",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/11/131254768/musharraf-discusses-india-terrorism-and-his-future",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/07/130402973/weary-and-wary-haitians-prepare-for-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/14/124637181/a-republican-plan-to-save-the-safety-net",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/01/198334401/excerpt-resilience",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/24/132259226/Shop-Talk-NBA-Christmas-Showdown-For-Heat-Lakers",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/27/130829670/bid-for-black-vote-spurs-racially-charged-tactics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/01/131695505/the-splintering-of-america-s-black-population",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/30/131695438/excerpt-disintegration",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/05/130333806/-disintegration-of-america-s-black-neighborhoods",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/20/129987025/the-new-republic-extend-the-obama-tax-cuts",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/17/129930757/boardwalk-bet-a-high-stakes-saga-from-hbo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/08/129727773/arianna-huffington-sees-a-third-world-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/07/05/128241055/what-scares-thriller-writer-karin-slaughter",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/05/25/127114647/finding-chandra-levy-marred-by-critical-mistakes",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/21/124984829/house-on-the-verge-of-historic-health-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/12/124592503/black-leaders-ask-wheres-our-president",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/27/123043805/text-of-president-obamas-state-of-the-union",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/04/06/125595945/remnick-in-obamas-only-loss-a-political-lesson",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/04/05/125093691/bridge-tells-obamas-story-just-as-we-remember-it",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/22/131520805/irish-bailout-sparks-anger-on-the-emerald-isle",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/28/130895394/obama-enters-the-heated-battle-for-virginias-5th",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/09/21/130016492/democrats-hope-tea-party-s-third-rail-is-social-security",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2010/06/04/127480232/lincoln-urges-ark-voters-not-to-run-her-off",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2010
+}

@@ -1,0 +1,146 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "http://www.wbur.org/onpoint/2021/11/09/democrats-virginia-governor-race-and-what-voters-really-want",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2021/09/22/bender-election-trump-book",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2021/01/16/957593500/the-u-s-democratic-credibility-has-taken-a-hit-heres-how-to-fix-it",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2021/03/03/973287175/voting-rights-under-threat-plus-do-we-still-need-sports",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2021/07/16/1016031822/pro-democracy-protests-continue-in-eswatini-africas-last-absolute-monarchy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/06/07/1003874677/the-daughter-of-a-jailed-ex-president-could-become-perus-next-leader",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2021/06/04/993878560/covid-is-crushing-nepal-from-remote-villages-to-kathmandu-to-mt-everest",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/10/11/1045092941/iraq-election-results-sadr",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/10/11/1044954422/iraqs-election-is-marred-by-boycott-and-voter-apathy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/04/22/989938941/how-india-is-confronting-disinformation-on-social-media-ahead-of-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2021/01/28/vaccine-ethics-skipping-line",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2021/12/31/from-unknown-successes-to-personal-disillusionment-what-the-public-doesnt-know-about-colin-powell",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/11/29/1059695761/leftist-claims-victory-in-honduran-vote-setting-up-a-showdown-with-national-part",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2021/11/17/michael-tubbs-stockton-one-of-americas-youngest-mayors-sets-the-record-straight",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2021/10/22/life-legacy-colin-powell-iraq-foreign-policy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/09/21/1039232797/taliban-women-all-male-government-cabinet-ministers",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2021/08/05/capitol-officer-aquilino-gonell-reflects-on-the-capitol-insurrection",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/08/01/1023393344/black-leaders-question-whether-biden-will-fulfill-campaign-promises-to-black-vot",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/07/30/1022897962/60-percent-of-adults-are-fully-vaccinated-why-are-things-getting-worse",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/coronavirus-live-updates/2021/03/06/974409402/biden-praises-senate-passage-of-desperately-needed-covid-19-relief-bill",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/03/01/972590054/stacey-abrams-on-the-continuing-fight-for-voter-access",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/02/08/965448572/meet-the-man-behind-epik-the-tech-firm-keeping-far-right-websites-alive",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2021/02/06/964396284/photos-the-worlds-biggest-vaccine-campaign-has-begun-in-india",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/01/04/953286580/pro-trump-extremists-storm-u-s-capitol-halting-final-count-of-biden-votes",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/12/26/494373491/desmond-tutu-dies",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/04/05/983405544/reviving-the-iran-nuclear-deal-heres-what-it-involves-and-why-its-hard",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/07/18/1017366945/interim-prime-minister-of-haiti-addresses-the-future-of-haitis-government",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/11/08/1053660027/congress-passes-bidens-trillion-dollar-transit-broadband-and-power-bill",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/05/17/997602110/peru-venezuela-struggle-as-coronavirus-cases-and-deaths-rise-in-south-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/06/04/1003387951/russia-and-u-s-seek-stability-at-first-post-trump-summit",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/03/22/979941503/hiding-in-plain-sight-corrects-the-record-on-lady-bird-johnson",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2021/06/07/1004075878/neck-and-neck-in-the-polls-perus-presidential-candidates-are-far-apart-political",
+            "bias": "working class"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2021/04/14/gop-working-class-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2021/04/13/986549868/top-republicans-work-to-rebrand-gop-as-party-of-working-class",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2021
+}

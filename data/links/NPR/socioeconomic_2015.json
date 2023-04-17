@@ -1,0 +1,114 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/sections/ed/2015/10/27/443110755/no-child-left-behind-what-worked-what-didnt",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/03/06/391244094/-nprreads-on-americas-first-suicide-bombing-and-its-influential-pizza-lobby",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/06/01/411197846/joe-bidens-advice-on-compassion-and-family-in-his-own-words",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2015/03/11/392263866/chad-niger-send-troops-to-fight-extremists-in-nigeria",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/19/378409653/as-elections-approach-greece-teeters-on-austerity-question",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/08/458887771/plans-to-roll-back-medicaid-expansion-doesn-t-seem-to-worry-rural-kentuckians",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/07/06/413463836/corruption-on-the-border-dismantling-misconduct-in-the-rio-grande-valley",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2015/06/26/417733970/5-challenges-still-facing-obamacare",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/23/377715570/how-do-you-expose-an-anonymous-company",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/11/459231940/bernie-sanders-has-stuck-to-the-same-message-for-40-years",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/08/17/432567295/clinton-wont-go-as-far-as-rivals-on-minimum-wage-wont-rule-out-oil-pipelines",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/05/15/407071529/week-in-politics-boston-marathon-bombing-verdict-obama-on-poverty",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/04/20/400849480/transcript-nprs-full-interview-with-martin-omalley",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/22/457027426/argentines-head-to-polls-to-decide-presidential-run-off",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/07/446348085/influx-of-non-european-immigrants-defines-america-today",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/05/437875484/20-years-after-historic-speech-hillary-clinton-makes-appeal-to-female-voters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/07/10/421785113/-nprreads-wisconsins-first-lady-and-syrias-dueling-godfathers",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/06/15/414622042/remembering-john-carroll-a-champion-of-tough-journalism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/microphonecheck/2015/03/09/391893500/leila-steinberg-with-earl-its-a-journey",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2015/01/12/376659984/in-haiti-politics-and-an-earthquake-anniversary-collide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/29/452909226/john-boehner-hands-over-speaker-reins-to-paul-ryan",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/08/21/433263471/trump-is-here-to-stay-at-least-for-a-while-heres-why",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/29/461307424/the-student-who-once-nudged-his-way-to-the-oval-office-now-hopes-to-move-in",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/11/459392793/frances-far-right-national-front-gains-ground-ahead-of-elections",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/21/456904220/on-eve-of-argentine-election-polls-lean-right",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/02/374511123/democrats-problem-white-working-class-voters",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2015
+}

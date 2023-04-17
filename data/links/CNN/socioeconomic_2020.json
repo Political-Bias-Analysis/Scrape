@@ -1,0 +1,1312 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2020/08/06/us/five-things-august-6-trnd/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/30/opinions/george-floyd-minneapolis-police-granderson/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/31/us/five-things-january-31-trnd/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-biden-transition-news-12-23-20/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/22/politics/trump-election-results-coronavirus/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/25/politics/joe-biden-donald-trump-barack-obama-coronavirus-stimulus/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/27/politics/bernie-sanders-black-voters-south-carolina/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/politics/michael-bloomberg-black-voters-south-carolina/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/09/opinions/robert-redford-what-do-we-do-now-climate-change/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/17/opinions/poor-low-income-voting-bloc-2020-barber-theoharis/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/13/us/postal-worker-caught-dumping-mail-in-pennsylvania-trnd/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-05-20/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-28-20/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-24-20/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/06/10/us/ross-perot-fast-facts/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/29/politics/mcconnell-poison-pill-attached-to-bill/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/19/politics/congress-covid-stimulus-deal/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/11/politics/congress-stimulus-coronavirus-pfizer-vaccine/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/03/politics/biden-harris-interview-covid-mask/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-30-20/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/29/politics/biden-economic-policies-covid/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/24/politics/elizabeth-warren-treasury-janet-yellen/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-covid-19-updates-monday/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-17-20/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/16/politics/interesting-us-elections-trump-biden/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/14/politics/georgia-runoffs-young-voters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/11/politics/kfile-trump-officials-2016-election-results/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/07/politics/biden-victory-speech-2020-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/07/politics/takeaways-2020-presidential-race/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/us-election-news-10-31-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/31/politics/joe-biden-blue-wall/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/28/politics/trump-election-2020-insults/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/27/politics/election-2020-senate-race-rankings-one-week/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/politics/trump-least-racist-black-men/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/politics/rust-belt-swing-states-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/18/politics/what-matters-october-18/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/14/politics/pennsylvania-trump-2020-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/29/politics/trump-vs-biden-2020-election-policies/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/13/politics/donald-trump-election-2020-campaign/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/28/politics/us-presidential-debates-explained/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/05/politics/usps-mail-ballots-on-time/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-covid-19-updates-sunday/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/30/politics/women-voters-trump-debate/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/25/politics/biden-trump-campaign-travel/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/22/politics/kanye-west-gop-operative/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/21/politics/joe-biden-white-working-class-wisconsin/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/21/politics/election-2020-house-and-senate-ratings/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/19/politics/what-matters-september-18/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/17/politics/joe-biden-town-hall-takeaways/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/17/politics/pennsylvania-supreme-court-green-party-presidential-ballot/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/16/politics/barr-justice-department-speech/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/16/politics/senate-democrats-usps-report/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/02/politics/kanye-west-presidential-bid-legal-challenges/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/29/politics/donald-trump-campaign-2020-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/what-matters-august-25/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/michael-cohen-trump-ads/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/25/politics/tim-scott-donald-trump-jr-republican-national-convention/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/meanwhile-in-america-august-24-intl/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/nikki-haley-speech-transcript/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/postmaster-general-hearing-takeaways/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/postmaster-general-dejoy-house-testimony/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/16/politics/dejoy-post-office-hot-seat-election-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/16/politics/postal-service-trump-absentee-ballot-request-mail-usps/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/14/politics/usps-warn-states-mail-in-ballot-delivery/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/13/politics/postal-service-sorting-machines/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/11/politics/vice-presidential-picks-women/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/06/politics/working-families-party-ed-markey-alex-morse/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/john-lewis-funeral/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/28/politics/biden-kamala-harris-notes/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/21/politics/biden-battleground-ad/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/17/politics/donald-trump-schools-strategy-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/11/politics/what-matters-july-10/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/30/politics/trump-ad-blitz-june-red-states/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/02/politics/bernie-sanders-joe-biden-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/26/politics/republican-national-convention-north-carolina/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/23/politics/joe-biden-adopts-democratic-rivals-tactics/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/17/politics/trump-obama-coronavirus-response/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/15/politics/trump-2016-instincts-pandemic-second-term/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/06/politics/human-rights-campaign-endorses-joe-biden/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/13/politics/alexandria-ocasio-cortez-joe-biden-support/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/09/politics/bernie-sanders-progressive-movement/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/09/politics/biden-campaign-general-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/05/politics/social-safety-net-coronavirus/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/26/politics/coronavirus-social-gatherings-community/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/18/politics/bernie-sanders-assess-2020-campaign/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/17/politics/democratic-primary-what-to-watch/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/politics/biden-campaign-memo/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/march-10-2020-primary-results/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/politics/march-10-primaries-winners-losers/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/politics/2020-primary-election-takeaways/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/biden-sanders-democratic-primary/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/missouri-primary-results-live/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/super-tuesday-ii-election-day/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/09/politics/michigan-primary/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/biden-vs-sanders/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/super-tuesday-results-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/03/politics/super-tuesday-democratic-primary-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/03/politics/bernie-sanders-super-tuesday-demographics/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/03/politics/hold-for-4-pm-super-tuesday-democratic-primary-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/02/politics/biden-black-voters-capitalize-super-tuesday/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/28/politics/trump-navy-secretary-nominee-ken-braithwaite/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/28/politics/medicare-for-all-debate/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/politics/bernie-sanders-supporters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/politics/nevada-caucuses-guide/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/20/politics/sanders-bloomberg-socialist-president/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2015/10/30/politics/interesting-u-s-elections/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/11/politics/democratic-primary-new-hampshire/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/11/politics/michelle-caruso-cabrera-aoc-challenger/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/new-hampshire-primary-guide/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/joe-biden-interview-bernie-sanders-democratic-socialist-cnntv/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/elizabeth-warren-new-hampshire-final-message/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/07/politics/bernie-sanders-pete-buttigieg-new-hampshire/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/06/politics/bernie-sanders-january-fundraising/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/04/politics/state-of-the-union-trump-economy-analysis/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/03/politics/iowa-caucuses-guide/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/01/politics/iowa-caucus-turnout/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/31/politics/michael-bloomberg-democrats-iowa/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/19/politics/bernie-sanders-joe-biden-social-security/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/12/politics/2020-election-week-ahead/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/09/politics/bernie-sanders-iowa-2020/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/07/politics/bernie-sanders-joe-biden-2020-democratic-primary/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/02/politics/bernie-sanders-fourth-quarter-fundraising/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/28/opinions/georgia-senate-runoff-gop-safer-bet-lindsey/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/07/opinions/historic-victory-biden-harris-avlon/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/14/opinions/amy-coney-barrett-ruth-bader-ginsburg-feminism-isnt-representation-beers/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/06/opinions/biden-town-hall-checkmates-trump-covid-louis/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/27/opinions/john-lewis-march-graphic-novels-aydin-powell-opinion/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/02/opinions/markey-kennedy-massachusetts-senate-opinion-gergen/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/17/opinions/biden-democrat-convention-axelrod/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/09/opinions/trump-war-social-security-medicare-begala/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/04/opinions/what-trump-would-need-to-do-to-win-begala/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/19/opinions/vaccine-covid-19-russia-hack-us-sepkowitz/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/opinions/joe-biden-frightens-donald-trump-axelrod/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/23/opinions/joe-biden-veep-stakes-shape-image-mitchell/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/14/opinions/michelle-obama-filmmaker-nadia-hallgren-qa-elian/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/28/opinions/biden-sanders-progressives-weaver/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/18/opinions/biden-vp-pick-stands-above-the-rest-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/17/opinions/trump-strategy-to-shift-blame-on-coronavirus-and-economy-lockhart/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/02/opinions/you-have-a-lot-to-be-proud-of-senator-sanders-axelrod/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/18/opinions/bernie-sanders-primary-campaign-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/opinions/bernie-sanders-versus-donald-trump-avlon/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/opinions/biden-warren-town-hall-try-redeem-campaigns-haq/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/14/opinions/pete-buttigieg-rush-limbaugh-homophobia-granderson/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/27/opinions/bernie-sanders-surging-opinion-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/26/opinions/worlds-collide-over-trump-opinion-wrap-galant/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/23/opinions/trudeau-doughnut-scandal-canada-bociurkiw/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/17/opinions/prosperity-gap-2020-election-opinion-sachs/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/16/opinions/warren-sanders-unity-against-biden-trump-gibson-weissman/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/11/opinions/iowa-caucus-importance-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/us/new-jersey-school-district-snow-days-pandemic-trnd/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/us/atlanta-spotlight-brooks-funeral/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/14/politics/paul-mitchell-quits-gop/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/29/politics/biden-economic-team/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/20/politics/joe-biden-health-care-supreme-court-vacancy/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/11/politics/donald-trump-churchill-fdr-pandemic/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/10/politics/joe-biden-interview-trump-national-security/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/22/politics/postal-service-house-vote-funding/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/06/politics/what-matters-august-6/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/24/politics/pelosi-health-care-affordable-care-act-trump/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/11/politics/us-election-donald-trump-joe-biden-bundlers/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/11/politics/democrats-2020-strategy-coronavirus/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/09/politics/cnn-poll-biden-trump/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/elizabeth-warren-drops-out/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/29/politics/democratic-primary-south-carolina/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/24/politics/bernie-sanders-donald-trump-2020/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/13/politics/elizabeth-warren-next-steps/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/12/politics/democratic-primary-health-care/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/11/politics/new-hampshire-primary-exit-polls/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/11/politics/donald-trump-democratic-primary-new-hampshire/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/trump-middle-class-tax-cut-promises/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/08/politics/february-debate-recap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/30/politics/joe-biden-bernie-sanders-iowa/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/30/politics/buttigieg-calls-out-biden-sanders/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/25/politics/cindy-axne-endorses-joe-biden-president-iowa/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/22/politics/donald-trump-barack-obama-american-factory-netflix/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/10/politics/trump-climate-change-environmental-policy-rollbacks/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/02/opinions/georgia-senate-runoffs-ronald-reagan-strategy-lindsey/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/opinions/europe-fears-us-election-opinion-andelman/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/13/opinions/substance-behind-biden-harris-symbolism-democratic-ticket-yang/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/13/opinions/supreme-court-trump-tax-returns-rodgers/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/02/opinions/biden-is-trumps-contrast-not-sanders-avlon/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/01/opinions/coronavirus-trump-meets-new-enemy-opinion-column-galant/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/30/opinions/iowa-caucus-goers-choose-moderate-houlahan/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/05/opinions/world-war-iii-was-trending-opinion-weekly-column-galant/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/28/us/five-things-october-28-trnd/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/20/us/five-things-february-20-trnd/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/11/us/five-things-february-11-trnd/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-covid-19-updates-wednesday/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/20/politics/trump-unveils-controversial-drug-price-rules/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/10/politics/biden-obamacare-speech/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/08/politics/democrats-biden-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/06/politics/abigail-spanberger-house-democrats-2020-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/06/politics/house-races-republicans-democrats-2020-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/02/politics/affordable-care-act-georgia-obamacare/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/30/politics/joe-biden-aca-coronavirus-vaccine-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/27/politics/barack-obama-trump-coronavirus-economy/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/27/politics/coronavirus-vaccine-trump-admin-medicare-medicaid/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/24/politics/reckoning-bay-city-michigan-pandemic-2020-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/politics/china-russia-trolls-trump-election-hnk-dst-intl/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/politics/joe-biden-coronavirus-speech/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/22/politics/obama-speech-transcript/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/19/politics/joni-ernst-soybean-debate-iowa-senate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/17/politics/affordable-care-act-georgia-medicaid/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/07/politics/vice-presidential-debate-tonight/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/01/politics/trump-biden-uniting-the-left-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/26/politics/what-matters-september-25/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/25/politics/senior-citizens-drug-discount-cards-trump-health-care/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/24/politics/trump-health-care-pre-existing-conditions/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/22/politics/donald-trump-health-care-plan-two-weeks/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/13/politics/trump-drug-prices-executive-order/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/11/politics/health-human-services-pr-campaign-contract-covid/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/09/politics/2020-house-primary-richard-neal-alex-morse-massachusetts/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/01/politics/alex-morse-richard-neal-democratic-primary/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/30/politics/massachusetts-primary-beto-backs-kennedy-against-markey/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/justice-department-nursing-home-data-coronavirus/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/alex-morse-richard-neal-massachusetts-primary/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/22/politics/trump-drug-prices-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/21/politics/dejoy-hearing-opening-remarks/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/20/politics/pelosi-kennedy-endorsement-massachusetts-senate-race/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/05/politics/cori-bush-william-lacy-clay-cnntv/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/24/politics/trump-drug-prices/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/24/politics/republican-donors-scramble-to-rescue-senate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/20/politics/payroll-tax-cut-republicans-trump/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/14/politics/primary-elections-texas-alabama-maine/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/08/politics/ady-barkan-biden-endorsement/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/25/politics/joe-biden-trump-obamacare-coronavirus/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/24/politics/biden-health-care/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/politics/aoc-ny-primary-14th-district/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/23/politics/kentucky-senate-democratic-primary/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/21/politics/primary-challenge-ocasio-cortez-tlaib-omar/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/17/politics/fact-check-trump-obama-lies-policing-justice/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/11/politics/donald-trump-coronavirus-economy-politics-election-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/03/politics/streaming-services-political-ads/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/26/politics/white-house-insulin-cap-medicare/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/15/politics/trump-vaccine-effort-coronavirus/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/11/politics/democrats-health-care-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/09/politics/joe-biden-vp-vice-president-pick/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/08/politics/bernie-sanders-drops-out/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/24/politics/joe-biden-coronavirus/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/15/politics/democratic-debate-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-results-march-17-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/16/politics/debate-recap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/15/politics/who-won-the-debate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/15/politics/democratic-debate-tonight/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/politics/bernie-sanders-campaign/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/politics/sanders-joe-biden-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/exit-polls-michigan-missouri-mississippi-washington/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/obama-aca-video/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/09/politics/working-families-party-endorses-bernie-sanders/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/07/politics/sanders-obama-kfile/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/07/politics/bernie-sanders-elizabeth-warren/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/07/politics/pete-buttigieg-lgbtq/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/06/politics/deval-patrick-endorses-joe-biden/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/warren-endorsement-bernie-sanders-joe-biden/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/warren-gender-analysis/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/what-matters-march-4/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/05/politics/elizabeth-warren-2020-presidential/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/03/politics/super-tuesday-exit-polls/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/29/politics/what-matters-february-28/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/01/politics/buttigieg-campaign/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/29/politics/tom-steyer-drops-out-2020-race/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/29/politics/bloomberg-obama-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/28/politics/bernie-sanders-heart-attack-health/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/26/politics/john-cornyn-bernie-sanders-reaction/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/26/politics/bloomberg-social-security-ponzi-scheme-kfile/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/26/politics/democratic-debate-recap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/politics/charleston-south-carolina-debate-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/politics/rahm-emanuel-panic-democratic-party-cnntv/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/23/politics/bernie-sanders-revolution-nevada/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/politics/who-won-nevada-caucuses/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/23/politics/nevada-caucuses-takeaways/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/politics/pete-buttigieg-nevada/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/politics/bernie-sanders-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/politics/pete-buttigieg-bernie-sanders-health-care/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/politics/bloomberg-sanders-democratic-primary/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/politics/north-carolina-senate-mcconnell-liberal-candidate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/politics/what-matters-february-20/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/19/politics/what-matters-february-19/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/20/politics/nevada-debate-recap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/20/politics/elizabeth-warren-debate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/19/politics/democratic-debate-tonight/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/19/politics/trump-pardons-commutations/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/19/politics/nevada-latino-voters-2020-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/18/politics/sanders-ocasio-cortez-compromise-medicare-for-all/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/nevada-town-hall-sanders-buttigieg-klobuchar/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/14/politics/trump-bernie-sanders-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/16/politics/bernie-sanders-michael-bloomberg-campaign/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/15/politics/what-matters-february-14/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/14/politics/medicaid-work-requirements-appellate-court/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/13/politics/pete-buttigieg-super-tuesday/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/12/politics/new-hampshire-primary-exit-poll-bernie-sanders-pete-buttigieg/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/12/politics/deval-patrick-ends-campaign/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/new-hampshire-primary-democrats/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/06/politics/donald-trump-health-care-state-of-the-union/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/05/politics/north-carolina-republican-democratic-primary/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/04/politics/democratic-response-state-of-the-union-gretchen-whitmer/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/04/politics/joe-biden-iowa-campaign/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/03/politics/iowa-caucuses-entrance-polls/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/30/politics/2020-campaigns-positive/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/25/politics/2020-democratic-primary-what-you-missed/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/27/politics/health-care-ad-democrats/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/23/politics/donald-trump-medicare-entitlements-cuts/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/21/politics/supreme-court-obamacare-challenge-denial/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/20/politics/women-president-new-york-times-endorsement/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/15/politics/pete-buttigieg-health-care-cnntv/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/14/politics/january-democratic-debate-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/january-democratic-debate-live/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/14/politics/cnn-des-moines-register-debate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/13/politics/fact-check-bloomberg-trump-pre-existing-conditions/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/13/politics/bernie-sanders-elizabeth-warren-meeting/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/23/opinions/first-ladies-recap-lady-bird-johnson-brower-bennett/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/17/opinions/post-trump-fact-checking-avlon/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/opinions/who-won-the-debate-opinion/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/06/opinions/vice-president-debate-harris-pence-stewart/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/17/opinions/where-is-trumps-health-care-plan-avlon/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/16/opinions/us-election-presidential-debates-magic-moments-balcerski/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/16/opinions/voters-are-on-high-alert-opinion-column-galant/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/18/opinions/trump-reelection-poll-numbers-republican-party-reckoning-zelizer/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/04/opinions/biden-what-we-dont-know-mitchell/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/11/opinions/biden-sanders-democratic-primary-generations-sachs/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/opinions/bloomberg-needs-to-take-down-sanders-lockhart/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/06/opinions/democratic-new-hampshire-primary-up-for-grabs-guild/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/03/opinions/trump-bernie-election-avlon/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/15/opinions/debate-winner-loser-roundup/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/15/opinions/bernie-sanders-2020-scrutiny-test-lockhart/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2020
+}

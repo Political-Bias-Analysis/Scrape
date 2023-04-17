@@ -1,0 +1,222 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2011/06/05/136972466/in-peruvian-election-a-stark-choice",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/08/135235930/foreign-policy-irans-green-movement-could-go-blue",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/19/140601804/op-ed-time-for-us-to-recognize-a-new-middle-east",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/08/02/138930840/budgeting-for-the-good-of-the-next-generation",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/25/134854578/Shop-Talk-Dissecting-R-B-Star-Chris-Browns-Meltdown",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/22/134760674/why-libya-matters-to-the-middle-easts-future",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2011/02/25/134057259/Shop-Talk-All-Eyes-On-Wisconsins-Political-Showdown",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/thesalt/2011/12/15/143786950/when-the-formerly-rich-need-help-buying-food",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/10/21/141595922/will-cains-new-9-0-9-tax-plan-really-help-the-poor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/14/140463923/herman-cain-talks-jobs-atrocious-poverty-rate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/08/141952709/in-spain-low-wages-become-increasingly-common",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/21/133674942/this-is-a-new-egypt-nation-exults-as-mubarak-quits",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/27/133237380/egypt-says-it-will-smash-further-political-protests",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/25/133211784/egyptian-protesters-demand-end-to-mubareks-rule",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/16/140527398/politics-in-the-news",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/24/141598911/cornel-west-a-fighter-angers-obama-supporters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/16/140533712/shop-talk-jobs-poverty-perry",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/08/05/138995325/rick-perrys-religious-revival-sparks-a-holy-war",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/19/133054853/so-far-three-senators-will-not-seek-re-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/20/144008340/the-nation-obama-gets-occupied",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/30/142933100/foreign-policy-an-egyptian-voters-lament",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/14/141348231/the-nation-the-99-percent-rise-up",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/21/140690859/transcript-interview-with-jordans-king-abdullah",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/22/140670554/king-abdullah-jordan-needs-stable-middle-class",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2011/09/21/140663207/live-blog-obama-addresses-un-general-assembly",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/14/140471057/michael-moore-on-his-penchant-for-trouble",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/20/137302176/manana-mexico-could-deliver-on-its-promise",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/05/21/136508044/getting-real-about-funding-mideast-reform",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/24/135660023/yemeni-president-agrees-to-step-down",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/12/135242435/lessons-from-deval-patrick-a-not-likely-story",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/02/19/133893957/Chicagos-Mayoral-Race-Enters-Homestretch",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/01/21/133039417/how-joey-lieberman-lost-his-groove-and-couldnt-get-it-back",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/19/133049407/sargent-shriver-a-man-of-public-service",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/17/133000855/andrew-johnson-one-of-the-worst-u-s-presidents",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/13/141324616/signs-of-a-possible-renaissance-in-detroit",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/18/133024246/baby-doc-duvalier-taken-into-custody-in-haiti",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/20/137293674/new-republic-power-of-the-white-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/02/24/134003895/obama-quiet-as-union-protests-grow-in-swing-states",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/16/140543460/week-in-politics-special-election-jobs",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/12/16/143854112/in-iowa-and-beyond-republicans-in-final-push-before-contests-begin",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/07/143212818/islamist-parties-at-odds-in-egypts-ongoing-elections",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/01/143006081/could-demographic-changes-offset-economic-woes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/30/142934465/weekly-standard-obama-election-strategy-stumbles",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/29/142883188/coptic-christians-fear-islamists-will-sweep-egyptian-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/23/141622931/tunisians-wake-to-their-very-first-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/10/06/141122453/all-aboard-cain-train-man-with-9-9-9-plan-is-latest-gop-darling",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/14/140477585/warren-announces-run-for-browns-senate-seat",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/02/140132005/democrats-urge-obama-to-go-big-with-jobs-package",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/01/140098788/labors-criticism-of-obama-grows-louder",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/08/17/139688463/texas-economy-growing-long-before-gov-rick-perry",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/07/06/137651765/pawlenty-has-never-lived-outside-20-mile-radius",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/03/136930315/week-in-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/25/135409599/tim-pawlenty-the-young-reaganite-comes-of-age",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2011
+}

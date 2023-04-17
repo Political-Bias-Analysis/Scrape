@@ -52,7 +52,7 @@ def scrape_cnn(url, bias):
 
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = "immigration", 2021
+    MAIN_BIAS, YEAR = "socioeconomic", 2023
     MEDIA_SOURCE = "CNN"
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_SOURCE)
     

@@ -1,0 +1,254 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/06/23/622692550/analysis-finds-geographic-overlap-in-opioid-use-and-trump-support-in-2016",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/22/677425611/your-favorite-npr-one-stories-in-2018",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/12/668530699/-going-to-office-hours-is-terrifying-and-other-hurdles-for-rural-students-in-col",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/23/659474008/glimmer-of-hope-provides-a-blueprint-for-launching-social-change",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/11/656748743/weekly-roundup-thursday-october-11",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/18/594671275/the-call-in-childhood-obesity",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/22/640606875/live-from-birmingham-its-code-switch",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/10/646422511/what-some-west-virginia-residents-have-to-say-on-why-they-dont-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/03/05/590851713/after-italys-election-2-rival-populist-parties-claim-right-to-lead-next-governme",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/31/634243854/senate-bill-to-require-sexual-orientation-gender-identity-data-by-2030-census",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/07/06/626569883/nebraska-may-join-utah-idaho-in-putting-medicaid-expansion-before-voters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/21/604638980/puerto-rico-board-governor-clash-over-finances",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/11/07/664661676/a-winning-idea-medicaid-expansion-prevails-in-idaho-nebraska-and-utah",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2018/09/14/647212387/which-foreign-aid-programs-work-the-u-s-runs-a-test-but-wont-talk-about-it",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/08/636603553/news-brief-election-night-results-rick-gates-testifies-puerto-ricos-finances",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/05/11/609695769/almost-7-000-candidates-are-running-for-election-this-weekend-in-iraq",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/03/25/596724058/with-little-choice-egyptians-head-to-the-polls-in-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/12/577456987/oprah-beats-trump-in-npr-poll-but-most-americans-dont-want-her-to-run-for-presid",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/11/675647260/transcript-nprs-full-interview-with-california-gov-jerry-brown",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/26/658142688/u-s-plan-to-stabilize-raqqa-and-stop-return-of-isis-doesnt-appear-to-be-working",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2018/10/22/stolen-daughters-hbo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/11/646567154/time-keeps-many-voters-in-el-paso-texas-from-casting-ballots",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/15/638851896/fact-check-white-house-apologizes-for-false-claim-about-african-american-jobs",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/04/625683415/the-success-of-society-run-amok-what-does-the-purge-say-about-us",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/01/616085863/free-speech-vs-hate-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2018/05/15/609734857/north-carolina-teachers-join-the-march-how-did-we-get-here-what-s-next",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/07/608517444/in-traditional-first-lady-style-melania-trump-unveils-her-policy-goals",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/04/23/597780405/how-the-tiny-nation-of-georgia-became-a-bitcoin-behemoth",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2018/02/20/chris-hughes-fair-shot",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/about-npr/586013583/new-hosts-for-morning-edition-all-things-considered",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2018/02/09/584266004/in-the-evil-forest-a-nigerian-activist-and-musician-sings-of-his-kidnapping",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/23/579884628/victims-of-neo-nazi-troll-storm-find-difficulties-doing-something-about-it",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/26/623144872/a-new-life-an-activist-comes-home-to-zimbabwe-hoping-to-hold-leaders-accountable",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/01/625079084/mexicans-go-to-the-polls",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/22/659416389/morning-news-brief",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/19/621520512/rainn-wilson-on-permanent-and-life-post-office",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/19/579227910/indianapolis-union-leader-takes-stock-of-whats-changed-during-trumps-first-year",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/05/576082442/how-fire-and-fury-could-change-the-politics-of-the-trump-administration",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/31/677821948/elizabeth-warren-launches-exploratory-bid-for-president-in-2020",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/06/664855934/dnc-chairman-tom-perez-outlines-what-themes-resonated-with-democrats-this-midter",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/06/664794626/the-expectations-and-worries-of-both-parties-this-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/30/662253558/how-black-women-voters-could-impact-the-midterm-elections",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/07/655483764/brazils-far-right-candidate-grabs-lead-ahead-of-second-round-presidential-electi",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/13/647559529/why-so-many-nevadans-dont-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/29/642883960/5-takeaways-from-a-surprise-win-in-florida-and-a-nasty-race-in-arizona",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/10/637614639/week-in-politics-paul-manaforts-trial-and-ohios-congressional-special-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/08/636635650/ohio-special-election-4-lessons-both-parties-are-learning-for-the-midterms",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/27/632673383/opinion-imran-khan-has-declared-victory-in-pakistans-election-but-the-military-w",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/04/625425037/record-number-of-native-americans-running-for-office-in-midterms",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/27/623752094/who-is-alexandria-ocasio-cortez",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/26/623565247/primaries-to-watch-will-trump-endorsements-be-enough-to-protect-gop-incumbents",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/08/609133392/coal-ceo-turned-senate-hopeful-don-blankenship-says-hes-trumpier-than-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/25/602326027/tea-party-liberal-promises-to-bring-a-blue-wave-to-west-virginia",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2018/04/03/598004675/ahead-of-iraqs-elections-muqtada-al-sadr-reinvents-himself-again",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/14/593491529/the-result-in-the-pa-special-election-could-mean-trouble-for-republicans",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/14/593412534/pa-special-election-turns-out-to-be-unexpectedly-tight",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/13/593272250/race-to-fill-congressional-seat-in-pennsylvania-has-become-massive-battle-betwee",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/06/591039154/5-laws-of-political-gravity-in-midterms-do-they-still-apply-in-the-age-of-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/08/584335379/comparing-republican-and-democratic-theories-about-the-2018-midterm-elections",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/11/577221220/does-issas-retirement-indicate-trump-and-the-gop-are-scared",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/21/595791300/senate-intelligence-committee-recommends-more-security-for-midterms-not-how-to-f",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2018
+}

@@ -1,0 +1,590 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/15/162930490/what-theyre-saying-in-swing-counties",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/18/161345904/obama-backers-more-nuanced-than-47-percent-and-so-are-romneys",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/23/153367283/foreign-policy-a-possible-end-to-egypts-revolution",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/publiceditor/2012/04/30/151304276/six-national-leaders-and-experts-look-at-diversity-at-npr",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/03/146334966/foreign-policy-the-forbidden-citizen",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/20/155431944/asian-americans-on-the-rise",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/24/147348301/shop-talk-are-rihanna-brown-condoning-abuse",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/01/146198412/baratunde-thurston-explains-how-to-be-black",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161346423/romney-secret-video-curveball-or-game-changer",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/13/161091770/smiley-west-poverty-is-a-political-issue",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/20/159341491/medicare-and-medicaid-how-the-campaigns-differ",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/17/158995048/nuns-ask-candidates-to-spend-a-day-with-the-poor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/04/158141728/how-americas-losing-the-war-on-poverty",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/18/155263974/greek-parties-to-hold-coalition-talks",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/01/146196916/romneys-not-concerned-about-very-poor-line-has-legs",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/14/161147832/should-women-learn-to-cook-for-men-guys-weigh-in",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/07/152175555/greek-voters-dealt-main-parties-series-blow",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/06/152147996/austerity-loses-as-greeks-fringe-parties-win-big",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/06/152129295/greeks-cast-ballots-in-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/26/149386312/new-republic-obamacares-somewhat-happy-birthday",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/15/145271755/will-the-real-ronald-reagan-please-stand-up",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160562398/egypts-tumultuous-times-reflected-in-its-art-scene",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/06/164406704/what-issues-did-the-candidates-miss",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/19/163242148/are-candidates-ignoring-the-poor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/18/163132022/romney-reviews-debate-issues-during-virginia-stops",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/11/162754053/transcript-biden-ryan-vice-presidential-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/05/162369902/for-obama-7-8-could-be-lucky-number",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/03/162258551/transcript-first-obama-romney-presidential-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/03/162232863/the-political-junkies-presidential-debate-preview",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/03/162222545/battle-continues-on-who-can-vote-and-how",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/27/161811822/poverty-informs-j-k-rowlings-new-novel-for-adults",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/21/161551134/obama-ryan-aarp-appearances-show-politics-third-rail-is-still-charged",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/14/161160640/romney-struggles-to-find-foreign-policy-footing",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160643183/transcript-bill-clintons-convention-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160526298/democrats-convention-to-focus-on-jobs-economy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/31/160385293/did-romney-make-his-case",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/29/160282031/transcript-rep-paul-ryans-convention-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/28/160213518/transcript-gov-chris-christies-convention-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/21/159565573/biden-and-ryan-share-faith-but-not-worldview",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/14/158745437/on-the-road-with-romney",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/02/156120392/in-w-va-even-democrats-find-obama-s-clean-coal-fighting-words",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/16/155169640/islamist-faces-member-of-the-old-guard-in-egypt-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/14/155006347/radios-bryan-fischer-tries-pushing-romney-right",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/29/153937346/talk-of-union-rights-fades-in-wis-recall-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/10/146709349/republican-contenders-make-pitches-at-cpac",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/02/146305281/trump-endorses-romney-in-surprise-shift",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/25/145847975/gop-candidates-gear-up-sunshine-state-campaigns",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/17/145332032/is-obama-really-the-food-stamp-president-fact-checking-the-s-c-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/13/145188135/obamas-most-vocal-black-critics-dial-back-attacks-as-election-year-begins",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/28/160216442/transcript-ann-romneys-convention-speech",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/12/22/167878598/constitution-vote-seen-as-referendum-on-egyptian-brotherhood",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/19/161414288/does-nicki-minaj-have-the-chops-for-idol",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/19/161401917/weekly-standard-what-romney-meant",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161345903/journalist-examines-chaotic-fighting-in-syria",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2012/08/28/160195703/episode-398-obama-ryan-and-two-dead-economists",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/23/159912636/foreign-policy-the-meles-zenawi-i-knew",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/07/154485156/moderates-worry-tunisia-is-becoming-more-conservative",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/16/150727218/panama-booms-while-poor-watch-from-afar",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/20/148982582/new-republic-the-case-of-the-century",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/20/147156103/ojibwe-writer-seeks-out-the-beauty-of-rez-life",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/13/146808453/we-read-the-2013-budget-so-you-dont-have-to",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/26/145650753/was-the-stimulus-package-money-well-spent",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145812810/transcript-obamas-state-of-the-union-address",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/25/145403626/the-markup-notes-on-the-state-of-the-union",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/24/145692365/foreign-policy-a-forward-strategy-of-freedom",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/17/145346877/the-flame-alphabet-when-language-turns-toxic",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/11/144969152/russia-a-nation-shaped-by-tragedy-and-hardship",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/05/144729473/the-nation-its-not-really-about-the-working-class",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/14/165121081/has-pop-culture-moved-beyond-cowboys-and-indians",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/11/156621234/despite-grim-headlines-africa-is-booming",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/14/152687034/op-ed-euro-crisis-uniquely-greek",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/24/153614162/whats-behind-economic-inequality-between-nations",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/19/155358673/rep-ellison-on-taking-back-the-american-dream",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/20/155411554/oxford-to-honor-suu-kyi-after-years-of-house-arrest",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/24/161696144/op-ed-emancipation-proclamation-a-huge-risk",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/26/163730734/obama-may-not-need-to-repeat-2008-support-from-white-voters-to-win",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/16/152772376/joe-the-plumber-race-a-microcosm-of-2012-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/14/165163155/obama-says-he-has-one-mandate-to-help-the-middle-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/09/164791497/obamas-feat-not-just-winning-but-how-he-won",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164631071/midwest-firewall-helps-secure-obama-victory",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164590976/lessons-from-election-2012-demographics-spending",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164579333/democratic-candidates-do-well-in-sunshine-state",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/06/164362273/voters-to-settle-tight-and-turbulent-presidential-battle",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/06/164401228/ohio-and-florida-checking-in-with-two-key-states",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/06/164377435/voters-to-settle-tight-and-turbulent-presidential-battle",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/26/163715170/why-the-economy-wont-help-obama-or-romney",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/19/163239421/white-men-a-key-gop-demographic-discuss-the-romney-appeal",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/29/162019588/ohio-county-a-historic-predictor-of-states-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/28/161982974/in-ohio-china-a-top-campaigning-point",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/28/161964890/in-ohio-obama-and-romney-duel-over-trade-with-china",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/27/161863453/romney-also-campaigns-in-buckeye-state",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/25/161727382/is-gop-excitement-for-vp-moniee-paul-ryan-waning",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161369274/romney-still-doing-damage-control-for-47-percent",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161369270/biden-a-vital-surrogate-for-obama-on-campaign-trail",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/18/161329890/romney-force-to-explain-victims-comment",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/10/160864051/whos-responsible-when-a-business-succeeds",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/10/160864043/after-convention-obama-hits-the-campaign-trail",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160697503/dnc-delegates-weigh-in-on-what-obama-should-say",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160607412/democrats-pulling-no-punches-at-gop-rivals",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/05/160599692/the-odd-couple-what-clinton-adds-for-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160524185/mayor-castro-1st-latino-to-give-dnc-keynote-speech",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/28/160199687/rubio-predicts-romney-will-begin-to-dent-likeability-gap",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/21/159586642/ryan-tries-to-draw-out-pennsylvanias-red-side",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/13/158715785/romneys-vp-pick-shakes-up-presidential-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/10/158583061/romney-aims-to-perk-up-poll-numbers-on-swing-state-bus-tour",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/31/157637436/presidential-race-zeroes-in-on-nevada",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/13/156741555/why-new-swing-state-of-virginia-may-determine-presidency",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/05/156268298/ohio-senator-vulnerable-for-health-law-support",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/27/155858662/plan-on-skipping-the-party",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/04/154264464/bill-clinton-campaigns-as-obama-s-no-1-surrogate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/30/153998626/in-n-j-democratic-frenemies-wage-final-battle",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/22/153253005/obama-campaign-hammers-away-at-bain-capital-issue",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/03/151952883/will-french-election-mark-a-reversal-of-austerity",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/01/151707496/in-french-election-candidates-chase-far-right-votes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/22/151166760/frances-sarkozy-faces-election-runoff",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/20/151017983/romney-points-to-obamas-failed-promises",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/19/150984874/romney-obama-give-dueling-speeches-in-swing-state-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/19/150977184/in-a-closed-ohio-factory-romney-reminds-voters-its-still-empty",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/10/150372276/santorum-campaign-one-full-of-surprises",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/04/03/149906022/as-wisconsin-heads-to-polls-romney-and-santorum-vie-for-last-minute-support",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/03/149898858/santorum-campaigns-in-wisconsin",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/15/148698276/biden-pitches-for-obama-in-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/15/148654776/biden-speeches-to-frame-election-debate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/14/148627808/obamas-unofficial-ambassador-to-the-middle-class-v-p-biden-hits-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/11/148386637/to-woo-south-romney-needs-more-than-a-twang",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/08/148198720/rep-kaptur-faces-joe-the-plumber-in-november-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/07/148113611/romney-wins-6-states-in-super-tuesday-contests",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/06/148072131/ohio-the-highlight-of-super-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/06/148072121/weighing-in-on-super-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/06/148026283/super-tuesday-what-to-look-for",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/01/147687736/state-of-gop-race-no-momentum-for-candidates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/24/147370924/romneys-big-stadium-speech-makes-some-ask-why-union-bash-in-detroit",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/22/147250584/as-polls-tighten-michigan-voters-weigh-importance-of-social-issues",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/22/147247307/social-issues-matter-in-mich-gop-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/14/146888723/an-update-on-the-presidential-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/10/146678692/santorums-latest-wins-help-to-spread-his-message",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/04/146342119/buffett-rule-becomes-a-bill-and-congress-bickers",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/19/145437577/s-c-primary-voters-struggle-to-decide-on-ballot-choice",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/13/145186442/week-in-politics-gop-primaries",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/10/144324472/michelle-and-barack-obama-a-powerful-partnership",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/08/144852025/time-is-running-out-to-knock-romney-down",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/04/144694078/dionne-continetti-discuss-the-caucuses",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/04/144678537/republicans-road-ahead-after-close-iowa-caucuses",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/04/144664733/obama-wins-iowas-democratic-caucuses",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/16/163009074/the-tea-party-cooled-down-or-as-strong-as-ever",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2012
+}

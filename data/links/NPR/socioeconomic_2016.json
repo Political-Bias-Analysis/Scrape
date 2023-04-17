@@ -1,0 +1,702 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2016/12/28/506299885/how-the-donald-trump-cabinet-stacks-up-in-3-charts",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/21/494883725/trump-says-african-americans-are-in-their-worst-shape-ever-the-data-disagrees",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/16/470715906/exit-polls-provide-insight-into-growing-coalition-of-donald-trump-supporters",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/16/470621382/5-mega-tuesday-takeaways-trump-clinton-both-building-broad-party-coalitions",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/22/502980055/wanna-know-who-won-the-presidential-election-check-vigo-county-s-tally",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/30/487942340/pitching-a-clintonville-protest-during-the-democratic-convention",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/21/475079074/a-view-from-appalachia-whitesburg-kentucky",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/26/468260087/in-alabamas-rural-black-belt-an-uphill-climb-for-bernie-sanders",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/06/504590375/radio-conspiracy-theorist-claims-ear-of-trump-pushes-pizzagate-fictions",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2016/11/09/501421924/how-president-trump-could-derail-obamacare-by-dropping-legal-appeal",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2016/07/21/east-cleveland-housing-distressed",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/03/02/468902148/indias-new-budget-nuts-to-cashew-lovers-relief-for-shoe-fans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/09/497193482/among-black-voters-in-charlotte-the-election-presents-a-difficult-decision",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/24/495248138/your-cheat-sheet-to-the-issues-that-could-come-up-in-the-presidential-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/18/494451660/the-nations-largest-police-union-endorses-donald-trump",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/18/493949725/a-nation-engaged-is-this-still-a-land-of-economic-opportunity",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/21/490821643/trumps-appeal-to-black-voters-may-repeat-past-mistakes-of-gop-outreach",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/12/489816630/week-in-politics-clintons-tax-returns-dueling-economic-speeches",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/27/487620196/covering-hillary-clinton-a-candidate-forged-in-the-crucible-of-conflict",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/21/486940891/trump-to-promise-safety-will-be-restored-as-he-accepts-gop-nomination",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/27/479764844/week-in-politics-trump-crosses-delegate-threshold-to-secure-gop-nomination",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/25/479451614/ryan-shoots-down-trump-endorsement-as-he-readies-house-gop-campaign-agenda",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/05/476767525/transcript-nprs-interview-with-bernie-sanders",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/21/475079053/in-economic-troubled-appalachia-which-presidential-candidates-are-favored",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2016/02/14/462829539/could-a-vial-of-bonos-tears-end-poverty-in-this-card-game-it-can",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/28/464776960/the-stream-iowa-gop-debate-edition",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/09/462513565/republicans-want-to-change-the-conversation-about-poverty",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/13/493801062/obama-stumps-for-clinton-in-battleground-state-of-pennsylvania",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/alltechconsidered/2016/12/21/505864391/why-arent-there-more-women-in-tech-a-tour-of-silicon-valleys-leaky-pipeline",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2016/12/12/504867570/how-investing-in-preschool-beats-the-stock-market-hands-down",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2016/12/07/504451460/school-choice-101-what-it-is-how-it-works-and-does-it-work",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/06/28/483653431/halfway-around-the-world-brexit-hits-japans-already-soft-economy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2016/05/26/479561175/heres-why-israels-new-defense-minister-is-so-controversial",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/22/474820318/why-do-conservatives-need-liberals-and-vice-versa",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/04/20/465545378/lead-laced-water-in-flint-a-step-by-step-look-at-the-makings-of-a-crisis",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/14/468958324/how-single-women-are-transforming-american-politics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/07/469554117/on-race-sanders-and-clinton-stumble-but-dont-shy-away",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/12/462821821/miami-teen-reflects-on-marijuana-use-among-his-peers",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/24/491170192/trump-courts-black-voters-appears-to-scale-back-immigration-plans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/22/494984130/trump-still-trying-to-sway-black-voters-to-the-side-of-republicans",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/15/474325002/democratic-voters-in-struggling-pa-county-cross-over-to-support-trump",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/05/476844437/sanders-reminds-appalachia-voters-he-has-championed-their-cause",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/30/479995884/the-week-in-politics-bernie-sanders-clintons-emails-and-a-trump-non-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2016/12/12/clinton-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/12/489499596/the-latest-clinton-converts-white-college-educated-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/05/488853041/-1632-were-gonna-need-a-bigger-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/28/487798908/california-gov-jerry-brown-on-the-power-of-outsider-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/30/496032364/in-iowa-and-elsewhere-white-working-class-voters-may-be-key-to-victory",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502111367/howard-dean-wants-to-lead-the-dnc-again-has-a-50-state-strategy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/06/500931797/how-once-reliable-voting-blocs-have-changed",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/24/479274185/former-rival-contemplates-trumps-recipe-for-success",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/26/506073668/4-things-democrats-need-to-do-plus-1-they-shouldnt-to-rebuild-in-2017",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/22/506476143/still-puzzled-by-the-election-authors-prescribe-fiction-for-better-understanding",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/22/506347254/latinos-will-never-vote-for-a-republican-and-other-myths-about-hispanics-from-20",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/19/505549311/to-rehabilitate-democratic-party-obama-plans-to-coach-young-talent",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/12/505205197/is-donald-trump-a-threat-to-democracy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/09/505012030/week-in-politics-trumps-cabinet-picks-election-hacking-review",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/12/07/504486620/reporters-notebook-what-a-muslim-on-the-campaign-trail-in-2016",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/30/503864977/pelosi-overcomes-challenge-to-win-re-election-as-house-democratic-leader",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/28/503558325/rep-ryan-whos-challenging-pelosi-wants-democrats-focus-on-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/25/503361282/green-party-raises-more-than-5-million-in-election-recount-effort",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/19/502685416/french-conservatives-fear-populist-wave-that-carried-trump-s-upset-victory-will",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/19/502685395/ohio-sen-sherrod-brown-says-he-ll-have-to-pick-battles-but-sees-common-ground-wi",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/17/502437435/sanders-trump-will-have-an-ally-with-me-if-he-stands-up-to-corporate-america",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/16/502274790/democrats-must-reconnect-with-white-working-class-voters-tanden-says",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502111452/republicans-return-to-capitol-hill-after-tumultuous-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/15/502032052/lots-of-people-voted-for-obama-and-trump-heres-where-in-3-charts",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/13/501739277/who-benefits-from-donald-trumps-tax-plan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501853689/where-to-go-from-here-trying-to-build-possibility-and-hope",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501819323/economy-not-gender-played-a-big-factor-for-many-midwest-females-who-embraced-tru",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501819316/after-losing-votes-of-middle-class-workers-what-does-the-democratic-party-s-futu",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501819302/evaluating-the-state-of-polling-after-the-2016-presidential-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/12/501819295/indiana-working-class-voters-hope-trump-will-deliver-on-jobs-promises",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/11/501732403/trump-won-their-vote-now-they-want-him-to-meet-expectations",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/10/501613472/democrats-consider-how-to-move-forward-after-trump-victory",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/10/501566466/in-surreal-moment-president-elect-donald-trump-meets-with-president-obama",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501486819/4-questions-democrats-now-have-to-grapple-with",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501476969/how-u-s-demographic-changes-explain-election-results",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501476912/rep-debbie-dingell-on-clinton-loss-people-took-michigan-for-granted",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501476877/democrats-adjust-to-new-role-as-minority-party-after-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/09/501398399/riding-a-wave-of-change-donald-trump-wins-presidential-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501218596/sen-claire-mccaskill-reflects-on-future-of-democratic-party",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501218087/polls-close-in-ohio-north-carolina-and-west-virginia",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501205819/2016-campaign-leaves-major-impact-on-republican-partys-future",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501205798/the-memorable-online-moments-that-captured-campaign-2016",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/08/501121081/rep-dingell-clinton-understands-what-it-means-to-be-a-working-man-or-woman",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/07/501019683/view-from-nearly-99-frances-kolarek-reflects-on-politics-and-change",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/06/500898823/clinton-makes-final-campaign-rounds-through-florida-philly-before-hitting-midwes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/05/500755467/hillary-clintons-road-to-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/03/500560217/college-republicans-at-ohio-state-consider-the-future-of-the-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/03/500457909/the-dangerous-volatile-game-trump-plays-with-the-white-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/02/500407484/clinton-campaign-manager-outlines-closing-arguments-before-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/11/01/500263963/ohio-volunteers-remain-steadfast-in-support-of-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/25/499312937/two-weeks-out-democrats-have-the-edge-in-the-fight-for-the-senate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/17/498292076/biden-shares-views-on-the-state-of-american-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/16/498135759/ohio-is-one-of-the-states-still-up-for-grabs-as-election-nears",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/14/497991221/week-in-politics-trump-sexual-assault-allegations",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/14/497991214/in-ohio-obama-tries-to-energize-his-winning-coalition-for-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/12/497529936/how-the-browning-of-america-is-upending-both-political-parties",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/10/03/496442085/clinton-returns-to-ohio-to-share-vision-for-equitable-economy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/15/494112503/trump-sets-audacious-goal-of-4-percent-economic-growth",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/13/493755181/trump-campaign-sketches-out-family-care-plans-questions-linger-over-funding",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/13/493522571/senate-top-10-a-path-to-the-majority-for-democrats-comes-into-focus",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/05/492727605/trump-clinton-make-pitches-to-working-class-voters-on-labor-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/09/04/492230045/has-donald-trump-permanently-altered-the-republican-partys-dna",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/30/491984240/republicans-consider-lasting-impression-of-trump-on-their-party",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/20/490738719/as-trump-s-poll-numbers-slide-campaign-targets-ohio-working-class-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/18/490192497/bringing-back-manufacturing-jobs-would-be-harder-than-it-sounds",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/13/489827074/how-rich-candidates-try-to-appeal-to-working-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/12/489816623/wealthy-candidates-struggle-to-connect-with-working-class-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/11/489661947/newcomers-to-u-s-south-mark-shift-in-regional-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/04/488637593/hillbilly-elegy-author-on-the-white-working-class-and-americas-greatness",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/02/488336985/can-clinton-win-the-working-class-and-can-trump-hold-on-to-veterans",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/08/01/488191768/clinton-tries-to-win-over-working-class-voters-in-trump-country",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/31/488150515/clinton-kaine-take-economic-message-to-rust-belt",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/31/488122782/the-week-in-politics",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/28/487732727/convention-speeches-soar-raise-a-question-can-clinton-connect-with-ordinary-peop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/26/487446743/michigan-sen-stabenow-on-hillary-clintons-long-political-journey",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/25/487420643/union-leaders-contend-clinton-not-trump-is-true-champion-of-the-middle-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/25/487297835/democrats-and-the-fine-art-of-getting-out-of-your-own-way",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/22/487050100/hillary-clinton-picks-tim-kaine-as-her-vice-presidential-running-mate",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/18/486397954/6-things-to-watch-at-the-republican-convention-this-week",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/17/486359349/trump-names-religious-conservative-mike-pence-as-vp-pick-ahead-of-gop-convention",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/16/486311016/barbershop-the-gop-the-rnc-and-what-it-means",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/15/485555549/detroits-working-class-men-split-on-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/12/485694830/watch-in-show-of-party-unity-bernie-sanders-expected-to-back-hillary-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/07/10/485432433/detroit-working-class-men-split-on-donald-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/28/483890392/obama-casts-doubt-on-donald-trumps-chances-in-general-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/23/483197727/the-view-from-the-northeast-economic-concerns",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/14/482084795/clinton-wins-district-of-columbia-primary-meets-with-sanders",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/06/08/481284359/how-bernie-sanders-progressive-message-carried-his-insurgent-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/17/478441023/clinton-holds-narrow-lead-over-sanders-in-kentucky-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/17/478417173/can-trump-turn-pennsylvanias-disaffected-democrats-into-believers",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/11/477607457/white-working-class-voters-in-west-virginia-pick-sanders-over-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/10/477529333/west-virginia-nebraska-hold-presidential-primary-contests",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/10/477190080/demographics-and-history-tilt-the-map-in-clintons-favor-over-trump",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/06/477072114/week-in-politics-donald-trump-becomes-likely-gop-nominee",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/05/02/476279048/in-2-indiana-cities-all-that-trump-and-obama-touched-isnt-political-gold",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/28/476060479/donald-trumps-rivals-count-on-indiana-in-strategy-to-block-gop-front-runner",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/26/475773199/gop-rivals-focus-on-future-contests-to-deny-donald-trump-the-nomination",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/20/475015335/donald-trump-makes-play-for-indiana-after-nearly-sweeping-rivals-in-new-york",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/20/474905689/special-election-coverage-the-new-york-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/19/474868371/former-rnc-chairman-haley-barbour-weighs-in-on-state-of-the-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/19/474750813/new-york-preview-clinton-trump-look-to-home-state-to-help-put-races-away",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/15/474411489/week-in-politics-democratic-debate-gop-outcry-over-delegates",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/12/473558147/5-key-demographics-in-the-new-york-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/08/473495847/bernie-sanders-accepts-an-invitation-from-the-pope",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/04/01/472716087/hillary-clinton-courts-working-class-voters-in-new-york",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/31/472577670/donald-trumps-rise-could-threaten-republican-house-majority",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/31/472560704/how-the-trump-factor-could-put-house-seats-in-play-for-democrats",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/22/471521992/western-tuesday-candidates-fight-for-delegates-in-arizona-idaho-and-utah",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/18/470911185/can-donald-trump-rewrite-the-electoral-map-for-the-gop",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/17/470861317/demographic-scramble-donald-trumps-electoral-path-to-the-white-house",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/15/470567009/gop-candidates-look-to-slow-donald-trump-in-5-major-primary-contests",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/15/470566964/bernie-sanders-looks-to-maintain-momentum-as-5-more-states-vote",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/14/470427659/hillary-clinton-campaigns-in-illinois-ahead-of-major-primary-contests",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/14/470427652/bernie-sanders-looks-to-pull-off-another-upset-against-hillary-clinton",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/13/470280379/voters-left-and-right-are-anti-free-trade-but-is-it-all-bad",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/13/470278253/bernie-sanders-has-strength-among-white-men-pinched-by-the-economy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/12/470194240/clinton-s-weak-link-white-male-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/11/470119914/week-in-politics-presidential-primaries-canadian-prime-minister-visits-u-s",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2016/03/11/469990052/millions-of-voters-are-sending-a-message-our-economic-framework-is-rotten",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/09/469841633/democratic-debate-3-things-to-watch",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/09/469837022/in-michigan-bernie-sanders-exposed-hillary-clintons-weaknesses",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/08/469551201/pressures-on-trump-sanders-in-crucial-contests-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/07/469545342/john-kasich-battles-donald-trump-for-michigans-white-working-class-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/03/01/468751764/clinton-looks-to-gain-sizable-lead-over-sanders-on-super-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/21/467533956/traffic-jam-in-the-winner-s-circle-saturday-results-encourage-everyone-but-jeb-b",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/01/465180937/iowa-voters-prepare-to-caucus-in-first-contest-of-2016-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/02/01/465086326/the-iowa-caucuses-5-things-to-watch",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/29/464893206/week-in-politics-gop-debate-democratic-town-hall",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/18/462027861/republicans-white-working-class-trap-a-growing-reliance",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2016/01/11/462698199/clinton-sanders-get-tough-on-policy-differences-in-close-iowa-race",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2016
+}

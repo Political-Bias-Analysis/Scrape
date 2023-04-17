@@ -1,115 +1,838 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2012/11/28/166054170/post-election-republicans-immigration-message-evolves",
+            "link": "https://www.npr.org/2012/11/28/166054170/post-election-republicans-immigration-message-evolves",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/11/16/165295824/-1246-post-election-immigration-reform",
+            "link": "https://www.npr.org/2012/11/16/165295824/-1246-post-election-immigration-reform",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/12/17/167447908/federal-state-tug-of-war-drawing-the-lines-in-immigration-overhaul",
+            "link": "https://www.npr.org/2012/12/17/167447908/federal-state-tug-of-war-drawing-the-lines-in-immigration-overhaul",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2012/11/28/166068677/hispanic-caucus-rejects-republican-immigration-bills",
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/28/166068677/hispanic-caucus-rejects-republican-immigration-bills",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2012/11/10/164818211/republicans-scramble-to-repair-breech-with-hispanics",
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/10/164818211/republicans-scramble-to-repair-breech-with-hispanics",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/11/09/164763684/voters-in-swing-counties-revisit-election-issues",
+            "link": "https://www.npr.org/2012/11/09/164763684/voters-in-swing-counties-revisit-election-issues",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164571061/scenes-of-celebration-at-the-white-house",
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164571061/scenes-of-celebration-at-the-white-house",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/09/30/162029579/being-better-off-may-not-be-enough-to-win-colo",
+            "link": "https://www.npr.org/2012/09/30/162029579/being-better-off-may-not-be-enough-to-win-colo",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/08/12/158371570/migrants-targeted-amid-rise-of-greek-extremists",
+            "link": "https://www.npr.org/2012/08/12/158371570/migrants-targeted-amid-rise-of-greek-extremists",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/07/15/156796126/green-party-pick-gives-democrats-brunt-of-criticism",
+            "link": "https://www.npr.org/2012/07/15/156796126/green-party-pick-gives-democrats-brunt-of-criticism",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/23/155637482/week-in-news-courting-the-latino-vote",
+            "link": "https://www.npr.org/2012/06/23/155637482/week-in-news-courting-the-latino-vote",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/23/155622570/contrasting-romney-and-obama-on-immigration",
+            "link": "https://www.npr.org/2012/06/23/155622570/contrasting-romney-and-obama-on-immigration",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2012/06/21/155513323/romney-softens-rhetoric-if-not-message-in-speech-to-latino-leaders",
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/21/155513323/romney-softens-rhetoric-if-not-message-in-speech-to-latino-leaders",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/20/155379747/obamas-immigration-move-disrupts-rubios-dream",
+            "link": "https://www.npr.org/2012/06/20/155379747/obamas-immigration-move-disrupts-rubios-dream",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/04/28/151584373/immigrant-sweeps-in-greece-spark-protests",
+            "link": "https://www.npr.org/2012/04/28/151584373/immigrant-sweeps-in-greece-spark-protests",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/11/07/164631085/immigration-reform-high-on-democrats-to-do-list",
+            "link": "https://www.npr.org/2012/11/07/164631085/immigration-reform-high-on-democrats-to-do-list",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/12/05/166593049/conservative-rhetoric-on-immigration-may-soften",
+            "link": "https://www.npr.org/2012/12/05/166593049/conservative-rhetoric-on-immigration-may-soften",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/16/155186594/state-of-the-unions-labor-and-the-middle-class",
+            "link": "https://www.npr.org/2012/06/16/155186594/state-of-the-unions-labor-and-the-middle-class",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/11/30/166217413/idahos-rep-labrador-on-immigration-jobs-bill",
+            "link": "https://www.npr.org/2012/11/30/166217413/idahos-rep-labrador-on-immigration-jobs-bill",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/12/29/168248983/looking-ahead-at-immigration-reform-in-2013",
+            "link": "https://www.npr.org/2012/12/29/168248983/looking-ahead-at-immigration-reform-in-2013",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/22/155554820/will-immigration-plan-sway-latino-leaders-to-obamas-side",
+            "link": "https://www.npr.org/2012/06/22/155554820/will-immigration-plan-sway-latino-leaders-to-obamas-side",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/06/22/155596227/obama-the-favorite-at-latino-leaders-convention",
+            "link": "https://www.npr.org/2012/06/22/155596227/obama-the-favorite-at-latino-leaders-convention",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/09/17/161253920/romney-tries-to-appeal-to-hispanic-voters",
+            "link": "https://www.npr.org/2012/09/17/161253920/romney-tries-to-appeal-to-hispanic-voters",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/11/08/164722732/foreign-policy-talk-on-campaign-trail-mostly-hot-air",
+            "link": "https://www.npr.org/2012/11/08/164722732/foreign-policy-talk-on-campaign-trail-mostly-hot-air",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/04/24/151305382/senate-democrats-blast-arizona-immigration-law",
+            "link": "https://www.npr.org/2012/04/24/151305382/senate-democrats-blast-arizona-immigration-law",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2012/02/01/146188095/romney-wins-big-over-gingrich-in-florida-primary",
+            "link": "https://www.npr.org/2012/02/01/146188095/romney-wins-big-over-gingrich-in-florida-primary",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164589392/on-ballot-in-maryland-dream-act-wins-big-on-election-night",
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164589392/on-ballot-in-maryland-dream-act-wins-big-on-election-night",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2012/11/12/164756302/who-gets-the-blame-for-the-romney-loss-the-tea-party-has-a-theory",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164582512/dream-act-supporters-rally-arizona-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/npr-extra/2012/11/05/164197014/election-night-nprmeetup",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/19/163218874/for-hispanics-a-question-of-turnout",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/17/163085813/speechwriters-size-up-round-2",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/16/163050988/transcript-obama-romney-2nd-presidential-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/04/162304925/what-obama-and-romney-left-out-in-first-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/21/161522960/obama-pressed-on-slow-changes-to-immigration-law",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/20/161495589/despite-obamas-high-latino-support-univision-puts-him-on-hot-seat",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/19/161446722/mitt-romney-tells-univision-audience-his-campaign-is-about-the-100-percent",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/12/161007274/jorge-ramos-debate-commission-stuck-in-1950s",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160615425/dean-on-how-democrats-will-win-the-white-house",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160562420/dems-capitalize-on-advantage-with-hispanic-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/03/160495388/live-blog-tuesday-at-the-democratic-national-convention",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/03/160508224/the-undocumented-bus-in-charlotte-a-different-kind-of-coming-out",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160314860/the-word-from-the-rnc-floor",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160314856/dont-forget-all-politics-is-local-mayor-says",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/24/159988685/who-best-represents-american-catholics",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/17/158995038/has-romney-settled-debate-over-personal-taxes",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/16/158928197/undocumented-youth-line-up-for-a-chance-to-stay",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/15/158872445/for-undocumented-youth-new-policy-carries-risks",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/06/158199108/own-the-dream-to-aid-the-young-and-undocumented",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/13/156727762/immigration-spurs-a-rare-split-among-ariz-mormons",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/11/156611122/arizona-immigration-activists-mobilize-latino-vote",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/27/155842862/what-issues-really-matter-to-latinos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/22/155520145/some-immigrant-students-still-dreaming-of-clarity",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/21/155524643/romney-to-latino-voters-you-have-an-alternative",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/21/155457970/romney-obama-fine-tune-pitches-to-latino-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/23/153519648/romney-tries-to-mend-fences-with-latinos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/05/150058865/for-romney-family-ties-to-marriott-heirs-pay-off",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/03/27/149449588/tuesday-political-grab-bag-supreme-court-gets-to-nub-of-healthcare-issue",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/11/148415479/who-will-win-over-americas-latino-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/07/148139860/for-marco-rubio-v-p-prospects-bring-new-scrutiny",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/22/147041160/protesters-gop-candidates-dont-dream-halfway",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/28/146024081/gop-candidates-court-hispanic-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/26/145915069/in-spanish-language-ads-a-question-of-sincerity",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/25/145840535/romney-has-large-lead-among-florida-hispanic-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/16/165216636/in-california-republican-is-becoming-a-toxic-label",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/13/164407096/far-right-greek-party-rides-wave-of-economic-anger",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/31/163900660/at-the-economys-bottom-rungs-striving-to-climb-up",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/28/161953191/to-use-or-lose-the-term-illegal-immigrant",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/12/161013377/the-turns-ahead-on-the-campaign-trail",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/08/23/159926481/immigration-employees-file-suit-against-obamas-new-immigration-policy",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/09/158209222/iranian-wave-rises-to-euphoria-crashes-in-despair",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/09/158416047/fox-pioneers-formula-for-latino-news",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/03/156192403/marco-rubio-draws-on-family-to-keep-him-grounded",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/28/155898429/new-republic-obamas-two-fold-strategy",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/20/155440677/obamas-shift-on-immigration-and-the-latino-vote",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/16/155161672/is-deportation-freeze-a-big-relief-or-cynical-ploy",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/15/155132250/napolitano-new-immigration-policy-is-part-of-a-strong-enforcement",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/15/155091639/report-deportations-of-law-abiding-younger-illegal-immigrants-to-stop",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/18/152998730/will-population-shifts-alter-immigration-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/01/151761478/the-nation-can-romney-win-over-young-voters",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/06/144783916/the-nation-progressive-man-crushes-on-ron-paul",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/09/164796547/barbershop-guys-light-it-up-on-marijuana-ballots",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/14/165140581/lessons-from-the-2012-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/13/165034553/pakistan-fears-afghan-spillover-of-chaos-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/06/164464925/some-new-york-city-polling-sites-run-on-generators",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/06/164393738/sandy-likely-to-affect-new-york-voter-turnout",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/02/164157339/n-y-n-j-scramble-to-make-voting-possible",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/22/163436694/transcript-3rd-obama-romney-presidential-debate",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/19/161409916/welfare-wasnt-always-a-dirty-word-in-the-romney-family",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/05/160592311/bill-clinton-politics-comeback-kid-rides-again-at-the-dnc",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/30/160357612/transcript-mitt-romneys-acceptance-speech",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/19/145449506/who-exactly-is-the-real-romney",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/01/144553568/a-quick-look-at-the-year-ahead",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/23/145648804/candidates-stance-on-immigration-reform-scrutinized-ahead-of-florida-primary",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/05/162347198/venezuela-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/01/162056741/high-court-preps-for-another-headline-making-term",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/04/146361328/in-ukraine-a-daughter-takes-up-her-mothers-cause",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/26/165896149/separatists-make-gains-in-catalan-elections",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/11/16/165267140/japan-sets-date-for-national-election",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/18/167505626/u-s-nervous-about-japans-new-prime-minister",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/15/167321224/japan-vote-could-set-new-tone-for-nation",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/14/167255532/nationalist-rhetoric-high-as-japanese-head-to-polls",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/25/165845605/catalan-vote-could-amplify-independence-fight",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/deceptivecadence/2012/10/30/163953503/how-is-the-white-house-like-the-opera-house",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/05/156286963/foreign-policy-american-exeptionalism-a-history",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/21/151100508/nazi-past-has-french-town-wary-of-far-right-politics",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/20/167720690/-a-new-generation-takes-power-in-northeast-asia",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/10/154688161/whats-next-for-spains-bailout-plan",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160588871/hillary-clinton-travels-to-china",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/06/162424440/former-cricket-star-leads-pakistan-drone-protest",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/12/162815204/european-unions-nobel-win-raises-eyebrows",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/02/151842205/exxonmobil-a-private-empire-on-the-world-stage",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/14/167254335/unions-who-needs-em",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/27/161894990/china-on-the-eve-of-a-new-presidency",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/19/155337892/u-s-border-states-have-stake-in-mexicos-presidential-election",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/21/155513757/why-operation-fast-and-furious-failed",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/20/155442993/hill-republicans-tight-lipped-on-immigration-change",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/05/166573082/black-latino-groups-its-our-turn-mr-president",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/27/166023470/achieve-act-a-republican-answer-to-dream-act",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/07/164631089/gop-must-regroup-redefine-itself-after-election",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/11/07/164622234/how-obama-took-the-battleground-states",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/23/163506610/despite-obamas-nevada-advantages-romney-campaign-betting-on-state",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/11/162668798/presidential-candidates-set-their-sights-on-colorados-latinos",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/03/162246642/stage-set-for-first-presidential-debate-in-denver",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/02/162173953/campaigns-targeting-hispanics-but-with-tight-focus",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/01/162084449/voters-angry-at-washington-gridlock-may-want-to-look-in-the-mirror",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/20/161502077/obama-answers-questions-from-latino-voters",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/20/161456472/romney-immigration-system-needs-to-be-fixed",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/19/161447299/in-univision-forum-romney-reaches-out-to-latinos",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/17/161300403/as-mitt-romney-woos-latinos-obamas-team-derides-a-makeover",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/12/161010878/with-no-latino-moderators-for-debates-univision-announces-its-own-party",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160713941/transcript-president-obamas-convention-speech",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/06/160713378/transcript-vice-president-bidens-convention-speech",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160588879/obama-needs-minority-voters-on-his-side",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/04/160574895/transcript-julian-castros-dnc-keynote-address",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/04/160562907/some-black-delegates-say-obamas-race-a-more-nuanced-factor-in-2012",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/08/30/160352857/on-romneys-big-night-a-rare-and-fraternal-shoutout-for-president-bush",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/10/158544587/in-colorado-obama-visits-olympic-training-center",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/09/158419238/complications-contradictions-in-a-fla-swing-county",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/07/158283472/will-tea-party-star-marco-rubio-get-gop-vp-nod",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/07/31/157649210/obama-chooses-san-antonio-mayor-julian-castro-as-convention-keynoter",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/06/156381703/where-they-stand-obama-romney-on-immigration",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/07/05/156300340/la-raza-expects-gay-marriage-debate",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/22/155592716/obama-basks-in-latino-politicians-love-after-his-dream-moves",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/19/155380361/senates-top-republican-seeks-a-cue-from-romney-on-immigration",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/19/155355118/polls-obamas-immigration-changes-get-broad-voter-support",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/18/155263984/romneys-bus-tour-stops-in-pennsylvania-ohio",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/15/155126911/president-obamas-immigration-shift-could-bolster-latino-support-in-november",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/15/155106744/with-dream-order-obama-did-what-presidents-do-act-without-congress",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/14/155030394/romney-obama-squaring-off-on-economy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/06/11/154782404/immigrant-advocates-obamas-deportation-policy-a-failure",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/05/23/153518350/romney-stresses-education-platform-in-seeking-latino-votes",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/16/152818816/latino-voters-seen-but-will-they-be-heard-in-2012",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/14/152691171/latino-voters-can-be-anti-gay-marriage-but-still-pro-obama",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/10/152428275/mourdocks-demeanor-masks-conservative-fervor",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/28/151517384/rubios-dream-act-light-jumbles-immigration-issue",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/23/151178322/immigration-remains-a-dicey-issue-for-romney-gop",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/11/150425210/can-romney-appeal-to-women-minority-voters",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/02/09/146650681/at-cpac-hard-lines-on-race-and-immigration-could-be-awkward",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/04/146393356/as-population-shifts-so-do-political-tactics",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/03/146314582/romney-again-a-front-runner-but-at-what-cost",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/01/22/145603023/romney-gingrich-appeals-to-gop-right-raise-general-election-hurdles",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/01/144537999/romney-meets-friendly-crowd-in-ice-cream-capital",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/11/30/166239067/an-overture-to-latinos-gop-controlled-house-passes-immigration-bill",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/25/165653196/despite-talk-immigration-overhaul-not-a-guarantee",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/08/164722724/fiscal-cliff-will-change-terms-of-debate-in-congress",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/28/155894520/weekly-standard-obamas-victory-plan",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/23/155615081/whos-carl-this-time",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/16/155189279/gauging-the-impact-of-obamas-immigration-policy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/16/155169604/the-new-immigration-policy-whats-at-stake",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/10/154460910/mr-cao-recalls-rookie-congressmans-unlikely-rise",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/21/153192314/weekly-standard-no-more-mister-nice-guy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/23/151222357/op-ed-obama-and-romney-quit-hispandering",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/13.7/2012/04/03/149907287/a-supreme-court-of-the-future",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/07/154519830/which-workers-need-unions-and-which-dont",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/18/155296747/the-ins-and-outs-of-obamas-immigration-shift",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/17/167421676/immigration-changes-gotta-happen-this-year",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/15/155135351/some-immigrants-relieved-after-deportation-changes",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160624801/maryland-governor-a-top-democrat-prospect-for-2016",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/20/155454730/economy-one-of-biggest-issues-for-latino-voters",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/22/167861445/group-says-theyll-keep-tabs-on-immigration-votes-in-congress",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/22/155596229/week-in-politics-immigration-reform-calif-budget",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/31/160400116/rncs-program-aimed-at-luring-more-latino-voters",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/12/11/166977115/what-changes-in-right-to-work-states",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/11/11/164894055/challenges-stacked-for-obamas-second-term",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/25/155714576/supreme-court-makes-3-key-rulings",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/27/155842868/is-women-having-it-all-a-feminist-fantasy",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2012/08/03/158049388/in-growing-baltimore-are-immigrants-the-key",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/10/17/163067488/debate-watchers-get-a-town-brawl",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2012/09/11/160962206/reporters-pledge-of-allegiance-quandary-sparks-twitter-debate-on-romney-trail",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/05/152092541/french-election-marks-a-fork-in-the-road",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/10/02/162164918/should-the-u-s-still-fear-russia",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/18/155296743/another-detour-on-egypts-path-to-democracy",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/13/154912283/foreign-policy-12-signs-of-the-europocalypse",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2012/06/08/154601099/egyptian-state-tv-launches-ad-campaign-stoking-fear-of-foreigners",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/28/149531711/are-muslims-treated-as-outsiders-in-their-own-country",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/29/147630378/the-nation-more-weak-wins-for-romney",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/02/14/146881973/egyptians-harbor-suspicions-about-u-s-aid-groups",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/07/152197690/what-putins-latest-election-says-about-russia",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/09/05/160550559/in-south-africa-no-crying-over-spilt-milk",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/04/152017727/new-republic-midnight-in-paris",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/05/03/151915923/angry-voters-could-change-makeup-of-greeces-parliament",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/04/27/151512656/the-nation-the-end-of-sarkozy",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/03/31/149745143/socialist-campaigns-against-sarkozy-big-finance",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/01/17/145330884/new-republic-the-battle-of-the-superpac",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2012/06/22/155571294/grandma-withstands-bus-bullies",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2012

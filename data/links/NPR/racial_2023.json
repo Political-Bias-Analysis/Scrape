@@ -1,0 +1,83 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination",
+        "CRT"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2023/04/01/1167587466/chicago-will-vote-between-two-candidates-with-distinctly-different-ideas-of-bein",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/03/1167815779/chicago-votes-for-a-new-mayor-in-runoff-election",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/07/1161707130/how-department-of-agriculture-is-reckoning-with-racial-inequity",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/05/1160964200/sen-tim-scott-is-a-different-kind-of-republican-who-could-reshape-the-2024-elect",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/27/1159630201/chicago-mayor-lori-lightfoot-faces-8-challengers-in-tuesdays-election",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/26/1157248572/supreme-court-voting-rights-act-private-right-of-action-arkansas",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/25/1159528632/chicago-mayor-lori-lightfoot-runs-for-re-election-next-week",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/27/1152140562/trump-takes-his-2024-campaign-to-s-c-where-his-support-isnt-what-it-once-was",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/09/1147909139/the-devastation-left-in-the-wake-of-the-riots-at-brazils-government-buildings",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/07/1168581803/tennessee-democrats-expelled-rep-justin-jones",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/08/1155093955/mark-whitaker-black-panthers-stokely-carmichael-civil-rights-saying-it-loud-1966",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/06/1147585859/is-kevin-mccarthy-on-the-brink",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/05/1147128112/rep-maxwell-frost-on-gen-z-politics-and-the-price-tag-of-power",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/08/1161859597/biography-of-first-lady-edith-wilson-examines-the-complexities-of-women-and-powe",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/05/1147052825/katie-hobbs-is-being-formally-sworn-in-as-arizona-s-new-governor-today",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.wbur.org/onpoint/2023/04/10/the-rise-of-populism-power",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2023/03/08/1162010956/police-try-to-stop-international-womens-day-protests-in-pakistan-protesters-pers",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/10/1148211343/a-coordinated-nationwide-agenda-dominated-local-school-board-elections-last-year",
+            "bias": "CRT"
+        }
+    ],
+    "Year": 2023
+}

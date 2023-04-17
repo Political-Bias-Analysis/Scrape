@@ -1,0 +1,66 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2023/03/22/1164822171/trump-run-president-campaign-arrest-charges-voters-indictment",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/15/1163644248/wellesley-college-referendum-trans-nonbinary-students",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2023/01/25/1150429655/15-wishes-for-2023-trailblazers-tell-how-theyd-make-life-on-earth-a-bit-better",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/14/1149245168/jesse-white-illinois-secretary-of-state-retiring-after-24-years-reflects-on-his-",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/12/1169486934/the-sunday-story-the-unspoken-rules-of-hip-hop",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.wbur.org/onpoint/2023/04/12/wisconsin-and-the-politics-of-resentment",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/04/1167742153/venezuela-colombia-border-trade-exports-imports",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2023/02/09/child-care-cost-congress",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2023/01/20/1150338624/political-chaos-in-peru-more-heavy-arms-to-ukraine-coffee-pods-the-environment",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/21/1158463766/sen-bernie-sanders-is-embracing-his-anger-new-book-details-what-hes-angry-about",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2023/04/11/1169186185/biden-ireland-trip-good-friday-agreement-family",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2023/03/04/1160590678/biden-house-democrats-2024-election-campaign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/25/1159382554/in-east-palestine-who-shows-up-isnt-necessarily-a-sign-of-whos-helping",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2023/02/04/1153843337/george-santos-new-york-district",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2023
+}

@@ -1,0 +1,126 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2007/09/16/14458401/ruling-party-declares-victory-in-greek-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/01/02/6709281/egypts-muslim-brotherhood-celebrates-founder",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/21/14589822/tough-candidates-and-trying-to-start-a-movement",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/07/14234441/south-african-students-persevere-by-testing-hope",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/08/20/13752972/democratic-party-lacks-message-author-says",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/08/10/12669366/black-journalists-tackle-the-black-enough-question",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/20/12125327/tom-tancredo-on-his-bid-for-the-presidency",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/28/11525048/presidential-hopefuls-field-questions-on-youtube",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/13/11016683/her-way-takes-new-approach-to-clinton-story",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/14/10173772/t-d-jakes-seeks-leadership-not-faith-in-president",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/04/30/9910480/democratic-hopefuls-blast-away-at-bush",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/02/03/7149278/democratic-presidential-hopefuls-vie-for-attention",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/06/16975607/nuclear-jihadist-tells-of-dangerous-secrets",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/09/15051264/jimmy-carter-beyond-the-white-house",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/06/14966910/u-s-revolution-inspired-imitators-fleetingly",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/02/14848767/robert-reich-issues-a-warning-in-supercapitalism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/18/11156034/cullen-murphy-reads-are-we-rome",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/15/11091821/sen-webb-on-military-sons-and-fathers",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/bryantpark/2007/06/from_polygamy_blogs_to_mullet_1.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/01/9942914/women-voters-and-the-issues-that-matter",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/04/27/9876028/civility-a-bit-of-wit-on-display-as-democrats-debate",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/07/7754915/social-changes-seen-as-ghana-builds-its-economy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/07/7754912/ghana-celebrates-50-years-as-independent-nation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/06/7722412/ghana-marks-50th-anniversary-and-some-regrets",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/02/26/7599110/senegals-wade-leads-in-bid-to-hold-presidency",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/01/09/6743192/between-two-worlds-my-name-is-iran",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/08/7762959/what-happened-to-russian-democracy",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/11/17142817/wish-lists-for-santa-politicians-in-milford-n-h",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/04/14154835/key-labor-groups-endorse-edwards",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2007
+}

@@ -1,0 +1,932 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2016/12/19/us/judge-aaron-persky-misconduct-investigation/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/06/politics/donald-trump-muslim-voters-washington/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/07/politics/donald-trump-rap-hip-hop-critique/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/06/politics/bill-clinton-obamacare-mailer-republicans/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/17/politics/obama-black-congressional-caucus/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/13/politics/trump-to-visit-flint-wednesday/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/25/politics/democratic-convention-fact-check/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/15/politics/5-ways-talk-trump/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/23/politics/obama-argentina-visit-new-relationship/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/23/us/five-things-new-day/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/22/us/rob-ford-dies/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/19/politics/clinton-supporters-why-trump-won-camerota-new-day-cnntv/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/14/politics/barbara-mikulski-maryland-senator-goodbye/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/10/politics/donald-trump-cabinet/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/11/politics/biden-sotu-2020-democrats/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/09/politics/government-shutdown/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/08/politics/joe-biden-jake-tapper-donald-trump-voters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/07/politics/donald-trump-mike-pence-promises-policy/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/07/politics/keith-ellison-dnc-chair/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/04/politics/bernie-sanders-kellyanne-conway-robby-mook/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/30/politics/house-democrat-election-results-nancy-pelosi-tim-ryan/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/20/politics/ip-forecast-joe-biden-possible-dnc-chair/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/politics/trump-asks-rep-mike-pompeo-to-be-cia-director-sources-say/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/politics/steve-bannon-donald-trump-hollywood-reporter-interview/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/politics/bernie-sanders-donald-trump-allies/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/politics/bernie-sanders-democratic-party-protest/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/politics/chuck-schumer-donald-trump/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/politics/tim-ryan-pelosi-bannon-democrats/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/politics/bernie-sanders-humiliated-democrats-loss-working-class-voters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/12/politics/hillary-clinton-james-comey-fbi/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/hillary-clinton-donald-trump-voters-dislike/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/democrats-election-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/hillary-clinton-loss/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/richard-branson-trump-obamacare/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/bernie-sanders-wolf-blitzer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/elizabeth-warren-trump-rigged-economy/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/donald-trump-wins-election-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/donald-trump-wins-biggest-surprises/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/donald-trump-hillary-clinton-blue-wall/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/07/politics/syria-damascus-us-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/08/politics/la-area-polling-station-on-lockdown-after-shots-nearby-at-least-two-victims/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/03/politics/donald-trump-path-to-270-scenarios/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/03/politics/north-carolina-clinton-trump-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/04/politics/north-carolina-naacp-voter-registration/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/03/politics/critical-counties-macomb-michigan/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/04/politics/hillary-clinton-voters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/02/politics/hillary-clinton-donald-trump-election-events/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/01/politics/obama-tacos-voting/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/31/politics/what-is-the-hatch-act/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/28/politics/joe-biden-anthony-weiner-emails-hillary-clinton/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/28/politics/donald-trump-election-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/26/politics/michael-moore-2016-election-don-lemon/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/21/politics/al-smith-dinner-hillary-clinton-donald-trump-campaign/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/14/politics/obama-cleveland-trump-come-on-man/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/13/politics/robby-mook-clinton-campaign-trump-turnout/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/11/politics/donald-trump-hillary-clinton-2016-election-turnout/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/07/politics/john-podesta-emails-hacked/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/04/politics/donald-trump-republicans-reaction/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/04/politics/obama-florida-campaign-canceled/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/04/politics/critical-counties-stark-ohio/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/03/politics/hillary-clinton-donald-trump-response/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/03/politics/donald-trump-tax/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/30/politics/gary-johnson-chicago-tribune-endorsement/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/28/politics/congress-deal-zika-flint-avoid-shutdown/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/26/politics/election-2016-debate-disagree/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/26/politics/donald-trump-suffolk-county-political-anthropology/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/21/politics/clinton-kaine-fundraising/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/22/politics/ohio-presidential-election-battleground/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/20/politics/republican-reince-priebus-john-kasich/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/20/politics/election-2016-white-working-class-donald-trump-kaiser-family-foundation/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/15/politics/mike-pence-donald-trump-2016-election-erin-burnett/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/13/politics/obama-memorable-quotes-hillary-clinton-2016-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/politics/hillary-clinton-donald-trump-basket-of-deplorables/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/06/politics/joe-biden-hillary-clinton-advice-open-up/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/21/politics/inside-politics-forecast-clinton-nevada-trump-turmoil-general-elex-ad-third-party-ticket/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/15/politics/joe-biden-hillary-clinton-scranton/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/12/politics/donald-trump-pennsylvania-cheating/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/11/politics/donald-trump-businessmen-presidents-history/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/11/politics/election-2016-pennsylvania-hillary-clinton-donald-trump/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/01/politics/hillary-clinton-tim-kaine-rust-belt-bus-tour/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/01/politics/john-dickerson-axe-files/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/29/politics/hillary-clinton-tim-kaine-philadelphia-rally/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/18/politics/cleveland-youngstown-ohio-democrats-republicans-political-anthropology/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/05/politics/hillary-clinton-donald-trump-business/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/28/politics/donald-trump-trade-chamber-of-commerce-business/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/26/politics/hillary-clinton-2016-campaign-lessons/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/19/politics/ip-rubio-senate-race/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/01/politics/obama-presidential-election-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/31/politics/donald-trump-general-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/26/politics/hillary-clinton-donald-trump-attacks/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/24/politics/hillary-clinton-donald-trump-populist-housing-crisis/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/politics/ed-rendell-women-donald-trump/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/politics/kentucky-oregon-primary-highlights/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/10/politics/primary-results-takeaways/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/10/politics/west-virginia-nebraska-primary-what-to-watch/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/05/politics/hillary-clinton-bernie-sanders-exit-race/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/03/politics/indiana-primary-what-to-watch/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/02/politics/ted-cruz-donald-trump-indiana-primary/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/01/politics/bernie-sanders-26-million-fundraising-april/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/27/politics/indiana-cruz-trump-republican-primary/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/25/politics/rust-belt-voters-trump-clinton-sanders/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/14/politics/dnc-lawsuit-arizona/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/19/politics/obama-legacy-2016-campaign-hillary-clinton-bernie-sanders-donald-trump/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/10/politics/republican-debate-transcript-full-text/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/05/politics/caucuses-primaries-what-to-watch/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/03/politics/donald-trump-paul-lepage-maine-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/03/politics/hillary-clinton-bernie-sanders-primaries/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/02/politics/super-tuesday-results-recap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/23/politics/democratic-town-hall-fact-check/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/04/politics/new-hampshire-primary-2016-clinton-sanders-canvass/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/03/politics/democratic-town-hall-transcript/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/25/politics/hillary-clinton-bernie-sanders-2016-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/14/politics/bernie-sanders-negative-ad/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/05/politics/steve-israel-retires-congress/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/08/opinions/michigan-springsteen-paradox-luongo-opinion/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/05/opinions/washington-under-trump-smick/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/opinions/liberals-hide-from-trump-spicer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/opinions/trump-brexit-social-media-merrick-opinion/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/trump-wants-to-cut-your-taxes-opinion-mccaffery/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/how-democrats-lost-opinion-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/opinions/sracic-working-class-trump-clinton-opinion/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/will-trump-keep-special-relationship-alive-merrick-opinion/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/02/opinions/trump-obamacare-stanley/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/25/opinions/working-class-women-election-draut/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/29/opinions/trump-how-smart-is-he-on-taxes-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/26/opinions/first-presidential-debate-commentators/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/11/opinions/bernie-sanders-campaign-sally-kohn/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/01/opinions/what-coming-to-terms-means-roots-john-mcwhorter/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/29/opinions/democratic-party-platform-tpp-clinton-sanders-tasini/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/opinions/listening-to-trump-voters-opinion-parini/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/11/opinions/bernie-stronger-against-trump-than-hillary-tasini/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/04/opinions/wisconsin-tests-both-parties-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/10/opinions/sanders-views-are-mainstream-zelizer/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/02/us/philadelphia-transit-strike/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/12/politics/donald-trump-rex-tillerson-secretary-of-state/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/02/politics/undecided-voters-2016/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/politics/duffy-clinton-trump-investigation/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/15/politics/donald-trump-trade-memo-transition/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/howard-dean-dnc-chair/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/31/politics/girls-on-the-bus-work-life-balance-brianna-keilar/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/30/politics/melania-trump-thursday-speech-philadelphia-suburbs/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/21/politics/trump-religion-gospel/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/06/politics/presidential-debate-dnc/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/01/politics/donald-trump-taxes-report-hillary-clinton/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/21/politics/georgia-senate-democrats-election/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/07/politics/donald-trump-hillary-clinton-poll-tight-race/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/06/politics/hillary-clinton-donald-trump-national-security/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/08/politics/donald-trump-hillary-clinton-economic-plans/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/29/politics/democratic-convention-world-reacts/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/28/politics/democratic-convention-night-three-takeaways/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/27/politics/joe-biden-dnc-speech/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/27/politics/tpp-what-you-need-to-know/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/27/politics/elizabeth-warren-hillary-clinton/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/24/politics/obama-seattle-trump-charlatans/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/23/politics/florida-super-pac-rubio/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/17/politics/bernie-sanders-democratic-establishment-battle-boils-over/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/politics/jeff-weaver-debbie-wasserman-schultz-throwing-shade/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/politics/trump-university-taxes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/11/politics/world-leaders-top-10-mic-gaffes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/10/politics/merrick-garland-supreme-court-senate-republicans/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/09/politics/donald-trump-2016-campaign-clean-up/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/03/politics/bobby-jindal-vote-donald-trump-unhappy/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/29/politics/donald-trump-bernie-sanders/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/20/politics/reince-priebus-republican-national-committee/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/24/politics/hillary-clinton-donald-trump-cnn-poll-2016-election/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/15/politics/election-2016-ohio-illinois-florida-primaries-highlights/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/09/politics/hillary-clinton-bernie-sanders-michigan-ohio-super-tuesday/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/08/politics/primary-election-what-to-watch/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/02/politics/obama-joe-biden-senate-primary-democrats/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/26/politics/donald-trump-university-fraud-trial-republican-debate/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/24/politics/mitt-romney-donald-trump-taxes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/11/politics/harry-reid-contested-convention/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/09/politics/new-hampshire-primary-highlights/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/04/politics/democratic-debate-fact-check/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/27/politics/nancy-pelosi-bernie-sanders-taxes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/26/politics/bernie-sanders-taxes-walter-mondale/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/26/politics/hillary-clinton-bernie-sanders-2016/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/26/politics/bernie-sanders-millennials-iowa-hillary-clinton/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/21/politics/iowa-poll-hillary-clinton-bernie-sanders-donald-trump-ted-cruz/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/17/politics/democratic-debate-2016-highlights/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/04/politics/bill-clinton-new-hampshire-speech-2016-election/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/30/opinions/trump-best-dealmaker-zelizer/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/25/opinions/big-political-stories-of-2017-zelizer/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/06/opinions/trump-trade-policy-pethokoukis-opinion/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/06/opinions/americas-forgotten-wars-return-spotlight/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/21/opinions/who-really-won-trump-university-suit-callan/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/13/opinions/trump-presidential-role-models-dantonio/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/real-meaning-populism-ron-paul/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/07/opinions/clinton-trump-risks-of-town-hall-zelizer/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/28/opinions/democratic-convention-reaction-liu/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/19/opinions/trump-rnc-nixon-opinion-david-gergen/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/15/opinions/mike-pence-vp-pick-brazile/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/13/opinions/trump-clinton-enabler-charge-wont-work-opinion-cardona/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/13/opinions/donald-trump-fight-with-gop-cupp/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/12/opinions/crumbling-middle-class-opinion-elizabeth-warren/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/01/opinions/trump-auditioning-for-the-role-of-his-life-opinion-dantonio/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/27/opinions/super-tuesday-why-opinion-zelizer/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/25/opinions/clinton-weakness-sanders-strength-castellanos/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/15/politics/obamacare-repeal-burwell/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/27/politics/ip-pelosi-leadership-test/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/donald-trump-obamacare-interview/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/18/politics/presidential-debate-debt-economy/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/16/politics/donald-trump-hillary-clinton-reality-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/09/politics/debate-fact-check-trump-clinton/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/02/politics/hillary-clinton-book-democratic-party-leftward-shift/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/19/politics/gop-convention-speeches-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/07/politics/mike-pence-donald-trump-vp/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/26/politics/bernie-sanders-democratic-platform/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/16/politics/peoples-summit-chicago-bernie-sanders-movement/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/14/politics/marco-rubio-florida-senate-2020/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/17/politics/primary-election-2016-what-to-watch/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/11/politics/nancy-pelosi-donald-trump/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/27/politics/bernie-sanders-delegate-math/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/15/politics/democratic-debate-new-york-takeaways/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/12/politics/paul-ryan-house-republicans-budget/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/03/politics/republican-debate-fact-check/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/25/politics/donald-trump-paul-ryan-election-2016/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/11/politics/democratic-debate-things-to-watch/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/25/politics/democratic-town-hall-highlights/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/20/politics/bernie-sanders-hillary-clinton-gop-nh/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/17/politics/democratic-debate-what-to-watch/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/12/politics/paul-ryan-state-union-poker-face/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/28/opinions/media-response-trump-tweets-obeidallah/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/12/opinions/new-direction-for-democrats-tasini/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/20/opinions/sutter-millennials-debates/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/16/opinions/good-bad-ugly-trump-economic-plan-chen/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/03/opinions/australia-election-turnbull-shorten/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/04/opinions/what-would-founding-fathers-think-of-trump-ellis/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/02/opinions/sanders-clinton-south-carolina-bailey/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/12/opinions/mccaffery-wealthy-taxes/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2016
+}

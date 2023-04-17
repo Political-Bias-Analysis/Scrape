@@ -1,107 +1,1614 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2019/09/12/759442642/immigration-where-2020-democratic-candidates-stand-on-border-crossings-and-more",
+            "link": "https://www.npr.org/2019/09/12/759442642/immigration-where-2020-democratic-candidates-stand-on-border-crossings-and-more",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/12/17/788454278/fed-up-with-far-right-italys-sardines-protests-call-for-civility-and-equality",
+            "link": "https://www.npr.org/2019/12/17/788454278/fed-up-with-far-right-italys-sardines-protests-call-for-civility-and-equality",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/10/23/772730225/exclusive-trump-wants-to-pick-cuccinelli-for-dhs-but-worries-senate-would-balk",
+            "link": "https://www.npr.org/2019/10/23/772730225/exclusive-trump-wants-to-pick-cuccinelli-for-dhs-but-worries-senate-would-balk",
             "bias": "immigration"
         },
         {
-            "links": "http://www.wbur.org/onpoint/2019/10/15/kevin-mcaleenan-dhs-immigration-borders",
+            "link": "http://www.wbur.org/onpoint/2019/10/15/kevin-mcaleenan-dhs-immigration-borders",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/10/11/736030516/acting-homeland-security-secretary-kevin-mcaleenan-is-out",
+            "link": "https://www.npr.org/2019/10/11/736030516/acting-homeland-security-secretary-kevin-mcaleenan-is-out",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/05/31/728688280/the-friday-news-roundup-for-may-31-2019",
+            "link": "https://www.npr.org/2019/05/31/728688280/the-friday-news-roundup-for-may-31-2019",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/05/18/724620023/australias-prime-minister-scott-morrison-scores-surprise-election-victory",
+            "link": "https://www.npr.org/2019/05/18/724620023/australias-prime-minister-scott-morrison-scores-surprise-election-victory",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/05/13/722620996/in-trump-hungarys-viktor-orban-has-a-rare-ally-in-the-oval-office",
+            "link": "https://www.npr.org/2019/05/13/722620996/in-trump-hungarys-viktor-orban-has-a-rare-ally-in-the-oval-office",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/04/28/717908787/trump-rallies-supporters-as-white-house-correspondents-gala-celebrates-a-free-pr",
+            "link": "https://www.npr.org/2019/04/28/717908787/trump-rallies-supporters-as-white-house-correspondents-gala-celebrates-a-free-pr",
             "bias": "immigration"
         },
         {
-            "links": "https://the1a.org/shows/2019-04-25/1a-across-america-the-power-of-the-latino-vote",
+            "link": "https://the1a.org/shows/2019-04-25/1a-across-america-the-power-of-the-latino-vote",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/03/16/703732693/eu-struggles-to-rein-in-hungarys-hard-line-government",
+            "link": "https://www.npr.org/2019/03/16/703732693/eu-struggles-to-rein-in-hungarys-hard-line-government",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/02/26/697848417/some-noncitizens-do-wind-up-registered-to-vote-but-usually-not-on-purpose",
+            "link": "https://www.npr.org/2019/02/26/697848417/some-noncitizens-do-wind-up-registered-to-vote-but-usually-not-on-purpose",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/01/18/686451021/after-months-of-struggle-sweden-is-poised-to-get-a-new-government",
+            "link": "https://www.npr.org/2019/01/18/686451021/after-months-of-struggle-sweden-is-poised-to-get-a-new-government",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/health-shots/2019/01/26/686325494/fear-of-deportation-or-green-card-denial-deters-some-parents-from-getting-kids-c",
+            "link": "https://www.npr.org/sections/health-shots/2019/01/26/686325494/fear-of-deportation-or-green-card-denial-deters-some-parents-from-getting-kids-c",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/07/15/741765828/analyzing-trumps-recent-tweets-about-dem-lawmakers",
+            "link": "https://www.npr.org/2019/07/15/741765828/analyzing-trumps-recent-tweets-about-dem-lawmakers",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/12/01/783932614/one-small-street-in-new-york-funnels-migrants-from-the-u-s-into-canada",
+            "link": "https://www.npr.org/2019/12/01/783932614/one-small-street-in-new-york-funnels-migrants-from-the-u-s-into-canada",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/06/27/736520658/spanish-speakers-highlight-democratic-primary-debate",
+            "link": "https://www.npr.org/2019/06/27/736520658/spanish-speakers-highlight-democratic-primary-debate",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/06/23/735273627/with-mass-deportations-looming-advocates-organize-to-offer-aid-to-migrants",
+            "link": "https://www.npr.org/2019/06/23/735273627/with-mass-deportations-looming-advocates-organize-to-offer-aid-to-migrants",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/04/20/715393936/chris-mullins-novel-projects-britain-s-post-brexit-woes",
+            "link": "https://www.npr.org/2019/04/20/715393936/chris-mullins-novel-projects-britain-s-post-brexit-woes",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/01/01/681368062/morning-news-brief",
+            "link": "https://www.npr.org/2019/01/01/681368062/morning-news-brief",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/03/11/702129554/trump-makes-a-new-push-for-border-wall-funds-will-it-work",
+            "link": "https://www.npr.org/2019/03/11/702129554/trump-makes-a-new-push-for-border-wall-funds-will-it-work",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/04/12/712862445/week-in-politics-trumps-border-strategy-ag-barr-s-testimony-and-netanyahu-s-win",
+            "link": "https://www.npr.org/2019/04/12/712862445/week-in-politics-trumps-border-strategy-ag-barr-s-testimony-and-netanyahu-s-win",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/06/29/737268814/democrats-try-to-distinguish-themselves-on-health-care",
+            "link": "https://www.npr.org/2019/06/29/737268814/democrats-try-to-distinguish-themselves-on-health-care",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/07/17/743629096/trump-holds-campaign-rally-in-greenville-n-c",
+            "link": "https://www.npr.org/2019/07/17/743629096/trump-holds-campaign-rally-in-greenville-n-c",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2019/01/11/684346446/trump-appears-poised-to-declare-a-national-emergency-to-get-wall-built",
+            "link": "https://www.npr.org/2019/01/11/684346446/trump-appears-poised-to-declare-a-national-emergency-to-get-wall-built",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/22/789317369/authenticity-culturally-relevant-why-bernie-sanders-is-resonating-with-latinos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/04/766391363/video-2-texas-voters-ask-juli-n-castro-about-immigration-and-climate-change",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-09-03/unauthorized-but-in-demand-immigration-and-labor-in-america",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-08-09/friday-news-roundup-domestic",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/07/20/743248732/radical-or-incremental-whats-really-in-joe-bidens-health-plan",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/07/11/739536305/young-undocumented-californians-cheer-promise-of-health-benefits",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/10/740147546/california-first-state-to-offer-health-benefits-to-adult-undocumented-immigrants",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/09/739854998/rulings-on-gerrymandering-and-the-census-could-define-the-political-future",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/29/737055755/the-democratic-party-attempts-to-pivot-to-the-future-ready-or-not",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/28/736799265/recap-night-2-of-the-democratic-primary-debate-in-100-words",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/06/18/trump-reelection-florida-rally",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/27/716706293/in-spains-election-far-right-could-win-first-seats-in-parliament-in-decades",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/09/683474397/7-takeaways-from-president-trumps-oval-office-address",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/03/681969112/an-irony-shutdown-fight-over-border-security-takes-toll-on-immigration-enforceme",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/12/776556916/daca-recipients-look-to-supreme-court-for-hope",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/08/777349820/how-identity-has-changed-and-hasnt-over-morning-editions-40-years",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/07/776365477/40-years-of-morning-edition-political-stories-that-lasted-an-era-and-beyond",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/11/05/elizabeth-warren-medicare-for-all-health-care",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/03/766423762/from-snakes-to-spikes-border-wars-reveals-the-extremes-of-trump-s-immigration-pr",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/08/06/race-based-terrorism-in-wake-of-the-weekend-mass-shootings",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-26/friday-news-roundup-domestic",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/23/744076619/boris-johnson-britains-next-prime-minister-shares-similarities-with-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742910309/democrats-issue-warnings-against-viral-russia-based-face-morphing-app",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/16/742000247/with-latest-nativist-rhetoric-trump-takes-america-back-to-where-it-came-from",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/14/741607527/whats-happening-with-the-ice-raids",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/26/725675214/in-mexico-new-groups-offer-aid-to-a-young-generation-of-deported-dreamers",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/17/723694656/tracking-trump-on-immigration-despite-focus-many-ideas-are-stalled-or-blocked",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/15/722158148/american-muslims-in-public-life-say-they-face-outsized-scrutiny",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/10/721188838/millions-in-india-face-uncertain-future-after-being-left-off-citizenship-list",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/30/718318413/attorney-general-barr-only-weeks-into-job-makes-a-mark-under-the-spotlight",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/04/16/terrence-mccoy-america-social-issues",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/31/708209142/former-homeland-security-head-napolitano-says-cybersecurity-should-be-a-top-prio",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/29/707974018/mexican-american-author-finds-inspiration-in-family-tragedy-and-trump",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/19/695775055/in-spain-far-right-populists-rise-on-anti-separatist-sentiment",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/02/12/trump-el-paso-border-wall-crime-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/01/09/southern-border-wall-president-trump-oval-office-prime-time",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/09/683634412/brazilian-president-bolsonaro-withdraws-from-u-n-compact-on-migration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/08/683003723/watch-live-trump-gives-first-oval-office-speech-as-partial-shutdown-continues",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/08/681458730/kamala-harris-the-truths-we-hold-demonstrates-what-s-wrong-with-campaign-books",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/23/726319930/savarkars-india",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/16/704039113/ice-raids-north-carolina-after-local-authorities-end-cooperation",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/25/782732960/taiwan-grapples-with-immigration-as-protesters-from-hong-kong-look-to-seek-asylu",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/20/761577041/far-right-makes-gains-in-2-german-state-elections-as-centrists-hang-onto-power",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-09-09/a-conversation-with-human-rights-campaigns-new-president",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/06/747069518/canadas-safe-3rd-country-agreement-with-the-u-s-draws-criticism",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742896827/trump-attacks-congresswomen-at-n-c-rally-as-crowd-chants-send-her-back",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/12/740771021/carole-cadwalladr-how-did-social-media-manipulate-our-votes-and-our-elections",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/01/737561640/a-german-politicians-assassination-prompts-new-fears-about-far-right-violence",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/17/733311308/former-first-lady-leads-in-first-round-of-voting-in-guatemala-presidential-elect",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/14/732480731/trump-administration-seeks-to-phase-out-main-program-for-palestinian-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/14/731458998/beto-orourke-calls-for-a-moonshot-to-combat-climate-change",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/11/731540632/morning-news-brief",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/07/730286066/in-denmarks-election-a-shift-to-the-left-unlike-in-much-of-europe",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/27/727260606/morning-news-brief",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/726784198/whats-at-stake-in-europes-crucial-european-parliament-representatives-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/09/721685169/maduros-government-would-lose-an-election-ex-state-department-official-says",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/28/718068850/india-proposes-controversial-bill-making-religion-a-criteria-for-refugee-citizen",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/14/702707072/in-her-pitch-for-president-kamala-harris-focuses-on-criminal-justice-inequality",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/06/700645834/u-n-rights-chief-warns-of-threats-from-inequality",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/26/790724509/how-the-2010s-were-angela-merkels-decade",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/11/787076560/myanmars-suu-kyi-denies-charges-of-genocide-against-rohingya-minority",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/11/778228248/11-jazz-songs-that-spoke-truth-to-power-in-2019",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/09/786299559/myanmars-suu-kyi-in-hague-to-defend-against-rohingya-genocide-charges",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/09/786205033/myanmars-de-facto-leader-to-appear-at-the-hague",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/05/784818349/songs-our-emergency-how-music-approaching-climate-change-crisis",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/26/781668197/some-hong-kong-protesters-are-seeking-refuge-in-taiwan-for-taiwan-its-complicate",
+            "bias": "refugees"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/11/15/german-parliament-far-right-government",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/03/775510530/emilia-clarke-on-last-christmas-brexit-and-life-after-game-of-thrones",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/29/774541010/fake-news-is-scary-heres-how-to-spot-misinformation",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/15/770224572/generational-split-among-evangelicals-threatens-support-for-trump",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/15/768743833/the-compatriots-suggests-the-days-of-domestic-politics-are-behind-us",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/09/768697873/evangelical-christian-leaders-push-back-on-turkish-invasion-of-northern-syria",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/04/767186846/screaming-into-the-void-how-outrage-is-hijacking-our-culture-and-our-minds",
+            "bias": "refugees"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/09/23/trump-administration-legal-immigration",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/31/756200241/the-journey-to-10-000-balconies",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/19/752312949/u-s-and-the-taliban-may-be-near-a-deal-what-does-that-mean-for-afghanistan",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/14/749898871/long-a-bastion-of-the-left-tuscany-is-turning-hard-right",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/20/743550570/jewish-americans-weigh-in-on-presidents-israel-comments",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742574640/trumps-racist-comments-find-support-in-montana",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/10/740277174/on-mideast-peace-plan-we-are-aiming-for-the-home-run-white-house-adviser",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/15/732511971/who-is-justin-amash-and-why-is-he-willing-to-go-against-his-own-party",
+            "bias": "refugees"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/06/11/jim-acosta-enemy-of-the-people-book",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/27/727358691/far-right-green-parties-break-40-year-centrist-majority-in-eu-parliament",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/14/711045369/i-love-you-but-you-re-wrong-and-other-salvos-on-the-front-lines-of-civility",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/publiceditor/2019/04/09/711448063/accessing-nprs-recent-venezuela-coverage",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/02/709055837/journalist-describes-an-almost-unimaginable-crisis-in-venezuela",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/04/700261811/second-member-quits-justin-trudeaus-cabinet-over-allegations-against-canadian-pm",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-03-01/friday-news-roundup-domestic",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/25/697638242/pence-on-venezuela-we-will-keep-standing-until-your-libertad-is-restored",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/30/689938744/trump-faults-spy-bosses-as-break-widens-between-what-they-advise-and-what-he-doe",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/25/688576099/tense-political-standoff-continues-in-crisis-wracked-venezuela",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2019/01/23/687400070/why-burundi-is-kicking-out-aid-groups",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/20/686531523/progress-report-president-trumps-campaign-promises-2-years-later",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/10/683972414/as-venezuelan-president-maduro-begins-second-term",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/07/682875564/israel-arrests-5-teenage-suspects-in-fatal-stoning-of-palestinian-woman",
+            "bias": "refugees"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/01/04/government-shutdown-congress-democrats-house-mitt-romney-elizabeth-warren",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2019/01/04/681918417/whats-coming-in-2019-global-thinkers-make-big-bold-predictions",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/17/714212949/news-brief-notre-dame-asylum-seekers-indonesia-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/29/765493279/austria-election-sebastian-kurz-expected-to-regain-power",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-08-30/friday-news-roundup-domestic",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/16/742109289/morning-news-brief",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/27/727293356/4-takeaways-from-the-european-parliament-election-results",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/27/727260672/high-voter-turnout-for-european-parliamentary-elections",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/10/711693190/morning-news-brief",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/08/710953457/morning-news-brief",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/22/781916095/morning-news-brief",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/22/781730178/interactive-art-installation-lets-strangers-talk-to-each-other-across-the-border",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/10/750086280/guatemalan-voters-head-to-the-polls",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/16/723677591/trumps-new-immigration-plan-doesn-t-address-undocumented-immigrants",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/15/723666784/trump-to-outline-immigration-plan-that-would-overhaul-whos-allowed-into-the-u-s",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-19/friday-news-roundup-domestic",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/17/714223532/wednesday-april-17-2019",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/11/712306713/12-years-of-disruption-a-wikileaks-timeline",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/04/709851253/weekly-roundup-thursday-april-4",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/11/693492939/opinion-guatemala-must-not-grant-amnesty-to-war-criminals",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/28/765322827/austria-votes-after-scandal",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/12/778451923/economic-and-democratic-hopes-fuel-protests-in-latin-america",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/07/710882966/behind-the-departure-of-homeland-security-secretary-nielsen",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/11/712409057/wikileaks-founder-julian-assange-arrested-charged-by-u-s-justice-department",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/11/750314459/congressional-delegation-tours-central-american-nations-at-center-of-migrant-cri",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/14/760704657/lightning-fill-in-the-blank",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/04/709767415/rep-will-hurd-on-border-crossings",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/15/723760848/trump-to-outline-immigration-plan-that-would-shift-u-s-to-a-merit-based-system",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/12/722647668/trump-to-welcome-hungarian-pm-viktor-orb-n",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/11/712145317/british-police-arrest-wikileaks-founder-julian-assange-in-london",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/09/731044339/sunday-politics",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/09/711525348/trump-says-he-wants-to-go-tougher-on-immigration-shakes-up-dhs-leadership",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/03/709573840/president-trump-sends-mixed-signals-about-plans-for-the-southern-border",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/17/686330206/illinois-sen-dick-durbin-discusses-attorney-general-nominee-william-barr",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/03/709348131/news-brief-southern-border-new-chicago-mayor-democrats-fundraising",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/13/750897637/guatemalas-president-elect-will-inherit-strained-relationship-with-u-s",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/28/689237295/democratic-rep-smith-is-new-chair-of-house-armed-services-panel",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/10/738111496/cities-and-immigrants-drove-census-controversy-100-years-ago",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/07/09/senator-cory-booker-presidential-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/08/777705049/weekly-wrap-dacas-legal-future-the-lasting-impact-of-prop-187-and-local-politics",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/26/754478605/beto-orourke-reboots-his-presidential-campaign-with-a-focus-on-guns-and-trump",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/12/741238038/weekly-wrap-the-biggest-stories-of-2019-so-far",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/06/730464835/weekly-roundup-thursday-june-6",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/17/724234140/news-brief-russia-probe-immigration-overhaul-rural-hospital-closes",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/16/714090176/2020-opening-arguments-andrew-yang-john-delaney-jay-inslee",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/27/707418457/2020-opening-arguments-howard-schultz-kirsten-gillibrand-tulsi-gabbard",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/08/682991333/special-coverage-trump-addresses-nation-on-day-18-of-shutdown-and-the-democrats-",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/725819109/as-allies-see-nationalism-rise-germany-sees-threats-to-alliances-it-champions",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/29/791860484/2019-brought-stepped-up-efforts-to-counter-white-supremacist-violence",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/12/778502116/how-internet-trolls-and-online-extremists-are-hijacking-american-politics",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/12/768537341/as-an-election-nears-in-poland-church-and-state-are-a-popular-combination",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/12/760386808/orourke-promises-to-take-your-ar-15-but-americans-are-split-on-buybacks",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/03/757084924/boris-johnsons-brexit-plans-hit-turbulence-after-conservative-defection",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/27/754811273/former-texas-congressman-beto-orourke-sees-his-presidential-run-in-clear-moral-t",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/06/748565568/mainstream-politics-long-has-traded-on-fear-of-a-non-white-america",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/02/747719535/how-obamas-legacy-could-impact-the-2020-democratic-field",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/11/740685108/biden-slams-trump-doctrine-ahead-of-foreign-policy-speech",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/25/725369288/european-elections-will-be-a-test-for-nationalist-parties-hoping-to-remake-the-e",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-05-24/friday-news-roundup-international",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/23/726160387/modi-wins-in-landslide-election-a-victory-for-hindu-nationalists",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/23/726066628/it-appears-indias-prime-minister-is-poised-for-election-win",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/22/725023096/italys-matteo-salvini-hopes-to-lead-nationalist-wave-in-upcoming-european-electi",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/18/724569244/germans-stand-out-in-support-of-european-union",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/03/706808616/the-powerful-group-shaping-the-rise-of-hindu-nationalism-in-india",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/28/717970543/how-indias-rss-fuels-hindu-nationalism",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/28/714638332/in-india-ayurveda-is-a-booming-business",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/25/711412924/nearly-27-years-after-hindu-mob-destroyed-a-mosque-the-scars-in-india-remain-dee",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/23/714108344/india-is-changing-some-cities-names-and-muslims-fear-their-heritage-is-being-era",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/22/715875298/hindu-nationalism-the-growing-trend-in-india",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/17/714413439/right-wing-groups-are-active-in-ukraine-as-country-heads-into-presidential-elect",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/14/709439733/with-indian-elections-underway-the-vote-is-also-a-referendum-on-hindu-nationalis",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/05/700289769/spains-far-right-party-prompts-a-wave-of-spanish-nationalism",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/02/784161404/politics-of-pain-ireland-britain-and-brexit",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/12/778541268/u-s-bishops-elect-their-first-latino-president-archbishop-jos-gomez",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/08/768216311/whistleblower-explains-how-cambridge-analytica-helped-fuel-u-s-insurgency",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/02/766083651/gandhi-is-deeply-revered-but-his-attitudes-on-race-and-sex-are-under-scrutiny",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/29/764698947/gandhi-is-an-object-of-intense-debate-a-biographer-reflects-on-the-indian-leader",
+            "bias": "nationalism"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/09/27/whistleblower-impeachment-trump-ukraine-climate-change",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/30/748757267/lift-every-voice-marian-anderson-florence-b-price-and-the-sound-of-black-sisterh",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/22/753131249/trumps-disloyalty-claim-about-jewish-democrats-shows-he-doesn-t-get-how-they-vot",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-08-06/covering-the-threat-of-white-supremacy",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/11/740579940/white-house-social-media-summit-leaves-out-key-players",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/20/734203649/opinion-why-war-with-iran-is-bad-for-trump-and-america",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/15/733081713/dean-obeidallah-wins-4-1-in-defamation-suit-against-neo-nazi-website",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/29/727724850/michael-wolffs-new-trump-tell-all-siege-stars-steve-bannon-and-cast-of-no-names",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/14/723290455/cory-booker-talks-gun-control-big-tech-and-creativity-with-npr-politics-podcast",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-03-29/friday-news-roundup-international",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/15/703904631/after-new-zealand-attacks-muslim-americans-call-for-action-against-rising-bigotr",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/13/702887015/i-m-gonna-get-crushed-trump-aide-steve-bannon-pleads-his-case-in-the-brink",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/21/687128474/analysis-how-the-rise-of-the-far-right-threatens-democracy-worldwide",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/23/716258092/india-redefines-itself-through-its-majority-hindu-faith",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/726476006/voters-in-india-allow-prime-minister-narendra-modi-to-stay-in-power",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/17/686330236/gop-rep-steve-king-s-constituents-are-rethinking-his-political-future",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/16/704039022/week-in-politics-trump-responds-to-nz-attack-veto-over-border-wall",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/16/733248929/house-panel-to-consider-slavery-reparations-proposals",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/26/717496207/npr-politics-live-from-philadelphia-the-road-to-2020",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/07/749164059/democratic-candidates-say-trumps-rhetoric-is-partially-to-blame-for-mass-shootin",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/04/748088470/after-shootings-focus-turns-to-trump-administrations-gun-policies",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/02/775749136/roundtable-social-uprisings-sweep-middle-east-latin-america",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/15/779686317/back-for-season-3-the-crown-may-just-be-the-most-delicious-series-on-tv",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/04/748088456/rep-eric-swalwell-says-shootings-underscore-the-need-for-gun-control",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/06/730208027/wang-zhenyao-a-chinese-technocrat-finds-u-s-education-an-asset",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/16/751694476/at-new-hampshire-rally-trump-says-you-have-no-choice-but-to-vote-for-me",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/15/751538568/israel-says-with-wont-allow-reps-ilhan-omar-and-rashida-tlaib-to-enter-country",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/15/751561164/weekly-roundup-thursday-august-15",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/02/691018208/-big-league-politics-editor-on-publishing-controversial-yearbook-page",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/26/791560794/2019-marks-a-turning-point-in-how-the-u-s-confronts-domestic-terrorism",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/05/748247221/reaction-to-trumps-remarks-on-two-mass-shootings",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/21/725358387/a-dream-of-modern-china",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/31/775021847/ukrainian-president-trying-hard-to-stay-on-the-fence-regarding-impeachment",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/18/761921368/puerto-rico",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/05/704861975/why-is-it-so-hard-to-talk-about-israel",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/26/698043683/morning-news-brief",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/22/697152839/week-in-politics-new-n-c-election-and-emergency-border-declaration",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/20/789725311/acquiring-private-land-is-slowing-trumps-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/16/788506571/border-wall-to-tobacco-age-both-parties-tout-key-wins-in-spending-deal",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/26/698038298/tuesday-february-26th-2019",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/02/18/douglas-brinkley-trump-national-emergency",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/24/688372809/republican-strategist-david-winston-discusses-trumps-strategy-amid-the-shutdown",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/27/791695116/netanyahu-wins-likud-party-s-primary-setting-up-another-election-run",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/27/790803528/our-10-most-read-political-stories-of-2019-reflect-a-shifting-capitol-power-dyna",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/24/791125357/trump-campaign-site-offers-help-in-winning-arguments-with-snowflake-relatives",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/16/788334158/what-does-british-election-results-mean-for-ireland",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/16/788231791/npr-pbs-newshour-marist-poll-biden-sanders-lead-2020-democratic-race",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/09/785532668/democrats-impeachment-process-to-resume-monday-as-will-battles-with-gop",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/06/785705739/elections-on-the-future-of-brexit-bring-refreshed-talk-of-scottish-independence",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/06/784191852/taiwan-gets-tough-on-disinformation-suspected-from-china-ahead-of-elections",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/03/784443227/kamala-harris-drops-out-of-presidential-race",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/24/782452307/pro-democracy-candidates-make-election-gains-in-statement-to-beijing",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/05/776572408/virginia-democrats-flip-control-of-state-senate",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/24/772698182/democrats-can-calm-their-2020-election-anxiety-by-accepting-theres-no-one-else",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/22/772170374/morning-news-brief",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/13/769444262/border-wall-rising-in-arizona-raises-concerns-among-conservationists-native-trib",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/11/769193107/border-wall-construction-in-arizona-bulldozes-cactus-columns",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/09/768697955/democratic-presidential-hopeful-beto-orourke-on-privacy-and-immigration",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/06/767731659/2020-candidate-conversations-off-script-with-beto-orourke",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/03/766820603/reporters-reveal-trumps-extreme-border-proposals",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/17/761476149/israelis-go-to-polls-as-netanyahu-aims-to-hold-power-amid-corruption-scandals",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/13/760410708/5-questions-answered-about-the-3rd-democratic-debate",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/12/759998766/your-guide-to-the-3rd-round-of-democratic-debates",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/09/758943478/boris-johnson-hasnt-given-up-on-being-granted-a-snap-election",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/02/755889680/where-each-democratic-candidate-stands-in-the-presidential-race-in-100-words",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/20/752759526/juli-n-castro-is-10th-democrat-to-qualify-for-september-presidential-debate",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/15/751215391/democratic-candidates-call-trump-a-white-supremacist-a-label-some-say-is-too-sim",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/15/751073759/after-el-paso-shooting-suburban-houston-voters-re-examine-their-own-views-on-gun",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/12/750432903/guatemalas-incoming-president-faces-tense-migration-talks-with-the-u-s",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/02/747719521/a-look-at-where-former-vice-president-bidens-stands-on-immigration",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/01/747471451/texas-rep-will-hurd-houses-only-black-republican-won-t-seek-reelection-in-2020",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/01/747118644/protests-on-immigration-policing-disrupt-second-night-of-democratic-debate",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/31/746709243/your-guide-to-night-2-of-the-detroit-democratic-presidential-debates",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/30/746375451/your-guide-to-tonights-democratic-presidential-debate",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-29/who-is-boris-johnson",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/23/744574907/juli-n-castro-on-his-struggle-to-break-out-from-pool-of-2020-democratic-candidat",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/22/743516166/npr-newshour-marist-poll-americans-not-sold-on-trump-or-democrats",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742785609/second-democratic-primary-debate-see-which-candidates-made-the-cut",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-12/friday-news-roundup-domestic",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/11/736047999/you-may-need-the-money-more-than-i-do-mcconnell-once-returned-trump-s-donation",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-05/friday-news-roundup-domestic",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-03/doug-jones",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/30/737393614/immigration-lawyer-on-family-separations-at-the-border",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/06/28/week-in-news-democratic-debates-border-crisis-scotus-g20-summit",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/28/736800868/5-takeaways-from-night-2-of-the-democratic-debate",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/27/736422043/the-1st-democratic-primary-debate-in-100-words-and-7-video-clips",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/25/734741389/7-policy-questions-ahead-of-the-1st-democratic-presidential-debates",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/19/733904818/trump-launches-reelection-bid-with-promises-of-greatness-and-familiar-grievances",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/18/733661860/trump-threatens-to-deport-millions-as-he-kicks-off-campaign-for-reelection",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/17/733302298/germanys-far-right-party-defeated-in-closely-watched-mayoral-election",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/29/728103407/israeli-parliament-schedules-unprecedented-early-elections",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/29/728071182/israel-heads-toward-new-elections-after-netanyahu-fails-to-put-government-togeth",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/25/727025764/european-elections-will-test-the-strength-populism-the-stakes-are-high",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/726475985/morning-news-brief",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/726080593/juli-n-castro-wants-to-redefine-which-immigrants-have-merit",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/21/725488315/how-the-government-is-responding-to-a-5th-migrant-child-death-at-the-southern-bo",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-05-17/friday-news-roundup-domestic",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/21/714346134/when-your-living-room-becomes-a-2020-campaign-stage-it-s-pretty-surreal",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/17/714306744/despite-pressure-from-trump-house-democrats-see-no-urgency-to-pass-a-border-bill",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/15/713495558/president-trump-called-former-president-jimmy-carter-to-talk-about-china",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/11/712107668/polls-have-opened-in-the-worlds-largest-democracy-fun-facts-on-india-s-election",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-09/miles-and-miles-of-texas-lawrence-wright-goes-deep-on-lone-star-state-politics",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/07/710870473/homeland-security-secretary-kirstjen-nielsen-resigns",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/06/710552548/week-in-politics-trump-at-the-border-mueller-report-jobs-numbers",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/05/710398007/week-in-politics-biden-the-u-s-mexico-border-and-a-barbara-bush-biography",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-05/friday-news-roundup-international",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/05/710169493/news-brief-boeing-latest-trump-border-trip",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-01/is-there-a-crisis-at-the-southern-border",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/03/27/israel-palestine-election-tensions",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/22/705729699/the-atlantic-if-liberals-wont-enforce-borders-fascists-will",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/18/704491575/turkey-joins-with-iran-to-launch-military-operation-along-border",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/03/15/trump-senate-border-emergency-boeing-brexit-college-admissions-venezuela",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/14/676803365/beto-orourke-announces-his-run-for-president-in-2020",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/03/699114171/2020-democrats-head-to-wisconsin-early-looking-to-reverse-2016-stumble",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/02/699384255/at-cpac-conservatives-paint-trump-re-election-argument-in-bold-colors",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/01/699514488/republicans-warm-up-for-trumps-re-election-campaign-at-annual-cpac",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/01/699332787/pakistan-hands-over-captured-indian-pilot-at-tense-border-checkpoint",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/27/695230044/coming-forward-has-broke-me-metoo-movement-comes-to-rural-nevada",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/26/698057308/gop-rep-cole-to-stand-with-trump-on-border-wall-emergency",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/24/697481358/rep-joaquin-castro-on-trumps-border-emergency-declaration",
+            "bias": "border"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/02/22/border-wall-trump-lawsuit-sanders-2020-catholic-church-jussie-smollett",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/22/696940060/venezuelas-maduro-orders-closure-of-brazilian-border",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-02-21/left-field-the-2020-democratic-nominees",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/19/695874027/news-brief-venezuela-north-carolina-election-syria-crisis",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/19/695720851/poll-6-in-10-disapprove-of-trumps-declaration-of-a-national-emergency",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/15/695253043/trump-declares-national-emergency-to-help-fund-southern-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/15/695223530/weekly-wrap-with-national-emergency-declaration-the-border-wall-saga-continues",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/15/695012728/trump-expected-to-declare-national-emergency-to-help-fund-southern-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/15/694782581/first-in-the-nation-voting-site-under-scrutiny-for-alleged-election-law-violatio",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/12/694134066/no-more-xenophobia-calif-governor-criticizes-trump-on-immigration",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/12/694021525/democratic-rep-nita-lowey-discusses-proposed-bipartisan-border-security-compromi",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/12/693879227/trump-says-hes-not-happy-with-budget-deal-but-thinks-shutdown-unlikely",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/12/693618375/socialism-vs-greatness-for-trump-that-s-2020-in-a-nutshell",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/06/691870683/7-takeaways-from-president-trumps-state-of-the-union-address",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/05/691521514/state-of-the-union-is-trumps-first-major-speech-in-2020-election-cycle",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/04/691394290/fight-over-border-wall-funding-still-looms-as-trump-prepares-for-state-of-the-un",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/04/691221592/colorado-voters-weigh-in-on-trumps-insistence-of-a-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/31/690559449/pentagon-to-send-thousands-more-active-duty-troops-to-u-s-mexico-border",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/28/689506656/trumps-state-of-the-union-rescheduled-for-feb-5-after-new-pelosi-invite",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/26/688927771/7-takeaways-from-the-longest-shutdown-in-u-s-history",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/22/687550044/democrats-reject-trumps-border-wall-proposal-more-dems-enter-2020-race",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-01-21/shes-running-senator-kamala-harris-announces-2020-campaign",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/19/686935241/the-democratic-response-to-trumps-latest-border-security-proposal",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/19/686830437/this-week-the-state-of-our-union-was-retaliatory",
+            "bias": "border"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-01-18/friday-news-roundup-domestic",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/16/685768698/honduran-caravan-crosses-guatemala-on-its-way-to-u-s",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/14/685276684/how-the-2020-democratic-field-is-filling-out",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/14/685220915/in-speech-to-struggling-farmers-president-trump-promotes-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/11/684610093/week-in-politics-border-wall-funding-and-the-latest-on-the-government-shutdown",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/10/684145610/the-political-price-of-building-a-border-wall",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/08/683417908/president-trump-argues-for-a-border-wall-in-oval-office-address",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/08/683183596/doj-largely-shut-down-nonetheless-issued-statements-on-southern-border-cases",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/07/682865392/venezuela-supreme-court-judge-denounces-government-flees-to-u-s",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/07/682806059/white-house-adds-to-list-of-border-demands-as-shutdown-continues",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/06/681982396/a-guide-to-whos-who-in-house-leadership-for-the-116th-congress",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/04/682133681/news-brief-bills-dont-include-border-wall-funding-israeli-settlements",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/02/681799656/president-trump-congressional-leaders-meet-to-discuss-border-security-funding",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/01/783893246/latino-voters-were-a-force-in-nevada-in-2018-who-will-they-back-in-2020",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/13/778545559/supreme-court-may-side-with-trump-on-dreamers",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/12/778451881/morning-news-brief",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/01/747077631/biden-bears-slings-and-arrows-but-battles-through-another-democratic-debate",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/28/733774906/supreme-court-takes-up-daca-appeal",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/17/733389132/supreme-court-hands-democrats-a-win-on-racial-gerrymandering-in-virginia",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/07/700552687/cory-booker-promises-to-bring-america-together-but-how",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/07/765091522/the-supreme-court-march-to-the-right-fast-and-furious-or-incremental",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/10/01/hillary-chelsea-clinton-trump-gutsy-women-book",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/16/742219734/amid-furor-over-racist-tweets-white-house-announces-immigration-bill",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/02/08/john-delaney-2020-presidential-election",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-01-25/friday-news-roundup-domestic",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/30/690130125/weekly-roundup-thursday-january-31",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/26/688976773/hispanic-owned-beer-company-brews-resistance-to-trump-presidency",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/22/687319714/morning-news-brief",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/16/724089933/trump-wants-more-merit-based-immigration-with-new-proposal",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/26/688993563/lightning-fill-in-the-blank",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/04/682349968/week-in-politics-the-government-shutdown-the-new-congress-and-mitt-romneys-retur",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/18/724569282/the-trump-administrations-record-on-immigration",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/03/682021448/one-of-the-first-votes-of-the-new-congress-will-be-a-democratic-effort-to-end-sh",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/03/682063015/weekly-roundup-thursday-january-3",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/09/683501391/news-brief-government-shutdown-trump-speech-r-kelly-docu-series",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/13/684894886/trump-still-considering-national-emergency-declaration-as-shutdown-negotiations-",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/07/682821217/politics-in-the-news-partial-government-shutdown",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/04/691394300/what-democrats-will-be-listening-for-during-trumps-state-of-the-union-address",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/06/691909930/democratic-and-republican-strategists-on-sotu",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/16/724089940/white-house-spokesman-says-trump-wants-to-attract-best-and-brightest-to-the-u-s",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/10/768646968/as-summer-heated-up-trumps-tweets-about-non-white-democrats-intensified",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/22/782132264/episode-954-what-is-foreign-interference-anyway",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/20/696217158/u-s-hate-groups-rose-sharply-in-recent-years-watchdog-group-reports",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/05/776504323/openness-versus-national-security-a-dilemma-for-u-s-schools",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/30/755752288/joe-walsh-on-challenging-trump-in-primary",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/07/721148885/2020-update-trump-woos-big-donors-he-spurned-in-2016-dems-address-electability",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/19/743350999/is-trump-succeeding-at-dividing-the-democratic-party",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/14/770073501/president-trumps-anti-social-media",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/14/750878177/doras-lasting-magic",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/18/743195213/facts-arent-enough-the-psychology-of-false-beliefs",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/09/721773510/facts-arent-enough-the-psychology-of-false-beliefs",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/16/704137576/barbershop-muslim-group-reacts-to-new-zealand-shootings",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/11/684435633/how-science-spreads-smallpox-stomach-ulcers-and-the-vegetable-lamb-of-tartary",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/09/05/andrew-yang-2020-president-democratic-nomination",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/15/741771445/trump-continues-twitter-assault-on-4-minority-congresswomen",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/15/741967353/former-arizona-gop-sen-jeff-flake-weighs-in-on-trumps-racist-tweets",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/19/743599253/week-in-politics-trumps-tweets-expose-racial-divisions",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/16/742130297/white-house-spokesman-doesnt-back-away-from-trumps-racist-tweets",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/11/684526803/weekly-wrap-one-hot-mess-as-shutdown-continues-plus-millennials-and-burnout",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2019

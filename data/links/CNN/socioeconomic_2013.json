@@ -1,0 +1,188 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2013/07/20/us/mississippi-murder-mystery/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2013/06/08/us/newtown-six-months-later/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/06/11/us/jfk-to-nation-this-nation-will-not-be-fully-free-until-all-its-citizens-are-free/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/06/10/us/bieber-con-man/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/22/politics/obamacare-website-four-reasons/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/06/18/politics/obama-seven-things/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/28/politics/senate-turnover/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/14/politics/obama-congress/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/11/politics/obama-congress/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/14/politics/congress-spending-cuts/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/01/08/politics/return-to-congress/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/12/us/atlanta-braves-move/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/08/21/us/medal-of-honor-ty-carter/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/24/us/my-view-why-i-will-vote-for-president-obama/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/04/politics/double-down-2012-campaign/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/09/20/politics/congress-spending-showdown/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/09/10/politics/new-york-mayor-5-things/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/07/08/politics/political-redemption/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/07/22/politics/dole-90th-birthday/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/05/22/politics/political-redemption/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/15/politics/portman-legacy/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/13/politics/obama-congress/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/12/politics/obama-congress/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/01/politics/forced-spending-cuts/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/01/politics/another-spending-showdown/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/19/politics/obama-budget-cuts/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/14/politics/obama-politicking/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/06/politics/congress-spending-cuts/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/12/18/politics/senate-budget-deal/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/12/13/politics/budget-senate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/12/04/politics/obamacare-young-americans/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/28/politics/obamacare-website/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/08/politics/obamacare-nervous-democrats/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/06/politics/obamacare-hearing/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/05/politics/obamacare-debunking-myths/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/11/02/politics/obama-read-my-lips-moment/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/23/politics/obamacare-website-problems-developments/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/22/politics/menendez-donor-melgen-search/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/09/politics/shutdown-ryan/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/09/politics/shutdown-showdown/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/08/politics/shutdown-showdown/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/10/07/politics/shutdown-showdown/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/03/11/politics/ryan-obamacare/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/05/politics/obama-spending-cuts/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2013
+}

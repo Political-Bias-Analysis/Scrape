@@ -1,0 +1,16 @@
+{
+    "Biases": [
+        "Abortion"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/1998/10/31/1000118/the-abortion-issue",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/1998/09/18/1024241/partial-birth-abortion-fight",
+            "bias": "Abortion"
+        }
+    ],
+    "Year": 1998
+}

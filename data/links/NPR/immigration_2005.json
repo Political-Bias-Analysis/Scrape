@@ -1,0 +1,51 @@
+{
+    "Biases": [
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2005/05/11/4648756/central-america-trade-deal-a-hard-sell",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2005/11/09/5005822/a-recap-of-tuesdays-election-results",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2005/05/02/4627315/slates-dispatches-blair-expected-to-win-re-election",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2005/12/12/5046700/robust-political-process-offers-hope-for-iraq",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2005/08/15/4800641/iraqis-still-struggling-to-draft-constitution",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2005/08/18/4805424/problems-grow-at-u-s-mexico-border",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2005/11/11/5009574/waging-peace-in-war-on-terror",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2005/08/06/4788074/andrew-young-and-the-voting-rights-act-of-1965",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2005/11/28/5028916/burma-continues-detention-of-nobel-winning-activist",
+            "bias": "xenophobia"
+        }
+    ],
+    "Year": 2005
+}

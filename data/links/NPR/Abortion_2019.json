@@ -1,0 +1,347 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2019/05/29/727796614/morning-news-brief",
+            "bias": "Abortion"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/05/24/steve-bullock-2020-election",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/23/735191240/democratic-presidential-candidates-talk-abortion-in-south-carolina",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/04/774150955/in-key-2019-races-activists-gear-up-for-big-fight-over-abortion",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/18/686260253/with-higher-stakes-in-the-abortion-debate-activists-march-on-washington",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/04/767339399/supreme-court-takes-up-abortion-case-from-louisiana",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/20/724921439/is-abortion-a-winning-issue-for-republicans-in-2020",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/10/722221110/week-in-politics-chinese-tariffs",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/29/791514162/the-louisiana-clinic-at-the-center-of-abortion-case-before-supreme-court",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/21/789323826/for-joe-biden-1987-brought-triumph-in-the-wake-of-political-setback",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/18/789267763/susan-collins-of-maine-announces-she-will-seek-re-election",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/12/02/783453064/georgia-governor-sparks-fight-with-trump-allies-over-senate-appointment",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/20/780517822/what-the-site-of-the-democratic-debate-says-about-georgia-role-of-black-voters",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/17/780191177/louisiana-democrat-gov-john-bel-edwards-keeps-seat-despite-trumps-opposition",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/05/776208910/its-election-day-2019-here-s-what-to-watch",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/04/776173286/2019-elections-being-closely-watched-to-see-what-they-may-signal-for-2020",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/11/01/775305580/mississippi-governor-election-preview",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/30/774846046/the-2019-elections-what-to-watch-for",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/22/772170458/justin-trudeau-wins-reelection-in-canadian-election",
+            "bias": "pro-life"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/10/14/latino-voters-texas-2020-election",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/09/768399183/with-abortion-rights-on-the-line-planned-parenthood-announces-2020-push",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/05/767488455/supreme-court-to-take-on-abortion",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/09/05/757579491/trumps-all-about-the-base-but-he-likely-needs-more-than-that-here-s-why",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/09/05/753784646/california-again-considers-making-abortion-pills-available-at-public-colleges",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/28/755216879/new-york-sen-kirsten-gillibrand-drops-out-of-2020-presidential-race",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-07-31/the-state-of-the-state-attorney-general",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/07/02/737046658/newly-blue-maine-expands-access-to-abortion",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-06-25/democratic-candidates-stances-on-health-care",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/13/732270801/rising-democratic-party-star-urges-hollywood-not-to-leave-georgia-over-abortion",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/06/730515910/biden-reverses-position-rejects-hyde-amendment-cites-attacks-on-abortion-access",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/07/730183531/poll-majority-want-to-keep-abortion-legal-but-they-also-want-restrictions",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/02/729050280/illinois-state-representative-on-abortion-rights-bill",
+            "bias": "pro-life"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/05/31/mueller-statement-trump-2020-impeachment",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-05-30/foresight-2020-tim-ryan",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/30/728387081/louisiana-governor-says-he-plans-to-sign-bill-restricting-most-abortions-into-la",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/29/727796651/supreme-court-weighs-in-on-indiana-case-concerning-abortion",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/24/724532856/missouri-governor-signs-ban-on-abortion-after-8-weeks-of-pregnancy",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/23/725481076/kirsten-gillibrand-says-if-trump-wants-a-war-with-americas-women-he-will-lose",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/20/724921396/news-brief-abortion-issue-full-employment-game-of-thrones",
+            "bias": "pro-life"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/05/17/trump-white-house-immigration-alabama-abortion-iran-china-tariffs",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/16/723922182/missouri-senate-passes-bill-that-would-ban-abortions-after-8-weeks",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/16/723899545/alabama-abortion-law-could-make-its-way-to-the-supreme-court",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/30/718546468/opponents-fight-efforts-to-protect-late-term-abortion-rights",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/26/717275029/2020-democrats-talking-faith-are-invited-to-conservative-evangelical-forum",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-25/biden",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/24/716861455/democratic-candidates-pressed-on-priorities-by-women-of-color",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/10/711693259/creators-of-anti-abortion-film-to-testify-that-twitter-censors-them",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://the1a.org/shows/2019-04-04/abortion-rights-and-regulations-in-2019",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/26/698342877/bill-that-would-regulate-doctors-care-of-babies-who-survive-abortions-fails-in-s",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/15/695100977/former-republican-gov-bill-weld-considers-a-primary-challenge-to-trump",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/08/692614193/supreme-court-blocks-louisiana-abortion-law",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/29/689536814/why-howard-schultzs-independent-bid-for-president-is-a-radical-idea",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2019/01/08/682452994/where-u-s-battles-over-abortion-will-play-out-in-2019",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/04/678227272/what-it-looks-like-to-have-a-record-number-of-women-in-the-house-of-representati",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/19/771596733/alexandria-ocasio-cortez-says-bernie-sanders-heart-attack-was-a-gut-check-moment",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742534869/after-less-than-a-year-planned-parenthood-ousts-its-president-leana-wen",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742534834/news-brief-house-condemns-trump-tweets-planned-parenthood-moscow-protests",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/29/774133071/shadow-network-offers-a-lesson-on-the-american-rights-mastery-of-politics",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/01/761626068/u-s-funded-radio-free-europe-in-hungary-would-be-an-insult-says-foreign-minister",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/17/742527070/wednesday-july-17th-2019",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2019/07/12/news-epstein-census-us-uk-tensions-pelosi-immigration-raids",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/05/22/tim-ryan-2020-presidential-candidate",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/03/719918056/new-group-focuses-on-mobilizing-women-toward-political-activism",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/20/686659187/republican-congresswoman-warns-gop-leaders-of-gender-crisis",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/19/686935261/thousands-gather-across-u-s-for-3rd-annual-womens-marches",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/04/01/708862076/woman-accuses-biden-of-unwanted-touching-he-didnt-intend-to-be-inappropriate",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/21/696532375/vocal-critic-explains-why-he-now-supports-president-trump",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2019/07/15/740992033/democrats-have-the-religious-left-can-they-win-the-religious-middle",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2019/06/06/729918102/helen-clark-can-do-it-all-run-a-country-fight-for-womens-rights-and-snapchat",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/goatsandsoda/2019/02/13/694301566/ivanka-trump-launches-50-million-program-to-empower-women-in-the-workplace",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/02/06/691872723/heres-how-trump-tried-to-win-women-over-in-his-state-of-the-union",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/10/16/770526755/6-takeaways-from-the-4th-democratic-presidential-primary-debate",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/08/730941386/harris-justice-dept-would-have-no-choice-but-to-prosecute-trump-after-presidency",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/30/689879689/education-department-gathers-feedback-on-new-campus-sexual-assault-rules",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/23/753748002/weekly-wrap-for-gop-warning-signs-with-women-greenland-not-for-sale",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/23/726246286/weekly-roundup-thursday-may-23",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/27/736494205/the-first-democratic-debates-night-one-takeaways",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/01/19/686830461/if-i-have-to-go-to-100-marches-i-will-do-that-womens-activism-2-years-later",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/18/704416322/never-go-to-vegas",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/03/06/700663706/never-look-away-asks-why-make-art-who-is-it-for",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2019/11/21/black-voters-2020-democratic-debate",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/08/31/756323244/fec-chair-lack-of-quorum-is-completely-unacceptable",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/06/19/734103488/democrats-blast-biden-for-recalling-civil-relationship-with-segregationists",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2019/05/04/720221898/week-in-politics-no-show-ag-barr-trump-has-very-productive-call-with-putin",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2019
+}

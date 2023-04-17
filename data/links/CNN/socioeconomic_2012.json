@@ -1,0 +1,760 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2012/06/13/us/getting-education-reform-right/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/19/politics/romney-obama-women-hiring/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/03/politics/michelle-obama-debate/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/14/politics/campaign-wrap/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/28/politics/dem-counter-conventions/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/29/politics/health-care/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/28/politics/obamacare-what-we-learned/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/27/politics/rangel-primary/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/17/politics/health-care-issues/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/25/politics/scotus-health-care-four-issues/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/05/us/fiscal-cliff-americans/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/04/us/georgia-oldest-person-dies/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/01/justice/chicago-crime-program-criticized/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/10/us/arizona-giffords-appearance/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/01/us/north-carolina-edwards-profile/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/08/us/my-view-why-not-a-right-to-a-college-education/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/29/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/26/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/21/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/19/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/18/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/12/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/11/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/06/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/05/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/05/politics/fiscal-cliff-boehner-gop/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/27/politics/fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/08/politics/campaign-2016/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/09/politics/obama-fiscal-cliff/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/05/politics/undecided-voters-decisions/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/04/politics/margin-of-error-campaign-foreman/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/04/politics/election-closing-blitz/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/23/politics/campaign-stretch-run/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/10/politics/ohio-walmart-moms/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/11/politics/debate-ryan/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/04/politics/debate-main/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/03/politics/debate-main/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/27/politics/romney-strategists/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/26/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/26/politics/romney-ohio/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/13/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/20/politics/king-battleground-michigan/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/19/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/18/politics/king-romney-how-bad/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/18/politics/romney-fallout/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/05/politics/obama-clinton/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/04/politics/michelle-obama-speech/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/04/politics/julian-castro-profile/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/02/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/29/politics/obama-answers-10-questions-on-reddit/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/11/politics/romney-ryan/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/03/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/02/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/11/politics/house-health-care/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/11/politics/romney-naacp/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/10/politics/house-health-care/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/10/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/09/politics/obama-bush-tax-cuts/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/06/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/06/politics/jobs-report-voters/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/29/politics/gop-health-care/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/06/politics/wisconsin-recall-analysis/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/04/politics/obama-bill-clinton-same-team/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/31/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/16/politics/biden-ohio-campaign/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/02/politics/afghanistan-obama/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/27/politics/tea-party-upgraded/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/25/politics/obama-europe-election/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/22/politics/john-edwards-trial/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/10/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/09/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/08/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/05/politics/santorum-stays-in/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/21/politics/il-analysis/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/05/politics/super-tuesday-mann/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/05/election/2012/super-tuesday/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/02/politics/romney-gaffes/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/27/politics/campaign-wrap/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/12/politics/obama-congress-budget/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/17/us/opinion-occupy-fizzled-but-made-99-a-force/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/08/us/new-york-vendor-congress/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/28/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/27/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/24/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/20/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/15/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/14/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/10/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/04/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/03/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/02/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/30/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/29/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/28/politics/fiscal-cliff/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/13/politics/obama-labor-progressives/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/07/politics/analysis-obama-second-term-issues/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/07/politics/election-2012/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/04/politics/campaign-pennsylvania/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/02/politics/campaign-jobs-report/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/02/politics/velshi-job-numbers/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/01/politics/campaign-final-days/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/10/politics/king-debate-preview/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/04/politics/debate-5-things-learned/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/03/politics/timing-and-debates/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/27/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/05/politics/warren-convention-speeches/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/03/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/31/politics/between-conventions/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/30/politics/romney-speech/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/24/politics/next-obama/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/23/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/15/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/15/politics/romney-medicare-counteroffensive/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/11/politics/romney-ryan-analysis/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/10/politics/romney-trajectory/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/01/politics/house-taxes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/01/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/01/politics/ohio-battleground-king/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/27/politics/house-tax-fight/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/25/politics/obama-african-american-voters/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/25/politics/senate-tax-vote/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/17/politics/senate-disclose-act/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/11/politics/parallel-political-universes/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/05/politics/romney-tax-flip/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/28/politics/ruling-campaign-impact/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/24/politics/congress-health-care/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/23/politics/arizona-giffords-successor/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/19/politics/congress-productivity/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/13/arizona-special-election-analysis/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/08/politics/congress-worse-election/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/05/politics/wisconsin-recall-vote/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/25/politics/gop-congress-wish-list/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/25/politics/vp-audition-romney/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/15/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/14/politics/wall-street-politics/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/11/politics/obama-romney-campaigns/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/04/politics/jobs-report-politics/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/04/politics/obama-student-loans/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/30/politics/obama-bill-clinton-join-forces/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/27/politics/allen-west-challenges/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/18/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/04/politics/campaign-wrap2/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/04/politics/campaign-wrap/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/03/politics/obama-republicans/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/29/politics/house-gop-budget/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/15/politics/biden-speech/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/22/politics/obama-payroll-tax/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/21/election/2012/obama-payroll-tax/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/14/politics/payroll-tax-negotiation/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/17/election/2012/payroll-tax-deal/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/01/02/politics/obama-returns-washington/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/02/us/last-white-house-democrat-in-the-deep-south-fights-for-political-survival/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/19/us/embed-america-arkansas-health-care/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/13/politics/fiscal-cliff/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/09/politics/fiscal-cliff/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/26/politics/fiscal-cliff/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/23/politics/fiscal-cliff/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/16/politics/fiscal-cliff/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/09/politics/obama-debt-limit/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/31/politics/house-preview/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/30/politics/disaster-role-government/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/12/politics/debate-five-things-learned/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/02/politics/debate-moments-that-mattered/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/25/politics/campaign-context/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/10/politics/campaign-wrap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/30/politics/5-things-weds/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/29/politics/ryan-youth-vote/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/28/politics/campaign-in-the-trenches/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/17/politics/campaign-wrap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/16/politics/king-battleground-iowa/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/14/politics/campaign-wrap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/11/politics/btn-paul-ryan/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/10/politics/romney-vp-series-ryan/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/11/politics/health-care-fatigue/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/04/politics/young-guns-congress/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/16/politics/senate-budget-debate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/15/politics/youtube-local-targeted-ads/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/09/politics/indiana-senate-general/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/27/politics/house-student-loans/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/04/politics/republican-primaries-web/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/03/politics/republican-primaries/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/25/politics/scotus-health-care-supporter/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/23/politics/campaign-wrap/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/22/politics/health-care-ipab/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/21/politics/health-care-ipab/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/13/politics/payroll-tax-negotiation/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/13/politics/budget-politics-analysis/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2012
+}

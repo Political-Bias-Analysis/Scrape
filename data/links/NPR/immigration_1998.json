@@ -1,0 +1,13 @@
+{
+    "Biases": [
+        "immigration",
+        "nationalism"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/1998/03/10/1035974/suharto",
+            "bias": "nationalism"
+        }
+    ],
+    "Year": 1998
+}

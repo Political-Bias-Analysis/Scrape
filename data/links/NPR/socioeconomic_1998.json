@@ -1,0 +1,18 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/1998/11/04/1009901/election-day-wrap-up",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/1998/10/02/1033073/brazil-election",
+            "bias": "working class"
+        }
+    ],
+    "Year": 1998
+}

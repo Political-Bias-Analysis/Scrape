@@ -1,7 +1,10 @@
 {
     "Biases": [
         "immigration",
-        "undocumented"
+        "undocumented",
+        "refugees",
+        "nationalism",
+        "border"
     ],
     "Links": [
         {
@@ -347,6 +350,186 @@
         {
             "link": "https://www.cnn.com/2012/03/15/politics/senate-vawa-accusations/index.html",
             "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/03/us/civil-rights-icon-fighting-for-change-one-registered-voter-at-a-time/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2012/01/04/politics/santorum-romney-race/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/10/us/embed-america-tribal-justice/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/29/us/tropical-weather-sandy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/26/us/tropical-weather-sandy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/20/us/fast-furious-report/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/19/us/fast-furious-qa/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/19/us/us-fast-furious-report/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/04/us/fast-furious-report/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/10/us/us-mexico-peace-caravan/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/10/us/cartels-columbus-new-mexico/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/10/us/tombstone-water-fight/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/04/us/keystone-pipeline/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/24/justice/texas-commissioner-indicted/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/08/us/arizona-woman-off-ballot-after-high-court-agrees-her-english-isnt-good-enough/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/18/politics/keystone-pipeline-protest/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/31/politics/sandy-voting-election-day/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/13/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/26/politics/obama-guns-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/12/politics/senate-mexico-report/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/02/politics/contempt-vote-political-survival/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/29/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/03/politics/nevada-mormons/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/28/politics/holder-contempt-reax/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/28/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/28/politics/holder-contempt-duplicate-2/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/27/politics/holder-contempt-next/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/27/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/26/politics/pol-fast-furious/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/24/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/21/politics/gergen-holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/21/politics/holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/14/politics/holder-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/13/politics/holder-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/12/politics/holder-senate/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/11/politics/holder-house-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/07/politics/holder-fast-furious/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/03/politics/congress-holder-contempt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/13/politics/campaign-wrap/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/12/politics/summit-of-the-americas/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/04/02/politics/north-american-leaders/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/22/politics/obama-energy-tour/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/01/politics/obama-energy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/29/politics/obama-congress-detente/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/23/politics/obama-energy-speech/index.html",
+            "bias": "border"
         }
     ],
     "Year": 2012
