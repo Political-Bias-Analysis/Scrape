@@ -4,27 +4,28 @@ import time
 from collections import defaultdict
 import sys
 
-sys.path.insert(0, "/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/ReadWriteFiles")
-import scrape.ReadWriteFiles.read_write_links as read_write_links
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+from ReadWriteFiles.read_write_links import *
 
-
-def get_websites(query, all_links):
+def get_websites(bias, all_links):
     driver = webdriver.Chrome()
     driver.get('https://www.npr.org/search/')
     time.sleep(5)
-    driver.find_element(By.CLASS_NAME, "ais-SearchBox-input").send_keys(query)
+    driver.find_element(By.CLASS_NAME, "ais-SearchBox-input").send_keys(f"election {bias}")
     time.sleep(1)
 
     articles = defaultdict(list)
-    
-    while True:
+    count = 0
+    while count < 500:
         results = driver.find_elements(By.CLASS_NAME, "item")
         for item in results:
             href = item.find_element(By.CLASS_NAME, "title").find_element(By.TAG_NAME, 'a').get_attribute("href")
-            all_links.add(href)
-            print(href)
-            date = item.find_element(By.CLASS_NAME, "date").text
-            articles[get_year(date)].append(href)
+            if check_valid(href) and href not in all_links:
+                all_links.add(href)
+                print(href)
+                date = item.find_element(By.CLASS_NAME, "date").text
+                articles[get_year(date)].append({"links": href, "bias": bias})
+                count += 1
         next_pg = driver.find_elements(By.CLASS_NAME, "ais-InfiniteHits-loadMore")
         if len(next_pg):
             next_pg[0].click()
@@ -36,7 +37,16 @@ def get_websites(query, all_links):
 
 def get_year(date):
     return int(date.split(" ")[-2])
+
+
+def check_valid(href):
     
+    if "templates/story" in href:
+        return False
+    if "npr.org/series" in href:
+        return False
+    return True
+
 
 if __name__ == "__main__":
     
@@ -46,12 +56,12 @@ if __name__ == "__main__":
     
     cur_bias = biases[0]
     
-    all_links = read_write_links.get_all_links(MEDIA_NAME)
-    dict_links = get_websites(f"president election {cur_bias}", all_links)
+    all_links = get_all_links(MEDIA_NAME)
+    dict_links = get_websites(cur_bias, all_links)
     
-    read_write_links.write_all_links(MEDIA_NAME, all_links)
+    write_all_links(MEDIA_NAME, all_links)
 
     if not EXISTS:
-        read_write_links.write_links_by_year(dict_links, MAIN_BIAS, MEDIA_NAME)
+        write_links_by_year(dict_links, MAIN_BIAS, MEDIA_NAME)
     else:
-        read_write_links.write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias, MEDIA_NAME)
+        write_more_links_by_year(dict_links, MAIN_BIAS, cur_bias, MEDIA_NAME)

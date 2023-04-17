@@ -1,0 +1,40 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/2011/10/15/141379983/recall-election-targets-ariz-immigration-law-author",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2011/11/09/142184370/ariz-anti-illegal-immigration-champion-loses-recall",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/publiceditor/2011/08/23/139888039/ultra-wrong-hear-it-from-an-academic",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2011/06/24/137393901/mexico-replaces-police-with-soldiers-in-border-area",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2011/06/14/137174961/ala-s-new-immigration-bill-tougher-than-ariz-s",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/sections/itsallpolitics/2011/05/10/136169440/for-obama-and-democrats-immigration-overhaul-a-political-no-brainer",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2011/05/12/136247015/navarrette-latinos-should-form-tequila-party",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2011/01/04/132657661/Whats-Next-For-U-S-Immigration-Policy",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2011
+}

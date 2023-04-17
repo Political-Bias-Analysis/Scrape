@@ -1,0 +1,20 @@
+{
+    "Biases": [
+        "immigration"
+    ],
+    "Links": [
+        {
+            "links": "https://www.npr.org/sections/talk/2007/12/immigration_issue_in_iowa_2.html",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2007/10/09/15119040/krugman-income-inequality-pricks-conscience",
+            "bias": "immigration"
+        },
+        {
+            "links": "https://www.npr.org/2007/08/29/7365553/rep-tom-tancredo-r-co",
+            "bias": "immigration"
+        }
+    ],
+    "Year": 2007
+}
