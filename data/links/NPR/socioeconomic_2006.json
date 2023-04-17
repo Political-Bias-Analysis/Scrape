@@ -1,0 +1,82 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2006/11/10/6466910/bahrain-debates-how-to-bridge-sunni-shiite-divide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/12/03/6573780/chavez-expected-to-win-in-venezuela-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/16/6275341/ecuadorian-presidential-election-down-to-two-men",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/01/17/5160731/john-edwards-new-job-fighting-poverty",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/12/05/6582008/u-n-and-kofi-annan",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/14/6486523/what-is-the-future-of-the-democratic-party",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/07/6449112/ortega-once-and-future-presidente",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/05/6437614/ortega-on-verge-of-comeback-in-nicaragua",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/31/6410882/best-intentions-annan-and-the-united-nations",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/11/6243668/under-dictator-zimbabwe-slides-into-chaos",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/09/19/6105334/bush-ahmadinejad-air-competing-views-at-u-n",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/01/31/5181905/president-bushs-state-of-the-union-address",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/16/6495810/obama-land-deal-clouds-senators-image",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/06/05/5452062/countries-on-the-verge-of-collapse",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/07/6447321/ortega-headed-to-victory-in-nicaragua-vote-count",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2006/12/11/6607669/texas-holds-special-election-for-u-s-house-seat",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/30/6404884/brazils-president-easily-wins-re-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/02/6179971/brazil-presidential-election-goes-to-runoff",
+            "bias": "working class"
+        }
+    ],
+    "Year": 2006
+}

@@ -1,0 +1,780 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2016/11/18/us/five-things-friday-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/28/us/five-things-tuesday/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/22/politics/state-department-gender-questionnaire/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/13/politics/ohio-abortion-bill-veto/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/14/politics/trump-abortion-supreme-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/09/politics/ohio-abortion-bills/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/09/politics/elliott-county-kentucky-democratic-streak-broken-by-donald-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/07/politics/ohio-abortion-bill/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/politics/steve-kerr-axe-files/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/politics/proposed-bills-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/politics/mike-pence-planned-parenthood-donation-irpt/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/politics/trump-gay-marriage-abortion-supreme-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/02/politics/evangelical-latinos-voters-unconvinced-cuny-study/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/26/politics/young-voters-battleground-states/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/19/politics/presidential-debate-highlights/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/19/politics/supreme-court-vacancy-hillary-clinton-donald-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/14/politics/missouri-battleground-senate-race-jason-kander-roy-blunt/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/11/politics/donald-trump-tax-pledge-grover-norquist-party-people/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/07/politics/donald-trump-republicans-endorsement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/01/politics/pulpit-freedom-sunday-johnson-amendment/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/23/politics/ted-cruz-endorses-donald-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/06/politics/congress-zika-budget-trump-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/26/politics/womens-equality-day-equal-rights-amendment-history/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/01/politics/trump-vs-clinton-presidential-polls-election-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/10/politics/five-things-rnc-convention/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/06/politics/donald-trump-hill-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/02/politics/republican-women-organize-to-support-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/27/politics/supreme-court-abortion-texas/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/21/politics/donald-trump-hillary-clinton-religion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/10/politics/clinton-calls-trump-risk-to-women/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/23/politics/katie-couric-axe-files-axelrod/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/11/politics/paul-ryan-donald-trump-house-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/04/politics/donald-trump-senate-republican-democrats/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/03/politics/tim-kaine-vice-president-hillary-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/26/politics/election-2016-clinton-trump-women/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/20/politics/new-york-primary-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/19/politics/hillary-clinton-new-york-primary-vote/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/06/politics/wisconsin-primary-election-2016-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/05/politics/election-results-what-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/04/politics/donald-trump-wisconsin-problems-scott-walker/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/02/politics/wisconsin-donald-trump-delegate-math/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/04/politics/2016-election-delegate-race-weekend-wrap/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/01/politics/donald-trump-2016-bad-week/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/01/politics/donald-trump-third-party-run-fox-news-sunday/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/01/politics/donlad-trump-third-party-run-fox-news-sunday/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/31/politics/donald-trump-women-poll-numbers/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/31/politics/donald-trump-abortion-hillary-clinton-bernie-sanders/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/31/politics/trump-abortion-punishment-republicans-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/31/politics/hillary-clinton-donald-trump-new-york-poll/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/24/politics/biden-rule-supreme-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/16/politics/supreme-court-donald-trump-republican-2016-reaction/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/14/politics/ted-cruz-super-pac-10-million/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/07/politics/donald-trump-hillary-clinton-2016-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/25/politics/super-tuesday-donald-trump-ad/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/19/politics/nevada-democrats-2016-loneliest-road/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/19/politics/obama-supreme-court-nominees/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/18/politics/republican-town-hall-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/16/politics/donald-trump-commonsense-conservative/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/16/politics/ted-cruz-donald-trump-abortion-south-carolina-videos/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/16/politics/supreme-court-nomination-possibilities/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/15/politics/supreme-court-nomination-battle/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/13/politics/antonin-scalia-supreme-court-replacement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/13/politics/antonin-scalia-memorable-lines/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/10/politics/chris-christie-drops-out-2016-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/10/politics/franklin-graham-rally-atlanta/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/07/politics/republican-debate-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/06/politics/marco-rubio-abortion-jeb-bush-new-hampshire/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/04/politics/chris-christie-massachusetts-governor-charlie-baker/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/31/politics/evangelical-voters-2016-iowa/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/31/politics/top-10-political-clich/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/30/politics/kasich-new-hampshire-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/26/politics/cruz-latino-general-election-2016/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/22/politics/bernie-sanders-women-support/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/21/politics/new-hampshire-primary-lesser-known-candidate-debate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/17/politics/ted-cruz-donald-trump-2016-south-carolina/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/11/politics/mcconnell-senate-republican-majority/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/10/politics/clinton-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/07/politics/planned-parenthood-endorse-hillary-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/06/politics/house-obamacare-repeal-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/05/politics/evangelicals-donald-trump-questions/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/06/politics/house-obamacare-paul-ryan-planned-parenthood/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/16/opinions/michelle-obama-future-filipovic/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/13/opinions/suburban-voting-bloc-opinion-levy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/opinions/trumps-tricky-path-with-obamacare-vox/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/women-elex/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/opinions/what-would-jackie-say-brower/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/07/opinions/voting-for-the-first-time-pupino/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/26/opinions/trump-will-flatter-obamas-legacy-stanley-oped/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/25/opinions/conservatives-use-clinton-and-abortion-to-hide-hypocrisy-bailey/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/25/opinions/hillary-clinton-must-not-sit-out-campaign-zelizer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/09/opinions/the-important-issue-about-women-trump-has-raised-ben-ghiat/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/29/opinions/debate-missed-healthcare-vos/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/15/opinions/five-elements-of-trumpspeak-dantonio/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/03/opinions/donald-trump-howard-stern-bunch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/14/opinions/was-ruth-bader-ginsburg-really-wrong-waldman/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/12/opinions/ruth-bader-ginsburg-trump-toobin/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/05/opinions/obama-clinton-american-progress-opinion-bailey/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/28/opinions/scotus-abortion-ruling-cecile-richards/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/26/opinions/democrats-republicans-role-reversal-opinion-zelizer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/15/opinions/debate-coach-democratic-debate-graham/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/11/opinions/sanders-and-reagan-1976-campaign-opinion-bunch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/03/opinions/trump-mri-of-the-soul-opinion-david-axelrod/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/01/opinions/trump-changing-views-drexler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/22/opinions/supreme-court-posner-broyde/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/10/opinions/perry-autism-hillary-clinton-plan/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/04/opinions/stanley-bill-clinton/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/19/us/five-things-friday/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/trump-victory-lgbt-concerns/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/26/politics/us-lawmakers-politicians-castro-death/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/22/politics/who-is-tim-ryan/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/04/politics/bridgegate-trial-chris-christie/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/13/politics/liberty-university-jerry-falwell-jr-donald-trump/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/25/politics/presidential-debate-preview-2016/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/13/politics/hillary-clinton-health-conspiracy-theories/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/politics/facebook-cofounder-gift-democrats/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/19/politics/indian-man-ejected-trump-rally/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/09/politics/donald-trump-hillary-clinton-second-amendment/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/01/politics/sally-bradshaw-jeb-bush-donald-trump-florida/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/14/politics/tim-kaine-hillary-clinton-guns/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/politics/trump-clinton-nasty-general-election/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/02/politics/obama-garland-senate-republicans/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/10/politics/trump-cruz-republican-leaders/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/25/politics/ben-carson-black-voters-super-pac/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/07/politics/bernie-sanders-hillary-clinton-banks-speeches-south-carolina-new-hampshire/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/30/politics/iowa-caucus-2016-bernie-sanders-hillary-clinton-turnout/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/09/politics/jeb-bush-powerball-donald-trump/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/05/politics/ted-cruz-evangelical-christian-iowa/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/05/politics/jeb-bush-2016-new-hampshire/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/18/opinions/enduring-mysteries-about-trumps-victory-zelizer/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/29/opinions/house-leadership-across-aisle-spivak-opinion/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/jared-kushner-opinion-louis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/opinions/kaine-revives-hughes-dreams-rampersad-opinion/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/27/opinions/supreme-court-role-shouldnt-be-political-mcdonald/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/opinions/louie-gohmert-mocking-disability-perry/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/06/opinions/trump-appeal-to-white-working-class-opinion-sracic/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/05/opinions/melania-trumps-libel-suit-cevallos/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/27/opinions/trump-putin-admiration-opinion-dantonio/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/25/opinions/tim-kaine-pick-opinion-se-cupp/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/23/opinions/donald-trump-speech-response-whiton/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/07/opinions/bernie-sanders-hillary-clinton-kohn/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/31/opinions/gop-must-reinvent-itself-kurt-bardella/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/13/opinions/trump-puts-gop-in-impossible-position-opinion-setmayer/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/10/opinions/holzer-lincoln-douglas-debates/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/08/opinions/hillary-clinton-be-proud-of-wall-street-speeches-macintosh/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/01/opinions/miller-abbas-violence/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/politics/trump-transition-meetings-abe/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/25/politics/hillary-clinton-democratic-convention/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/21/politics/trump-foreign-policy-interview/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/15/politics/gays-for-donald-trump/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/27/politics/tim-kaine-david-gregory/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/06/politics/mark-kirk-tammy-duckworth-illinois-senate-donald-trump/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/04/politics/never-trump-voters/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/16/politics/supreme-court-obamacare-contraceptive-mandate/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/09/politics/bernie-sanders-democratic-party/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/07/politics/john-kasich-ads-new-york/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/07/politics/indiana-senate-mcconnell-stutzman-young-cruz/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/11/politics/muslim-american-voters-bernie-sanders-irpt/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/07/politics/new-hampshire-2016-candidates-primary-state-of-the-union/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/27/politics/ted-cruz-donald-trump-iowa-fight/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/22/opinions/obama-netanyahu-meeting-miller/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/13/opinions/mark-cuban-as-vice-president-pick-dantonio-johnson/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/02/opinions/sanders-vice-president-clinton/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/14/opinions/confusion-drives-support-for-trump-opinion-dearing/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/08/opinions/democracy-around-the-world-ghitis/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/20/politics/tim-ryan-house-democrats-pelosi-trump/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/28/politics/women-congress-gender-gap/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/18/politics/project-veritas-action-robert-creamer-donald-trump-rallies/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/09/politics/inside-politics-forecast-trump-tower-palace-intrigue/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/19/politics/zika-funding-congress/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/politics/elizabeth-warren-hillary-clinton-donald-trump-2016-election/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/politics/congress-zika-standoff/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/07/politics/david-jolly-mosquitoes-house-zika-funding/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/12/politics/senate-bills-zika-opioid-heroin-addiction-military/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/23/politics/supreme-court-obamacare-contraceptive-mandate/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/02/politics/donald-trump-republican-establishment-fight/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/29/politics/erick-erickson-axe-files-david-axelrod/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/17/politics/planned-parenthood-hillary-clinton-nevada/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/10/politics/carly-fiorina-drops-out-suspends-campaign/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/10/politics/hillary-clinton-new-hampshire-primary/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/08/politics/nhwomen/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/29/opinions/zika-hits-usa-garrett/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/09/opinions/are-hillary-clinton-and-donald-trump-the-same-person-stanley/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/07/opinions/sizing-up-clinton-and-trump-opinion-zelizer/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/27/opinions/sanders-trump-debate-cupp/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/02/opinions/super-tuesday-conservatives-stanley/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/28/opinions/gabriel-presidential-candidates-facts-lies/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/15/politics/oregon-bakery-official-lost-trnd/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/02/politics/atheist-reason-rally/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/18/opinions/is-trump-advancing-womens-rights-pease/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/08/opinions/hillary-clinton-nomination-walker/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/24/opinions/bernie-or-bust-and-lessons-of-1968-opinion-lubet-bendat/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/15/opinions/clinton-and-sanders-supporters-animosity-opinion-zelizer/index.html",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2016
+}

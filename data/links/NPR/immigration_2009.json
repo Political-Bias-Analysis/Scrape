@@ -1,11 +1,76 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "nationalism",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2009/11/07/120129726/neo-nazi-rallies-provoke-anger-fear",
+            "link": "https://www.npr.org/2009/11/07/120129726/neo-nazi-rallies-provoke-anger-fear",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2009/01/14/99336285/house-passes-childrens-health-measure",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2009/08/20/112053253/afghans-vote-for-president-amid-militant-threats",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2009/06/30/106099922/iranian-americans-watch-tehran-from-afar",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2009/06/15/105420819/is-right-wing-extremism-on-the-rise",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2009/06/18/105531867/extremism-conspiracy-theory-and-murder",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2009/02/04/100249861/is-it-time-for-a-new-plan-for-afghanistan",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2009/09/22/113055346/matt-latimer-struck-speech-less-by-the-d-c-noise",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2009/07/sarah_palin_quits_as_alaskas_g.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2009/07/09/106392287/novelist-joseph-oneill-revisits-netherland",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2009/11/05/120132137/has-the-conversation-about-race-changed",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2009/01/22/99745648/civil-rights-battle-marches-on-in-era-of-obama",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2009/03/26/102374047/south-african-officials-cause-fury-over-dalai-lama",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2009/11/18/120538109/matthew-continetti-on-the-persecution-of-palin",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2009/09/22/112977266/james-ellroy-divulges-a-few-dirty-secrets",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2009/02/22/100940580/lords-and-lessons-from-the-great-depression",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2009

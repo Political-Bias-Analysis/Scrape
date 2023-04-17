@@ -1,0 +1,122 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2012/12/11/politics/holder-voting-rights/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/05/politics/guantanamo-detainees-election/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/07/politics/obama-identity/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/06/politics/exit-polls/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/06/politics/what-to-watch-election/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/05/politics/inside-the-polls/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/25/politics/obama-40-percent/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/12/politics/voter-laws-update/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/15/politics/asian-americans-congress/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/12/politics/dc-mayor/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/07/12/politics/black-republicans/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/17/politics/health-care-scenarios/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/14/politics/campaign-wrap/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/04/politics/btn-latino-vote/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/17/politics/anti-obama-ad/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/05/16/politics/henrico-virginia-bellwether/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/25/politics/scotus-health-care-blockbusters/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/25/politics/scotus-health-care-explainer/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/03/09/election/2012/derrick-bell-profile/index.html",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/05/politics/dnc-5-things-day-1/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2012/08/22/politics/convention-drama/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2012/06/20/politics/executive-privilege-history/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2012/02/28/politics/senate-snowe-retiring/index.html",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.cnn.com/2012/12/13/us/opinion-colorism-is-the-new-ism/index.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.cnn.com/2012/11/01/us/parallels-to-countrys-racist-past-haunt-age-of-obama/index.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/14/us/opinion-voter-id-laws-reminiscent-of-poll-taxes/index.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.cnn.com/2012/10/12/us/as-election-day-nears-voter-id-laws-still-worry-some-encourage-others/index.html",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.cnn.com/2012/09/16/us/sisters-navigate-new-pennsylvania-voter-id-law/index.html",
+            "bias": "racial discrimination"
+        }
+    ],
+    "Year": 2012
+}

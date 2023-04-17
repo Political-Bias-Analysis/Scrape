@@ -1,0 +1,332 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2017/02/23/516859717/devos-defiant-at-cpac-walks-a-fine-line-on-transgender-rights",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2017/11/16/561716316/the-kids-of-bowerys-hardcore-matinee-then-and-now",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2017/11/15/564320495/zimbabwes-mugabe-is-out-of-power-for-first-time-since-1980s-military-denies-coup",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2017/10/18/julie-lythcott-haims-real-american",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2017/09/07/549098169/his-ideology-is-white-supremacy-ta-nehisi-coates-on-donald-trump",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/25/533982860/people-of-coal-rich-northern-cheyenne-torn-between-jobs-and-sacred-culture",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/23/534118257/for-the-venezuelan-opposition-protests-are-like-a-war",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2017/03/15/520133445/culture-wars-trap-innovation-atlanta-hip-hop",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/14/570723643/democrat-pushes-for-new-party-leaders",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/11/07/562323124/maine-voters-will-decide-if-they-want-more-access-to-medicaid",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/07/567722131/quest-documentary-captures-the-music-of-one-north-philly-family-s-life",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2017/02/22/516479236/are-race-based-advisory-groups-just-political-symbols",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/02/22/515413111/threat-of-obamacare-repeal-leaves-community-health-centers-in-limbo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/04/14/523890736/2-mass-towns-challenge-trumps-executive-order-on-sanctuary-cities",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/01/02/506446779/obamacare-is-first-item-on-congress-chopping-block",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/18/571342691/week-ahead-trump-might-get-his-tax-bill-but-that-might-be-it-until-after-2018",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/19/529081006/on-election-day-taking-stock-of-free-expression-in-iran",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/17/528822142/hard-line-challenger-puts-spotlight-on-economy-in-iranian-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/29/574479306/news-brief-nyc-fire-kills-at-least-12-doug-jones-certified-as-winner-in-alabama",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/24/545502725/songs-we-love-open-mike-eagle-brick-body-complex",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2017/04/25/525594764/the-research-argument-for-nycs-preschool-plan-for-3-year-olds",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2017/04/05/522718288/fighting-hate-in-schools",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/04/02/522201586/with-obamacare-here-to-stay-some-states-revive-medicaid-expansion",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/28/520971836/message-to-resistors-from-occupy-co-creator-stop-protesting-run-for-office",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2017/03/14/515787427/minority-advocacy-groups-feel-left-out-of-national-efforts-funding",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2017/03/12/519897399/modi-s-bjp-party-wins-heart-of-india-voters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2017/02/11/513089503/a-look-at-why-crime-pays-in-indian-politics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/02/10/514104444/50-years-later-the-biting-satire-of-the-smothers-brothers-still-resonates",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/24/510816348/simon-tolkien-draws-on-his-famous-grandfathers-experiences-in-no-mans-land",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/13/509558608/with-his-choice-of-inauguration-prayer-leaders-trump-shows-his-values",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2017/01/09/508362813/schools-can-save-lives-an-exit-interview-with-the-u-s-education-secretary",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/12/536887916/brazils-former-president-lula-sentenced-to-prison-for-corruption",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/06/541877825/la-schools-and-charters",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/14/532969094/what-we-know-about-the-virginia-shooting-suspect",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/24/539087919/scandal-threatens-to-end-career-of-daughter-of-pakistan-prime-minister",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/13/570603402/after-special-election-alabama-will-send-democrat-to-senate-for-first-time-in-25",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/07/569222254/will-the-tax-overhaul-help-the-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2017/11/27/white-working-class",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/11/24/566127268/is-a-big-blue-wave-forming-off-the-political-coast",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/11/11/563551063/the-state-of-the-democratic-party-after-election-day-sweep",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/11/07/562506403/1-year-later-revisiting-2-election-battleground-states",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/21/533866997/democrats-play-blame-game-with-pelosi-after-georgia-election-to-gops-glee",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/21/533794088/what-the-democratic-loss-in-georgia-means-for-the-midterms",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/09/532289029/british-prime-minister-theresa-may-loses-majority-after-snap-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/07/531945554/recent-terror-attacks-weigh-on-voters-minds-ahead-of-u-k-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/06/02/531248493/as-biden-launches-american-possibilities-pac-is-one-possibility-a-2020-bid-maybe",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/29/530116072/the-end-of-eddy-tells-of-growing-up-poor-and-gay-in-working-class-france",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/04/26/525764727/opposing-french-presidential-campaign-strategies-clash-at-whirpool-factory",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/04/20/524936002/as-populism-strengthens-in-europe-a-future-for-social-democrats-fades",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/04/13/523709887/trump-supporters-in-the-upper-midwest-have-a-message-be-more-presidential",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/28/521805360/what-trump-misses-about-energy-jobs-in-america",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/02/09/514381973/will-senate-democrats-work-with-trump-the-10-senators-to-watch",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/24/511246837/democrats-try-to-find-a-future-post-obama-with-fault-lines-around-economics-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/15/509887117/sanders-how-to-get-people-to-see-gop-is-doing-opposite-of-what-americans-want",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/06/508587552/new-members-of-congress-adjust-to-working-on-capitol-hill",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/06/508385203/bernie-sanders-says-trump-won-because-democrats-are-out-of-touch",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/18/571579606/morning-news-brief",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/09/569673632/despite-maduros-unpopularity-venezuela-s-opposition-isn-t-a-shoo-in-for-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/10/04/555433641/who-will-benefit-most-from-gop-tax-plan-early-report-suggests-the-wealthy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/09/28/554157358/news-brief-middle-class-miracle-unveiled-puerto-rico-in-dire-need-of-aid",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/09/27/553917902/news-brief-tax-overhaul-roy-moore-wins-in-alabama-saudi-arabia-lets-women-drive",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/02/535240734/democratic-voters-roundtable-finding-a-cohesive-message-ahead-of-midterm-electio",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/26/530179298/hillary-clinton-to-deliver-commencement-speech-at-wellesley-college",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2017/05/18/528748471/when-iran-heads-to-the-polls-a-stark-if-limited-choice-awaits",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/17/528730694/the-rise-of-the-internet-based-economy-shows-whats-changed-in-iran",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2017/04/17/524301351/brash-leftist-candidate-shakes-up-frances-presidential-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/08/519170619/millions-head-to-the-polls-in-indian-state-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2017/12/28/573995878/morning-news-brief",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/11/13/563735136/trump-picks-azar-to-lead-health-and-human-services",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/11/10/563029459/medicaid-expansion-takes-a-bite-out-of-medical-debt",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/11/542676994/bernie-sanders-knows-his-medicare-for-all-bill-wont-pass-thats-not-the-point",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/08/03/541278161/bill-moyers-on-working-with-lbj-to-pass-medicare-52-years-ago",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/24/539087963/democrats-unveil-their-economic-pitch-ahead-of-2018-midterm-elections",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/24/539066705/democrats-better-deal-aims-to-reclaim-a-populist-image",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/07/02/535240706/study-no-one-issue-clearly-unites-5-groups-of-trump-voters",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2017/06/23/534106319/what-the-man-who-ran-obamacare-thinks-about-the-republican-health-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/05/17/528769195/trumps-election-integrity-commission-could-have-a-chilling-effect-on-voting-righ",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/03/23/521259581/obama-america-is-stronger-because-of-the-affordable-care-act",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/02/17/515777903/president-trump-seems-determined-to-continue-the-permanent-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2017/01/12/509559718/ben-carson-trumps-pick-for-housing-agency-wont-rule-out-grants-to-trump-properti",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2017
+}

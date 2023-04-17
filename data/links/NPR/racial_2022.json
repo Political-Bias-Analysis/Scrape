@@ -1,0 +1,800 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination",
+        "CRT",
+        "BLM"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2022/12/21/1144466364/turkey-politics-erdogan-istanbul-mayor-ekrem-imamoglu",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/01/1133083117/israel-election-netanyahu",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/31/1132944661/pelosi-david-depape-charges-assault-attempted-kidnapping",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/18/1126287827/redistricting-supreme-court-louisiana-black-african-american",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/04/1126804414/supreme-court-voting-rights-act",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/28/1114404377/can-therapy-solve-racism",
+            "bias": "racial"
+        },
+        {
+            "link": "https://the1a.org/segments/heat-wave-senate-democrats/",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/08/1121881253/the-news-roundup-for-september-9-2022",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/npr-extra/2022/07/06/1110026052/newsroom-leadership-promotions-for-vickie-walton-james-and-ammad-omar",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/18/1106059594/poor-peoples-campaign-rallies-in-washington-to-mobilize-low-income-voters",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/npr-extra/2022/03/29/1089499384/women-in-leadership-at-npr-share-insights-for-womens-history-month",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2022/03/17/255862018/unlearning-anti-blackness-in-therapy-the-buck-stops-here",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/15/1080901973/can-therapy-solve-racism",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/05/1078481564/north-carolina-redistricting",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/26/1145509223/npr-music-critics-most-memorable-lyrics-2022",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/31/1101399058/progressives-take-a-leaf-out-of-the-conservative-playbook-to-target-school-board",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/04/1126806864/supreme-court-hears-arguments-in-case-that-could-further-decimate-voting-rights-",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/22/1144941813/fiji-calls-in-military-after-close-election-is-disputed",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/01/1140193037/president-biden-calls-for-a-big-shakeup-in-democrats-presidential-nominating-cal",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/01/1140154197/nevada-wants-to-hold-its-primaries-first-in-2024",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/20/1138127571/what-voters-said-about-trans-rights-in-the-midterms",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135619259/voters-approve-more-spending-on-affordable-housing-in-cities-across-the-u-s",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135479163/2022-election-results-history-making-winners",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/08/1134181227/maryland-election-midterms-first-black-governor-results-wes-moore",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/08/1135190353/check-in-with-three-battleground-states-georgia-arizona-and-wisconsin",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/08/1134550280/stories-about-crime-are-rife-with-misinformation-and-racism-critics-say",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/07/1134525422/detroit-black-representation-house-bivings-thanedar",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/06/1134661295/caruso-narrows-gap-with-bass-in-la-mayoral-race",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/06/1132730832/american-citizens-voters-overseas-abroad",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/04/1133747937/wes-moore-history-election-midterm-race-maryland-first-black-governor",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2022/11/03/biden-election-lies-democrats",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/01/1133041122/netanyahu-eyes-a-comeback-as-israel-votes-in-fifth-election-in-four-years",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/01/1133041045/morning-news-brief",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/31/1131380405/north-carolina-senate-race-ted-budd-cheri-beasley",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/30/1132658530/brazilians-go-to-polls-to-vote-in-a-run-off-election-between-bolsonaro-and-lula",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/29/1132633475/in-the-face-of-political-violence-one-group-recruits-poll-chaplains",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/29/1132537240/government-warns-domestic-attacks-midterm-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/28/1132163749/brazil-prepares-for-one-of-the-most-contentious-presidential-elections-in-decade",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/24/1131179870/wisconsin-senate-candidate-mandela-barnes-on-abortion-onslaught-of-gop-advertisi",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2022/10/24/1129112123/abortion-is-on-the-california-ballot-but-does-that-mean-at-any-point-in-pregnanc",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/17/1129542416/democrats-are-losing-latino-voters-that-could-be-pivotal-for-midterm-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/17/1128708379/student-debt-abortion-midterms",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/13/1128694481/with-two-black-men-running-for-senate-in-georgia-race-takes-center-stage",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/04/1126619000/voting-rights-act-supreme-court",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/30/1126281356/crime-is-in-the-spotlight-in-the-u-s-senate-race-in-wisconsin",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/16/1123159780/same-sex-marriage-respect-for-marriage-act-congress-senate",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/12/1122118393/georgia-abrams-warnock-rural-black-voters-elections-democrats-midterms",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/11/1122250638/politics-chat-state-courts-vs-legislatures-on-election-laws-senate-vote-on-same-",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2022/09/06/peniel-joseph-third-reconstruction",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/01/1120457104/morning-news-brief",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/28/1119502320/stacey-abrams-abortion-georgia-democrats-republicans-midterms",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/25/1117849457/evangelical-vote-brazil-bolsonaro-lula",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/21/1118503562/florida-black-voters-election-laws-redistricting",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/19/1118520996/black-activists-say-floridas-new-election-laws-and-map-weaken-black-voting-power",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/04/1115687765/the-evolution-of-election-integrity-jan-6-rioter-sentenced-to-more-than-7-years",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/27/1113991207/george-floyd-civil-rights-police-sentenced",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/17/1111912906/religious-groups-came-together-in-oregon-to-get-gun-control-on-the-next-ballot",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/10/1110778831/encore-midterms-election-misinformation",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/10/1110723302/exit-polls-suggest-victory-for-japans-ruling-party-in-parliamentary-election",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/10/1110720566/japan-election-shinzo-abe-assassination",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/08/1110642080/japan-looks-ahead-to-elections-slow-monkeypox-response-latest-jobs-report",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/07/1110266972/the-stolen-election-lie-keeps-spreading-here-are-some-of-the-people-responsible",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/06/1110116093/the-grassroots-efforts-to-spread-election-conspiracies",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/06/1109193929/the-first-gen-z-candidates-are-running-for-congress-and-running-against-compromi",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/05/1109085564/this-conservative-leader-is-trying-to-make-white-evangelical-politics-less-white",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/30/1108852884/pete-buttigieg-launches-1b-pilot-to-build-racial-equity-in-americas-roads",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/25/1107628806/week-in-politics-biden-urges-voters-to-look-to-november-elections-to-enact-chang",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/22/1106658383/jan-6-hearing-lays-out-efforts-directed-at-state-officials-to-void-election-resu",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/20/1106256026/israel-coalition-agrees-to-dissolve-and-hold-early-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/15/1105104863/racial-ethnic-categories-omb-directive-15",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/16/1099244579/abortion-rights-in-maine-could-be-at-risk-if-republicans-reclaim-the-state-gover",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/08/1097514184/how-abortion-became-a-mobilizing-issue-among-the-religious-right",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/03/1096128525/political-consequences-supreme-court-draft-opinion-roe-abortion",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/01/1095466871/biden-polls-democrats-gen-z-midterms",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/12/1092251236/woke-culture-has-made-its-way-into-the-french-presidential-election",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/05/1090992362/how-will-new-partisan-redistricting-maps-affect-this-years-midterm-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/01/1090355134/hungarian-opposition-parties-aim-to-oust-longtime-prime-minister-in-major-electi",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/23/1087202877/idaho-prepares-to-ban-most-abortions-in-the-state-as-governor-signs-texas-style-",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/20/1087766111/florida-governor-desantis-wants-to-eliminate-2-proposed-black-voting-districts",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/17/1087394763/new-jersey-democrats-may-want-to-knock-iowa-off-the-top-of-the-presidential-cale",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/14/1086498929/those-arguments-over-school-book-bans-may-influence-midterm-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/07/1084874629/in-south-korea-the-squid-game-election-campaign-gets-ugly",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/05/1084640994/racial-justice-activists-say-bidens-state-of-the-union-address-missed-the-mark",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/01/1077356398/racial-bias-issues-plague-justice-department-early-release-program",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/18/1073335334/a-new-look-at-how-turmoil-is-defining-the-lives-and-politics-of-generation-z",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/14/1073229303/how-successful-was-the-biden-administration-in-addressing-racial-equity-so-far",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/15/1073180200/youngkin-sears-inauguration-republicans-gop-virginia",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/13/1072153233/virginias-first-black-woman-lieutenant-governor-says-we-need-to-move-on-from-sla",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/12/1072576371/trump-tells-npr-he-isnt-giving-up-his-2020-election-lies",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1070864361/the-big-lie-lives-on-and-may-lead-some-to-oversee-the-next-election",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/05/1070362852/trump-big-lie-election-jan-6-families",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/04/1070254014/longtime-chicago-congressman-bobby-rush-is-the-latest-democrat-to-leave-washingt",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/18/1080820931/dana-remus-white-house-supreme-court-nomination",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/07/1141115374/the-white-house-hosts-jewish-leaders-to-discuss-rising-antisemitism",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/28/1131345482/armageddon-time-review-james-gray-anthony-hopkins-anne-hathaway",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/19/1129868151/taylor-swift-is-peak-millennial-vibes",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/26/1101479561/heres-how-politicians-pick-their-voters",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/05/1091016540/ivanka-trump-to-appear-before-jan-6-committee-on-tuesday-morning",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/30/1145811967/britain-2022-royal-family-conservative-party-strikes",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/09/1141635119/the-first-gen-z-member-of-congress-was-denied-a-d-c-apartment-due-to-bad-credit",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/09/1103913507/the-planning-behind-the-jan-6-insurrection-went-far-deeper-than-it-initially-see",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/28/1145854075/whats-next-for-the-u-k-in-2023-after-a-tumultuous-2022",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/30/1146235949/britains-2022-was-a-year-of-epic-turbulence",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/26/1131627363/mark-meadows-trump-georgia-election-testify",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/06/1127149958/fox-news-ceo-warned-against-crazies-after-2020-election-dominion-says",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/25/1124784756/trump-and-his-lawyers-keep-ghosts-of-nixon-and-watergate-alive-and-haunting",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/07/1121307491/poll-trump-fbi-search-run-2024",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/30/1108843788/jan-6-committee-subpoenas-trumps-former-white-house-counsel-pat-cipollone",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/15/1104920806/dana-remus-made-legal-history-in-the-white-house-now-shes-moving-on",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/28/1089253473/trump-likely-committed-crime-trying-to-stay-in-power-judge-says-in-records-dispu",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/02/1084098799/trump-select-committee-capitol-insurrection-conspiracy",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/09/1079670795/jan-6-panel-subpoenas-former-trump-white-house-trade-adviser-peter-navarro",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1071063375/a-dagger-at-the-throat-of-democracy-president-biden-decries-election-lies",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/27/1144390761/why-republican-elites-backed-trump-power-belonging-and-voter-pressure",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/04/1140644701/dominion-to-depose-fox-boss-lachlan-murdoch-as-defamation-suit-heats-up",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.wbur.org/onpoint/2022/12/01/essential-trust-how-healthy-skepticism-builds-trust",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/22/1138494465/read-nprs-full-interview-with-former-vice-president-mike-pence",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/13/1131872280/teacher-shortage-culture-wars-critical-race-theory",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/04/1134421921/midterms-final-push-twitter-layoffs-battle-brewing-in-kherson",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/15/1129203796/the-jan-6-committee-has-done-its-job-but-its-impact-depends-on-others",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/13/1125331584/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/10/1127470845/trump-understands-the-legal-peril-hes-in-times-journalist-maggie-haberman-says",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2022/09/16/captured-episode-1-epa",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/26/1119588357/trump-warrant-affidavit-mar-a-lago-search",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2022/08/22/930873868/fauci-to-step-down-in-december-after-decades-of-public-service",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/12/1117199343/what-is-the-status-of-all-of-trumps-legal-woes",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/22/1112138665/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/21/1112023963/jan-6-hearing-livestream-how-to-watch-live-updates",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/18/1112113035/jury-selection-for-steve-bannons-trial-starts-hes-donald-trumps-former-adviser",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/12/1111123258/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/30/1108890878/liz-cheney-trump-domestic-threat",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/28/1108396692/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/23/1106966953/former-doj-officials-to-testify-during-the-5th-house-jan-6-hearing",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/23/1106863016/who-youll-hear-from-and-what-to-expect-in-todays-jan-6-house-committee-hearing",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/23/1106700800/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/10/1104156949/jan-6-committee-hearing-transcript",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/09/1103285129/key-questions-the-jan-6-committee-will-tackle-in-its-hearings",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/03/1102923746/former-trump-adviser-navarro-indicted-for-contempt-of-congress-over-jan-6-subpoe",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/19/1100253582/school-colors-episode-3-the-battle-of-forest-hills",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2022/04/28/1095295980/jerome-adams-masking",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/28/1095042273/ron-desantis-florida-textbooks-social-emotional-learning",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/08/1091761866/how-congress-is-investigating-january-6th-and-preparing-for-any-future-attacks",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/06/1091241404/house-criminal-contempt-referrals-trump-aides-navarro-scavino",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/31/1090055220/house-democrats-probe-gap-in-trumps-call-logs-from-january-6th",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/30/1089595933/legal-ethics-experts-agree-justice-thomas-must-recuse-in-insurrection-cases",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/28/1089146544/scavino-navarro-trump-contempt-congress-jan-6",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/28/1089121182/the-jan-6-house-panel-focuses-on-peter-navarro-and-dan-scavino",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/28/1089121147/morning-news-brief",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2022/03/22/1087846087/frank-bruni-stroke",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/17/1081417330/opinion-us-deadline-putin-russia-troops-ukraine",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/02/16/more-than-money-antitrust-lessons-of-the-gilded-age-tarbell-monopoly",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://the1a.org/segments/rudy-giuliani-is-now-expected-to-cooperate-with-the-jan-6-commission/",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/10/1079792121/morning-news-brief",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/07/1078920769/bomb-threats-against-black-institutions-are-deeply-rooted-in-u-s-history",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/03/1077878538/legislation-restricts-what-teachers-can-discuss",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/19/1074226489/the-supreme-court-denies-trumps-bid-to-block-release-of-records-to-jan-6-panel",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2022/01/04/capitol-attack-malcolm-nance",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/29/1145952664/benjamin-netanyahus-new-israeli-government-will-make-west-bank-expansion-a-prior",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/17/1111912955/the-inheritors-delves-into-the-lasting-effects-of-the-apartheid-in-south-africa",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/14/1111060299/school-segregation-report",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/25/1082626791/u-s-judges-are-narrowing-voting-protections-some-fear-lasting-damage",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/15/1080928821/a-look-at-key-senate-governors-races-in-arizona-and-georgia",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/22/1138728347/former-vice-president-mike-pence-on-his-new-book-so-help-me-god",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/05/1127047804/how-eric-holder-views-the-latest-supreme-court-challenge-to-the-voting-rights-ac",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/08/1135190325/the-supreme-court-will-decide-the-future-of-the-indian-child-welfare-act",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/10/1127848044/the-supreme-court-case-that-will-decide-if-voting-rights-should-be-race-blind",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/14/1122937491/strippers-in-the-u-s-want-better-work-conditions-some-are-trying-to-unionize",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/24/1107531630/context-and-perspective-on-abortion-and-gun-rights-after-this-weeks-scotus-decis",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/22/1106863232/evangelicals-didnt-always-play-such-a-big-role-in-the-fight-to-limit-abortion-ac",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/04/1090746241/senate-panel-to-vote-on-ketanji-brown-jacksons-supreme-court-nomination",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/12/1142224030/after-roe-the-supreme-court-seems-poised-to-undo-more-major-precedents",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/03/1126041958/supreme-court-new-term",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/17/1111715068/in-all-trump-s-legal-wars-and-woes-one-lawyer-s-influence-still-holds-sway",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/05/1109444617/the-supreme-court-conservative",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/08/1102909009/jan-6-committee-members-capitol-attack-thompson",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/14/1098800437/religion-role-politics",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/30/1089640442/how-one-civil-rights-activist-posed-as-a-white-man-in-order-to-investigate-lynch",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/26/1083332599/alabama-gerrymandering-redistricting-voting-maps-supreme-court",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/20/1082030426/there-are-no-utopias",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/22/1082332205/leading-republican-echoes-trumps-american-carnage-message-for-the-midterms",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/21/1082079114/controversy-brews-in-india-over-school-dress-codes-and-muslim-headscarves",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/01/1139685828/schools-democracy-misinformation-purple-state",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/30/1089778086/in-florida-and-indiana-republicans-are-trying-to-limit-what-kids-are-taught",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/23/1087238896/ketanji-brown-jackson-hearing-gop-midterm-messaging",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/21/1112699295/how-the-cpi-became-the-most-powerful-messaging-force-in-the-maga-universe",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135469639/democrat-wes-moore-was-elected-governor-in-a-historic-maryland-race",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/23/1088331744/ketanji-brown-jackson-finishes-her-testimony-in-supreme-court-confirmation-heari",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/18/1073871906/go-back-to-where-you-came-from-and-other-helpful-recommendations-from-wajahat-al",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/14/1111624644/school-colors-episode-9-water-under-the-bridge",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/25/1131077739/heres-what-changed-in-dinesh-dsouzas-2-000-mules-book-after-it-was-recalled",
+            "bias": "BLM"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/01/06/jamie-raskins-unthinkable",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/05/1070235674/teachers-capitol-riot-anniversary-lessons-students-schools",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1071060682/how-the-narrative-of-the-jan-6-insurrection-has-changed-in-the-last-year",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1070944740/jan-6-anniversary-one-year-later",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/13/1142572008/military-sexual-assault-prosecution-reform-likely-to-pass-congress",
+            "bias": "BLM"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/05/1115935761/20-years-later-the-wire-still-enthralls",
+            "bias": "BLM"
+        }
+    ],
+    "Year": 2022
+}

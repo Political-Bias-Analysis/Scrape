@@ -1,0 +1,54 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2006/10/19/6344070/democratic-party-embraces-values-debate",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2006/05/21/5420659/nagin-re-elected-as-mayor-of-new-orleans",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2006/07/20/5569907/bush-addresses-naacp-for-first-time-as-president",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2006/12/18/6642868/will-american-voters-elect-a-black-president",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2006/04/19/5351278/political-wrap-white-house-shake-up-new-orleans-votes",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/07/6448062/on-election-day-gauging-hot-button-issues",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/07/6449594/bloggers-weigh-in-on-exit-poll-blackout",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2006/06/16/5489490/soweto-1976-an-audio-history",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2006/03/13/5256345/the-people-have-spoken",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/13/6481337/could-obama-or-clinton-win-the-white-house",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2006/06/23/5502785/evangelical-religious-right-has-distorted-the-faith",
+            "bias": "racial discrimination"
+        }
+    ],
+    "Year": 2006
+}

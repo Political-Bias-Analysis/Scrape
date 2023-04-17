@@ -1,11 +1,30 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "nationalism"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2004/08/10/3843396/giving-non-citizens-the-vote-in-local-elections",
+            "link": "https://www.npr.org/2004/08/10/3843396/giving-non-citizens-the-vote-in-local-elections",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2004/07/01/3084187/is-kerry-trying-hard-enough-to-woo-minorities",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2004/09/07/3894418/refugees-seek-to-vote-in-afghan-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2004/09/13/3915132/whither-national-unity-post-sept-11",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2004/09/10/3911613/folly-of-empire-offers-critique-of-u-s-imperialism",
+            "bias": "nationalism"
         }
     ],
     "Year": 2004

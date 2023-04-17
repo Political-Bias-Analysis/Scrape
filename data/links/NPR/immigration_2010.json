@@ -1,47 +1,283 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "nationalism",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2010/08/05/129007120/republicans-push-to-revise-14th-amendment",
+            "link": "https://www.npr.org/2010/08/05/129007120/republicans-push-to-revise-14th-amendment",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/07/30/128873428/once-again-immigration-is-a-hot-campaign-issue",
+            "link": "https://www.npr.org/2010/07/30/128873428/once-again-immigration-is-a-hot-campaign-issue",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/thetwo-way/2010/07/26/128772646/deportations-higher-under-obama-than-bush",
+            "link": "https://www.npr.org/sections/thetwo-way/2010/07/26/128772646/deportations-higher-under-obama-than-bush",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/07/19/128629792/national-guard-details-plans-for-border-patrol",
+            "link": "https://www.npr.org/2010/07/19/128629792/national-guard-details-plans-for-border-patrol",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/07/14/128508596/the-new-republic-immigration-and-the-democrats",
+            "link": "https://www.npr.org/2010/07/14/128508596/the-new-republic-immigration-and-the-democrats",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/06/09/127596420/u-k-to-test-english-of-marriage-visa-applicants",
+            "link": "https://www.npr.org/2010/06/09/127596420/u-k-to-test-english-of-marriage-visa-applicants",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/thetwo-way/2010/05/by_david_gura_good_morning.html",
+            "link": "https://www.npr.org/sections/thetwo-way/2010/05/by_david_gura_good_morning.html",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/05/04/126490029/policies-not-personalities-dominate-in-rural-u-k",
+            "link": "https://www.npr.org/2010/05/04/126490029/policies-not-personalities-dominate-in-rural-u-k",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/11/27/131627159/politics-and-music-in-wyclef-jean-s-haitian-experience",
+            "link": "https://www.npr.org/2010/11/27/131627159/politics-and-music-in-wyclef-jean-s-haitian-experience",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2010/12/22/132262159/redistricting-rules-from-both-sides-of-the-aisle",
+            "link": "https://www.npr.org/2010/12/22/132262159/redistricting-rules-from-both-sides-of-the-aisle",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/11/03/131030498/california-governor-s-race-shows-limits-of-money",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/10/21/130720705/if-two-people-really-want-to-be-governor-of-california-why-not-let-them",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/10/18/130653470/governor-ratings",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/10/08/130435173/-whore-and-hicky-how-a-poor-choice-of-words-can-cost-you-the-election",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/10/05/130349108/latino-political-sentiment-scary-news-for-gop",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/02/130269189/immigration-advocates-target-gop-in-dream-act-ads",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/23/132288533/2010-in-review-the-year-for-latinos-in-the-u-s",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/talk/2010/12/23/132270781/december-23rd-show",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/23/132259119/Big-Passes-Failures-For-Busy-Lame-Duck-Congress",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/10/131934348/supporters-ponder-next-move-as-dream-act-fades",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/09/30/130243424/meg-whitman-discusses-nanny-gate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/14/129855592/georgia-allowed-to-continue-voter-verification",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/07/12/128461367/the-root-time-for-a-new-civil-rights-movement",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/07/07/128352487/gop-faces-internal-divide-on-changes-to-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2010/07/01/128242093/president-s-speech-reopens-immigration-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2010/05/presidents_obama_calderon_tag.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/04/30/126407156/immigration-overhaul-plan-unveiled-by-democrats",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2010/04/26/126278667/immigration--arizona---america",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/04/23/126218727/ariz-governor-signs-strict-immigration-bill",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/19/124913027/health-care-link-to-immigration-may-hit-dead-end",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/19/124886353/immigration-activists-frustrated-by-pace-of-reform",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2010/02/austin_plane_crash_pilot_suici.html",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/02/09/112931658/how-health-overhaul-would-affect-the-uninsured",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/20/122607699/california-dreaming-governor-to-ask-feds-for-funds",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/17/122569310/are-we-overlooking-the-black-power-behind-obama",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/05/122253404/a-new-census-will-trigger-some-old-battles",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/01/121976009/hispanic-caucus-aims-to-shift-focus-to-immigration",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/27/130152859/todays-tea-party-isnt-quite-like-1773s",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/30/132451735/iran-spat-pits-president-against-supreme-leader",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/08/131166027/hedges-laments-the-death-of-the-liberal-class",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2010/03/23/125065169/seven-years-in-assessing-value-of-iraq-war",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/28/130888323/essence-explores-race-same-gender-love",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/20/129994506/a-piece-of-immigration-debate-returns-to-senate",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/20/132209193/whats-next-after-death-of-the-dream-act",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/12/09/131931604/dream-act-not-quite-dead-yet",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/06/131796206/democrats-push-dream-act-critics-call-it-amnesty",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/09/22/130040225/sen-harry-reid-s-gay-rights-immigration-boomerang",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/28/132055926/double-take-toons-month-by-month-year-in-review",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/23/132279423/the-new-republic-three-cheers-for-the-lame-duck",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/22/132268905/obama-sees-hope-in-end-of-year-flurry-of-wins",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/12/23/132264257/for-obama-democrats-christmas-came-early",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2010/12/22/132263540/coming-up-president-obamas-news-conference",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/20/132195770/Senate-Republicans-Block-Pathway-To-Citizenship",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/12/20/132163478/ending-militarys-gay-ban-lets-obama-fulfill-another-clinton-promise",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2010/12/16/132123061/sen-reid-ends-effort-to-pass-1-1-trillion-spending-bill",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/08/131872778/the-nation-obama-caves-on-tax-cuts",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/11/131252273/congress-braces-for-hectic-lame-duck-session",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/10/19/130668182/national-review-what-lame-duck-dems-wont-do",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/01/01/168479424/excerpt-detroit-city-is-the-place-to-be",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/23/132276783/Obama-Hails-Turbo-Charged-Lame-Duck-Session",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/04/16/126035325/the-lyrics-and-legacy-of-stephen-foster",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/19/132180684/-Dont-Ask-Dont-Tell-And-More-Senate-Action",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/07/131881313/president-to-address-tax-cuts-jobless-benefits",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/12/20/132211804/START-Lurches-To-Finish-In-Lame-Duck-Congress",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2010/11/16/131361367/should-objectivity-still-be-the-standard-in-news",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/talk/2010/10/25/130808597/october-25th-show",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2010/09/29/130216253/op-ed-conservatism-does-not-equal-racism",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2010/08/31/129548344/the-nation-who-is-to-blame-for-sarah-palin",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2010

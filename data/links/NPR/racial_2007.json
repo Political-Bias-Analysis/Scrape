@@ -1,0 +1,98 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2007/05/04/10000175/olmert-defies-growing-clamor-for-resignation",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/01/14059968/documenting-the-duke-rush-to-judgment",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/11/11872998/ex-white-house-official-testifies-on-attorney-firings",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/19/8989574/fallout-from-attorney-firings-lands-on-white-house",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/04/14162000/author-had-rare-access-to-bush-for-dead-certain",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/24/12197844/gonzales-denies-that-he-pressured-ashcroft",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/20/17444623/counting-the-cost-celebrity-endorsements",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/10/17105546/leader-criticizes-obamas-black-experience",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/02/16820401/huckabee-obama-gain-edge-in-iowa-poll",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/02/16816170/democrats-address-minority-issues-each-other",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/09/14779170/christian-volunteers-powered-hunters-first-bid",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/08/13/12731970/rove-to-leave-white-house-at-end-of-august",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/23/5572974/reporters-give-unique-peek-of-white-house",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/12/11921037/obama-on-the-war-race-and-americas-future",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/14/10165847/gop-support-for-bush-iraq-plan-still-eroding",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/04/27/9870438/presidential-hopefuls-target-bush-in-debate",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/29/11596240/democratic-presidential-hopefuls-debate",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/19/14505105/jeffrey-toobin-profiles-the-nine-inside-the-robes",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/28/11525721/what-does-the-courts-decision-mean",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/10/17099257/civil-rights-division-turns-50",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2007/11/30/16780499/obama-discusses-race-issues-in-iowa",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/29/11606329/john-edwards-talks-issues-ann-coulter",
+            "bias": "racial discrimination"
+        }
+    ],
+    "Year": 2007
+}

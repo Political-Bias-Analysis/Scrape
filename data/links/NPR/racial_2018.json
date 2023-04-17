@@ -1,0 +1,552 @@
+{
+    "Biases": [
+        "racial",
+        "white privilege",
+        "racial discrimination",
+        "CRT",
+        "BLM"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2018/11/21/669888683/wednesday-november-21-2018",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/03/662802539/why-democrats-see-opportunity-in-this-key-state-office",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/08/654630833/faith-groups-get-out-the-vote-for-the-midterm-elections",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/31/643702111/best-of-john-oliver-allison-janney-neil-simon",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/28/642582386/john-oliver-neil-simon",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/25/631837729/pakistan-election-begins-amid-allegations-of-intimidation-and-rigging",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/01/582513507/candidates-in-san-francisco-mayoral-race-show-how-much-tech-has-changed-the-city",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/sections/allsongs/2018/01/30/581580349/laura-veirs-announces-new-album-shares-everybody-needs-you-video",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/07/665387670/georgias-governors-race-isnt-settled-yet",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/15/611389696/a-look-at-the-political-rise-of-iraqs-shiite-militias",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/16/586315536/ronan-farrow-on-new-yorker-story-of-trump-affair-with-playboy-model",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/11/666646389/the-cuban-vote-in-florida",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/11/646801428/when-it-comes-to-not-voting-some-americans-want-to-but-face-legal-barriers",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/07/655461839/macarthur-genius-grant-winner-rev-william-j-barber-ii",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/07/665147330/election-analysis-what-were-american-voters-trying-to-tell-us",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/25/580622864/reporter-says-anti-abortion-anti-lgbtq-activists-are-shaping-federal-policy",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/13/628694725/white-people-calling-the-police-on-black-people-is-not-new",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/02/663339356/democrats-promise-investigations-if-they-win-the-house",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/03/653809066/smart-unsentimental-heartland-pays-tribute-to-americas-working-class",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/21/579230705/the-russia-investigations-is-infiltration-the-new-collusion",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/sections/allsongs/2018/01/19/578822264/tune-yards-merrill-garbus-pierces-her-own-privilege",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/17/578524701/russia-probe-rep-schiff-on-bannons-testimony-before-house-panel",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/08/665879511/weekly-roundup-thursday-november-8",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/04/644553271/chicago-mayor-rahm-emanuel-not-seeking-reelection",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/09/600942396/fbi-raids-office-of-trump-attorney-michael-cohen",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/03/590616771/trump-and-the-parameters-of-executive-privilege",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/19/630378107/dncs-tom-perez-on-russia-and-the-midterms",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/09/666038516/michelle-obama-on-trumps-birtherism-and-her-own-story-in-becoming",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/03/607996818/trump-repaid-130-000-given-to-stormy-daniels-giuliana-tells-fox-news",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/21/631089420/reports-cohen-taped-conversation-with-trump-about-paying-mcdougal",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/27/680559437/future-of-womens-march-uncertain-as-tensions-flare-among-movements-leadership",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/03/644355768/kavanaugh-set-to-begin-his-testimony-before-senate-judiciary-committee",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/17/677430387/tennessee-sen-lamar-alexander-a-bipartisan-dealmaker-will-retire-in-2020",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/06/664852948/i-voted-stickers-pile-up-in-emotional-tribute-at-susan-b-anthony-s-grave",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/04/664211404/democrat-vs-republican-concerns-in-pennsylvania",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/02/662112853/democrats-say-house-majority-would-mean-investigative-barrage-not-impeachment",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2018/11/02/417513631/when-boys-cant-be-boys",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/01/663123099/georgias-contentious-battle-over-voting-rights-continues-as-election-day-approac",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/01/663123074/georgias-6th-district-is-changing-fast-but-that-doesn-t-mean-democrats-can-flip-",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/31/662070091/video-nfl-protests-stir-culture-war-for-voters-in-southeastern-texas",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/05/644737042/special-counsel-reportedly-agrees-to-accept-written-answers-from-president",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/04/644679775/kavanaugh-confirmation-hearings-day-one-new-book-details-a-chaotic-white-house",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/29/615614644/don-mcgahn-white-house-lawyer-who-helped-reshape-federal-judiciary-to-step-down",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/19/640077879/trump-reacts-to-report-on-white-house-counsel-cooperation-with-mueller",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/19/640038769/president-trump-attacks-report-on-white-house-counsels-cooperation-with-mueller",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/27/589156299/sen-corker-really-isnt-running-for-re-election-seriously",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/12/676199087/why-it-matters-that-texas-and-california-moved-their-primaries-to-super-tuesday",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/05/644757472/political-shocker-chicago-mayor-rahm-emanuel-wont-seek-re-election",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/03/672733557/remembering-george-h-w-bushs-lighter-sides",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/10/666581265/former-ag-gonzales-calls-whitaker-an-odd-choice-that-further-questions-leadershi",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/07/665331566/what-will-acting-attorney-general-matthew-whitaker-mean-for-the-mueller-inquiry",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/07/539109386/jeff-sessions-out-as-attorney-general-after-steady-drumbeat-of-criticism-from-tr",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/02/663410452/weekly-wrap-processing-pittsburgh-race-and-politics-cardi-vs-nicki",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/20/659032303/nixons-saturday-night-massacre-casts-shadow-as-trump-considers-fate-of-doj-leade",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2018/10/12/voting-rights-voter-suppression-midterms",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2018/09/18/doris-kearns-goodwin-leadership",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/16/648112378/she-thought-her-family-was-middle-class-not-broke-in-the-richest-country-on-eart",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/13/647419146/michael-che-and-colin-jost-on-snl-hosting-the-emmys-and-hating-twitter",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/08/645573100/the-russia-investigations-can-there-be-a-final-answer-on-collusion",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/06/645099204/kavanaughs-confirmation-hearings-whats-wrong-with-this-picture",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/05/645057137/kavanaugh-hearing-day-2-scotus-nominee-defends-dissents-on-abortion-gun-control",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/01/643995032/john-mccain-honored-by-obama-bush-others-at-washington-funeral",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/22/640795902/michael-cohens-lawyer-says-hed-never-accept-a-pardon-from-president-trump",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/11/637285260/the-russia-investigations-is-robert-mueller-stumbling-into-time-trouble",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/09/637322914/weekly-roundup-thursday-august-9",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/25/632429088/cohen-leaks-secret-recording-of-trump-new-npr-poll-after-trump-putin-summit",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/18/630003362/alabamas-gop-rep-martha-roby-wins-primary-runoff",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/29/624607771/who-gets-power-and-why-it-can-corrupt-even-the-best-of-us",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/15/620135227/the-huge-justice-department-ig-report-is-out-what-comes-next",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/05/616860966/what-you-need-to-know-about-the-coming-showdown-between-trump-and-mueller",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/31/615957038/weekly-roundup-thursday-may-31",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/29/615252505/the-supreme-court-rejects-planned-parenthood-case-president-trump-threatens-new-",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/15/611403472/one-year-of-robert-mueller-as-special-counsel",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/08/609582613/trump-attorney-cohen-may-have-received-russian-payments-new-document-alleges",
+            "bias": "white privilege"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2018/05/07/washington-week-ahead-2",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/05/608606052/get-caught-up-on-donald-trumps-complex-web-of-legal-challenges",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/05/608515804/the-russia-investigations-will-trump-give-mueller-the-stiff-arm",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/04/608583004/how-all-of-president-trumps-legal-teams-interact",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/04/608433490/trump-switches-up-presidential-legal-team",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/03/608337305/weekly-roundup-thursday-may-3",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/10/601386386/zuckerberg-faces-congress-and-fbi-raids-properties-of-trump-lawyer",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/10/601106243/amid-crisis-abroad-and-tension-at-home-trump-cancels-trip-to-latin-america",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/05/590881966/-shes-shrill-but-hes-just-being-a-boss-the-double-bind-for-women-in-leadership",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/26/588719252/what-you-need-to-know-about-russia-memo-mania-minority-report-edition",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/21/136224476/americas-pastor-billy-graham-dies-at-99",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/31/584353948/trump-stories-collusion",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/01/23/579618673/-metoo-in-politics-then-and-now",
+            "bias": "white privilege"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/03/663937578/judge-rules-against-georgia-election-law-calling-it-a-severe-burden-for-voters",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/29/661727605/jimmy-carter-calls-for-georgia-secretary-of-states-resignation-in-personal-plea",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/14/648016277/census-citizenship-question-trial-could-start-day-before-midterm-elections",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/13/646314446/election-laws-may-discourage-some-from-voting-even-if-they-are-allowed",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/03/643686397/rise-of-lgbtq-candidates-could-usher-in-a-rainbow-wave-in-2018",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/25/623327469/divided-supreme-court-upholds-nearly-all-of-texas-gop-redistricting-plan",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/28/597750686/frustration-seems-to-reign-as-justices-hear-case-challenging-extreme-gerrymander",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/28/596220408/extreme-partisan-gerrymandering-the-supreme-courts-play-in-3-acts",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/12/13/676333342/southern-baptist-seminary-confronts-history-of-slaveholding-and-deep-racism",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/22/656168504/supreme-court-blocks-commerce-secretary-questioning-in-census-lawsuits-for-now",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/13/656979284/new-findings-on-school-shootings-hurricane-shuts-classrooms-and-midterm-ballots-",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/09/653513962/appeals-court-sets-up-supreme-court-showdown-over-census-question",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/03/653708297/census-bureau-director-nominee-faces-questions-at-senate-hearing",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/02/653570004/good-and-mad-examines-how-anger-can-be-perilous-for-women",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/27/623943443/a-brief-history-of-anthony-kennedys-swing-vote-and-the-landmark-cases-it-swayed",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/10/618567462/documents-shed-light-on-decision-to-add-census-citizenship-question",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/20/612554090/the-war-over-confirming-federal-judges-is-heating-up-again",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/05/08/609548162/lawmakers-to-subpoena-doj-official-over-census-citizenship-question",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/01/607181437/on-fire-for-gods-work-how-scott-pruitts-faith-drives-his-politics",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/04/02/598796118/winnie-madikizela-mandela-anti-apartheid-activist-dies-at-81",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/03/10/591758259/the-zombie-amendments-to-the-constitution-youve-probably-never-heard-of",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/10/609650269/democrats-embrace-guaranteed-jobs-proposal",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/11/28/671675721/stacey-abrams-allies-suing-georgia-over-how-governor-s-race-was-run",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/22/640876704/actor-andr-holland-explores-where-i-fit-how-i-fit-if-i-fit",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/03/625746857/latest-on-census-lawsuits-in-court",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/09/05/643298219/a-medical-school-tradition-comes-under-fire-for-racism",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/06/30/624918050/justice-kennedy-may-soon-find-himself-disappointed-and-his-legacy-undermined",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/18/611783940/50-states-and-no-black-governors-but-that-could-change-in-2018",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/04/11/601097019/how-lgbt-advocates-scored-a-surprising-victory-in-alaska",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/02/27/589351779/report-updates-landmark-1968-racism-study-finds-more-poverty-more-segregation",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://the1a.org/shows/2018-11-29/school-segregation-texas-tribune",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/25/660375278/finding-common-good-among-evangelicals-in-the-political-season",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2018/10/16/656900971/npr-poll-rural-americans-are-worried-about-addiction-and-jobs-but-remain-optimis",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/10/645594393/low-iq-spectacular-dog-how-trump-tweets-about-african-americans",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/09/06/645007033/watch-live-kavanaugh-defends-judicial-record-as-dems-focus-on-hot-button-issues",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/08/21/640385902/remembrance-of-scandals-past-trump-cues-up-memories-of-john-dean-and-joseph-mcca",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/07/13/627651246/i-know-how-far-i-can-go-black-entrepreneurs-overcome-challenges-in-brazil",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/06/03/616591350/from-travel-ban-to-political-pins-pending-decisions-from-the-supreme-court",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/npr-extra/2018/05/24/613030390/q-a-national-correspondent-leila-fadel-discusses-muslims-in-america-a-new-genera",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/05/12/610655737/in-a-one-two-punch-oklahoma-governor-angers-lgbtq-and-guns-rights-activists",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/2018/05/08/609091985/likely-2020-democratic-candidates-want-to-guarantee-a-job-to-every-american",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2018/05/04/605531828/what-the-kanye-controversy-can-teach-us-about-black-voters",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2018/04/28/606561393/for-colored-boys-whove-considered-career-suicide-when-good-music-wasn-t-enough",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2018/04/11/599590470/mark-zuckerberg-is-back-before-congress-for-a-second-day-of-testimony",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/ed/2018/04/10/596114118/californias-higher-ed-diversity-problem",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2018/03/13/biases-racism-sexism-psychology",
+            "bias": "racial discrimination"
+        },
+        {
+            "link": "https://www.npr.org/sections/13.7/2018/03/27/597263367/the-psychology-of-fake-news",
+            "bias": "CRT"
+        },
+        {
+            "link": "https://www.npr.org/2018/10/15/657542759/critic-of-federal-public-lands-management-to-join-department-of-the-interior",
+            "bias": "BLM"
+        }
+    ],
+    "Year": 2018
+}

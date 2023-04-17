@@ -1,0 +1,692 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2019/08/20/us/five-things-august-20-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/17/us/five-things-july-17-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/30/us/five-things-may-30-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/14/politics/us-britain-politics-boris-johnson-donald-trump-labour-party-democrats-election-2020/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/03/politics/brian-kemp-kelly-loeffler-senate-johnny-isakson-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/02/politics/georgia-senator-brian-kemp-donald-trump-doug-collins-kelly-loeffler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/20/politics/georgia-democrats-2020-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/bloomberg-everytown-for-gun-safety-virginia-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/04/politics/trump-mentioning-barack-obama/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/12/politics/louisiana-governor-primary-analysis-preview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/09/politics/planned-parenthood-2020-electoral-program/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/02/politics/pence-ukraine-anxiety-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/01/politics/supreme-court-abortion-cases/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/26/politics/vermont-phil-scott-supports-impeachment-inquiry/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/26/politics/hillary-clinton-cbs-sunday-morning-interview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/20/politics/bill-de-blasio-ends-presidential-campaign/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/19/politics/facebook-mark-zuckerberg-washington-election-security-data-privacy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/18/politics/ocasio-cortez-primary-challenger-endorsement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/16/politics/brett-kavanaugh-donald-trump-supreme-court-democrats-2020-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/19/politics/trump-google-manipulated-votes-claim/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/14/politics/steve-king-rape-incest-comments/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/17/politics/amash-support-sanford-trump-primary-challenge/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/john-paul-stevens-dead/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/elizabeth-warren-2nd-quarter-fundraising-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/22/politics/abortion-laws-blue-state-red-state-divide/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/17/politics/supreme-court-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/13/politics/joe-biden-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/12/politics/donald-trump-joe-biden-election-2020/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/joe-biden-hyde-amendment-reversal-iowa/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/iowa-donald-trump-joe-biden-election-2020/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/joe-biden-iowa-front-runner-2020-campaign/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/10/politics/cnn-iowa-2020-poll-top-issues-candidate-traits/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/06/politics/cnn-poll-abortion-importance-growing/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/03/politics/kirsten-gillibrand-fox-news-town-hall-2020-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/31/politics/democrats-supreme-court-packing-politics/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/28/politics/mitch-mcconnell-supreme-court-2020/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/28/politics/thomas-ginsburg-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/26/politics/2020-campaign-lookahead/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/22/politics/2020-blue-red-state-abortion-politics/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/19/politics/2020-race-lookahead/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/19/politics/house-primary-battle-new-york/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/15/politics/bill-de-blasio-2020-presidential-announcement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/16/politics/alabama-abortion-law-whats-next/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/15/politics/alabama-abortion-law-roe-v-wade/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/14/politics/georgia-brian-kemp-los-angeles-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/03/politics/brett-kavanaugh-christine-blasey-ford-stephen-moore-supreme-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/30/politics/bernie-sanders-2020-pushback-democratic-rivals/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/25/politics/warren-sanders-biden/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/25/politics/religion-and-hypocrisy-are-clashing-with-sexuality-in-2020/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/16/politics/michele-bachman-donald-trump-bible-religious/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/29/politics/supreme-court-abortion-indiana/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/20/politics/sandra-day-oconnor-supreme-court-evan-thomas-book/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/12/politics/donald-trump-press-briefing-sarah-sanders/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/04/politics/donald-trump-cpac-speech/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/14/politics/2020-rankings-democrats-february/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/12/politics/trump-green-new-deal-socialism/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/22/politics/supreme-court-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/28/opinions/richard-jewell-fbi-confirmation-bias-gagliano/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/12/opinions/cory-booker-democratic-debate-alexander/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/13/opinions/alyssa-milano-ted-cruz-meeting-guns-milano/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/19/opinions/why-alyssa-milano-and-lindsey-graham-trended-opinion-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/23/opinions/joe-biden-worry-democrats-not-republicans-zelizer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/18/opinions/dnc-june-debates-what-women-want-cohen/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/opinions/for-front-runner-biden-bad-week-or-ominous-omen-axelrod/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/06/opinions/biden-hyde-amendment-se-cupp/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/02/opinions/virginia-beach-mueller-opinion-weekly-column-carr/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/26/opinions/donald-trump-stable-genius-opinion-weekly-column-wiedenkeller/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/02/opinions/buttigieg-and-religion-qa-beck/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/25/opinions/title-x-domestic-gag-rule-campoamor/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/13/opinions/planned-parenthood-abortion-access-wen/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/03/opinions/women-in-power-opinion-gergen-piltch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/29/us/curt-flood-mlb-free-agency-trnd/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/30/us/white-supremacist-woman-reeve/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/26/us/five-things-august-26-trnd/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/23/us/five-things-july-23/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/sixth-democratic-debate-fact-check/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/20/politics/impeachment-watch-december-19/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/19/politics/donald-trump-michigan-rally-impeachment/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/16/politics/carly-fiorina-vital-trump-impeach/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/23/politics/impeachment-watch-november-22/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-hearing-11-21-19/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/20/politics/gordon-sondland-opening-remarks-impeachment-hearing/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-hearing-11-15-19/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/07/politics/roger-stone-trial-phone-calls-house-intelligence-committee/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/13/politics/who-are-dan-goldman-steve-castor-impeachment-lawyers/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/12/politics/impeachment-hearings-what-to-watch/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-12-2019/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/11/politics/anonymous-donald-trump-white-house/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/08/politics/donald-trump-press-conference/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/donald-trump-impeachment-public-hearings/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/04/politics/donald-trump-impeachment-democrats-witnesses-republicans-hearings/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/30/politics/bill-taylor-willing-testify-publicly/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/30/politics/fact-check-trump-96-false-claims-ukraine/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/24/politics/gop-sharpens-impeachment-defense/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/19/politics/francis-rooney-retirement-impeachment/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/16/politics/gordon-sondland-ambassador-center-impeachment-probe/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/04/politics/donald-trump-ukraine-china-calls/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/30/politics/elizabeth-warren-bruce-mann-cnntv/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/27/politics/donald-trump-impeachment-democrats-nancy-pelosi/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-inquiry-09-25-2019/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-ukraine-09-24-2019/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/27/politics/donald-trump-france-2020-pitch/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/11/politics/david-friedman-us-israel-west-bank/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/13/politics/carol-miller-republican-women-barrier-breakers/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/17/politics/pennsylvania-suburbs-swing-voters-battleground/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/16/politics/ilhan-omar-fundraising-haul-congress/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/25/politics/donald-trump-benjamin-netanyahu/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/22/politics/roger-stone-michael-cohen-paul-manafort-trump-broken/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/15/politics/paul-manafort-mueller-motive-analysis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/13/politics/paul-manafort-donald-trump-russia-probe/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/02/politics/mitt-romney-donald-trump-2020/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/24/opinions/feel-bad-politics-and-feel-good-movies-opinion-column/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/opinions/live-news/impeachment-hearing-commentary-11-13-19/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/12/opinions/trump-suburbs-nearly-gone-for-gop-dent/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/22/opinions/canada-election-bociurkiw/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/10/opinions/2020-election-importance-lgbtq-david/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/28/opinions/israel-iran-tension-escalate-opinion-miller/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/29/opinions/if-we-had-a-normal-us-president-russia-china-ghitis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/17/opinions/hong-kong-extradition-law-protests-china-enemy-ghitis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/17/opinions/what-trump-is-good-at-dantonio/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/05/24/opinions/kamau-bell-united-shades-america-washington-dc/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/22/opinions/washington-dc-marches-national-divisions-maltby/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/11/us/five-things-november-11-trnd/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/10/politics/donald-trump-impeachment/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/04/politics/brian-kemp-kelly-loeffler-senate/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/30/politics/donald-trump-impeachment-inquiry-strategy/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/27/politics/impeachment-watch-thanksgiving-dinner/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/25/politics/republicans-trump-impeachment-conspiracies/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-24-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-23-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-22-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/13/politics/trump-impeachment-hearing-today/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-08-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/06/politics/impeachment-watch-november-6/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-11-01-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/31/politics/impeachment-watch-october-30/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-30-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-27-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/27/politics/fact-check-bill-taylor-never-trumper/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/18/politics/ukraine-depositions-what-we-know/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/17/politics/sondland-deposition-impeachment-inquiry/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/impeachment-inquiry-10-17-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/09/politics/donald-trump-democrats-impeachment-nancy-pelosi/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/08/politics/gordon-sondland-house-impeachment/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-inquiry-10-03-2019/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/25/politics/donald-trump-nancy-pelosi-impeachment/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/24/politics/donald-trump-nancy-pelosi-impeachment-ukraine/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/23/politics/ukraine-donald-trump-joe-biden-impeachment/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/09/politics/boris-johnson-britain-brexit/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/09/07/politics/new-hampshire-state-of-play/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/08/29/politics/johnny-isakson-resignation-feeding-frenzy-georgia-republicans/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/16/politics/2020-field-alexandria-ocasio-cortez-and-other-takeaways/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/06/25/politics/jan-meyers-dies-at-90/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/14/politics/trump-campaign-first-quarter/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/02/07/politics/lea-gabrielle-gec-state/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/31/politics/donald-trump-daily-caller-interview/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/12/20/opinions/december-democratic-debate-opinion-graham/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/03/opinions/steve-bullock-end-permanent-campaign-opinion/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/10/opinions/boris-johnson-uk-version-trump-maltby/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/09/opinions/democrats-should-restore-capitalisms-promise-delaney/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/19/opinions/the-terrible-twos-of-the-trump-presidency-a-cautionary-tale-balcerski/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2019/10/26/politics/badass-women-citizen-democratic-campaign-operatives/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-democrats-south-carolina-june-2019/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/29/politics/supermajority-women-activism-political-action-group/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/11/politics/kirsten-gillibrand-iowa/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2019/03/07/opinions/trump-must-be-dancing-the-dougie-at-sherrod-brown-news-begala/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/24/politics/michael-bloomberg-2020-election/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2019/11/05/politics/virginia-election-democrats-control/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2019/01/10/politics/bernie-sanders-apologizes-again-for-sexual-mistreatment-on-2016-campaign/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2019/07/11/opinions/medicare-for-all-political-loser-lockhart/index.html",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2019
+}

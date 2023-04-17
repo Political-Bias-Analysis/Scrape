@@ -1,0 +1,1980 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "pro-choice",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2022/11/08/us/2022-in-review-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/us/five-things-november-9-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/08/us/five-things-november-8-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/26/us/five-things-october-26-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/us/five-things-october-25-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/us/university-of-florida-president-ben-sasse/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2013/05/30/us/rudy-giuliani-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/21/us/dennis-kucinich-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/18/us/five-things-september-18-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/02/us/five-things-september-2-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/05/28/us/carly-fiorina-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/21/us/five-things-august-21-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/05/us/five-things-august-5-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/03/us/five-things-august-3-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/27/us/five-things-july-27-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/12/us/five-things-july-12-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/29/us/district-attorneys-abortion-prosecutions-invs/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/us/supreme-court-overturns-roe-v-wade-sunday/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/us/five-things-june-26-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/us/women-of-color-roe-wade-decision/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/13/us/abortion-rights-access-states-roe-v-wade/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/04/us/andy-stanley-evangelicals-book-blake-cec/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/08/us/five-things-may-8-trnd/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/29/politics/arizona-mayes-hamadeh-recount-attorney-general/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/20/politics/mclellan-morrissey-virginia-4th-district-congress/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/independent-state-legislature-theory-scotus-arguments-12-07-22/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/07/politics/trump-supreme-court-influence-moore-harper/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/05/politics/georgia-senate-runoff-final-push/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/06/politics/trump-legacy-independents-red-wave-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/02/politics/jamal-simmons-leaving-kamala-harris-office/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/01/politics/obama-georgia-senate-runoff/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/politics/tammy-baldwin-same-sex-marriage/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/politics/respect-for-marriage-act-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/26/politics/georgia-runoff-early-voting-starts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/23/politics/peltola-palin-alaska-election-results/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/22/politics/2022-preview-2024-presidential-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/18/politics/georgia-runoff-get-out-the-vote/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/16/politics/democrats-donald-trump-2024-president-reaction/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/14/us/mike-pence-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/14/politics/republican-reaction-losing-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/politics/house-senate-republicans-leadership-fight/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/election-results-congress-senate-house-11-13-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/14/politics/abortion-midterm-voters-politics-democrats-republicans-fault-lines/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/politics/democrats-biden-midterm-elections-senate-house/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/politics/midterm-elections-what-to-know-house-senate-control/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/12/politics/democrats-keep-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/12/politics/catherine-cortez-masto-nevada-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/politics/joe-lombardo-steve-sisolak-nevada-governor-result/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/politics/tina-kotek-christine-drazan-oregon-governor-race-result/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/10/politics/republican-reaction-midterm-results/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/ron-desantis-2024-president-trump-florida/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/biden-news-conference-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/abortion-rights-2022-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/joe-biden-midterm-election-night/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/midterm-election-exit-polls-independent-vote/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/kathy-hochul-governor-midterm-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/08/politics/midterm-election-results-recap/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/08/politics/ron-desantis-charlie-crist-florida-governor-results/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/28/politics/midterm-elections-gop-us-house-races/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/05/politics/2022-midterm-elections-abortion-ballot-measures/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/04/politics/2022-governors-elections-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/08/politics/joe-biden-midterms-stakes/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/06/politics/sean-patrick-maloney-ny-democrats-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/07/politics/democrats-nightmare-scenario-election-eve-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/06/politics/kamala-harris-midterms-closing/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/06/politics/voter-voices-essay-campaign-trail-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/05/politics/jill-biden-midterm-campaigns/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/05/politics/three-acts-midterm-elections-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/biden-democracy-speech-midterms-issues/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/midterm-election-importance-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/joe-biden-plea-for-democracy-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/hillary-clinton-new-york-governor-hochul-2022-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/georgia-senate-race-2022-midterms-warnock-walker/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/democrats-losing-bet-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/midterm-election-undecided-voters-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/midterm-elections-closing-messages-wisconsin-pennsylvania/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/cnn-poll-democrats-midterm-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/obama-nevada-senate-race-cortez-masto/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/politics/joe-biden-florida-midterm-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/politics/black-men-polling-herschel-walker-reaj/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/30/politics/georgia-governors-debate-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/31/politics/republican-optimism-closing-week-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/30/politics/midterm-election-early-absentee-voting-ballots-cast/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/29/politics/midterm-elections-women-swing-voters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/29/politics/us-midterm-elections-explainer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/28/politics/obama-campaign-trail-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/28/politics/tom-malinowski-reelection-kean/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/27/politics/schumer-georgia-pennsylvania-democrats-senate-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/28/politics/biden-blue-states-midterm-election-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/27/politics/senate-race-surprises-pennsylvania-georgia-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/27/politics/bolduc-hassan-new-hampshire-senate-debate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/27/politics/kfile-tudor-dixon-conspiracy-democrats-topple-america/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/27/politics/herschel-walker-abortion-allegation-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/26/politics/john-fetterman-oz-debate-pa-senate-stroke/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/26/politics/herschel-walker-abortion-allegation-jane-doe-1993/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/politics/hochul-zeldin-ny-governor-debate-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/politics/whitmer-dixon-debate-michigan-governor-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/politics/secretary-of-state-races-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/politics/joe-biden-midterm-elections-democratic-party/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/25/politics/joe-biden-economy-2022-midterms-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/midterms-economy-polls-pennsylvania-wisconsin-michigan/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/white-house-biden-campaign-strategy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/cnn-poll-senate-races-wisconsin-pennsylvania/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/cnn-poll-governor-races/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/suburbs-key-to-gop-house-majority-nevada/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/florida-governor-debate-preview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/republican-momentum-15-days-to-go-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/politics/donald-trump-circus-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/23/politics/congress-lame-duck-session-agenda/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/21/politics/covid-19-vaccines-children-cdc-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/22/politics/kfile-mystery-robocall-targets-democrats-abortion-rights/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/21/politics/obama-ads-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/21/politics/raphael-warnock-herschel-walker-abortion-allegation-ad/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/20/politics/warnock-ad-walker-abortion-allegations/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/19/politics/trump-super-pac-spending/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/19/politics/herschel-walker-abortion-opposition/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/19/politics/biden-abortion-gas-prices-gop-momentum-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/18/politics/florida-senate-debate-preview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/18/politics/georgia-first-day-early-voting-record-turnout-long-lines/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/utah-senate-debate-takeaways-evan-mcmullin-mike-lee/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/herschel-walker-woman-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/16/politics/senate-democrats-fundraising-republicans-advertising-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/16/politics/kari-lake-arizona-election-katie-hobbs-cnntv/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/15/politics/joe-biden-abortion-rights-democrats-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/14/politics/georgia-senate-debate-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/14/politics/kemp-warnock-split-ticket/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/13/politics/michigan-governor-debate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/13/politics/midterms-january-6-hearing-inflation-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/13/politics/wisconsin-senate-race-crime-debate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/12/politics/herschel-walker-mitch-mcconnell-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/mitch-mcconnell-interview-midterm-cliffhanger/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/crime-republican-messaging/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/alabama-sen-tuberville-racism-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/fact-check-herschel-walker-claims-warnock-police-military-fbi-transgender/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/republicans-campaign-for-herschel-walker-georgia-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/10/politics/herschel-walker-ga-senate-trump-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/10/politics/lee-zeldin-shooting-new-york-crime/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/10/politics/midterm-outlook-huge-consequences-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/09/politics/arizona-trump-rally-2022-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/08/politics/florida-democrats-hurricane-desantis-crist-demings/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/07/politics/herschel-walker-taylor-crowe-georgia-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/06/politics/herschel-walker-georgia-senate-republicans-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/06/politics/cnn-poll-arizona-nevada-senate-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/05/politics/herschel-walker-georgia-senate-what-comes-next/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/05/politics/women-governors-candidates-record-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/04/politics/wisconsin-democrats-abortion-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/03/politics/senate-race-rankings-october-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/04/politics/republicans-lead-midterms-qualified-enten/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/02/politics/nevada-governors-debate-lomardo-sisolak/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/02/politics/luria-kiggans-virginia-2nd-district-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/01/politics/tudor-dixon-michigan-governor-race/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/28/politics/pennsylvania-governor-race-mastriano-republican/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/27/politics/pennsylvania-governors-race-josh-shapiro-fundraising/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/23/politics/arizona-senate-rating-change/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/21/politics/wisconsin-special-session-october-abortion-ban/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/21/politics/2022-midterm-election-primary-turnout/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/20/politics/doug-ducey-donald-trump-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/20/politics/donald-trump-polling-unpopular/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/20/politics/abortion-georgia-governors-race-abrams-kemp/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/18/politics/economy-midterm-elections-same-sex-marriage/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/15/politics/don-bolduc-election-denial-change/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/california-abortion-gavin-newsom/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/15/politics/railroad-strike-talks-biden-economic-disaster/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/lindsey-graham-abortion-ban-theory/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/14/politics/midterm-primaries-2022-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/senate-midterm-landscape-new-hampshire-republican-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/14/politics/biden-victory-lap-inflation-fears-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/new-laws-protect-election-workers-ctzn/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/11/politics/vaping-politics-polling-new-hampshire-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/10/politics/kamala-harris-republicans-abortion-dnc/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/09/politics/south-carolina-senate-near-total-abortion-ban-bill-fails/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/08/politics/michigan-supreme-court-abortion-ballot-initiative/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/08/politics/senate-democrats-midterm-election-forecast/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/07/politics/new-hampshire-senate-republican-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2013/08/06/us/mike-huckabee-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/07/politics/democrats-abortion-ads-midterm-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/state-abortion-bans-democrats-invs/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/poll-worker-shortages-ctzn/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/midterm-landscape-2022-unsettled/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/trump-biden-battle-redefines-2022-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/the-big-five-states-trump-biden-2024-fault-lines/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/senate-race-rankings-september-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/04/politics/tiffany-smiley-senate-washington-abortion-law-cnntv/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/04/politics/gretchen-whitmer-tudor-dixon-abortion-michigan/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/02/politics/biden-trump-threat-to-democracy-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/01/politics/pennsylvania-senate-race-oz-fetterman-health/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/politics/michigan-abortion-ballot-proposal/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/01/politics/alaska-sarah-palin-loss-republicans-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/politics/alaska-house-seat-ranked-choice-ballots/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/politics/mary-peltola-alaska-house-special-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/politics/biden-trump-law-and-order-pennsylvania-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/31/politics/colorado-senate-race-gop-leaders/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/30/politics/trump-allies-biden-midterm-election-heat-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/29/politics/republicans-shift-abortion-positions-general-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/29/politics/republicans-trump-mar-a-lago-affidavit-doj/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/28/politics/kevin-mccarthy-house-gop-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/26/politics/doug-mastriano-confederate-uniform/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/26/politics/blake-masters-abortion-arizona-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/25/politics/joe-biden-midterm-speech-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/25/politics/midterm-2022-kyle-kondik-interview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/25/politics/senate-candidate-abortion-ad-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/24/politics/primaries-election-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/24/politics/august-primary-elections-lessons/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/24/politics/abortion-politics-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/24/politics/special-elections-democrats-abortion-roe/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/politics/florida-new-york-oklahoma-election-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/politics/charlie-crist-florida-primary-ron-desantis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/politics/follow-tuesday-primary-election-august-23/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/politics/primary-election-august-23-what-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/politics/aug-23-house-primary-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/22/politics/florida-democratic-governor-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/22/politics/new-york-19th-district-special-election-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/18/politics/january-6-sarah-longwell-interview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/18/politics/republican-senate-candidates-mcconnell-map/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/18/politics/economy-electric-vehicles-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/17/politics/florida-state-attorney-challenge-suspension-desantis-cnntv/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/16/politics/wyoming-alaska-primary-election-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/16/politics/what-to-watch-wyoming-alaska/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/14/politics/liz-cheney-wyoming-primary-polling/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/12/politics/fbi-threats-maralago-trump-search/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/10/politics/democrats-senate-battlefield-hope/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/09/politics/primary-election-results-wisconsin-vermont-minnesota-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/08/politics/vermont-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/07/politics/stephen-breyer-optimist/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/07/politics/donald-trump-republican-primary-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/05/politics/indiana-state-house-abortion-bill/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/06/politics/redistricting-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/05/politics/democrats-abortion-issue-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/03/politics/democrats-republicans-abortion-elections-kansas/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/03/politics/kansas-ballot-abortion-amendment/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/03/politics/kansas-abortion-midterm-election-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/election-threats-workers/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/03/politics/kansas-abortion-amendment-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/primary-election-results-arizona-michigan-missouri-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/arizona-michigan-missouri-primary-election-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/democrats-right-wing-midterm-gamble-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/follow-tuesday-primary-election-august-2/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/primary-election-august-10-what-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/kansas-constitutional-amendment-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/kamala-harris-abortion-rights/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/31/politics/100-days-midterms-house/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/29/politics/sarah-godlewski-wisconsin-democratic-senate-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/26/politics/peter-meijer-impeachment-vote-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/25/politics/indiana-legislature-abortion-ban/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/22/politics/marriage-equality-congress-evolution/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/20/politics/mike-pence-washington-visit-capitol-hill/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/16/politics/top-issue-polls-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/14/politics/kfile-kari-lake-support-transgender-youth/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/12/politics/biden-trump-polling-2024-race-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/12/politics/democrats-prevent-red-wave-midterm-elections-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/09/politics/senate-race-rankings-july-elections/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/10/politics/democrats-polls-abortion-biden-boris-johnson/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/05/politics/independent-state-legislature-theory-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/03/politics/kfile-kristina-karamo-abortion-child-sacrifice/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/01/politics/abortion-republicans-company-benefits/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/01/politics/michigan-abortion-political-fight/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/30/politics/ron-desantis-abortion-florida/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/30/politics/trump-republicans-2024-january-6-revelations/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/29/politics/primary-midterm-elections-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-illinois-colorado-ny-2022/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/illinois-colorado-utah-ny-primary-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/29/politics/illinois-colorado-utah-ny-election-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/ginni-thomas-lawyer-january-6-committee/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/abortion-supreme-court-divided-nation-breaking-point/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/follow-tuesday-primary-election-june-28/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/colorado-secretary-of-state-race-ctzn/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/28/politics/illinois-colorado-ny-june-28-primary-preview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/california-state-constitution-womens-reproductive-rights/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/kamala-harris-dana-bash-cnntv/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/illinois-7-district-democratic-primary-kina-collins-danny-davis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/roe-v-wade-limit-democratic-losses/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/susan-collins-jake-tapper-abortion-roe/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/27/politics/americas-new-reality-abortion-political-divides/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/politics/midterm-elections-democrats/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/politics/scotus-unpopular-roe-v-wade/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/25/politics/fact-check-super-pac-lauren-boebert-escort-abortion-sugar-daddy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/24/politics/trump-roe-wade-abortion-overturned-legacy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/24/politics/americans-roe-v-wade-polling/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/10/politics/2022-house-primaries-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/20/politics/biden-inflation-recession-gas-prices-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/17/politics/roe-v-wade-history-timeline-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/13/politics/nevada-gop-senate-primary-laxalt-masto/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/11/politics/alaska-special-primary-election-preview/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/09/politics/law-enforcement-security-washington-threat-warning/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/08/politics/recount-pennsylvania-senate-gop-primary-oz-mccormick/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/07/politics/follow-tuesday-primary-election-june-7/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/07/politics/dhs-bulletin-threats-election-misinformation-supreme-court-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/06/politics/june-7-california-primary-elections-house/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/03/politics/dave-mccormick-concedes-mehmet-oz-pennsylvania-senate-republican-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/30/politics/senate-house-primaries-2022-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/politics/gun-control-violence-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/politics/pennsylvania-senate-recount-dr-oz-mccormick/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/politics/supreme-court-approval-rating-drop-roe-leak/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/politics/georgia-arkansas-alabama-primary-takeaways/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/sarah-huckabee-sanders-arkansas-governor-gop-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/georgia-alabama-primary-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/23/politics/kemp-perdue-abrams-georgia-governor/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/21/politics/republicans-women-voters-midterms-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/20/politics/clarence-thomas-john-roberts-supreme-court-roe-wade/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/19/politics/trump-endorsement-risk-pennsylvania/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/17/politics/doug-mastriano-pennsylvania-republican-governor-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/17/politics/may-17-house-primary-races/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/17/politics/primary-elections-may-17-what-to-watch/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/17/politics/pennsylvania-primaries-2022-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/14/politics/doug-mastriano-pennsylvania-governor-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/13/politics/desantis-appoints-cord-byrd-secretary-of-state-elections-florida/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/11/politics/trump-dr-oz-kathy-barnette-pa-gop-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/10/politics/supreme-court-abortion-politics-mcconnell/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/08/politics/kirsten-gillibrand-abortion-rights-supreme-court-cnntv/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/06/politics/chief-justice-john-roberts-lost-the-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/08/politics/biden-democrats-midterm-elections-new-strategy/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/07/politics/republicans-midterms-roe-v-wade/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/07/politics/abortion-roe-reversal-prosecution-discretion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/06/politics/trump-perdue-ga-gop-governor-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/05/politics/democrats-midterm-issues-inflation-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/05/politics/biden-economy-midterms-poll-blame/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/politics/republicans-roe-v-wade-abortion-leak-real-issue/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/politics/supreme-court-abortion-midterms-governors-state-races/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/scotus-abortion-rights-reactions/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/roe-v-wade-conservatives-alito-opinion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/02/politics/roe-v-wade-supreme-court/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/supreme-court-roe-v-wade-midterm-election/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/02/politics/senate-democrats-filibuster-abortion-rights/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/abortion-politics-analysis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/donald-trump-2024-republican-primaries/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/02/politics/mike-dewine-ohio-gop-governor-race/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/02/politics/donald-trump-republican-primaries-midterms/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2015/08/25/us/john-kasich-fast-facts/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/25/politics/pennsylvania-republican-senate-debate-2020-election-trump/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/23/politics/former-senator-orrin-hatch-dies/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/21/politics/john-fetterman-pennsylvania-democrats-senate/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/19/politics/abortion-laws-red-states-republicans/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/13/politics/andrew-cuomo-new-york-2022-democrats/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/08/politics/supreme-court-generation-x-jackson/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/31/politics/mike-pence-republican-agenda-2024/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/24/politics/political-issues-2022-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/23/politics/ketanji-brown-jackson-hearing-gop-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/09/politics/trump-ohio-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/03/politics/supreme-court-kentucky-abortion/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/25/politics/supreme-court-ketanji-brown-jackson/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/politics/supreme-court-confirmation-process/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/24/politics/texas-2022-election-down-ballot-races/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/14/politics/voting-rights-texas-election-what-matters/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/14/politics/bernie-sanders-jessica-cisneros-henry-cuellar-texas-primary/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/10/politics/supreme-court-justices-opinions/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/09/politics/pence-trump-rebuke-response/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/07/politics/trump-republican-party-politics-of-violence/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/03/politics/senate-race-rankings-february/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/27/politics/elections-senate-midterms-breyer-departure/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/27/politics/joe-biden-supreme-court-nominee-fight/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/scotus-stephen-breyer-retirement/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/politics/stephen-breyer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/politics/breyer-scotus-retirement-biden-liberal/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2021/10/14/politics/stephen-breyer-cnn-interview-supreme-court-georgetown-law/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/25/politics/roe-v-wade-abortion-rights-states-gop/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/21/politics/march-for-life-supreme-court-roe/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/18/politics/democrats-republicans-supreme-court-states-congress-white-house/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/11/politics/ron-desantis-state-of-the-state/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/opinions/herschel-walker-georgia-senate-runoff-challenge-ghitis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/27/opinions/three-things-george-washington-gave-thanks-opinion-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/22/opinions/supreme-court-hobby-lobby-ruling-report-ziegler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/19/opinions/whitmer-midterms-democrats-abortion-economy-saujani/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/14/opinions/election-deniers-2022-senate-nevada-cortez-masto-leslie/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/opinions/nevada-democrats-senate-cortez-masto-axelrod/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/opinions/outcome-us-2022-midterm-election-roundup/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/10/opinions/midterm-elections-abortion-rights-ziegler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/opinions/extremism-doomed-some-gop-candidates-avlon/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/opinions/europe-reacts-to-us-midterm-results-andelman/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/05/opinions/biden-challenge-democracy-at-risk-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/opinions/voter-apathy-january-6-pelosi-election-vote-fanone/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/opinions/pandemic-moves-electoral-map-politics-voting-population-gest/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/opinions/conservatives-challenged-by-state-ballot-initiatives-brown/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/24/opinions/pennsylvania-elections-fetterman-oz-dent/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/16/opinions/trumps-all-caps-rage-is-back-opinion-column-carr/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/12/opinions/sasse-president-university-florida-perry/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/opinions/2022-midterm-elections-1866-sinha/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/06/opinions/herschel-walker-scandal-georgia-senate-gop-duncan/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/02/opinions/piece-of-paradise-lost-opinion-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/27/opinions/texas-women-abortion-subpoena-paxton-filipovic/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/18/opinions/republicans-extremism-gop-migration-trump-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/14/opinions/twitter-whistleblower-peiter-zatko-testimony-alaimo/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/10/opinions/dont-worry-darling-gossip-is-back-thomas/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/24/opinions/new-york-19-election-ryan-molinaro-abortion-filipovic/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/11/opinions/democrats-election-turnout-voting-psychology-westen/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/04/opinions/midterm-primaries-mixed-messages-glimmer-hope-dems-dent/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/24/opinions/missing-piece-jan-6-opinion-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/09/opinions/scotus-dobbs-faulty-comparison-brown-snyder/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/07/opinions/boris-johnson-resignation-lies-scandals-prince/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/03/opinions/newsom-desantis-2024-campaign-ad-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/01/opinions/democrats-spending-gop-campaigns-scary-tactic-axelrod/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/26/opinions/supreme-court-abortion-guns-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/24/opinions/court-decision-roe-disturbing-dangerous-ziegler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/23/opinions/anti-abortion-movement-geography-ziegler/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/19/opinions/texas-gop-convention-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/11/opinions/biden-approval-ratings-left-wing-fanfiction-masciotra/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/03/opinions/biden-mounting-crisis-carter-fate-zelizer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/opinions/pence-2024-election-campaign-politics-dantonio/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/12/opinions/supreme-court-opinion-leak-perry/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/13/opinions/abortion-rights-midterm-election-voters-glantz/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/11/opinions/abortion-roe-senate-bill-congress-newman/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/10/opinions/trumpery-oz-walker-2022-election-eisen-galliher/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/08/opinions/roe-abortion-supreme-court-thomas-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/opinions/abortion-rights-samuel-alito-roe-v-wade-hemmer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/opinions/ohio-primary-trump-endorsement-sracic/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/opinions/america-bucking-global-trend-abortion-rights-ghitis/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/24/opinions/democrats-gop-2022-election-obeidallah/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/17/opinions/states-culture-war-opinion-column-galant/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/25/opinions/text-messages-thomas-meadows-threat-supreme-court-williams/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/opinions/why-stephen-breyer-will-be-missed-toobin/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/20/opinions/ron-desantis-glenn-youngkin-gop-future-hemmer/index.html",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/11/us/olaf-scholz-fast-facts/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/jan-6-committee-public-meeting/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/04/politics/trump-teddy-roosevelt-parallels-blake-cec/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/16/politics/who-is-fani-willis-fulton-county-district-attorney/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/14/politics/takeaways-midterm-election-analysis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/politics/tiffany-trump-wedding/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/politics/north-carolina-senate-beasley-budd-midterms/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/21/politics/america-britain-politics-truss-trump-analysis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/19/politics/republicans-inflation-midterm-what-matters/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/06/politics/fani-willis-georgia-prosecutor-trump-indictments-december/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/22/politics/pennsylvania-senate-election-oz-rural-voters/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/15/politics/los-angeles-district-attorney-recall-effort-fails-george-gascon/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/10/politics/trump-fbi-search-stokes-backlash/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/02/politics/aug-2-house-primary-elections/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/12/politics/january-6-hearing-day-7-takeaways/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/11/politics/jan-6-committee-six-hearings-highlights-thus-far/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/29/politics/cassidy-hutchinson-democracy-trump/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/23/politics/trump-jan-6-documentary-footage-pence-25th-amendment/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/23/politics/jeffrey-clark/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/19/politics/biden-defend-democracy-elections-ukraine/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/14/politics/donald-trump-statement-january-6-committee/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/07/politics/donald-trump-defense-january-6/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/25/politics/fact-check-walker-university-of-georgia-graduated/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/20/politics/biden-economic-hits-gas-prices-baby-formula/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/15/politics/read-mark-meadows-texts-mike-lee-chip-roy/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/06/politics/biden-amazon-union-staten-island/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/31/politics/trump-david-perdue-ga-governor/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/25/politics/florida-republicans-elections-bar-free-legal-help/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/08/politics/trump-national-archives-white-house-records/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/04/politics/pennsylvania-senate-republican-primary-mccormick-oz/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/01/politics/black-woman-scotus-nomination-diversity-what-matters/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/01/politics/fact-check-presidents-supreme-court-picks-demographics/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/24/politics/brandon-straka-capitol-riot/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/voting-rights-bill-senate-vote-01-19-22/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/15/politics/pennsylvania-democratic-senate-primary/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/january-6-capitol-insurrection-anniversary/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/06/politics/january-6-anniversary/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/05/politics/gop-reaction-january-6-anniversary/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/13/opinions/democrats-2024-primary-calendar-black-voters-adams/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/02/opinions/trump-house-republicans-investigation-biden-2022-obeidallah/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/30/opinions/trump-books-haberman-confidence-man-carter/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/26/opinions/pence-trump-election-republicans-2024-jennings/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/16/opinions/pence-trump-january-6-hearing-filipovic/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/15/opinions/trump-january-6-hearings-corruption-ghitis/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/01/opinions/cruelest-month-opinion-column-galant/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/10/opinions/holding-putin-accountable-opinion-column-galant/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/31/opinions/trump-putin-russia-fixation-dantonio/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/29/opinions/budget-biden-cost-midterm-elections-filipovic/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/11/opinions/ukraine-president-zelensky-comedian-russia-bociurkiw/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/05/opinions/january-6-anniversary-voting-rights-allred/index.html",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/19/politics/jan-6-committee-investigation-final-session/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/18/politics/texas-georgia-2024-voting-laws-changes/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/13/politics/trump-investigations-doj-analysis/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/politics/kevin-mccarthy-speakership-race-house-freedom-caucus/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/kevin-mccarthy-midterm-results-house-republicans/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/29/politics/barack-obama-karen-bass-endorsement-mayor-la/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/20/politics/kari-lake-glenn-youngkin-republicans-trump/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/primary-election-september-13-what-to-watch/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/12/politics/trump-lawsuit-and-investigations-rundown/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/30/politics/republican-reaction-madison-cawthorn/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/14/politics/md-gov-larry-hogan-2024-election/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/03/politics/arizona-bill-reject-election-results-effectively-blocked/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/14/politics/oath-keepers-stewart-rhodes-alex-jones-invs/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/07/politics/ron-johnson-reelection-plans/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/20/opinions/2022-elections-around-world-democracy-andelman/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/opinions/democracy-ballot-measures-midterm-elections-douglas/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/01/opinions/myanmar-russia-zeyar-thaw-zin-mar-aung-intl-hnk/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/21/opinions/eric-greitens-missouri-shotgun-ad-filipovic/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/26/opinions/utah-senate-race-breaking-political-polarization-kasparov-epshtein/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/19/opinions/madison-cawthorns-ridiculous-attack-on-zelensky-dantonio/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/03/opinions/olympics-china-release-hong-kong-political-prisoners-clifford/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/12/opinions/pence-january-6-commission-dantonio/index.html",
+            "bias": "pro-choice"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/03/opinions/susan-collins-leadership-senate-dent/index.html",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/10/us/five-things-july-10-trnd/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/10/politics/biden-democracy-campaign-workers-speech/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/26/politics/democrats-texas-primary-pandemic-voting-law-greg-casar/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/09/politics/biden-governors-midterms/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/politics/shortlist-breyer-replacement-supreme-court/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/10/opinions/biden-midterms-underestimated-zelizer/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/opinions/rest-is-resistance-so-is-childlessness-stewart/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/30/opinions/obama-closing-message-midterms-obeidallah/index.html",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/13/opinions/bidens-approval-rating-history-zelizer/index.html",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2022
+}

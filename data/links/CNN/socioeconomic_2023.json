@@ -1,0 +1,71 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-indictment-hush-money-stormy-daniels/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/10/politics/biden-trump-social-security-medicare/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/05/politics/eric-adams-lori-lightfoot-crime-cnntv/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/01/opinions/ron-desantis-book-courage-review-parini/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/01/03/opinions/iowa-caucuses-barack-obama-15th-anniversary-axelrod/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/02/17/politics/rick-scott-medicare-social-security-plan/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/02/09/politics/rick-scott-medicare-florida-biden/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2013/09/21/us/dick-cheney-fast-facts/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/01/01/opinions/crystal-ball-2023-newsletter-fredrick-goldynia/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/29/politics/fact-check-trump-early-attacks-on-desantis/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/25/politics/texas-trump-2024-rally/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2023/03/04/politics/trump-cpac-speech/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2023/02/10/politics/fact-check-biden-lee-scott-johnson-social-security-medicare/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2023/02/10/politics/biden-florida-rick-scott/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2023/02/03/opinions/debt-ceiling-ignore-apocalyptic-talk-chen/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2023
+}

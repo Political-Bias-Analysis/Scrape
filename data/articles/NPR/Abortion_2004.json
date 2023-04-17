@@ -1,0 +1,20 @@
+{
+    "Biases": [
+        "Abortion"
+    ],
+    "Articles": [
+        {
+            "headline": "Catholic Abortion Stance a Factor in 2004 Election",
+            "author": "By\u00a0 \n\n\n      Liane Hansen",
+            "source": "NPR",
+            "published_date": {
+                "month": "June",
+                "day": 20,
+                "year": 2004
+            },
+            "article_content": "The debate within the Catholic Church over politicians who disagree with church policy \u2014 specifically, the church's opposition to abortion \u2014 could have an affect on the campaign of Sen. John Kerry, a pro-choice Catholic and the presumptive Democratic presidential nominee. Hear NPR's Liane Hansen and Peter Steinfels, a religion and ethics columnist for The New York Times and author of A People Adrift: The Crisis of the Roman Catholic Church in America.",
+            "bias": "Abortion",
+            "url": "https://www.npr.org/2004/06/20/1966218/catholic-abortion-stance-a-factor-in-2004-election"
+        }
+    ]
+}

@@ -1,67 +1,310 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "asylum seekers",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/2013/12/19/255559698/president-obamas-terrible-horrible-no-good-very-bad-year",
+            "link": "https://www.npr.org/2013/12/19/255559698/president-obamas-terrible-horrible-no-good-very-bad-year",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/12/04/248811266/immigration-advocates-face-hurdles-in-gop-house-districts",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/12/04/248811266/immigration-advocates-face-hurdles-in-gop-house-districts",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/codeswitch/2013/12/04/248718302/supporters-of-immigration-overhaul-remain-focused",
+            "link": "https://www.npr.org/sections/codeswitch/2013/12/04/248718302/supporters-of-immigration-overhaul-remain-focused",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/10/17/236425197/obamas-immigration-pivot-hits-a-bruised-gops-weak-spot",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/10/17/236425197/obamas-immigration-pivot-hits-a-bruised-gops-weak-spot",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/02/12/171740019/4-things-to-expect-in-obamas-state-of-the-union-address",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/02/12/171740019/4-things-to-expect-in-obamas-state-of-the-union-address",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/02/04/171078868/critics-question-witness-list-ahead-of-immigration-hearing",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/02/04/171078868/critics-question-witness-list-ahead-of-immigration-hearing",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/01/31/170744897/for-asian-americans-immigration-backlogs-are-becoming-a-major-hurdle",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/31/170744897/for-asian-americans-immigration-backlogs-are-becoming-a-major-hurdle",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/sections/itsallpolitics/2013/01/08/168890345/house-gears-up-for-immigration-battle",
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/08/168890345/house-gears-up-for-immigration-battle",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/01/02/168457444/on-multiple-fronts-russian-jews-reshape-israel",
+            "link": "https://www.npr.org/2013/01/02/168457444/on-multiple-fronts-russian-jews-reshape-israel",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/01/31/170765389/the-coming-fight-over-immigration-policy",
+            "link": "https://www.npr.org/2013/01/31/170765389/the-coming-fight-over-immigration-policy",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/09/26/226347329/if-the-government-closes-essential-employees-would-work",
+            "link": "https://www.npr.org/2013/09/26/226347329/if-the-government-closes-essential-employees-would-work",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/01/29/170525728/senators-unveil-plan-to-fix-immigration-system",
+            "link": "https://www.npr.org/2013/01/29/170525728/senators-unveil-plan-to-fix-immigration-system",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/01/30/170629905/latino-voters-help-push-immigration-changes-forward",
+            "link": "https://www.npr.org/2013/01/30/170629905/latino-voters-help-push-immigration-changes-forward",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/04/01/175938451/the-politics-of-the-guest-worker-program",
+            "link": "https://www.npr.org/2013/04/01/175938451/the-politics-of-the-guest-worker-program",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2013/02/02/170891267/whos-carl-this-time",
+            "link": "https://www.npr.org/2013/02/02/170891267/whos-carl-this-time",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2013/12/04/248718304/immigration-debate-will-drag-on-into-next-presidential-election",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/15/169432740/shifts-in-race-relations-since-obamas-election",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/12/20/255849519/gov-christie-signs-new-jersey-dream-act-into-law",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/11/07/immigration-debate-gop",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/10/10/immigration-reform-navarrete",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/10/10/231446080/gutierrez-i-am-a-product-of-the-civil-rights-movement",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/09/28/227188942/greek-neo-nazi-party-arrests-follow-high-profile-murder",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/09/09/immigration-backseat-syria",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/08/20/hinojosa-latino-usa",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/07/31/battle-border-security",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2013/07/26/205885068/steve-king-doubles-down",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2013/07/24/205149054/Jorge-Ramos-On-Latinos-And-The-Future-Of-U-S-Politics",
+            "bias": "undocumented"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/07/11/house-immigration-reform",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/07/01/196337571/how-to-turn-a-red-state-blue-california-edition",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2013/06/25/195539769/health-exchange-outreach-targets-latinos",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/04/10/176828977/the-immigration-movement-without-a-unified-leader-but-on-the-cusp-of-success",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/03/19/174738241/rand-paul-reaffirms-support-for-path-to-citizenship",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/14/174342961/path-to-immigration-too-toxic-a-topic-for-many-republican-politicians",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/03/05/173548811/in-jeb-bushs-immigration-mishmash-one-things-clear-2016-race-is-on",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/05/173434603/jeb-bush-legal-residency-not-citizenship-for-illegal-immigrants",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/24/172696029/greeks-ask-themselves-whos-a-greek",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/13/171933434/senate-takes-first-formal-step-toward-immigration-reform",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/29/170504454/immigration-opponents-remain-adamant-despite-political-risk",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/28/170497037/despite-bipartisan-launch-immigration-overhaul-could-splinter-gop",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/28/170480874/in-new-immigration-plan-a-fraught-phrase-is-mostly-sidelined",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/18/169653284/latino-voters-urge-obama-to-keep-immigration-promise",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/23/170101076/some-jordanians-say-gerrymandering-makes-for-an-unfair-election",
+            "bias": "refugees"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/10/17/african-refugees-lampedusa",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/09/16/222958524/germanys-refugee-policy-tested-by-new-arrivals",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/07/01/196656296/stability-or-democracy-in-jordan-its-a-fragile-balance",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/10/09/230794848/after-boat-tragedy-calls-for-a-unified-european-policy",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/09/07/219970105/in-australian-vote-prime-minister-concedes-to-abbott",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2013/05/26/186098150/from-a-death-to-a-crisis-tracing-chinas-bo-xilai-scandal",
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/11/176930956/whats-at-stake-in-elections-in-venezuela-and-pakistan",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/11/12/244765746/the-emperors-code-breach-of-protocol-spurs-debate-in-japan",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/10/15/234586995/critics-fault-bjbs-candidate-for-prime-minister",
+            "bias": "nationalism"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/07/09/us-egypt-crisis",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/30/197124698/samaras-loose-canon-style-divides-greece",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/26/195924479/a-look-ahead-and-a-farewell-to-the-political-junkie",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/17/192740050/is-big-change-ahead-in-iran-a-biography-of-the-president-elect",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/05/21/185815047/as-myanmar-reforms-indonesnia-offers-some-lessons",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/04/28/179664908/japan-marks-restoration-of-sovereignty-for-the-first-time",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/03/05/173559844/president-hugo-chavez-has-died-vice-president-says",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/09/173884392/venezuela-remembers-chavez-inaugurates-his-ally",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/05/23/186286686/a-look-ahead-to-the-flash-point-in-the-south-china-sea",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/12/190695131/despite-limited-election-choices-iranians-eager-to-be-heard",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2013/05/07/181823814/afghan-pakistani-forces-exchange-fire-along-shared-border",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/14/174327447/courts-become-a-battleground-for-secularists-islamists-in-syria",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/08/168370534/tea-party-texan-cruz-gives-gop-hope-in-hunt-for-hispanic-votes",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/08/09/california-demographics-gop",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/07/24/205232244/king-wing-presents-both-a-problem-and-an-opportunity-for-gop",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/01/170854613/border-mayors-on-frontier-of-immigration-debate",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/05/173559206/jeb-bush-may-have-changed-his-mind-on-immigration-with-2016-bid-in-sight",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/28/170473480/senators-propose-principles-for-immigration-reform",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/12/09/mandela-mourning-security",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/10/03/228895005/ask-me-anything-sylvia-poggioli-answers-redditors-questions",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/17/177610521/gop-wooing-women-minorities",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/29/179762905/-after-months-of-deadlock-italy-gets-new-government",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/30/180065487/politicos-grade-obamas-first-100-days",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2013

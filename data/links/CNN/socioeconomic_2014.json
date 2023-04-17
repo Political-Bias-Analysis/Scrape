@@ -1,0 +1,264 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.cnn.com/2014/09/22/politics/obamadale-save-democrats/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/22/politics/obamadale-save-demcorats/index.html",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/20/us/ferguson-power-players/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/24/politics/congress-civil-rights-by-the-numbers/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2014/05/08/politics/clinton-boko-haram/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/01/politics/politics-of-poverty/index.html",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/20/us/vietnam-war-five-things/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/05/28/us/maya-angelou-obit/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/02/26/us/chicago-anti-violence-campaign-investigation/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/20/us/mlk-kennedy-recording/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/09/us/christie-traffic-react/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/10/politics/hillary-clinton-millionaires/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/21/politics/clinton-precampaign-ending-concerns/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/18/politics/bernie-sanders/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/04/politics/election-day-story/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/29/politics/hillary-clinton-midterm-schedule/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/28/politics/afl-cio-political-director/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/27/politics/biden-gop-iowa-merica-guys/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/09/politics/senate-democrats-math-control/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/02/politics/obama-chicago-economy/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/23/politics/five-things-obama-interview/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/05/13/politics/women-lawmakers/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/04/30/politics/senate-wage/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/02/26/politics/democrats-minimum-wage/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/04/03/politics/kashkari-california-governor/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/28/politics/rogers-no-reelection/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/27/politics/gop-2016-candidates-las-vegas/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/20/politics/christie-scandals/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/10/politics/christie-legal-hot-water/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/09/politics/christie-bridge/index.html",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/23/us/ferguson-blake/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/10/us/christie-legal-hot-water/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/25/politics/schumer-democrats-press-club-plan/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/14/politics/hillary-clinton-advice-unsolicited-5/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/12/politics/warren-senate-leadership-post/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/12/politics/senate-republicans-slam-us-china-climate-deal/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/04/politics/house-digital/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/22/politics/maine-eliot-cutler-independent/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/08/politics/obama-campaign-2014-midterms/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/01/politics/obama-chicago-airport/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/23/politics/pollitics-fear-returns-isis/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/17/politics/joe-biden-iowa/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/05/politics/warren-clinton-2004/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/30/politics/obama-impeachment-talk/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/13/politics/obama-doctrine/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/25/politics/clinton-liberals-trust/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/24/politics/obama-tax-avoidance/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/04/29/politics/shumlin-midterms/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/04/10/politics/ryan-budget-conservatives/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/26/politics/house-conservatives-midterms-strategy/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/02/27/politics/tea-party-greatest-hits/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/02/06/politics/2016-democratic-field/index.html",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/16/politics/dscc-cassidy-louisiana/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/13/politics/grimes-mcconnell-kentucky-senate-debate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/03/politics/alaska-senate-race/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/01/politics/5-races-midterms/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/11/politics/menendez-prostitution/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/09/politics/florida-special-election-obamacare/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/11/politics/florida-13-special-election-5-things/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/12/politics/republicans-florida-election-year-2014/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/12/politics/lessons-from-florida-special-election/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/26/politics/republican-incumbents-senate/index.html",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/03/politics/paul-ryan-poverty/index.html",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2014
+}

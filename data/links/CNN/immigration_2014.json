@@ -1,7 +1,10 @@
 {
     "Biases": [
         "immigration",
-        "undocumented"
+        "undocumented",
+        "refugees",
+        "border",
+        "Dreamers"
     ],
     "Links": [
         {
@@ -655,6 +658,134 @@
         {
             "link": "https://www.cnn.com/2014/03/14/politics/king-inside-politics-republican-debate/index.html",
             "bias": "undocumented"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/14/politics/john-mccain-guantanamo-obama/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/07/politics/guantanamo-bay-mike-rogers-prisoner-transfer/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2014/11/12/politics/obama-syria-strategy-review/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2014/03/20/politics/rand-paul-rising/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2014/12/03/politics/southern-democrats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/23/politics/new-hampshire-senate-poll/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/20/politics/cruz-vision-for-republican-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/13/politics/ebola-agenda-project-ad/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/10/09/politics/hambycast-new-hampshire/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/08/politics/2014-midterm-overview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/09/politics/obama-syria-one-year-later-5-things/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/03/politics/joe-biden-isis-gates-of-hell/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/03/politics/obama-europe-trip/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/02/politics/obama-europe-trip/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/26/politics/curtis-montana-senate/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/08/04/politics/rand-paul-iowa/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/07/28/politics/congress-to-do-august-recess/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/18/politics/us-iran-iraq/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/13/politics/bowe-bergdahl-return/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/10/politics/bowe-bergdahl-release/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/10/politics/rand-paul-joke/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/05/politics/obama-europe/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/04/politics/obama-europe/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/04/politics/primary-mississippi-carey/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/03/politics/bergdahl-swap-legality/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/06/03/politics/obama-europe/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/05/28/politics/obama-west-point-foreign-policy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/05/28/politics/obama-foreign-policy-five-things/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/02/26/politics/keystone-pipeline-7-questions/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/31/politics/keystone-pipeline/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/01/14/politics/hillary-clinton-iowa-problem-2016/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2014/09/16/politics/bash-iowa-senate-ernst-braley/index.html",
+            "bias": "Dreamers"
         }
     ],
     "Year": 2014

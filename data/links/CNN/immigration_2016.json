@@ -2,7 +2,12 @@
     "Biases": [
         "immigration",
         "undocumented",
-        "asylum seekers"
+        "asylum seekers",
+        "refugees",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
@@ -1711,15 +1716,815 @@
         },
         {
             "link": "https://www.cnn.com/2016/12/01/opinions/aung-san-suu-kyi-failing-rohingya-hossain/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2016/09/01/opinions/trump-a-threat-to-lgbtq-equality-griffin/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2016/07/26/opinions/viral-terror-the-conversation/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/23/us/islamerica-secret-costs-islamophobia/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/01/us/hony-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/19/us/minnesota-mall-stabbing/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/30/politics/2016-political-stories/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/20/politics/donald-trump-terror-germany-turkey/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/09/politics/donald-trump-foreign-policy-sacred-cows/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/02/politics/austrian-election-norbert-hofer-profile/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/26/politics/fidel-castro-us-presidential-politics/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/politics/obama-europe-germany-trump/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/politics/girls-on-the-bus-embed-life-campaign-trail-ashley-killough/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/politics/obama-greece-democracy-speech-acropolis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/15/politics/obama-greece-news-conference/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/12/politics/anti-trump-protest-signs/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/muslim-silent-voter/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/05/politics/next-us-president-global-challenges/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/30/politics/donald-trump-pennsylvania-trucker-myvote-2016-election/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/24/politics/donald-trump-las-vegas-endorsement/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/07/politics/donald-trump-evangelical-leaders/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/20/politics/donald-trump-junior-running-step-down/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/03/politics/donald-trump-taxes/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/24/politics/white-working-class-evangelicals/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/18/politics/hillary-clinton-donald-trump-terror-attack-response/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/19/politics/donald-trump-jr-twitter-refugees/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/20/politics/election-2016-florida-battleground/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/18/politics/john-kerry-russia-syria-ceasefire/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/14/politics/zika-government-funding-congress/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/13/politics/white-house-refugees-increasing/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/07/politics/zika-congress-funding-mitch-mcconnell/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/19/politics/donald-trump-african-american-voters/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/13/politics/republican-african-american-outreach/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/04/politics/refugees-voting-new-day/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/14/politics/donald-trump-obama-orlando/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/11/politics/jesse-jackson-hillary-clinton/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/06/politics/hillary-clinton-barack-obama-endorsement/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/25/politics/donald-trump-women/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/05/politics/pew-report-international-issues-2016/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/25/politics/obama-donald-trump-angela-merkel-david-cameron/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/21/politics/hillary-clinton-aipac-speech-donald-trump/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/17/politics/donald-trump-aipac-boycott-protest-rabbis-jewish-leaders/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/17/politics/best-quotes-republican-town-hall-south-carolina/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/16/politics/donald-trump-german-roots-kallstadt/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/20/politics/syrian-refugees-senate-vote-2016/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/13/politics/haley-obama-trump-state-of-the-union-2016/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/12/politics/state-of-the-union-2016-what-to-watch/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/08/politics/ted-cruz-donald-trump-marco-rubio-political-prediction-market/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/06/politics/north-korea-nuclear-test-clinton-trump/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/28/opinions/us-un-relations-patrick-opinion/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/26/opinions/women-of-2016-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/20/opinions/berlin-market-attack-response-williams-gerdes/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/17/opinions/now-we-know-what-aleppo-is-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/opinions/christiane-amanpour-journalism-in-trump-era/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/22/opinions/what-pope-francis-abortion-decision-means-schlumpf/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/17/opinions/obama-europe-andelman-opinion/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/opinions/syria-should-be-priority-cupp/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/opinions/trump-europe-andelman-opinion/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/21/opinions/gates-rebuttal-trump-kellogg-flynn/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/15/opinions/india-election-lessons-richard/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/08/opinions/johnson-aleppo-question-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/02/opinions/steps-helping-syrian-refugees-miles/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/14/opinions/imam-attack-in-new-york-latif/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/16/opinions/turkey-coup-attempt-white/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/26/opinions/obama-abe-hiroshima-kingston/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/20/opinions/justin-trudeau-fracas-cohen/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/18/opinions/narcissistic-foreign-policy-opinion-kinzinger/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/17/opinions/lebanon-stability-phillips/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/14/opinions/trump-violence-cupp/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/12/opinions/trump-israel-policy-miller/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/10/opinions/justin-trudeau-canada-cohen/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/10/opinions/trudeau-visit-klobuchar/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/04/opinions/republican-debate-opinion-mel-robbins/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/30/opinions/freedom-world-reverse/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/17/opinions/zelizer-big-short-or-spotlight-candidates/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2015/12/30/opinions/ghitis-2016-predictions/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/22/us/five-things-tuesday/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/politics/kfile-flynn-tweets/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/politics/jason-miller-steve-bannon-new-day-cnntv/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/politics/amanpour-bryan-stevenson-trump/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/politics/trump-supporters-react-street-protests/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/muslims-trump-reaction/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/29/politics/donald-trump-republican-infighting-trade/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/09/politics/sanders-trump-economy-trade/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/19/opinions/turkey-ambassador-killing-whiff-of-1914-opinion-ghitis/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/14/opinions/trump-kanye-west-jim-brown-joseph-opinion/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/opinions/bannon-spencer-white-supremacy-trump-zuckerman/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/opinions/trump-bannon-ben-ghiat/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/opinions/trump-failed-first-test-cupp/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/28/opinions/trump-campaign-narcissism-lipman/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/25/opinions/sutter-denmark-us-election/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/us/post-election-hate-crimes-and-fears-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/08/us/dictionary-words-campaign-moments-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/25/us/canada-float-down-bill-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/21/us/five-things-tuesday/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/22/us/baltimore-future/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/21/us/five-things/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/15/us/1957-cold-case-jack-mccullough-maria-ridulph/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/29/politics/trump-writing-short-inauguration-speech/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/21/politics/donald-trump-tariffs/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/14/politics/democrats-lost-dubuque-middle-america/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/08/politics/donald-trump-approval-ratings-pew-poll-transition/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/08/politics/donald-trump-mike-pence/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/05/politics/donald-trump-outreach/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/01/politics/donald-trump-nawaz-sharif-phone-call/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/29/politics/donald-trump-transition-presidency/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/29/politics/trump-cuba-cold-front/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/25/politics/alain-juppe-french-presidential-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/22/politics/donald-trump-presidency-poll-transition/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/16/politics/kfile-jan-brewer-anti-trump-protests/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/election-results-reaction-streets/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/trump-new-president-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/us-election-the-world-reacts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/mcconnell-border-wall/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/politics/paul-ryan-says-trump-will-lead-unified-republican-government/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/08/politics/american-election-voters-campaign-camper/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/07/politics/donald-trump-election-2016-final-swing/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/07/politics/north-carolina-voters/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/04/politics/arizona-ballot-collection/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/26/politics/defense-secretary-ash-carter-raqqa/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/23/politics/donald-trump-house-senate-republican-candidates/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/20/politics/donald-trump-hugo-chavez-video/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/20/politics/presidential-debate-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/17/politics/arizona-election-2016-voting-rights/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/27/politics/winner-presidential-debate-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/25/politics/netanyahu-trump-clinton-meetings/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/23/politics/stop-trump-bus-london/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/19/politics/hillary-clinton-jimmy-fallon-the-tonight-show/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/17/politics/robert-gates-donald-trump-hillary-clinton/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/09/politics/north-korea-trump-clinton-nuclear-test-asia/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/06/politics/tim-kaine-donald-trump-national-security/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/15/politics/florida-senate-primary-carlos-beruff-marco-rubio/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/12/politics/reince-priebus-donald-trump-rally/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/10/politics/virginia-swing-state/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/04/politics/mike-pence-donald-trump-john-mccain-kelly-ayotte/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/29/politics/hillary-clinton-convention-message/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/13/politics/ruth-bader-ginsburg-donald-trump-recuse/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/12/politics/texas-cuny-study-latino-vote/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/12/politics/paul-manafort-donald-trump-mitt-romney-hillary-clinton/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/08/politics/modi-speech-u-s-congress-visit/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/08/politics/2016-election-primary-highlights/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/05/politics/gop-fears-donald-trump-judge-attack/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/03/politics/michelle-obama-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/22/politics/obama-asia-trip-vietnam-japan-hiroshima/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/15/politics/donald-trump-vladimir-putin-mural/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/13/politics/obama-nordic-leaders-summit/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/13/politics/trump-women-2016-campaign/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/12/politics/jimmy-kimmel-vice-president-cnn/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/10/politics/jon-stewart-2016-transcript-axe-files-axelrod/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/04/politics/hillary-clinton-donald-trump-2016/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/01/politics/donald-trump-indiana-obama-white-house-dinner/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/18/politics/los-angeles-times-registration-investigation/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/08/politics/obama-administration-turns-over-fast-and-furious-documents/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/07/politics/obama-fundraiser-in-chief/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/04/04/politics/donald-trump-hillary-clinton-nuclear-policy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/31/politics/donald-trump-effect-house-race-democrats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/29/politics/india-trump-agrawal/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/13/politics/democratic-town-hall-analysis-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/04/politics/john-kasich-march-madness/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/03/politics/best-quotes-republican-debate-detroit/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/21/politics/donald-trump-predicts-hillary-clinton-highest-turnout/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/09/politics/uss-new-hampshire-submarine-primary/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/03/politics/new-hampshire-primary-midnight-vote-dixville-notch/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/30/politics/iowa-road-trip-caucus-takeaways-king/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/01/politics/sarah-palin-ted-cruz-donald-trump-iowa/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/27/politics/ben-carson-uneducated-voters-threat/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/12/politics/ted-cruz-donald-trump-new-hampshire/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/06/politics/ted-cruz-birthplace-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2015/03/24/politics/ted-cruz-eligibility-2016-elections/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/17/opinions/responding-to-russia-interference-in-us-eland/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/25/opinions/will-america-build-a-wall-in-sports-bass/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/18/opinions/end-of-liberal-era-gardiner-opinion/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/opinions/us-mexico-relationship-under-trump-salazar/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/opinions/why-america-needs-to-partner-with-china-mahbubani/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/09/opinions/trump-victory-a-boost-to-putin-opinion-lucas/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/05/opinions/choice-facing-america-ryan/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/16/opinions/rigged-election-opinion-ben-ghiat/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/10/11/opinions/trump-strongman-aspirations-haq/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/26/opinions/whoever-wins-nearly-half-the-country-will-be-depressed-andrews-opinion/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/31/opinions/why-are-trump-and-pena-nieto-meeting/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/26/opinions/secret-briefings-to-presidents-from-cia-naftali/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/25/opinions/clinton-alt-right-speech-ben-ghiat/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/08/24/opinions/ukraines-future-bociurkiw/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/25/opinions/brexit-step-backward-charles-kaiser/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/10/opinions/tel-aviv-attack-implications-miller/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/10/opinions/facebook-bias-accusation-rushkoff/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/05/07/opinions/never-trump-risks-electing-hillary-clinton-opinion-talley/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/11/opinions/donald-trump-new-hampshire-chatham/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/01/28/opinions/presidential-election-international-views-roundup/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/23/opinions/thanksgiving-why-i-stand-on-my-tiptoes-bailey/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2016/12/05/us/muslim-nypd-officer-harassed-trnd/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/14/us/fbi-hate-crime-report-muslims/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/11/us/oregon-protest-riot/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/10/politics/why-donald-trump-won/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/09/13/politics/donald-trump-hillary-clinton-deplorables/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/06/11/politics/donald-trump-calls-elizabeth-warren-racist/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/17/politics/lindsey-graham-ted-cruz-support-fundrasier-campaign/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/15/politics/donald-trump-progressive-leaders-massive-mobilization/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/02/08/politics/new-hampshire-primary-independent-voters/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/11/30/opinions/take-it-back-about-jill-stein-kohn/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/07/23/opinions/kaine-clinton-vp-opinion-kohn/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/24/opinions/republicans-slow-motion-implosion-opinion-axelrod/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2016/03/09/opinions/american-middle-class-new-hope-steve-israel/index.html",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2016

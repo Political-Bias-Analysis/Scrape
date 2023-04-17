@@ -2,7 +2,12 @@
     "Biases": [
         "immigration",
         "undocumented",
-        "asylum seekers"
+        "asylum seekers",
+        "refugees",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
@@ -1447,19 +1452,1171 @@
         },
         {
             "link": "https://www.cnn.com/2020/08/28/us/five-things-august-28-trnd/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2020/03/25/us/five-things-march-25-trnd/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2020/06/23/politics/trump-us-mexico-border-wall/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2020/02/06/opinions/trump-national-prayer-breakfast-graves-fitzsimmons/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/23/us/five-things-november-23-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/29/us/five-things-september-29-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/john-lewis-dies/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/black-lives-matter-protests-george-floyd-06-09-2020/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/09/us/five-things-april-9-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/21/us/five-things-january-21-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/29/politics/nicole-malliotakis-nancy-mace-republican-women-congress/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/25/politics/trump-outcasts-biden-public-servants/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-12-20/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/19/politics/donald-trump-joe-biden-election-2020-coronavirus-fauci-masks/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/18/politics/donald-trump-women-gretchen-whitmer/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/06/politics/donald-trump-coronavirus-11-days/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/01/politics/us-refugee-cap-fy21/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/21/politics/trump-biden-middle-east-analysis-intl/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/28/politics/national-muslim-voter-registration-day-cair-mpower-change-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/27/politics/rnc-schedule-speakers-thursday/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/06/politics/tammy-duckworth-biden-vice-president/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/30/politics/2020-election-trump-campaign-biden-attacks/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/31/politics/pompeo-abrams-briefing/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/28/politics/donald-trump-benjamin-netanyahu-middle-east-plan/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/27/politics/trump-middle-east-plan/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/27/politics/democrats-bernie-sanders/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/23/politics/pence-israel-white-house-visit/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/04/politics/trump-90-false-claims-final-two-weeks-2019/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/17/opinions/joe-biden-venezuela-nicolas-maduro-berg-hernandez/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/27/opinions/how-democrats-can-win-back-the-cuban-american-vote-alexandra-martinez/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/25/opinions/america-reason-for-optimism-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/02/opinions/new-us-citizen-first-time-voting-2020-barakoti/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/21/opinions/pope-francis-civil-unions-lgbtq-families-hope/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/opinions/trump-reelection-campaign-strategy-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/13/opinions/biden-is-no-friend-to-maduro-amanda-mattingly/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/29/opinions/young-evangelicals-fight-climate-change-and-trump-meyaard-schaap/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/17/opinions/uae-israel-palestinians-munayyer-opinion/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/05/opinions/asian-american-vietnamese-trump-election-vu/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/09/opinions/bill-maher-failed-interview-steve-bannon-obeidallah/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/07/opinions/price-of-trumpian-chaos-middle-east-opinion-dantonio/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/06/opinions/india-citizenship-amendment-tewari/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/01/opinions/anti-semitism-black-jewish-people-love/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/george-floyd-protests-06-02-20/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/14/us/five-things-january-14-trnd/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/22/politics/trump-sidney-powell-rudy-giuliani-election/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/21/politics/trump-white-house-sidney-powell/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/01/politics/joe-biden-economic-team-white-house/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/10/politics/trump-mcconnell-senate-gop-leverage/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/09/politics/what-matters-november-9/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/09/politics/trumpism-without-trump-democrats-plan-future/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/07/politics/joe-biden-wins-us-presidential-election/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/politics/black-voters-2020-election-donald-trump-white-nationalism/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/13/politics/southwest-swing-states-2020/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/07/politics/michael-hayden-endorses-joe-biden-cnntv/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/27/politics/biden-americas-european-allies-analysis-intl/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/rnc-schedule-speakers-wednesday/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/13/politics/madison-cawthorn-social-media-post/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/13/politics/donald-trump-joe-biden-kamala-harris-2020-election/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/28/politics/sisters-in-hate-women-white-nationalism/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/22/politics/us-china-consulate-analysis/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/21/politics/trump-org-china-imports/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/10/politics/tammy-duckworth-tucker-carlson/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/30/politics/us-china-coronavirus-diplomacy-intelligence-donald-trump/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/21/politics/trump-biden-china-2020/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/06/politics/nazi-flag-at-bernie-sanders-rally-gets-person-kicked-out/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/20/politics/us-south-korea-troops-costs/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/07/politics/cnn-town-hall-takeaways-thursday/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/cnn-02-06-20/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/26/opinions/covid-19-crisis-what-comes-next-burwell-townsend/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/21/opinions/china-us-election-perspective-xueqin/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/12/opinions/qanon-candidate-inmates-running-asylum-cupp/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/03/opinions/trump-st-johns-visit-isnt-religion-butler-bass/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/27/opinions/joe-biden-aint-black-election-love/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/05/opinions/michigan-militia-coronavirus-protests-soifer/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/15/opinions/us-china-coronavirus-kupchan-bollyky-opinion/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/15/us/five-things-december-15-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/24/us/five-things-november-24-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/19/us/five-things-november-19-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/18/us/five-things-november-18-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/03/us/el-paso-texas-coronavirus-election-day/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/30/us/el-paso-shutdown-order/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/28/us/midweek-round-up/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/21/us/five-things-october-21-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/27/us/rockwell-museum-vote-posters-2020-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/25/us/five-things-september-25-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/24/us/five-things-september-24-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/09/us/five-things-september-9-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/02/us/five-things-september-2-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/27/us/five-things-july-27-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/08/us/canada-mexico-border-coronavirus-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/george-floyd-protests-05-31-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/george-floyd-protests-06-04-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-22-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/20/us/five-things-may-20-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-13-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-05-06-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/06/us/five-things-may-6-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/us-coronavirus-update-04-27-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/26/us/five-things-march-26-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/06/us/five-things-march-6-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/31/politics/trump-biden-transition-budget-director/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/29/politics/transition-trump-biden-defense-department/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/29/politics/biden-nuclear-cuts-arms-control-russia/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/18/politics/ndaa-cybersecurity-us-agencies-hack/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-15-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/15/politics/mcconnell-floor-speech-text-president-elect/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/10/politics/trump-texas-supreme-court-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/08/politics/stimulus-negotiations-state-of-play/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/06/politics/donald-trump-post-election-gop-control/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/02/politics/maine-youngest-house-speaker-elected/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/01/politics/doug-ducey-donald-trump-arizona-voter-fraud-claims/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/30/politics/congress-state-of-play-stimulus-lame-duck-session/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-23-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/election-results-and-news-11-03-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/vp-debate-coverage-fact-check-10-07-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/20/politics/trump-law-right-to-vote/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-16-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/12/politics/transition-pentagon-chaos-intelligence-national-security-threat/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/12/politics/mark-milley-pentagon-turmoil/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/10/politics/trump-election-loss-setback/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/election-results-and-news-11-10-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/05/politics/dog-mayor-rabbit-hash-kentucky-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/06/politics/steve-bannon-dropped-by-attorney/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/election-results-and-news-11-04-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/politics/donald-trump-2020-election-polling/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/03/politics/voting-polls-news/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/03/politics/house-election-2020-guide/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/03/politics/key-states-presidential-election-today/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/02/politics/dixville-notch-2020-results/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/30/politics/donald-trump-joe-biden-florida-2020-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/30/politics/latino-voters-democrats-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/politics/donald-trump-senate-election-2020/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/politics/us-china-nuclear-pressure/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/politics/biden-immigrant-children/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/29/politics/border-wall-texas-pandemic/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/27/politics/2020-election-biden-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/24/politics/barack-obama-florida-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/politics/week-in-review-trump-biden-debate-stimulus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/politics/election-2020-house-race-rankings-two-weeks/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/18/politics/election-2020-house-and-senate-ratings-two-weeks/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/17/politics/special-relationship-election-analysis-gbr-intl/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/15/politics/wisconsin-voters-politics-fatigue/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/us-election-news-10-13-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/12/politics/georgia-early-voting-lines-election-2020/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/07/politics/election-2020-house-race-rankings-four-weeks/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/06/politics/donald-trump-covid-stimulus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/04/politics/supreme-court-preview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/29/politics/house-intelligence-committee-dhs-subpoenas-whistleblower/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/28/politics/michigan-2020-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/us-election-news-09-25-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/23/politics/chad-wolf-senate-nomination/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/10/politics/2020-election-trump-ground-game/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/09/politics/dhs-whistleblower-white-supremacist-threat/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/06/politics/election-2020-donald-trump-dishonesty/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/02/politics/gen-z-conservatives-anti-trump-groups/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/01/politics/election-2020-house-races/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/31/politics/election-2020-senate-races/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/28/politics/milley-2020-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/28/politics/bad-bunny-alejandro-fernandez-joe-biden-ads-battleground-states/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/28/politics/trump-billboards-ppp-loan-invs/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/gop-convention-2020-mike-pence/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/26/politics/us-service-members-injured-russia-syria/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/25/politics/kenosha-wisconsin-2020-politics/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/republican-national-convention-first-night-fact-check/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/politics/trump-maryanne-conway-former-officials/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/22/politics/joe-biden-donald-trump-convention/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/21/politics/week-in-review-biden-trump-dnc-rnc-usps/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/steve-bannon-charged/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/19/politics/hillary-clinton-speech-transcript/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/18/politics/miles-taylor-white-house-cnntv/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/18/politics/michelle-obama-convention-speech/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/14/politics/week-in-review-trump-biden-harris-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/08/politics/trump-democrats-stimulus-talks-stalled/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/02/politics/donald-trump-senate-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/30/politics/pompeo-senate-foreign-relations-hearing/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/william-barr-house-testimony-07-28-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/25/politics/us-protests-trump-terrorists-intl/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/24/politics/sean-hannity-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/24/politics/portland-protests-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/23/politics/trump-federal-agents-us-cities/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/23/politics/donald-trump-coronavirus-briefing-experts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/20/politics/donald-trump-chris-wallace-coronavirus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/18/politics/biden-faith-evangelicals/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/15/politics/donald-trump-coronavirus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/10/politics/donald-trump-coronavirus-no-plan/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/09/politics/2020-election-south-demographics-census/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/09/politics/trump-biden-radical-left-attacks/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/08/politics/trump-justin-trudeau-coronavirus-north-american-trade-agreement/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/07/politics/new-jersey-primaries-what-to-watch/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/06/politics/new-jersey-5-primary-josh-gottheimer-arati-kreibich/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/03/politics/liz-cheney-trump-reaction/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/30/politics/scott-tipton-loses-lauren-boebert-colorado/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/25/politics/pentagon-troops-border-mission/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/14/politics/us-election-trump-campaign-strategy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/12/politics/pentagon-nominee-tata-trump-kfile/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/31/politics/g7-trump-economic-summit-postponed/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/22/politics/donald-trump-2020-election-joe-biden-michigan-coronavirus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/12/politics/donald-trump-coronavirus-reelection/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/12/politics/california-25-house-race-christy-smith-mike-garcia/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/28/politics/pentagon-restarts-building-projects/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/28/politics/don-mcgahn-border-wall-appeals-court/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/27/politics/fact-check-trump-coronavirus-briefing-april-27/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/07/politics/fact-check-trump-coronavirus-briefing-april-7/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/03/politics/supreme-court-trump-documents-coronavirus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/02/politics/brian-kemp-ron-desantis-donald-trump-coronavirus/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/26/politics/nancy-pelosi-birthday-80-speaker/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/16/politics/trump-us-economy-coronavirus-emergency/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/10/politics/trump-endorses-tommy-tuberville-over-jeff-sessions-alabama-us-senate/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/09/politics/coronavirus-airlines-white-house-tensions/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/02/politics/amy-klobuchar-ends-2020-campaign/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/27/politics/cnn-town-halls-takeaways-south-carolina/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-democratic-town-hall-south-carolina-wednesday/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/26/politics/cnn-town-hall-takeaways-south-carolina/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/2020-democratic-town-hall-south-carolina-monday/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/19/politics/2020-primary-debate-las-vegas/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/new-hampshire-primary-2020-live-updates/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/10/politics/donald-trump-presidency-joe-biden-impeachment/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/09/politics/democrats-new-hampshire-primary-ip-forecast-cnntv/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/09/politics/west-virginia-republicans-push-vexit/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-trial-02-05-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/05/politics/thom-tillis-opposes-impeachment-reelection/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/31/politics/climate-crisis-hamburg-iowa-flood-2020-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/iowa-2020-final-sprint/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/31/politics/trump-27-false-claims-impeachment-senate-thursday/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/trump-impeachment-trial-01-30-20/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/29/politics/us-border-wall-falls-over-high-winds/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/28/politics/impeachment-polarization-voting-patterns-for-senate-president/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/27/politics/amy-klobuchar-iowa-sprint/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/26/politics/fact-check-january-trump-49-false-claims/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/20/politics/border-wall-private-fisher/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/10/politics/donald-trump-toledo-keep-america-great/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/10/politics/trump-border-wall/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/01/politics/trump-new-years-eve-mar-a-lago-gala/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/10/opinions/melania-trump-legacy-drexler/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/03/opinions/brakes-presidential-pardon-power-steve-cohen/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/02/opinions/election-2020-three-groups-for-american-democracy-woods/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/16/opinions/trump-pentagon-afghanistan-us-vulnerable-andelman/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/08/opinions/americas-verdict-on-donald-trump-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/opinions/us-elections-are-more-drama-than-democracy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/opinions/five-reasons-progressive-optimism-jones/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/opinions/who-is-winning-the-election-roundup/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/27/opinions/trump-biden-election-russia-putin-fishman/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/25/opinions/obama-campaigns-dump-trump-obeidallah/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/23/opinions/trump-envy-biden-empathy-last-debate-mcgowan-silva/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/22/opinions/liberias-civil-wars-advice-to-american-voters/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/04/opinions/first-ladies-michelle-obama-recap/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/09/opinions/us-canada-covid-19-bociurkiw/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/09/opinions/belarus-opposition-us-message-ghitis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/09/08/opinions/trump-worst-president-ever-opinion-dantonio/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/27/opinions/pompeo-foreign-policy-trump-vinograd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/24/opinions/us-election-2020-trump-left-wing-foil-avlon/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/23/opinions/trump-and-biden-dystopian-visions-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/23/opinions/trumps-sister-delivers-staggering-verdict-obeidallah/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/21/opinions/steve-bannon-build-the-wall-fraud-dantonio/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/13/opinions/putin-expansion-belarus-ukraine-bociurkiw/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/01/opinions/trump-delay-election-abuse-of-power-zelizer/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/27/opinions/trump-stimulus-plan-failed-negotiator-dent/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/18/opinions/portland-anonymous-security-forces-mark-of-dictatorship-ghitis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/17/opinions/trudeaus-ethics-scandal-pandemic-we-charity-bociurkiw/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/14/opinions/trumps-messaging-mojo-has-left-him-silva-mcgowan/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/05/opinions/russian-democracy-is-a-farce-kasparov/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/02/opinions/mark-hannah-william-hartung-confrontation-china/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/01/opinions/whos-afraid-of-trumps-america-ghitis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/01/opinions/why-bill-barr-unfit-to-serve-ayer/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/27/opinions/trump-tries-to-change-the-subject-coronavirus-statues-ghitis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/21/opinions/moral-agenda-troubled-america-barber-theoharis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/20/opinions/trump-china-india-asia-korea-vinograd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/18/opinions/john-bolton-book-foreign-policy-disasters-psaki/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/14/opinions/how-the-us-can-help-ease-idlibs-catastrophe-alrifai/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/25/opinions/sanders-cuba-comments-werent-wrong-bodenheimer/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/23/opinions/bernie-sanders-election-win-possible-obeidallah/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/21/opinions/new-york-times-taliban-op-ed-haqqani-bergen/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/30/opinions/partisanship-community-funding-smith/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/01/28/opinions/parnas-tape-trump-dantonio/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2020/12/11/politics/trump-turmoil-supreme-court/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/politics/william-mcraven-joe-biden-2020/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/20/politics/john-roberts-pennsylvania-supreme-court-barrett/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/07/09/opinions/john-roberts-stinging-rebuke-donald-trump-honig/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/06/21/opinions/trump-heartless-week-opinion-weekly-column-galant/index.html",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/24/us/asian-americans-covid-racism-xenophobia-unemployment/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/12/politics/kelly-loeffler-raphael-warnock-attack/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/10/07/politics/fact-check-kamala-harris-mike-pence-debate/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/04/10/politics/trump-campaign-ad-joe-biden-fact-check/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/19/politics/trump-campaign-china-email/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/12/politics/biden-coronavirus-trump/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/super-tuesday-2020-final-sprint/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/14/politics/bill-de-blasio-endorsement-bernie-sanders/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/11/04/opinions/what-dems-can-learn-from-trumps-showing-ghitis/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/08/05/opinions/axios-interview-trump-presidency-filipovic/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/16/opinions/mrs-america-fills-me-with-dread-bodenheimer/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/05/07/opinions/get-ready-for-a-campaign-season-full-of-china-covid-conspiracy-theories/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2020/03/27/opinions/womens-history-month-trailblazers-amid-coronavirus-schnall/index.html",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2020

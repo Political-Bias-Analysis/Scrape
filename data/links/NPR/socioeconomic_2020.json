@@ -1,0 +1,748 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2020/12/15/945031391/poll-despite-record-turnout-80-million-americans-didnt-vote-heres-why",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/codeswitch/2020/11/09/933117256/in-harris-black-sororities-and-fraternities-celebrate-one-of-their-own",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/11/02/928200462/medicaids-future-hinges-on-who-wins-the-white-house",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/30/929609084/how-presidential-election-could-reshape-medicaid",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/11/900694605/challenge-to-minnesota-rep-omar-tops-5-races-to-watch-tuesday",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/31/897814403/a-37-year-old-opposition-candidate-challenges-the-longtime-leader-of-belarus",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/29/800778189/election-meltdown-is-a-real-possibility-in-2020-presidential-race-author-warns",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/24/948030242/in-rural-america-fears-about-the-future-abound-as-fewer-students-go-to-college",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/22/947525229/arab-spring-generation-not-as-scared-as-their-parents-are-of-change",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://the1a.org/segments/urban-suburban-voters-trump/",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/01/930026577/asian-american-voters-are-a-powerful-but-hard-to-define-group",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/13/934718056/ernest-owens-argues-that-chocolate-cities-should-be-viewed-as-americas-heartland",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/21/860564359/answering-your-coronavirus-questions-fashion-education-and-health-disparities",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/20/859785385/democrats-think-prioritizing-health-care-will-give-them-wins-in-2020",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/801786950/npr-politics-live-from-des-moines-the-road-to-2020",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/801775770/impeachment-trial-continues-coronavirus-a-public-health-emergency-iowa-voters",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/31/929952736/poverty-politics-and-the-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/810996396/where-voters-are-pueblo-mayor",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/04/802533836/poverty-in-iowa-why-the-poor-often-dont-participate-in-caucuses",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/live-updates-2020-election-results/2020/11/09/933186902/leader-of-grassroots-organization-on-what-black-detroit-voters-expect-from-biden",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/07/30/896662950/will-missouri-be-the-next-red-state-to-expand-medicaid-voters-to-decide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/26/809530224/spotlighting-voters-in-charlotte-n-c-and-pueblo-colo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/12/12/945825924/trump-supporters-arrive-in-washington-once-again-for-a-million-maga-march",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/19/925342186/ally-of-socialist-evo-morales-wins-bolivias-election-as-rival-concedes",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/19/925278725/results-are-pending-in-bolivias-presidential-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/20/914949205/milwaukee-alderman-discusses-black-voters-in-wisconsin",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/14/912612270/swing-voters-in-northwestern-pennsylvania-weigh-in-on-fall-election",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/02/825467802/with-rallies-off-the-table-trumps-reelection-moves-to-virtual-campaigning",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/27/822171139/bernie-sanders-on-his-campaign-it-s-going-to-be-a-very-steep-road",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/02/930575202/does-hillbilly-elegy-really-have-something-to-say",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/18/936096289/morning-news-brief",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/16/934584373/transcript-nprs-full-interview-with-former-president-barack-obama",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/02/930266991/in-chicago-7-aaron-sorkin-sees-chilling-parallels-between-68-summer-and-today",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/29/929022501/2-visions-of-america-examining-president-trump-and-joe-bidens-view",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/26/927743294/the-history-of-how-we-vote-from-drunken-parties-to-private-booths",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/16/923844907/when-shoplifting-is-a-felony-retailers-back-harsher-penalties-for-store-theft",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/05/920314166/millions-of-americans-cant-afford-enough-to-eat-as-pandemic-relief-stalls-in-d-c",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/14/912749547/why-nobody-feels-rich-the-psychology-of-inequality",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/21/808016586/calif-gov-newsom-lays-out-framework-to-address-homelessness",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/14/796160587/alejandro-giammattei-guatemalas-president-elect-to-take-office",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/21/904648300/documentary-chronicles-students-fight-for-black-rights-during-freedom-summer",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/28/917747287/the-everlasting-problem",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/27/810095460/from-steel-city-to-a-service-economy-changing-times-in-pueblo-colo",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/02/919532786/how-we-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/14/902659709/week-in-politics-democratic-ticket-and-trumps-usps-moves",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/06/899748740/fresh-air-remembers-veteran-journalist-pete-hamill",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/25/883269587/christine-baranski-on-putting-up-a-good-fight-during-this-dystopian-era",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2020/10/30/pennsylvania-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2020/07/13/economy-checkin-covid-surges-again",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/06/812989349/irish-voters-blow-up-2-party-system",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/22/936933838/hold-the-champagne-what-happens-when-neither-party-gets-to-celebrate-the-electio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/05/931836707/how-latino-voters-broke-expectations-this-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/04/931223865/2020-presidential-race-its-all-over-but-the-final-vote-tallies",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/03/930919841/election-day-updates-what-voting-looks-like-in-detroit",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/03/930696519/tracy-chapman-returns-to-sing-of-revolution-on-the-eve-of-election-day",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/28/928336749/trump-has-weaponized-masculinity-as-president-heres-why-it-matters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/13/923170402/presidential-campaigns-visit-key-states-as-novembers-election-nears",
+            "bias": "working class"
+        },
+        {
+            "link": "https://the1a.org/segments/white-working-class-suburbs-trump/",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/10/921583854/despite-surge-in-volunteers-some-swing-states-still-need-poll-workers",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/07/921287242/vice-presidential-debate-preview",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/01/919006661/morning-news-brief",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/30/918846795/joe-biden-embarks-on-a-train-to-campaign-in-ohio-and-pennsylvania",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/16/913693671/how-party-leaders-get-ready-for-the-election-in-pivotal-pennsylvania-county",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/13/912055824/so-skeptical-as-election-nears-iowa-senator-under-pressure-for-covid-19-remarks",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/01/908327619/markey-fends-off-kennedy-challenge-in-high-profile-mass-senate-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/30/907720070/nyt-reporter-discusses-economic-influence-in-2020-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/23/905181724/politics-chat-republicans-gear-up-for-national-convention",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/22/904847069/shedding-big-hats-and-hoopla-democrats-find-love-online",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/05/899230696/activist-cori-bush-ousts-rep-william-lacy-clay-jr-in-missouri-primary-upset",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/17/892393037/former-school-principal-unseats-longtime-rep-eliot-engel-of-new-york",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/12/889895073/you-havent-heard-the-last-of-iowa-this-election-cycle",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/08/889189235/democratic-task-forces-deliver-biden-a-blueprint-for-a-progressive-presidency",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/26/884039330/president-trumps-attempts-to-define-and-disqualify-biden-are-having-mixed-result",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/26/883257716/house-vote-friday-would-make-d-c-the-51st-state-trump-and-the-senate-say-no",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/29/847517729/poll-half-of-americans-financially-affected-by-coronavirus",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/11/814603309/what-the-michigan-primary-says-about-what-could-happen-in-november",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/10/813879277/joe-biden-spent-years-embracing-michigan-now-he-hopes-voters-return-the-favor",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/09/813763812/as-biden-campaigns-in-michigan-detroit-voters-could-be-key-to-his-fortunes",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/08/813486514/where-voters-are-young-caretaker-in-washington-state",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/04/812091068/bloomberg-backs-biden",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/04/811785729/biden-surges-on-super-tuesday-transforming-democratic-primary-into-2-man-race",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/810813892/4-takeaways-from-joe-bidens-big-win-in-south-carolina",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/28/810135605/joe-bidens-campaign-is-on-the-line-in-south-carolina",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/26/809741212/texas-primary-and-its-massive-delegate-haul-takes-shape-for-super-tuesday",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/12/805397048/what-to-take-away-from-the-new-hampshire-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/11/804941346/what-democrats-want-to-see-happen-during-the-new-hampshire-primary",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/23/937876742/morning-news-brief",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/21/937448420/michigan-rep-elissa-slotkin-discusses-presidential-election-results",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/07/932602062/world-leaders-react-to-biden-win",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/23/927259664/revisiting-voters-in-pueblo-colo",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/29/918317542/what-to-expect-from-1st-presidential-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/29/918281941/biden-harris-release-2019-tax-returns-hours-before-the-first-debate",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/23/905266603/latin-musician-prince-royce-on-his-dnc-appearance",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/10/889653170/trump-biden-focus-campaigns-on-economic-reform",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/10/889500483/keisha-lance-bottoms-a-possible-biden-vp-pick-sees-profile-rise-amid-crises",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/11/832360532/bidens-campaign-shifts-to-winning-over-supporters-of-his-former-rivals",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/10/830853819/joe-biden-won-the-primary-now-hes-trying-to-win-over-progressive-groups",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/11/814603281/biden-campaign-manager-surveys-the-path-ahead-to-democratic-nomination",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/07/812903782/why-progressives-chose-bernie-sanders-over-elizabeth-warren",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/05/812644943/sen-elizabeth-warren-ends-presidential-bid",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/05/812514773/elizabeth-warren-drops-presidential-bid",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/03/811722618/biden-rides-wave-of-endorsements-from-former-rivals-into-super-tuesday",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/03/810400793/coronavirus-spreads-in-iran-piling-more-problems-on-the-sanctions-hit-country",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/810996421/israel-elections-preview",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/25/809368236/democratic-candidates-debate-in-south-carolina-ahead-of-primary-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/20/807873768/sen-elizabeth-warren-back-in-media-spotlight-after-nevada-debate-performance",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/09/25/917052825/what-to-know-about-those-200-drug-cards-president-trump-promised",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/12/19/947792137/in-georgia-runoffs-dems-are-running-hard-on-health-care-republicans-not-so-much",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/12/09/944274246/trump-team-proposes-a-rule-that-could-stall-bidens-health-care-agenda",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/15/934586955/house-democrats-dissect-what-went-wrong-and-how-to-rebound-from-losses",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/11/11/933522346/biden-wants-to-lower-medicare-eligibility-age-to-60-but-hospitals-push-back",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/08/932880767/democratic-representative-elect-cori-bush-wants-to-bring-home-change",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/11/08/932505879/biden-agenda-to-face-the-challenges-of-a-closely-divided-congress",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/11/08/930887069/hold-president-elect-biden-has-a-plan-to-combat-covid-19-heres-what-s-in-it",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/10/28/928392673/coronavirus-is-a-key-campaign-issue-whats-joe-biden-s-plan",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/26/927453369/outspent-in-the-homestretch-trump-campaign-says-its-ground-game-is-stronger",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/23/927257396/trump-tries-to-win-over-key-demographic-groups-in-narrowing-path-to-victory",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/23/926844747/trump-and-biden-had-a-real-debate-and-4-other-takeaways",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/13/923255445/biden-and-trump-key-in-on-seniors-in-campaigns-final-weeks",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/10/11/922756232/what-older-arizona-voters-are-looking-for-ahead-of-the-november-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/09/30/918500976/trump-derails-first-presidential-debate-with-biden-and-5-other-takeaways",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/25/905895428/republicans-blast-democrats-as-socialists-heres-what-socialism-is",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/24/905536254/sen-rick-scott-on-the-gop-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/19/903698102/4-takeaways-from-night-2-of-the-democratic-national-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/18/903616287/highlights-of-the-day-2-of-the-democratic-national-convention",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/15/902756963/trumps-attacks-on-harris-are-a-return-to-familiar-territory",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/14/902659744/trump-campaign-uses-racist-and-sexist-tropes-to-attack-kamala-harris",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/11/901519441/rep-jim-clyburn-comments-on-bidens-decision-to-pick-harris-as-his-running-mate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/11/901510346/kamala-harris-1st-california-democrat-on-a-major-party-presidential-ticket",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/08/11/901495833/trump-tweets-his-campaign-s-ad-targeting-harris-minutes-after-biden-announces-vp",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/27/895800425/democrats-meet-virtually-to-approve-platform-that-builds-off-of-biden-sanders-ef",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/19/892757775/politics-chat-a-look-at-trump-and-bidens-election-strategies-amid-the-pandemic",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/07/12/890148604/former-centers-for-medicare-and-medicaid-administrator-on-our-future-with-covid-",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/30/884625852/tuesdays-primaries-5-races-to-watch-in-colorado-utah-and-oklahoma",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/06/28/883922991/one-of-democrats-top-senate-recruits-stumbles-amid-protests",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/19/858688166/democrats-bet-health-care-will-deliver-2020-victories",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/14/854433511/the-pros-and-cons-of-12-potential-running-mates-for-joe-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/05/13/855203151/biden-and-sanders-announce-task-forces-to-find-party-unity-over-policy",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/30/847394602/biden-announces-vice-presidential-search-committee",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/17/818952460/did-gender-keep-democratic-women-from-winning-the-primary",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/13/833623325/sanders-endorses-biden-for-president",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/04/11/832025550/bidens-health-play-in-a-covid-19-economy-lower-medicares-eligibility-age-to-60",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/09/830728501/8-key-moments-that-helped-define-bernie-sanders-presidential-runs",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/08/830205848/bernie-sanders-leaves-2020-presidential-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/08/829067136/bernie-sanders-weighs-the-toughest-decision-of-his-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/04/08/814291136/bernie-sanders-is-suspending-his-presidential-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/29/822749003/facing-likely-defeat-bernie-sanders-campaign-found-a-new-cause",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/16/816302584/4-takeaways-from-the-biden-sanders-debate-during-the-coronavirus-crisis",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/15/815828802/sanders-vs-biden-debate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/14/815778371/how-president-trump-and-his-democratic-rivals-are-balancing-crisis-and-campaigni",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/14/815691981/candidates-face-a-twin-challenge-the-crisis-and-the-campaign",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/12/814717480/sanders-offers-biden-a-path-to-win-over-his-movement",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/06/812989377/progressives-rally-around-bernie-sanders",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/06/811611247/biden-outperforming-sanders-in-counties-with-lower-incomes-more-voters-of-color",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/05/805052138/sen-elizabeth-warren-drops-out-of-the-2020-presidential-race",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/02/811338247/a-look-back-at-the-now-suspended-presidential-campaign-of-mayor-pete",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/02/811338149/how-the-end-of-klobuchars-campaign-and-other-endorsements-affect-biden",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/02/811133629/news-brief-coronavirus-outbreak-2020-campaign-israel-election",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/03/01/802023529/pete-buttigieg-suspends-presidential-bid",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/28/810150316/bernie-tv-how-the-sanders-campaigns-live-videos-help-it-build-community",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/28/810133150/if-south-carolina-is-joe-bidens-firewall-tom-steyer-wants-to-breach-it",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/02/26/809256960/insurers-sank-connecticut-s-public-option-whats-that-mean-for-the-u-s",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/25/809136019/foresight-2020-medicare-for-all",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://the1a.org/segments/foresight-2020-medicare-for-all/",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/23/808536303/after-the-nevada-caucuses-bernie-sanders-is-the-man-to-beat",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/22/808535642/nevada-caucuses-latest",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/22/808503311/sanders-projected-to-win-nevada-caucuses-solidifing-status-as-front-runner",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/22/808404865/nevada-caucuses-bring-focus-to-a-more-diverse-electorate",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/12/805155617/klobuchars-3rd-place-finish-in-new-hampshire-shocked-the-establishment",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/12/798296505/deval-patrick-ends-his-presidential-bid",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/10/804616708/divide-between-moderate-and-progressive-democrats-comes-to-fore-in-new-hampshire",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/09/804232460/week-in-politics-which-way-will-democratic-moderates-go-in-new-hampshire",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/07/803649933/iowa-keeps-getting-messier-5-takeaways-from-the-caucuses-near-tie",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/04/802737735/what-to-expect-going-forward-from-iowa-to-new-hampshire",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/03/802392377/democratic-candidates-make-their-last-pitches-in-iowa-before-caucuses",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/02/801995382/social-media-influencers-role-in-2020-candidate-endorsements",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/801321664/why-many-progressives-say-theyve-come-back-to-bernie-sanders",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/31/800975243/as-caucus-day-nears-iowa-voters-guided-by-big-health-care-changes",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/30/801323565/why-many-progressives-say-theyve-come-home-to-bernie-sanders",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/01/29/800652075/u-s-elections-2020-understanding-whats-at-stake-for-health-care",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/24/799358615/democratic-presidential-campaigns-continue-even-with-senators-tied-to-washington",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/22/798581394/biden-and-sanders-amp-up-criticism-as-polls-show-them-separating-from-field",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2020/01/14/796246568/medicare-for-all-a-public-option-health-care-terms-explained",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2020/01/03/792612929/with-a-month-to-go-before-iowa-and-new-hampshire-anything-can-happen",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2020
+}

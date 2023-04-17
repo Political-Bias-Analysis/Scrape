@@ -1,0 +1,179 @@
+{
+    "Biases": [
+        "Abortion",
+        "pro-life",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/04/08/398224643/tv-ads-financed-with-secret-money-attack-paul-on-day-1-of-presidential-bid",
+            "bias": "pro-life"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/20/460464091/cruz-already-targeting-march-voting-states",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/03/458304236/senate-expected-to-pass-bill-to-defund-planned-parenthood-repeal-health-law",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/30/444777841/a-warning-to-both-parties-on-planned-parenthood-and-abortion",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/09/29/444527485/despite-calls-for-defunding-support-for-planned-parenthood-holds-steady",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/17/441163973/as-tea-party-again-aims-for-boehner-gop-leadership-rallies-around-him",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/08/25/434667313/ted-cruz-rallies-evangelicals-over-campaign-to-defund-planned-parenthood",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/08/18/432671169/feeling-momentum-fiorina-visits-the-iowa-state-fair",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/14/459642064/why-ted-cruz-could-have-a-real-shot-at-the-gop-nomination",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/06/458635806/a-potential-act-of-terrorism-tests-a-president-and-americans-nerves",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/10/19/449862226/gop-event-underscores-that-religious-voters-arent-forgotten",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/10/15/448956315/republicans-hand-hillary-clinton-another-gift-on-benghazi",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/10/13/448434527/democratic-fight-night-in-vegas-begins",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/10/05/445885201/the-supreme-courts-new-term-heres-what-to-watch",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/09/30/444790859/congress-passes-funding-bill-to-avoid-government-shutdown",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/28/443986579/marco-rubio-president-obama-has-strengthened-putins-hand",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/25/443563714/a-modest-proposal-donald-trump-for-speaker",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/25/443217357/at-crisis-pregnancy-center-carly-fiorina-renews-opposition-to-abortion",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/21/440664321/5-reasons-boehner-wont-be-ousted-and-5-reasons-he-wont-stick-around",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/18/441293531/yes-people-are-placing-bets-on-politics-heres-how",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2015/06/25/417431609/supreme-court-upholds-obamacare-subsidies",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/06/04/411912426/top-stories-chinese-cruise-ship-disaster-plutos-odd-moons",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/05/27/409835451/5-things-you-should-know-about-rick-santorum",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/03/20/394099497/-nprreads-from-supreme-court-justice-to-the-notorious-r-b-g",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/01/03/374562457/from-pulpit-to-politics-a-pastor-takes-her-work-to-the-wider-world",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/05/446104478/supreme-court-faces-controversial-docket-as-new-term-opens",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/04/445751150/cases-to-watch-as-supreme-court-resumes-session",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/01/444912642/if-kevin-mccarthy-wins-speakership-his-challenges-will-be-immediate",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/04/458513620/weekly-roundup-friday-december-4",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/09/26/443691921/boehners-resignation-may-make-a-government-shutdown-less-likely",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/06/30/418924555/new-jersey-gov-chris-christie-launches-presidential-campaign",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/12/05/458612046/barbershop-san-bernardino-chicago-and-the-yellow-brick-road",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2015/09/16/440821614/author-discusses-francis-a-pope-seeking-to-change-the-tone-of-the-church",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2015/02/16/386768833/lesley-gore-famous-for-her-song-its-my-party-has-died",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/07/12/421752664/power-of-the-pocketbook-women-gaining-influence-as-campaign-donors",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2015/10/15/448924058/journalist-describes-how-the-freedom-caucus-hijacked-congress",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2015/09/15/440363012/a-rational-conversation-do-we-need-new-old-soul-music",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2015/07/09/421462180/from-doma-to-marriage-equality-how-the-tide-turned-for-gay-marriage",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2015/11/08/455130985/one-year-before-2016-election-voters-share-messages-for-candidates",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/09/09/438873030/everything-you-wanted-to-know-about-jeb-bushs-tax-plan",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2015/07/07/420963695/clinton-blames-the-right-for-trust-attacks",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2015/05/08/405260400/week-in-politics-new-presidential-candidates-u-k-elections",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2015
+}

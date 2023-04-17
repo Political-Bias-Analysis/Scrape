@@ -2,7 +2,11 @@
     "Biases": [
         "immigration",
         "undocumented",
-        "asylum seekers"
+        "asylum seekers",
+        "refugees",
+        "nationalism",
+        "border",
+        "xenophobia"
     ],
     "Links": [
         {
@@ -535,15 +539,1039 @@
         },
         {
             "link": "https://www.cnn.com/2022/06/15/us/five-things-june-15-trnd/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2022/11/11/opinions/ron-desantis-florida-victory-meaning-hemmer/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
         },
         {
             "link": "https://www.cnn.com/2022/06/30/opinions/boris-johnson-ukraine-eu-brexit-kiley/index.html",
-            "bias": "asylum+seekers"
+            "bias": "asylum seekers"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/22/us/five-things-june-22-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/16/us/five-things-march-16-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/03/us/five-things-march-3-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/01/us/five-things-march-1-trnd/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/politics/ruwa-romman-elected-muslim-palestinian-georgia-house-of-representatives-ctrp/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/18/politics/georgia-secretary-of-state-debate-raffensperger-nguyen/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/17/politics/charlie-crist-governor-joe-biden-desantis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/21/politics/stolen-presidential-election-government-effect-ctzn/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/secretary-of-state-races-2022-ctzn/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/23/politics/bee-nguyen-georgia-secretary-state-primary/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/11/politics/russia-ukraine-war-next-phase/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/31/politics/donald-trump-vladimir-putin-hunter-biden/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/28/politics/poland-biden-putin-remarks-ukraine-analysis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/27/politics/2022-midterm-elections-russia-ukraine-invasion/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/23/politics/albright-putin-russia-ukraine-analysis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/09/politics/government-omnibus-spending-bill-2022/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/10/politics/pence-ukraine-poland-border/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/01/politics/biden-sotu-russia-ukraine-analysis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2013/02/22/us/john-lewis-fast-facts/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/27/opinions/republican-george-santos-congress-test-filipovic/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/29/opinions/jared-kushner-book-memoir-trump-bergen/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/15/opinions/taiwan-independence-china-ukraine-war-intl-hnk-han/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/14/opinions/lebanon-election-women-politics-as-equals-geha/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/28/opinions/putin-created-unexpected-opportunity-future-of-democracy-ghitis/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/21/opinions/the-first-lady-eleanor-roosevelt-betty-ford-michelle-obama-hemmer/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/30/opinions/orban-hungary-election-putin-eu-ben-ghiat/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/27/opinions/biden-putin-democracy-power-obeidallah/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/27/opinions/ginni-thomas-supreme-courts-reputation-weekly-column-galant/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/09/opinions/canadians-fear-us-democracy-collapse-obeidallah/index.html",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/24/us/white-christian-nationalism-blake-cec/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/04/politics/evan-mcmullin-attack-ad-utah-fact-check/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2019/04/09/us/beto-orourke-fast-facts/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/18/politics/trumpism-on-trial-bannon-jan-6-hearing/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/15/politics/trump-2024-republican-presidential-primary/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/19/politics/trump-pennsylvania-election-fraud-lies/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/16/politics/liz-cheney-gop-buffalo-shooting-white-supremacy/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/16/politics/analysis-buffalo-shooting-us-insecurity-division/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/28/politics/ukraine-war-world-costs-analysis/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/17/politics/nevada-2022-democrats-republicans-france-election/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/06/politics/republican-paul-gosar-white-nationalists-kfile/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/26/politics/liz-cheney-greene-gosar-republican-white-nationalist-event/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/23/politics/vladimir-putin-russia-trump-ukraine-gop-what-matters/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/04/politics/biden-putin-russia-ukraine/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/31/politics/donald-trump-capitol-riot-pardons-2024-republicans/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/06/politics/january-6-race-deconstructed-newsletter/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2020/02/22/politics/civil-rights-white-supremacy-trump-jerry-mitchell/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/30/opinions/hakeem-jeffries-house-democratic-leader-joseph/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/13/opinions/five-lessons-midterms-opinion-columns-galant/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/07/opinions/midterm-elections-reader-response-voting-motivations/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/opinions/netanyahu-israel-election-comeback-gvir-miller/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/30/opinions/democrats-republicans-midterm-elections-filipovic/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/31/opinions/greek-goddess-smiling-climate-column-galant/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/27/opinions/christian-nationalism-marjorie-taylor-greene-tyler/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/22/opinions/bjp-hindu-muslim-democracy-modi-arundhati-roy/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/20/opinions/macron-france-biden-andelman/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/22/opinions/pete-davidson-snl-farewell-gop-obeidallah/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/05/opinions/white-nationalism-january-6-dire-warning-bergen/index.html",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/31/us/top-100-digital-stories-2022-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/23/us/five-things-october-23-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/14/us/five-things-october-14-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/12/us/five-things-september-12-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/us/five-things-august-23-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/29/us/five-things-june-29-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/01/us/uvalde-shooting-police-chief-pete-arredondo/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/us/live-news/texas-elementary-school-shooting-05-25-22/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/19/us/five-things-april-19-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2015/01/09/us/willie-nelson-fast-facts/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/11/us/five-things-april-11-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/11/us/five-things-february-11-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/06/us/five-things-february-6-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/28/us/five-things-january-28-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/us/five-things-january-26-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/24/us/five-things-january-24-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/21/us/five-things-january-21-trnd/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/15/politics/schumer-pelosi-interview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/12/politics/spending-showdown-divided-washington-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/07/politics/trump-republicans-georgia-senate-race/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/georgia-senate-race-12-04-22/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/georgia-senate-race-12-01-22/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/12/01/politics/vladimir-putin-ukraine-biden-macron/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/politics/georgia-senate-herschel-walker-texas-kfile/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/30/politics/kevin-mccarthy-donald-trump-oath-keepers-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/politics/georgia-senate-runoff-warnock-walker-kemp/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/29/politics/mike-pence-donald-trump-nick-fuentes/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/28/politics/political-showdowns-america-future-year-end/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/21/politics/joe-biden-reelection-2024-trump-republican/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/21/politics/trump-biden-probes-2024-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/nancy-pelosi-announcement-house-democrats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/17/politics/biden-white-house-preparations-republican-investigations/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/17/politics/house-republican-majority-reaction/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/16/politics/ron-desantis-donald-trump-2024-president/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/16/politics/house-majority-republican-plans/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/16/politics/trump-campaign-announcement-speech-2024/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/15/politics/biden-bali-g20-summit-final-day/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/15/politics/mayorkas-republicans-hearing/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/midterm-election-updates-11-14-22/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/14/politics/katie-hobbs-arizona-governors-race/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/11/politics/georgia-runoff-election-gop-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/10/politics/midterm-divided-nation-turbulent-2024-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/latino-voters-florida-midterms/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/09/politics/kari-lake-arizona-governor-race/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/08/politics/midterm-fractious-political-environment-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/07/politics/election-eve-campaigning/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/06/politics/2022-political-instability-fault-lines/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/05/politics/national-guard-surveillance-plane-fentanyl-kinzinger/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/03/politics/senate-race-rankings-november-elections/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/02/politics/new-hampshire-senate-debate-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/us-midterm-election-early-voting-11-01-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/politics/senate-control-biden-polling-fault-lines/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/11/01/politics/brian-kemp-trump-georgia-governor-race-cnntv/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/us-midterm-election-early-voting-10-31-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/31/politics/2022-midterm-election-senate-control-states/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/26/politics/kevin-mccarthy-house-gop-ukraine-funding-blank-check/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/26/politics/us-ukraine-aid-skepticism-putin-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/21/politics/pence-money-gop-midterm-candidates/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/18/politics/marjorie-taylor-greene-role-house-midterms/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/covid-19-report-house-democrats-trump-health-officials/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/joe-odea-donald-trump-colorado-senate/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/17/politics/governor-races-democrats-republicans-midterm-elections/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/14/politics/georgia-senate-debate-preview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/11/politics/tulsi-gabbard-leaves-democratic-party/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/04/politics/republicans-abortion-ads-midterm-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/10/03/politics/donald-trump-maggie-haberman-strategy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/27/politics/election-denialism-ron-desantis-donald-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/23/politics/biden-midterms-speech-dnc-nea/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/22/politics/white-house-political-activity-ramps-up/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/22/politics/house-republicans-midterm-mccarthy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/21/politics/marcy-kaptur-ohio-9-rust-belt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/17/politics/abortion-republicans-midterms-graham-bill/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/14/politics/fact-check-republican-senate-nominees-2020-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-new-hampshire-rhode-island-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/13/politics/new-hampshire-1-republican-primary-mowers-leavitt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/08/politics/steve-bannon-not-guilty-plea-surrender-border-wall-charges/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/07/politics/midterm-elections-congress-what-matters/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/06/politics/donald-trump-lindsey-graham-2024-president/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-florida-new-york-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/19/politics/trump-vulnerable-repulicans-midterm-elections/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-wyoming-alaska-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/13/politics/harriet-hageman-wyoming-primary-liz-cheney/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-wisconsin-vermont-minnesota/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/09/politics/primary-election-august-9-what-to-watch/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/08/politics/senate-bill-win-for-biden-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/07/politics/senate-democrats-climate-health-care-bill-vote/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/29/politics/jared-kushner-steve-bannon-west-wing/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/24/politics/texas-far-right-politics-invs/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/22/politics/arizona-governor-primary-trump-pence-proxy-fight/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/steve-bannon-trial-contempt-congress-07-19-22/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/18/politics/bannon-trial-begins-jan-6-subpoenas/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/18/politics/mike-pence-endorses-karrin-taylor-robson-arizona/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/17/politics/joe-biden-age-president-polls-inflation/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/16/politics/senate-trump-second-quarter-2022-fundraising/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/15/politics/house-republicans-investigation-plans-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/07/politics/doug-ducey-trump-arizona-karrin-taylor-robson/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/roe-wade-abortion-supreme-court-ruling/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/23/politics/americans-opinions-jan-6-hearings/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/21/politics/henry-cuellar-defeats-jessica-cisneros-texas/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/21/politics/trump-kevin-mccarthy-mike-pence/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/21/politics/alabama-virginia-georgia-dc-june21-primary-preview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/16/politics/charging-trump-fundraising-election-lies-high-bar/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/15/politics/mayra-flores-texas-republican-special-election/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/14/politics/january-6-trump-defenders-republicans/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/14/politics/june-14-primary-elections-preview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/13/politics/texas-special-election-flores-sanchez/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/10/politics/biden-summit-of-the-americas-takeaways-trump-bolsonaro/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/07/politics/primaries-what-to-watch/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/06/politics/jessica-cisneros-henry-cuellar-runoff-recount/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/05/politics/donald-trump-preparations-january-6-hearing/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/03/politics/peter-navarro-indicted/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/03/politics/paul-ryan-republicans-impeach-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/06/02/politics/summit-of-the-americas-scramble/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/01/politics/senate-race-rankings-may-elections/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/george-p-bush-texas-attorney-general-runoff/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/georgia-alabama-primary-elections-preview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/24/politics/biden-democracy-asia-trip-what-matters/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/21/politics/marjorie-taylor-greene-republican-georgia-primary/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/18/politics/republican-reaction-mastriano-win/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/12/politics/republican-lawmakers-subpoena-january-6/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/11/politics/florida-desantis-congressional-map/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/primary-election-results-west-virginia-nebraska-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/politics/live-news/ohio-indiana-primary-elections-results-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/10/politics/biden-inflation-speech/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/06/politics/dr-oz-mccormick-turkey-pennsylvania-senate/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/05/politics/abortion-supreme-court-draft-opinion-biden-midterms/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/politics/ohio-indiana-primary-winners-losers/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/04/politics/ohio-indiana-primary-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/ohio-indiana-house-primaries/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/03/politics/democrats-congress-reaction-abortion/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/29/politics/jd-vance-ohio-republican-senate-race/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/27/politics/ron-desantis-2024-nevada-laxalt/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/27/politics/mccarthy-comments-trump-defenders-gop-conference/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/27/politics/biden-trip-asia-south-korea-japan/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/27/politics/mccarthy-courts-extremists-power-analysis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/26/politics/january-six-meadows-mccarthy-marjorie-taylor-greene/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/26/politics/kevin-mccarthy-trump-resign-jan-6/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/22/politics/marjorie-taylor-greene-disqualification-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/21/politics/trump-desantis-republican-party/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/20/politics/house-democrats-republican-midterm-flip/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/15/politics/jd-vance-republican-strategy-trump/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/01/politics/filemon-vela-special-election-texas-34-congress/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/29/politics/desantis-vetoes-florida-congressional-map/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/16/politics/pence-trump-putin-republicans/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/14/politics/donald-trump-south-carolina-speech/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/08/politics/republicans-senate-majority-democrats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/02/politics/texas-ag-paxton-bush-trump-runoff/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/02/politics/texas-2022-primary-election-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/01/politics/mcconnell-nrsc-scott-rescue-america/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/03/01/politics/voting-texas-primary-2022/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/25/politics/texas-attorney-general-primary-gop/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/23/politics/trump-clay-travis-interview/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/23/politics/donald-trump-vladimir-putin-joe-biden/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/22/politics/rick-scott-plan-republicans/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/22/politics/ukraine-vladimir-putin-us-diplomacy-russia/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/20/politics/fiona-hill-donald-trump-joe-biden/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/18/politics/dhs-pushes-back-gop-terrorism-bulletin-police-thought/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/18/politics/kamala-harris-munich-security-conference/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/16/politics/us-russia-defense-contractors-hackers/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/16/politics/joe-biden-ukraine-russia-domestic/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/15/politics/fact-check-canadian-protests-polls-trudeau-support-oppose-truckers-mandates/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/15/politics/us-russia-ukraine-misinformation/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/02/politics/republican-strategy-supreme-court-fight/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/28/politics/gop-trump-russia-ukraine/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/28/politics/joe-biden-pittsburgh-trip/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/27/politics/nikki-haley-biden-resign/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/25/politics/mitch-mcconnell-midterm-strategy/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/25/politics/joe-biden-ukraine-russia-china-iran/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/24/politics/joe-biden-ukraine-russia-republicans/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/21/politics/joe-biden-vladimir-putin-us-russia-ukraine/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/19/politics/biden-news-conference/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/19/politics/biden-news-conference-important-takeaways/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/13/politics/joe-biden-day-of-defeats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/13/politics/rockets-green-zone-baghdad/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/13/politics/republican-majority-investigation-plans-midterms/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/09/politics/violent-extremism-fears-nationwide/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/07/politics/russia-us-ukraine-sanctions/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/05/politics/blinken-russia-two-paths/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/01/politics/joe-biden-2022-pandemic-russia-ukraine-congress-democrats/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/16/opinions/midterms-inflation-risk-democrats-dent/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/09/11/opinions/queen-elizabeth-prophecy-opinion-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/08/23/opinions/midterm-elections-forecast-democrats-rosen-kosar/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/07/12/opinions/bannon-trump-ploy-eisen-aftergut/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/05/28/opinions/donald-trump-chaos-bergen/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/24/opinions/unmasking-american-opinion-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/03/opinions/putin-endless-war-weekly-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/01/opinions/putin-lies-negotiations-ukraine-ghitis/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/28/opinions/texas-primary-gop-candidates-moore/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/27/opinions/the-price-putin-will-pay-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/23/opinions/donald-trump-praises-putin-dantonio/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/20/opinions/san-francisco-wake-up-call-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/07/opinions/french-president-macron-putin-whisperer-andelman/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/06/opinions/olympics-overshadowed-by-war-threat-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/31/opinions/germany-vulnerable-to-russia-ukraine-loss/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/30/opinions/neil-young-covid-battle-lines-column-galant/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/26/opinions/mcconnell-trump-midterm-strategy-heye/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/01/24/opinions/european-parliament-anti-abortion-president-pierson/index.html",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.cnn.com/2022/04/20/us/denver-apologizes-anti-chinese-riot-cec/index.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.cnn.com/2022/02/23/politics/justice-department-china/index.html",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2022

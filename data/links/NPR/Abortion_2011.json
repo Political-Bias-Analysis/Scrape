@@ -1,0 +1,246 @@
+{
+    "Biases": [
+        "Abortion",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/10/07/141161028/rick-perry-tells-values-voter-summit",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2011/07/28/138798144/abortion-rights-group-faults-republican-presidential-field",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2011/07/14/137848984/restrictions-on-abortions-multiply-this-year",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2011/07/02/137557268/abortion-wars-taking-it-to-the-states",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/03/28/134882628/geraldine-ferraro-a-political-trail-blazer-for-women-is-dead",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/02/18/133865739/house-abortion-debate-gets-personal-lawmaker-tells-her-story",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2011/01/21/133090776/after-health-care-repeal-gop-targets-abortion",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2011/11/29/142827112/mitt-romneys-evolution-on-abortion",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/11/09/142176295/voters-tell-ideologues-stop-drinking-your-own-kool-aid",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/09/142097521/how-birth-control-and-abortion-became-politicized",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/06/142072769/what-to-watch-for-this-election-day",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/28/141758141/could-gingrich-be-next-gop-challenger-to-surge",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/10/20/141556101/is-herman-cain-in-trouble-with-social-conservatives",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/20/140449957/gov-perry-cut-funds-for-womens-health-in-texas",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/23/137350265/gop-hopefuls-divided-over-anti-abortion-pledge",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/06/20/137301874/mitt-romney-target-of-gop-criticism-for-abortion-healthcare-libya-stances",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/04/29/135850964/gov-daniels-will-sign-bill-banning-state-funding-for-planned-parenthood",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/13/135381542/will-budget-deal-affect-obamas-chances-for-re-election",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/04/13/135376202/rep-tim-scott-planned-parenthood-was-valid-target-on-spending-grounds",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/13/135354952/planned-parenthood-makes-abortion-foes-see-red",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/07/134337001/Budget-Battle-Threatens-Planned-Parenthood-Funds",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/02/18/133877696/planned-parenthood-radio-ads-to-target-congressional-opponents",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2011/12/23/144194693/another-mass-protest-expected-in-russia-this-weekend",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/15/143791880/after-protests-russias-putin-takes-to-the-airwaves",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2011/12/15/143780583/during-call-in-show-vladimir-putin-dimisses-russian-protesters",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/12/09/143436013/obama-plan-b",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2011/11/09/142184556/personhood-divides-anti-abortion-groups",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/02/141900772/miss-set-to-vote-on-measure-making-fetus-a-person",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/11/141228228/the-nation-romneys-toughest-talking-points",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/10/05/141073182/the-nation-how-obama-is-jeopardizing-health-care",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/10/137101477/new-republic-weird-republicans-dont-stand-a-chance",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/07/136998217/foreign-policy-shifty-merkel-pulls-the-plug",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/03/136917938/new-republic-he-saved-pizza-but-can-he-save-gop",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/05/23/136549208/post-mitch-daniels-gop-nomination-fight-still-looks-bloody",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/05/20/136497574/pelosi-you-cant-let-their-anger-take-you-down",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/05/09/136139478/florida-democrat-talks-deficit-reduction",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/12/135352906/deficit-forces-question-what-is-governments-role",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/10/135289353/despite-agreement-budget-details-slow-to-emerge",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/04/09/135234353/deal-averting-shutdown-proves-compromise-is-alive-if-not-well",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2011/04/08/135231938/no-budget-deal-yet-nato-hits-libyan-rebels",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/07/135202139/the-nation-blame-both-parties-for-shutdown-threat",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2011/03/31/134996496/democrats-republicans-appear-to-step-back-from-budget-brink",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/16/134425357/states-abortion-legislation-questioned-by-critics",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/sections/health-shots/2011/02/09/133596340/gop-takes-latest-abortion-fight-to-the-tax-code",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/08/01/138891494/bertha-lewis-from-acorn-to-the-black-institute",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/05/11/136205481/reviewing-abortion-bills-around-the-nation",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/04/11/135306786/politics-update",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/30/144495487/johnson-discusses-opting-to-seek-libertarian-nomination",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/09/142174276/winners-losers-from-off-year-elections",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/30/142934089/new-republic-will-obama-run-a-negative-campaign",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/02/21/133941176/Op-Ed-Time-For-A-New-Approach-To-Abortion-Rights",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/06/09/137080518/did-you-just-say-the-s-word",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/03/04/134257733/the-root-the-misjudged-black-vote-on-gay-marriage",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/09/19/140590429/obama-to-propose-deficit-reduction-plan",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2011/09/19/140591817/five-things-to-know-about-obamas-deficit-plan",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/05/23/136583949/bill-moyers-shares-favorite-journal-interviews",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/29/144435710/will-ron-pauls-past-cost-him-in-iowa",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/12/08/143281791/gingrichs-path-from-flameout-to-d-c-entrepreneur",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2011/11/18/142472806/to-imagine-a-gingrich-presidency-look-to-the-90s",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2011
+}

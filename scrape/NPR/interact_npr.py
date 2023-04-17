@@ -21,15 +21,21 @@ def get_websites(bias, all_links):
         for item in results:
             href = item.find_element(By.CLASS_NAME, "title").find_element(By.TAG_NAME, 'a').get_attribute("href")
             if check_valid(href) and href not in all_links:
-                all_links.add(href)
                 print(href)
-                date = item.find_element(By.CLASS_NAME, "date").text
-                articles[get_year(date)].append({"links": href, "bias": bias})
-                count += 1
+                try:
+                    date = item.find_element(By.CLASS_NAME, "date").text
+                    all_links.add(href)
+                    articles[get_year(date)].append({"link": href, "bias": bias})
+                    count += 1
+                except:
+                    pass
         next_pg = driver.find_elements(By.CLASS_NAME, "ais-InfiniteHits-loadMore")
         if len(next_pg):
-            next_pg[0].click()
-            time.sleep(1)
+            try:
+                next_pg[0].click()
+                time.sleep(1)
+            except:
+                break
         else:
             break
             
@@ -51,10 +57,10 @@ def check_valid(href):
 if __name__ == "__main__":
     
     MEDIA_NAME = "NPR"
-    MAIN_BIAS, EXISTS = "immigration", False
-    biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
+    MAIN_BIAS, EXISTS = "socioeconomic", True
+    biases = ["socioeconomic", "poverty line", "working class", "middle class", "medicare"]
     
-    cur_bias = biases[0]
+    cur_bias = biases[4]
     
     all_links = get_all_links(MEDIA_NAME)
     dict_links = get_websites(cur_bias, all_links)

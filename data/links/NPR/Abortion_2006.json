@@ -1,0 +1,42 @@
+{
+    "Biases": [
+        "Abortion",
+        "planned parenthood",
+        "reproductive rights"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2006/02/19/5223935/talent-shifts-stance-on-stem-cell-research",
+            "bias": "Abortion"
+        },
+        {
+            "link": "https://www.npr.org/2006/09/12/6062905/for-santorum-race-momentum-swings",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/08/6450160/supreme-court-considers-abortion-ban-arguments",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/09/6209492/abortion-referendum-sparks-debate-in-s-d",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2006/03/31/5316463/freedom-of-information-act-losing-its-power",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2006/03/21/5291623/conservative-black-pastor-set-sights-on-senate",
+            "bias": "planned parenthood"
+        },
+        {
+            "link": "https://www.npr.org/2006/10/18/6290770/voters-face-range-of-issues-on-state-ballots",
+            "bias": "reproductive rights"
+        },
+        {
+            "link": "https://www.npr.org/2006/11/27/6543594/jimmy-carter-on-conflict-in-the-middle-east",
+            "bias": "reproductive rights"
+        }
+    ],
+    "Year": 2006
+}

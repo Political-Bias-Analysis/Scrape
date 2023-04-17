@@ -1,19 +1,177 @@
 {
     "Biases": [
-        "immigration"
+        "immigration",
+        "undocumented",
+        "refugees",
+        "nationalism",
+        "border",
+        "Dreamers",
+        "xenophobia"
     ],
     "Links": [
         {
-            "links": "https://www.npr.org/sections/talk/2007/12/immigration_issue_in_iowa_2.html",
+            "link": "https://www.npr.org/sections/talk/2007/12/immigration_issue_in_iowa_2.html",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2007/10/09/15119040/krugman-income-inequality-pricks-conscience",
+            "link": "https://www.npr.org/2007/10/09/15119040/krugman-income-inequality-pricks-conscience",
             "bias": "immigration"
         },
         {
-            "links": "https://www.npr.org/2007/08/29/7365553/rep-tom-tancredo-r-co",
+            "link": "https://www.npr.org/2007/08/29/7365553/rep-tom-tancredo-r-co",
             "bias": "immigration"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/12/17158939/huckabee-leads-ahead-of-gops-last-iowa-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/04/16898435/transcript-npr-democratic-candidates-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/04/16876030/debate-check-behind-democrats-responses",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/04/16843353/iran-sparks-fireworks-at-democratic-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/03/16822242/iowa-town-feels-impact-of-immigration-debate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/11/16/16352022/democratic-presidential-hopefuls-take-on-las-vegas",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/11/15/16332979/immigration-among-iowa-voters-top-concerns",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/31/15817061/candidates-weigh-illegal-immigrants-driving-rights",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/06/10757375/republican-candidates-debate-in-new-hampshire",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/11/05/15996993/voters-candidates-weigh-illegal-immigration-in-virginia",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/10/08/15097316/vicente-fox-discusses-the-revolution-of-hope",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/28/14810449/virginia-county-to-vote-on-illegal-immigration-rules",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/02/11654296/immigration-bill-defeated-part-ii",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/02/11654293/immigration-bill-defeated-whats-next",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/28/11523358/immigration-bill-dies-in-the-senate",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/18/10258219/politics-affects-immigration-bill",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/01/9946769/border-town-residents-fight-new-towers",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/01/9946766/turnout-is-lower-at-l-a-immigration-rallies",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/01/9938475/low-turnout-seen-for-immigration-rallies",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/02/02/7145421/latino-usa",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/02/02/7144370/latino-usa",
+            "bias": "undocumented"
+        },
+        {
+            "link": "https://www.npr.org/2007/11/29/16747749/gop-candidates-raise-ethics-question-in-debate",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2007/04/01/9269300/south-africa-absorbs-zimbabwe-refugees",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2007/03/05/7696239/sam-brownback-bleeding-heart-conservative",
+            "bias": "refugees"
+        },
+        {
+            "link": "https://www.npr.org/2007/02/16/7455092/nationalism-has-turkeys-intellectuals-on-edge",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/01/22/6937679/serb-elections-results-leave-questions",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/16/17295332/indias-modi-faces-voters",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/11/17122670/indias-gujarat-state-may-signal-political-future",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/07/23/12178331/secularists-wary-of-turkish-partys-roots-in-islam",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/05/05/10022959/independent-scottish-spirit-shows-at-the-polls",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/01/21/6933772/serb-vote-eyed-as-gauge-of-eu-relations",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/20/14566803/a-profile-of-iraqs-anbar-province",
+            "bias": "nationalism"
+        },
+        {
+            "link": "https://www.npr.org/2007/08/04/12484396/mexican-governor-candidate-flaunts-eccentricities",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/12/10982642/turkish-troops-clamp-down-on-kurdish-rebels",
+            "bias": "border"
+        },
+        {
+            "link": "https://www.npr.org/2007/12/05/16945830/small-town-winesburg-reminds-writer-of-home",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/2007/09/24/14649350/pieces-of-immigration-bill-reassembled",
+            "bias": "Dreamers"
+        },
+        {
+            "link": "https://www.npr.org/sections/newsandviews/2007/10/clinton_bests_obama_in_campaig_1.html",
+            "bias": "xenophobia"
+        },
+        {
+            "link": "https://www.npr.org/2007/06/19/11188223/meet-the-candidates-tom-tancredo",
+            "bias": "xenophobia"
         }
     ],
     "Year": 2007

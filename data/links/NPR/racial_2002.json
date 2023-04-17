@@ -1,0 +1,16 @@
+{
+    "Biases": [
+        "racial"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2002/12/21/887696/race-and-politics-in-election-2002",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2002/12/04/865393/iranian-students",
+            "bias": "racial"
+        }
+    ],
+    "Year": 2002
+}

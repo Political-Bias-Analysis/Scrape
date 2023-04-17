@@ -1,0 +1,220 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2013/01/01/168393852/israeli-election-campaign-includes-much-maneuvering",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/therecord/2013/12/07/195281915/the-mandela-playlist-a-life-and-legacy-told-in-music",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/11/20/cities-solve-problems",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/28/179270705/irans-political-scene-is-sketchy-for-cartoonists",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/04/173440429/-the-papal-conclave-what-to-expect-from-the-next-pope",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/11/18/245995599/political-rookie-pulls-off-surprise-win-in-louisiana",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/11/03/242697106/newark-considers-what-life-will-be-like-after-cory-booker",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/11/25/247121572/ruling-party-leads-election-vote-totals-in-honduras",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/05/01/180304711/obama-crosses-the-border",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/04/173440433/state-of-emergency-cities-in-financial-crisis",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/03/11/174016641/president-obamas-older-half-brother-loses-election-in-kenya",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/21/169909886/resolute-rhetoric-obamas-confident-case-for-government",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/10/15/colorado-school-board",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/12/14/250911812/is-africa-following-nelson-mandela-s-lead",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/12/11/gay-rights-world",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/11/04/242958294/from-sulking-to-sanctions-a-street-level-view-of-life-in-iran",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/10/01/227867812/chris-matthews-looks-back-on-a-time-when-politics-worked",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://hereandnow.wbur.org/2013/08/22/lanier-online-data",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/27/179490501/conservative-shift-has-some-kansans-yearning-for-the-past",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/10/176706001/comandante-hugo-chavez-still-revered-despite-his-failings",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2013/03/22/174194673/unfit-for-work-the-startling-rise-of-disability-in-america",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/14/174269187/argentina-reacts-to-pope-francis",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/15/171812208/exclusive-first-read-the-summer-prince-by-alaya-dawn-johnson",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/17/169509521/in-connecticut-two-sides-of-a-deep-economic-divide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/15/169439486/bangkok-a-city-of-glitz-a-city-of-desperation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/13/174219070/cardinals-choose-argentinas-jorge-mario-bergoglio-as-new-pope",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/05/168678895/the-king-years-an-intersection-of-race-and-politics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/21/174943853/-school-closings-how-administrations-decide",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/06/173597132/venezuela-mourns-late-president-hugo-chavez",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/17/177626905/governing-during-threats-to-national-security",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/06/173624823/any-praise-for-hugo-chavez",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2013/04/10/176757042/hugo-chavezs-legacy-looms-over-venezuelan-election",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/25/172887340/fearing-election-turmoil-kenyans-seek-a-tech-solution",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/03/173374339/kenyans-prepare-for-decisive-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/12/26/257392034/thai-government-says-it-wont-postpone-parliamentary-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/12/09/249729649/thai-prime-minister-dissolves-parliament-calls-new-elections",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/11/25/247077050/crippled-by-sanctions-irans-economy-key-in-nuclear-deal",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/parallels/2013/07/06/199024057/after-a-rapid-rise-a-challenge-to-political-islam",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/06/05/188924496/after-protests-evaluating-turkeys-role-as-a-democracy",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/04/25/179042833/still-in-the-middle-class-but-standing-on-a-banana-peel",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/03/19/174708601/rnc-report-calls-for-community-outreach-revamped-primary-rules",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/alltechconsidered/2013/03/09/173905754/how-kenyas-high-tech-voting-nearly-lost-the-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/02/20/172416876/controversial-cleric-stirs-protests-upon-return-to-pakistan",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/politicaljunkie/2013/02/04/170842922/ed-koch-new-york-city-and-the-politics-of-resentment-and-race",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/23/170092293/an-israeli-political-newcomer-who-may-soon-be-an-insider",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/01/23/170085076/after-israels-elections-reshuffling-political-alliances",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/21/169909091/in-address-obama-highlights-equal-rights-and-governments-role",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/01/16/169520525/what-now-obama-leads-polarized-government-into-second-term",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2013/10/23/240248593/insurgent-wing-grapples-for-control-of-the-gop",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/03/08/173747689/senate-mostly-blamed-for-agency-and-court-vacancies-but-obama-isnt-helping",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/thetwo-way/2013/11/05/243173918/top-stories-its-election-day-new-jersey-mall-shooting",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/itsallpolitics/2013/10/29/241577393/tuesday-political-mix-obamacare-official-in-the-batters-box",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2013
+}

@@ -1,0 +1,376 @@
+{
+    "Biases": [
+        "socioeconomic",
+        "poverty line",
+        "working class",
+        "middle class",
+        "medicare"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2022/05/07/1097378826/florida-election-law-appeals-court-reinstates",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/12/1092253929/on-the-presidential-campaign-trail-competing-visions-of-france-emerge",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/11/1092117558/macron-and-le-pen-face-off-again-as-frances-presidential-election-continues",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/31/1090050341/citing-race-a-federal-judge-strikes-down-parts-of-a-2021-florida-election-law",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/sections/npr-extra/2022/11/08/1135140463/faces-of-npr-lori-lizarraga",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/10/13/voter-roundtable-young-americans-are-voting-less-why",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/20/1112567713/sri-lanka-latest-new-president-protest-prime-minister-inflation",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/12/1110993511/las-mayoral-candidates-have-big-plans-to-fix-homelessness-can-they-follow-throug",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/02/03/the-battle-for-californias-rooftop-solar",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/01/1126419403/what-the-recent-wins-for-far-right-parties-in-europe-could-mean-for-the-region",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/11/1091980621/frances-presidential-runoff-emmanuel-macron-faces-marine-le-pen",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/14/1142894269/tunisia-appears-to-be-losing-its-democratic-gains-12-years-after-its-revolution",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/03/1120968905/unpacking-bidens-argument-about-state-level-threats-to-democracy",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/22/1075049588/ethnic-tensions-are-mounting-in-bosnia-herzegovina-again",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/28/1139485862/rural-voters-latino-voters-defy-easy-narratives-in-midterms",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/22/1082380654/parents-covid-frustrations-are-a-political-issue-for-democrats",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/06/1127158833/morning-news-brief",
+            "bias": "socioeconomic"
+        },
+        {
+            "link": "http://www.wbur.org/hereandnow/2022/11/01/poverty-line-math-housing",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/01/1133281667/the-math-behind-the-poverty-line-julie-andrews-pens-the-history-of-do-re-mi",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/25/1130129559/expanding-medicaid-is-popular-thats-why-its-a-key-issue-in-some-statewide-midter",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/01/1126161100/brazil-election-amazon-deforestation-forest-fires",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/30/1126282736/the-fate-of-the-amazon-rainforest-may-rest-on-the-results-of-brazils-vote-on-sun",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/28/1094609544/colombia-election-candidate-gustavo-petro",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/25/1092878995/rapper-activist-linqua-franqa-is-on-a-mission-to-change-both-music-and-politics",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/01/1089750113/student-loan-debt-investigation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/12/1104460706/chesa-boudins-ouster-raises-questions-about-the-future-for-progressive-prosecuto",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/30/1102025825/colombia-presidential-election-runoff",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/13/1098865213/lebanons-economic-crisis-will-be-on-voters-minds-during-parliamentary-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/13/1098735754/amid-an-economic-meltdown-lebanon-will-hold-parliamentary-elections",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/09/1097638041/dictators-son-far-ahead-in-philippine-presidential-vote",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/02/1126450375/brazil-election-polling-day-lula-bolsonaro",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2022/11/14/new-mexico-childhood-education",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/26/1119220569/palestinians-gaza-hamas-islamic-jihad-israel",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/01/1101505691/short-term-profits-and-long-term-consequences-did-jack-welch-break-capitalism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/sections/money/2022/05/24/1100387792/ben-bernankes-lessons-from-the-great-inflation",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/12/1090802987/philippines-elections-ferdinand-bongbong-marcos-junior",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/04/07/afl-cio-president-liz-shuler-on-the-future-for-americas-labor-movement",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/22/1088045981/resilience-family-hope-love-ladee-hubbard-the-last-suspicious-hold-out",
+            "bias": "poverty line"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/02/22/the-growing-diversity-in-americas-suburbs",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/07/09/1110694356/angolas-jose-eduardo-dos-santos-once-one-of-africas-longest-serving-rulers-dies",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/04/1070032923/jamie-raskin-jan-6-capitol-unthinkable",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/03/1134159981/heres-how-inflation-became-the-biggest-story-of-the-midterms",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/22/1100587952/immigrant-advocates-say-using-the-word-invasion-fuels-extremism",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/27/1076097533/how-ginni-thomas-wife-of-justice-clarence-thomas-influences-the-supreme-court",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/16/1137225822/brazils-president-elect-says-the-country-is-back-in-the-preservation-game",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/03/06/1084800686/some-countries-are-choosing-to-maintain-their-ties-with-russia",
+            "bias": "poverty line"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/10/1135830332/which-party-connected-more-with-working-class-voters-michigan-reelects-gov-whitm",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.wbur.org/hereandnow/2022/11/10/democrat-republican-message",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135619245/the-midterms-are-being-called-a-rainbow-wave-of-lgbtq-candidate-victories",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/22/1100587945/politics-chat-more-aid-to-ukraine-penn-republican-primary-likely-to-be-recounted",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/17/1099190209/pennsylvania-senate-results-fetterman-lamb-oz-barnette-mccormick",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/06/1097067070/u-k-conservatives-lose-london-strongholds-in-blow-to-boris-johnson",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/13/1092339976/democrats-are-considering-big-changes-to-the-primary-process-ahead-of-2024",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/22/1082158009/pennsylvania-democrats-are-angling-to-distinguish-themselves-in-a-key-senate-con",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/20/1082012462/pennsylvania-senate-contests-will-be-some-of-the-most-closely-watched-this-year",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/13/1075600036/congress-midterm-election-colorado-eighth-district-latino-voters",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/17/1143814891/meet-the-women-who-flipped-two-seats-in-the-pacific-northwest-after-years-of-one",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/04/1140255069/would-be-speaker-mccarthy-can-learn-from-predecessors-struggles-for-the-big-gave",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/30/1139742011/jeffries-poised-to-make-history-as-first-black-person-to-lead-congressional-part",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/10/1135940851/student-debt-relief-biden-blocked-texas-district-court",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/10/1135719007/control-of-the-u-s-senate-hangs-in-the-balance-as-midterm-results-are-counted",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135477497/republican-predictions-of-big-victories-in-the-midterms-did-not-materialize",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135447623/one-of-the-most-watched-senate-races-in-the-country-was-in-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/02/1133477897/reawaken-america-brings-together-some-of-the-u-s-most-prolific-conspiracy-theori",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/28/1132511783/rev-calvin-butts--legacy-prayer-political-activism",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/26/1131406368/los-angeles-city-council-members-racist-conversation-refusing-resign",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/21/1130478729/judge-dismisses-effort-to-halt-student-loan-forgiveness-plan",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/11/1127959582/ahead-of-midterms-theres-a-focus-on-senate-races-in-pennsylvania-and-nevada",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/26/1124383971/challenging-traditional-sertanejo-brazils-gabeu-creates-space-for-queer-love-son",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/09/25/1124969934/italy-election-voting-europe",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/27/1119795609/week-in-politics-inflation-brings-political-pain-fbi-released-mar-a-lago-affidav",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/24/1118879917/student-loan-forgiveness-biden",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/08/06/1116034467/democrats-could-be-on-the-brink-of-success-as-the-senate-takes-a-up-a-hard-fough",
+            "bias": "working class"
+        },
+        {
+            "link": "http://www.wbur.org/onpoint/2022/07/04/rebroadcast-historian-jon-grinspan-on-the-last-time-americans-fought-for-democracy",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/17/1105508250/afl-cio-shuler-redmond-interview",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/06/08/1102953329/republicans-turn-to-military-veterans-to-help-flip-control-of-house-in-midterms",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/18/1099824380/maga-republicans-dominate-key-north-carolina-pennsylvania-primaries",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/24/1094567892/french-president-macron-is-staying-in-power-with-sundays-win",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/08/1091569038/mexicans-will-vote-on-whether-their-president-should-be-removed-from-office",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/06/1091199444/democrats-hope-growing-union-support-will-boost-their-showing-in-midterms",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/04/06/1091130929/chris-smalls-amazon-union-50-warehouses",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/02/01/1077371562/democrat-tim-ryan-faces-long-odds-running-for-senate-in-trumps-ohio",
+            "bias": "working class"
+        },
+        {
+            "link": "https://www.npr.org/2022/12/17/1142517505/tunisians-are-voting-in-an-election-critics-say-could-cement-a-return-to-autocra",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/07/1134895387/150-years-ago-victoria-woodhull-became-the-first-woman-to-run-for-president",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/10/20/1130318752/biden-returns-to-pittsburgh-pa-after-a-bridge-collapsed-there",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/sections/2022-live-primary-election-race-results/2022/09/14/1122554421/leavitt-mowers-new-hampshire-primary",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/05/27/1101758096/colombia-presidential-election",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/01/06/1070849329/why-fringe-movements-now-include-middle-class-americans-with-jobs-and-families",
+            "bias": "middle class"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/09/1135619144/biden-gives-a-rare-formal-press-conference-following-the-midterms",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/2022/11/06/1134608104/politics-chat-biden-focuses-on-policies-in-final-stretch-before-polls-close",
+            "bias": "medicare"
+        },
+        {
+            "link": "https://www.npr.org/sections/2022-live-primary-election-race-results/2022/08/23/1119003972/maxwell-frost-first-gen-z-candidate-wins-primary",
+            "bias": "medicare"
+        }
+    ],
+    "Year": 2022
+}

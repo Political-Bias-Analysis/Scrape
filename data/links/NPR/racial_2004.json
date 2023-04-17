@@ -1,0 +1,17 @@
+{
+    "Biases": [
+        "racial",
+        "racial discrimination"
+    ],
+    "Links": [
+        {
+            "link": "https://www.npr.org/2004/04/30/1866300/mandela-an-audio-history-part-5-democracy",
+            "bias": "racial"
+        },
+        {
+            "link": "https://www.npr.org/2004/06/10/1953700/reagan-the-south-and-civil-rights",
+            "bias": "racial discrimination"
+        }
+    ],
+    "Year": 2004
+}
