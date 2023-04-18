@@ -1,12 +1,10 @@
 from selenium import webdriver
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 import time
 from collections import defaultdict
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from ReadWriteFiles.read_write_links import *
 
 def get_websites(bias, all_articles):

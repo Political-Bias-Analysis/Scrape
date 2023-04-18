@@ -4,7 +4,7 @@ import time
 import json
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from ReadWriteFiles.read_write_links import *
 
 def access_websites(bias, dates, all_links):

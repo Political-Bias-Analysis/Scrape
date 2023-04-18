@@ -5,7 +5,7 @@ import time
 from collections import defaultdict
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from ReadWriteFiles.read_write_links import *
 
 CURRENT_YEAR = 2023
@@ -58,10 +58,10 @@ def get_year(date):
 
 if __name__ == "__main__":
     MEDIA_NAME = "CBS"
-    MAIN_BIAS, EXISTS = "immigration", False
-    biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
+    MAIN_BIAS, EXISTS = "socioeconomic", True
+    biases = ["socioeconomic", "poverty line", "working class", "middle class", "medicare"]
     
-    cur_bias = biases[0]
+    cur_bias = biases[4]
     
     all_links = get_all_links(MEDIA_NAME)
     

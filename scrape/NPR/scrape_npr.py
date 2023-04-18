@@ -1,14 +1,14 @@
 from bs4 import BeautifulSoup
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from scrape import request_website
 from article import Article
 
 from ReadWriteFiles.read_write_links import get_links_by_year
 from ReadWriteFiles.write_output import write_to_json
 
-PATH_WRITE = "../../data/articles/NPR/"
+PATH_WRITE = "/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data/articles/NPR/"
 
 def scrape_npr(url, bias):
     article = Article("NPR", bias)
@@ -42,7 +42,7 @@ def scrape_npr(url, bias):
     
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = 'Abortion', 2014
+    MAIN_BIAS, YEAR = 'socioeconomic', 2023
     MEDIA_NAME = "NPR"
     
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_NAME)
