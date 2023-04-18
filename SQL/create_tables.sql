@@ -1,3 +1,5 @@
+CREATE DATABASE Articles;
+
 DROP TABLE IF EXISTS biases;
 DROP TABLE IF EXISTS articles;
 DROP TABLE IF EXISTS media_source;
@@ -6,7 +8,7 @@ DROP TABLE IF EXISTS elections;
 
 CREATE TABLE biases(
     main_bias TEXT,
-    sub_bias TEXT[],
+    sub_biases TEXT[],
     PRIMARY KEY(main_bias)
 );
 
@@ -17,9 +19,10 @@ CREATE TABLE articles(
     source TEXT,
     published_date DATE, 
     article_content TEXT,
-    bias TEXT[],
+    main_bias TEXT,
+    query_bias TEXT,
     url TEXT,
-    PRIMARY KEY(headline, published_date),
+    PRIMARY KEY(headline, published_date, url),
     FOREIGN KEY(source) REFERENCES media_source(source_name)
 );
 
