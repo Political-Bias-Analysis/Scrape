@@ -7,7 +7,7 @@ def insert_data(info, main_bias, sub_bias, source):
     con = psycopg2.connect(
         database= "articles",
         user= "postgres",
-        password= "Uhm2017667",
+        password= "",
         host= "localhost",
         port= "5432"
         )
