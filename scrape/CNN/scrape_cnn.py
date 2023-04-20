@@ -1,14 +1,14 @@
 from bs4 import BeautifulSoup
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from scrape import request_website
 from article import Article
 
 from ReadWriteFiles.write_output import write_to_json
 from ReadWriteFiles.read_write_links import get_links_by_year
 
-PATH_WRITE = "../../data/articles/CNN/"
+PATH_WRITE = "/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data/articles/CNN/"
 
 def scrape_cnn(url, bias):
 
@@ -52,7 +52,7 @@ def scrape_cnn(url, bias):
 
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = "immigration", 2021
+    MAIN_BIAS, YEAR = "socioeconomic", 2023
     MEDIA_SOURCE = "CNN"
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_SOURCE)
     

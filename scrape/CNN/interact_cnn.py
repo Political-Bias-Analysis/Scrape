@@ -1,12 +1,10 @@
 from selenium import webdriver
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 import time
 from collections import defaultdict
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from ReadWriteFiles.read_write_links import *
 
 def get_websites(bias, all_articles):
@@ -32,7 +30,7 @@ def get_websites(bias, all_articles):
         time.sleep(1)
 
         from_next, page_next = 0, 1
-        bias = bias.replace(" ", "+")
+        query_bias = bias.replace(" ", "+")
         while True:
             results = driver.find_elements(By.CLASS_NAME, "container__link.__link")
             if len(results) == 0:
@@ -43,7 +41,7 @@ def get_websites(bias, all_articles):
                     all_articles.add(href)
                     date = item.find_element(By.CLASS_NAME, "container__text.__text").find_elements(By.TAG_NAME, 'div')[1].text
                     articles[get_year(date)].append({"link": href, "bias": bias})         
-            driver.get(f'https://www.cnn.com/search?q=election+{bias}&from={from_next}&size=50&page={page_next}&sort=newest&types=article&section={query}')
+            driver.get(f'https://www.cnn.com/search?q=election+{query_bias}&from={from_next}&size=50&page={page_next}&sort=newest&types=article&section={query}')
             from_next += 50
             page_next += 1
             time.sleep(1)
@@ -58,9 +56,9 @@ def get_year(date):
 if __name__ == "__main__":
 
     MEDIA_NAME = "CNN"
-    MAIN_BIAS, EXISTS = "immigration", True
-    biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
-    cur_bias = biases[3]
+    MAIN_BIAS, EXISTS = "socioeconomic", True
+    biases = ["socioeconomic", "poverty line", "working class", "middle class", "medicare"]
+    cur_bias = biases[4]
 
     all_links = get_all_links(MEDIA_NAME)
 
