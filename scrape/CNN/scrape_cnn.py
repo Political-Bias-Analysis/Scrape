@@ -1,20 +1,20 @@
 from bs4 import BeautifulSoup
 import sys
 
-sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/scrape/")
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
 from scrape import request_website
 from article import Article
 
 from ReadWriteFiles.write_output import write_to_json
 from ReadWriteFiles.read_write_links import get_links_by_year
 
-PATH_WRITE = "../../data/articles/CNN/"
+PATH_WRITE = "/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data/articles/CNN/"
 
-def scrape_cnn(url):
+def scrape_cnn(url, bias):
 
     soup = request_website(url)
 
-    article = Article("CNN")
+    article = Article("CNN", bias)
     article.set_url(url)
 
     ## get title headline
@@ -52,14 +52,14 @@ def scrape_cnn(url):
 
 if __name__ == "__main__":
 
-    MAIN_BIAS, YEAR = "immigration", 2021
+    MAIN_BIAS, YEAR = "socioeconomic", 2023
     MEDIA_SOURCE = "CNN"
     information = get_links_by_year(YEAR, MAIN_BIAS, MEDIA_SOURCE)
     
     scrape_info = {"Biases": information["Biases"], "Articles": []}
-    for url in information["Links"]:
-        print(url)
-        article = scrape_cnn(url)
+    for item in information["Links"]:
+        print(item["link"])
+        article = scrape_cnn(item["link"], item["bias"])
         scrape_info["Articles"].append(article.__dict__)
 
     full_write_path = PATH_WRITE + MAIN_BIAS + '_' + str(YEAR) + '.json'

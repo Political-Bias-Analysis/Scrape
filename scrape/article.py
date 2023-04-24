@@ -1,11 +1,12 @@
 class Article:
 
-    def __init__(self, source=""):
+    def __init__(self, source="", bias=""):
         self.headline = ""
         self.author = ""
         self.source = source
         self.published_date = {"month": "", "day": 0, "year": 0}
         self.article_content = ""
+        self.bias = bias
         self.url = ""
 
     def set_headline(self, headline):

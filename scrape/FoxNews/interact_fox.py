@@ -2,8 +2,15 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 import json
+import sys
 
-def access_websites(query, dates):
+sys.path.append("/Users/tramla/Desktop/UCI Courses/Senior-Project/Scrape/scrape/")
+from ReadWriteFiles.read_write_links import *
+
+## TRAM'S PATH
+PATH = "/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data"
+
+def access_websites(bias, dates, all_links):
     driver = webdriver.Chrome()
     driver.get('https://www.foxnews.com/search-results/search?q=election')
 
@@ -11,7 +18,7 @@ def access_websites(query, dates):
     search_bar = search_form.find_element(By.TAG_NAME, "input")
     search_bar.clear()
 
-    search_bar.send_keys(query)
+    search_bar.send_keys(f"{dates[2]} election {bias}")
     time.sleep(2)
 
     driver.find_element(By.CLASS_NAME, "filter.content").find_element(By.CLASS_NAME, "select").click()
@@ -55,7 +62,7 @@ def access_websites(query, dates):
         for i in range(9):
             print(i)
             driver.find_element(By.CLASS_NAME, "button.load-more").click()
-            time.sleep(5)
+            time.sleep(3)
     except:
         print("No more links allowed")
 
@@ -65,7 +72,9 @@ def access_websites(query, dates):
     time.sleep(2)
     for elem in articles:
         link = elem.find_element(By.TAG_NAME, 'a').get_attribute('href')
-        if check_us_news(link): links.append(link)
+        if check_us_news(link): #and link not in all_links: 
+            links.append({"link": link, "bias": bias})
+            all_links.add(link)
     
     return links
 
@@ -78,23 +87,20 @@ def check_us_news(url):
 
 
 def write_links_new_bias(links_info, bias, year):
-    PATH = '../../data/links/FOX/' + bias + '_' + str(year) + '.json'
-    with open(PATH, 'w+') as f:
+    with open(PATH + '/links/FOX/' + bias + '_' + str(year) + '.json', 'w+') as f:
         output = json.dumps(links_info, indent=4)
         f.write(output)
 
 
 
 def write_links_exist_bias(main_bias, bias, year, links):
-    PATH = '../../data/links/FOX/' + main_bias + '_' + str(year) + '.json'
     
     cur = None
-    with open(PATH, 'r') as f:
+    with open(PATH + '/links/FOX/' + main_bias + '_' + str(year) + '.json', 'r') as f:
         cur = json.loads(f.read())
 
     cur["Biases"].append(bias)
     cur["Links"] += links
-    cur["Links"] = list(set(cur["Links"]))
     write_links_new_bias(cur, cur['Biases'][0], year)
 
     
@@ -106,12 +112,17 @@ def compose_dict(links, bias, year):
 
 if __name__ == "__main__":
 
+    MEDIA_NAME = "FOX"
     ## run this: if new bias, change MAIN_BIAS and EXISTS = false, else only change bias and keep EXISTS = True
-    MAIN_BIAS, EXISTS = "Racial", True
-    biases = ["Racial","disparities","white privilege","black lives matter","segregation",
-         "critical race theory","criminal","racial discrimination"]
+    MAIN_BIAS, EXISTS = "immigration", True
+    biases = ["immigration", "undocumented", "refugees", "asylum seekers", "nationalism", "border", "Dreamers", "xenophobia"]
     year, bias = 2020, biases[7]
-    links = access_websites(f"{year} election {bias}", ["05", "01", year, "11", "09", year])
+    
+    all_links = get_all_links(MEDIA_NAME)
+    
+    links = access_websites(bias, ["05", "01", year, "11", "09", year], all_links)
+    write_all_links(MEDIA_NAME, all_links)
+    
     if not EXISTS:
         dict_info = compose_dict(links, bias, year)
         write_links_new_bias(dict_info, bias, year)
