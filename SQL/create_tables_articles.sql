@@ -41,3 +41,16 @@ CREATE TABLE elections(
     PRIMARY KEY(candidate_name, election_year)
     
 );
+
+
+-- for electiondb
+create table stateKeys (
+	state TEXT,
+	state_name TEXT
+);
+
+-- create view for clean table 
+CREATE TABLE voters_cleans AS
+	SELECT year, voters.state, state_name, registered, voted, ROUND((norm_voter_reg * 100)::numeric, 2) as norm_voter_reg, ROUND((norm_voter_pop * 100)::numeric, 2) as norm_voter_pop
+	FROM stateKeys natural join voters;
+
