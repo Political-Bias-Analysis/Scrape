@@ -26,6 +26,21 @@ CREATE TABLE articles(
     FOREIGN KEY(source) REFERENCES media_source(source_name)
 );
 
+
+-- new article that allows query bias as primary key
+CREATE TABLE all_articles(
+    headline TEXT,
+    author TEXT,
+    source TEXT,
+    published_date DATE, 
+    article_content TEXT,
+    main_bias TEXT,
+    query_bias TEXT,
+    url TEXT,
+    PRIMARY KEY(headline, author, published_date, url, query_bias)
+);
+
+
 CREATE TABLE media_source(
     source_name TEXT,
     PRIMARY KEY(source_name)
