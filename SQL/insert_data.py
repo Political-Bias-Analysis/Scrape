@@ -22,7 +22,7 @@ def insert_data(info, main_bias, sub_bias, source):
 
     #insert data into articles table
     for i in range(len(info["Articles"])):
-        if info["Articles"][i]["published_date"]["day"] != 0 and info["Articles"][0]["published_date"]["month"] != "" and info["Articles"][0]["published_date"]["year"] != 0:
+        if info["Articles"][i]["published_date"]["day"] != 0 and info["Articles"][i]["published_date"]["month"] != "" and info["Articles"][i]["published_date"]["year"] != 0:
             # print(info["Articles"][i])
             cursor_obj.execute("INSERT INTO articles (headline, author, source, published_date, article_content, main_bias, query_bias, url) VALUES(%s, %s, %s, %s, %s, %s, %s, %s);", (info["Articles"][i]["headline"], info["Articles"][i]["author"], info["Articles"][i]["source"],info["Articles"][i]["published_date"]["month"] + "/" + str(info["Articles"][i]["published_date"]["day"]) + "/" + str(info["Articles"][i]["published_date"]["year"]), info["Articles"][i]["article_content"], main_bias, info["Articles"][i]["bias"], info["Articles"][i]["url"]))
 
@@ -33,7 +33,7 @@ def insert_data(info, main_bias, sub_bias, source):
 
 
 if __name__ == "__main__":
-    YEAR, SOURCE = 2021, "CNN"
+    YEAR, SOURCE = 2023, "CBS"
     main_bias = "racial"
     sub_bias = ["racial","white privilege","racial discrimination","CRT","BLM"]
     path = f"/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data/articles/{SOURCE}/{main_bias}_{YEAR}.json"
