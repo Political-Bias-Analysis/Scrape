@@ -30,7 +30,7 @@ def insert_data(info, main_bias, sub_bias, source):
             cursor_obj.execute("INSERT INTO all_articles (headline, author, source, published_date, article_content, main_bias, query_bias, url) VALUES(%s, %s, %s, %s, %s, %s, %s, %s);", (info["Articles"][i]["headline"], info["Articles"][i]["author"], info["Articles"][i]["source"],info["Articles"][i]["published_date"]["month"] + "/" + str(info["Articles"][i]["published_date"]["day"]) + "/" + str(info["Articles"][i]["published_date"]["year"]), info["Articles"][i]["article_content"], main_bias, info["Articles"][i]["bias"], info["Articles"][i]["url"]))
             exists.add((info["Articles"][i]["url"], info["Articles"][i]["author"]))
 
-    #Insert data into   
+    #Insert data into media_source
     #cursor_obj.execute("INSERT INTO media_source (source_name) VALUES (%s);", (str(source),))
  
     con.commit()
@@ -39,7 +39,7 @@ def insert_data(info, main_bias, sub_bias, source):
 if __name__ == "__main__":
     
     
-    YEAR, SOURCE = 2023, "NPR"
+    YEAR, SOURCE = 2020, "CBS"
     main_bias = "socioeconomic"
     sub_bias = ["racial","white privilege","racial discrimination","CRT","BLM"]
     path = f"/Users/tramla/Desktop/UCI Courses/Senior-Project/Data/data/articles/{SOURCE}/{main_bias}_{YEAR}.json"
